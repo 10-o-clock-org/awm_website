@@ -10,14 +10,38 @@
             margin: 0;
             padding: 0;
             display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        header {
+            background-color: #007bff;
+            padding: 1rem;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
             justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
+        }
+        nav ul li {
+            margin: 0 1rem;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav ul li a:hover {
+            text-decoration: underline;
         }
         .container {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
             text-align: center;
-            max-width: 800px;
             padding: 20px;
         }
         img {
@@ -42,10 +66,20 @@
     <script defer src="/_vercel/insights/script.js"></script>
 </head>
 <body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Startseite</a></li>
+                <li><a href="about.html">Über uns</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="contact.html">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
     <div class="container">
         <img src="path/to/your/image.jpg" alt="AI Week Mainfranken Key Visual">
         <h1>AI Week Mainfranken: Bayerns 1. dezentrales KI-Festival | 42 Events in 5 Tagen – von Tech bis Kultur</h1>
-        <a href="/about.html" class="button">Mehr erfahren</a>
+        <a href="about.html" class="button">Mehr erfahren</a>
     </div>
 </body>
 </html>

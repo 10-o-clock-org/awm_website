@@ -50,9 +50,20 @@
             margin-bottom: 20px;
         }
         h1 {
-            font-size: 24px;
-            margin-bottom: 20px;
+        font-size: 24px;
+        margin-bottom: 20px;
+        line-height: 1.4; /* Verbessert den Zeilenabstand */
+        max-width: 800px; /* Begrenzt die maximale Breite */
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* Responsive Anpassungen */
+    @media (max-width: 600px) {
+        h1 {
+            font-size: 20px; /* Kleinere Schrift auf kleineren Bildschirmen */
         }
+    }
         .button {
             display: inline-block;
             padding: 10px 20px;

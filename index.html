@@ -31,7 +31,17 @@
             align-items: center;
             padding: 20px 0;
         }
-        .logo {
+        .logo-container {
+            display: flex;
+            align-items: center;
+        }
+        .logo-placeholder {
+            width: 50px;
+            height: 50px;
+            background-color: #808080;
+            margin-right: 15px;
+        }
+        .logo-text {
             font-size: 24px;
             font-weight: bold;
         }
@@ -91,11 +101,13 @@
             position: absolute;
             width: 5px;
             height: 5px;
-            background-color: #ffffff;
             border-radius: 50%;
             opacity: 0;
             animation: fadeInOut 3s infinite;
         }
+        .dot-gray { background-color: #808080; }
+        .dot-white { background-color: #ffffff; }
+        .dot-blue { background-color: #66a7bb; }
 
         /* Footer */
         footer {
@@ -113,6 +125,9 @@
         @media (max-width: 768px) {
             header {
                 flex-direction: column;
+            }
+            .logo-container {
+                margin-bottom: 15px;
             }
             nav ul {
                 margin-top: 20px;
@@ -138,7 +153,10 @@
 <body>
     <div class="container">
         <header>
-            <div class="logo">AI WEEK</div>
+            <div class="logo-container">
+                <div class="logo-placeholder"></div>
+                <div class="logo-text">AI WEEK</div>
+            </div>
             <nav>
                 <ul>
                     <li><a href="#about">ABOUT</a></li>
@@ -183,10 +201,13 @@
         // JavaScript for animated dots
         const dotsContainer = document.getElementById('animatedDots');
         const numberOfDots = 50;
+        const colors = ['gray', 'white', 'blue'];
 
         for (let i = 0; i < numberOfDots; i++) {
             const dot = document.createElement('div');
             dot.classList.add('dot');
+            const colorClass = `dot-${colors[Math.floor(Math.random() * colors.length)]}`;
+            dot.classList.add(colorClass);
             dot.style.left = `${Math.random() * 100}%`;
             dot.style.top = `${Math.random() * 100}%`;
             dot.style.animationDelay = `${Math.random() * 3}s`;

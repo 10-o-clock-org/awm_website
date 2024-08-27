@@ -3,96 +3,195 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Week Mainfranken</title>
+    <title>AI WEEK MAINFRANKEN</title>
     <style>
+        /* Reset und allgemeine Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
         body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
-        }
-        header {
-            background-color: #416589;
-            padding: 1rem;
-        }
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-        }
-        nav ul li {
-            margin: 0 1rem;
-        }
-        nav ul li a {
-            color: white;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        nav ul li a:hover {
-            text-decoration: underline;
+            background-color: #1a1a1a;
+            color: #ffffff;
+            line-height: 1.6;
         }
         .container {
-            flex-grow: 1;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
             padding: 20px;
         }
-        img {
-            max-width: 100%;
-            height: auto;
-            margin-bottom: 20px;
-        }
-        h1 {
-        font-size: 24px;
-        margin-bottom: 20px;
-        line-height: 1.4; /* Verbessert den Zeilenabstand */
-        max-width: 800px; /* Begrenzt die maximale Breite */
-        margin-left: auto;
-        margin-right: auto;
-    }
 
-    /* Responsive Anpassungen */
-    @media (max-width: 600px) {
-        h1 {
-            font-size: 20px; /* Kleinere Schrift auf kleineren Bildschirmen */
+        /* Header */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 0;
         }
-    }
-        .button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #416589;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
+        .logo {
+            font-size: 24px;
             font-weight: bold;
         }
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+        nav ul li {
+            margin-left: 20px;
+        }
+        nav ul li a {
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        /* Main Content */
+        main {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            min-height: 80vh;
+        }
+        .content {
+            width: 50%;
+        }
+        h1 {
+            font-size: 4vw;
+            line-height: 1.2;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            border: 1px solid #ffffff;
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 16px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .cta-button:hover {
+            background-color: #ffffff;
+            color: #1a1a1a;
+        }
+
+        /* Animated Dots */
+        .animated-dots {
+            width: 40%;
+            height: 300px;
+            position: relative;
+        }
+        .dot {
+            position: absolute;
+            width: 5px;
+            height: 5px;
+            background-color: #ffffff;
+            border-radius: 50%;
+            opacity: 0;
+            animation: fadeInOut 3s infinite;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            font-size: 14px;
+        }
+        .social-icons a {
+            color: #ffffff;
+            margin: 0 10px;
+            font-size: 20px;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            header {
+                flex-direction: column;
+            }
+            nav ul {
+                margin-top: 20px;
+            }
+            main {
+                flex-direction: column;
+            }
+            .content, .animated-dots {
+                width: 100%;
+            }
+            h1 {
+                font-size: 8vw;
+            }
+        }
+
+        /* Animation for dots */
+        @keyframes fadeInOut {
+            0%, 100% { opacity: 0; }
+            50% { opacity: 1; }
+        }
     </style>
-    <script defer src="/_vercel/insights/script.js"></script>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#">Startseite</a></li>
-                <li><a href="about.html">Über uns</a></li>
-                <li><a href="events.html">Events</a></li>
-                <li><a href="contact.html">Kontakt</a></li>
-            </ul>
-        </nav>
-    </header>
     <div class="container">
-        <img src="/ai_week_2.jpg" alt="AI Week Mainfranken Key Visual">
-        <h1>AI Week Mainfranken</h1>: 
-            <h2>Bayerns 1. dezentrales KI-Festival 
-          42 Events in 5 Tagen – von Tech bis Kultur</h2>
-        <a href="/about.html" class="button">Mehr erfahren</a>
+        <header>
+            <div class="logo">AI WEEK</div>
+            <nav>
+                <ul>
+                    <li><a href="#about">ABOUT</a></li>
+                    <li><a href="#mitmachen">MITMACHEN</a></li>
+                    <li><a href="#programm">PROGRAMM</a></li>
+                    <li><a href="#sponsoren">SPONSOREN</a></li>
+                    <li><a href="#news">NEWS</a></li>
+                    <li><a href="#contact">CONTACT</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <div class="content">
+                <h1>AI WEEK MAINFRANKEN</h1>
+                <p>Bayerns 1. dezentrales KI-Festival<br>
+                42 Events in 5 Tagen – von Tech bis Kultur</p>
+                <p>11. BIS 15. NOVEMBER 2024</p>
+                <a href="#" class="cta-button">MEHR ERFAHREN</a>
+            </div>
+            <div class="animated-dots" id="animatedDots"></div>
+        </main>
+
+        <footer>
+            <nav>
+                <ul>
+                    <li><a href="#faq">FAQ</a></li>
+                    <li><a href="#datenschutz">DATENSCHUTZ</a></li>
+                    <li><a href="#impressum">IMPRESSUM</a></li>
+                    <li><a href="#presse">PRESSE & LOGOS</a></li>
+                </ul>
+            </nav>
+            <div class="social-icons">
+                <a href="#" aria-label="Instagram">&#xf16d;</a>
+                <a href="#" aria-label="Twitter">&#xf099;</a>
+                <a href="#" aria-label="Email">&#x2709;</a>
+            </div>
+        </footer>
     </div>
+
+    <script>
+        // JavaScript for animated dots
+        const dotsContainer = document.getElementById('animatedDots');
+        const numberOfDots = 50;
+
+        for (let i = 0; i < numberOfDots; i++) {
+            const dot = document.createElement('div');
+            dot.classList.add('dot');
+            dot.style.left = `${Math.random() * 100}%`;
+            dot.style.top = `${Math.random() * 100}%`;
+            dot.style.animationDelay = `${Math.random() * 3}s`;
+            dotsContainer.appendChild(dot);
+        }
+    </script>
 </body>
 </html>

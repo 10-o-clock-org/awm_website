@@ -3,118 +3,439 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About - AI Week Mainfranken</title>
+    <title>Über uns - AI Week Mainfranken</title>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;600;700&display=swap');
+
+        :root {
+            --background-color: #ffffff;
+            --text-color: #333333;
+            --accent-color: #3498db;
+            --secondary-accent: #2ecc71;
+        }
+
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Public Sans', sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
             line-height: 1.6;
-            color: #333;
-            max-width: 800px;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 20px;
+            padding: 0 20px;
+            position: relative;
         }
+
         header {
-            background-color: #416589;
-            padding: 1rem;
-            margin-bottom: 20px;
+            padding: 20px 0;
+            position: fixed;
+            width: 100%;
+            background-color: rgba(255, 255, 255, 0.9);
+            z-index: 1000;
         }
+
+        .logo-container {
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+        }
+
+        .logo-svg {
+            width: 50px;
+            height: auto;
+            margin-right: 10px;
+        }
+
+        .logo-text {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--text-color);
+        }
+
         nav ul {
             list-style-type: none;
             padding: 0;
-            margin: 0;
             display: flex;
-            justify-content: center;
+            justify-content: flex-end;
+            flex-wrap: wrap;
         }
+
         nav ul li {
-            margin: 0 1rem;
+            margin: 0 15px;
         }
+
         nav ul li a {
-            color: white;
+            color: var(--text-color);
             text-decoration: none;
-            font-weight: bold;
+            font-weight: 600;
+            position: relative;
+            transition: color 0.3s;
         }
-        nav ul li a:hover {
-            text-decoration: underline;
+
+        nav ul li a::after {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 2px;
+            bottom: -5px;
+            left: 0;
+            background-color: var(--accent-color);
+            visibility: hidden;
+            transform: scaleX(0);
+            transition: all 0.3s ease-in-out;
         }
-        h1, h2 {
-            color: #007bff;
+
+        nav ul li a:hover::after {
+            visibility: visible;
+            transform: scaleX(1);
         }
+
+        main {
+            padding: 120px 0 40px;
+            position: relative;
+        }
+
+        .keyvisual-element {
+            position: absolute;
+            z-index: -1;
+        }
+
+        .leaf-1 {
+            top: 10%;
+            left: -5%;
+            width: 200px;
+            height: 200px;
+            transform: rotate(-15deg);
+        }
+
+        .leaf-2 {
+            top: 40%;
+            right: -5%;
+            width: 180px;
+            height: 180px;
+            transform: rotate(15deg);
+        }
+
+        .grape {
+            bottom: 5%;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 250px;
+            height: 250px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap: 30px;
+        }
+
+        .content-section {
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .content-section:nth-child(odd) {
+            grid-column: 1 / 8;
+        }
+
+        .content-section:nth-child(even) {
+            grid-column: 6 / -1;
+        }
+
+        h1 {
+            font-size: 3.5em;
+            margin-bottom: 20px;
+            grid-column: 1 / -1;
+            text-align: left;
+            position: relative;
+            z-index: 1;
+            color: var(--accent-color);
+        }
+
+        h2 {
+            font-size: 2em;
+            color: var(--secondary-accent);
+            margin-bottom: 15px;
+        }
+
         ul {
             padding-left: 20px;
         }
-        .button {
+
+        .cta-button {
             display: inline-block;
-            padding: 10px 20px;
-            background-color: #416589;
+            background-color: var(--accent-color);
             color: white;
+            padding: 12px 24px;
             text-decoration: none;
             border-radius: 5px;
-            font-weight: bold;
+            font-weight: 600;
+            text-align: center;
+            margin: 20px 0;
+            transition: all 0.3s ease;
+        }
+
+        .cta-button:hover {
+            background-color: var(--secondary-accent);
+        }
+
+        .newsletter-box {
+            background: linear-gradient(135deg, var(--accent-color), var(--secondary-accent));
+            padding: 40px;
+            border-radius: 10px;
+            margin-top: 60px;
+            grid-column: 1 / -1;
+            color: white;
+        }
+
+        .newsletter-box h2 {
+            margin-top: 0;
+            color: white;
+        }
+
+        .newsletter-form {
+            display: flex;
+            justify-content: flex-start;
             margin-top: 20px;
         }
-        .newsletter {
-            background-color: #f0f0f0;
-            padding: 20px;
-            border-radius: 5px;
-            margin-top: 30px;
+
+        .newsletter-form input[type="email"] {
+            padding: 12px;
+            width: 60%;
+            max-width: 300px;
+            border: none;
+            border-radius: 5px 0 0 5px;
+            font-size: 1em;
+        }
+
+        .newsletter-form button {
+            padding: 12px 24px;
+            background-color: var(--background-color);
+            color: var(--accent-color);
+            border: none;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+            font-weight: 600;
+            transition: background-color 0.3s;
+        }
+
+        .newsletter-form button:hover {
+            background-color: var(--text-color);
+            color: white;
+        }
+
+        footer {
+            background-color: var(--text-color);
+            padding: 40px 0;
+            margin-top: 60px;
+            color: white;
+        }
+
+        footer ul {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        footer ul li {
+            margin: 0 15px;
+        }
+
+        footer ul li a {
+            color: white;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+
+        footer ul li a:hover {
+            color: var(--accent-color);
+        }
+
+        .social-icons {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .social-icons a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+            font-size: 24px;
+            transition: color 0.3s;
+        }
+
+        .social-icons a:hover {
+            color: var(--accent-color);
+        }
+
+        @media (max-width: 768px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+
+            .content-section:nth-child(odd),
+            .content-section:nth-child(even) {
+                grid-column: 1 / -1;
+            }
+
+            nav ul {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            nav ul li {
+                margin: 10px 0;
+            }
+
+            .newsletter-form {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .newsletter-form input[type="email"] {
+                width: 100%;
+                max-width: none;
+                margin-bottom: 10px;
+                border-radius: 5px;
+            }
+
+            .newsletter-form button {
+                width: 100%;
+                border-radius: 5px;
+            }
+
+            .keyvisual-element {
+                width: 150px;
+                height: 150px;
+            }
+
+            .leaf-1 {
+                top: 5%;
+                left: -10%;
+            }
+
+            .leaf-2 {
+                top: 30%;
+                right: -10%;
+            }
+
+            .grape {
+                bottom: 2%;
+                width: 200px;
+                height: 200px;
+            }
         }
     </style>
-    <script defer src="/_vercel/insights/script.js"></script>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Startseite</a></li>
-                <li><a href="#">Über uns</a></li>
-                <li><a href="events.html">Events</a></li>
-                <li><a href="contact.html">Kontakt</a></li>
-            </ul>
-        </nav>
-    </header>
-<body>
-    <h1>About – Bayerns innovatives KI-Festival</h1>
-    
-    <p>Die AI Week Mainfranken ist Bayerns erstes dezentrales Festival mit Schwerpunkt KI. Vom 11. bis 15. November 2024 erwarten dich 42 Events an verschiedenen Orten in der Region sowie online.</p>
-    
-    <h2>Unsere Vision</h2>
-    <p>Wir sind überzeugt: KI kann viel, wir Menschen aber auch! Gemeinsam sind wir unschlagbar, wenn es darum geht, die großen Herausforderungen unserer Zeit zu meistern. Die AI Week Mainfranken bringt Innovatoren, Experten und Neugierige zusammen, um die Zukunft der KI aktiv mitzugestalten.</p>
-    
-    <h2>Mit der AI Week Mainfranken möchten wir:</h2>
-    <ul>
-        <li>Künstliche Intelligenz greifbar machen</li>
-        <li>Die Expertise unserer Region für alle sichtbar machen</li>
-        <li>Aktuelle Möglichkeiten und Grenzen von KI aufzeigen</li>
-        <li>Gemeinsam die KI-Zukunft vorantreiben</li>
-    </ul>
-    
-    <h2>Ablauf der AI Week Mainfranken:</h2>
-    <ul>
-        <li>Fünf thematische Schwerpunkte zum Thema KI (von Technologie bis Kultur), mehr dazu in diesem Beitrag</li>
-        <li>42* Events über die 5 Veranstaltungstage verteilt</li>
-        <li>Veranstaltungen für Einsteiger bis Profis</li>
-        <li>Abschluss mit dem AI Camp Würzburg (LINK) am 15.11.2024</li>
-        <li>Masterclasses für vertieftes KI-Wissen</li>
-    </ul>
-    <p><small>*Die finale Anzahl ist abhängig von den Einreichungen, maximal gibt es jedoch 42 Veranstaltungen.</small></p>
-    
-    <h2>Für wen ist die AI Week Mainfranken?</h2>
-    <p>Die AI Week Mainfranken richtet sich an alle, die die Zukunft der KI mitgestalten oder einfach mehr darüber erfahren möchten:</p>
-    <ul>
-        <li><strong>Neugierige Einsteiger:</strong> Du hast von KI gehört und willst mehr wissen? Hier bist du richtig!</li>
-        <li><strong>Tech-Enthusiasten und KI-Experten:</strong> Teil dein Wissen und tausche dich mit Gleichgesinnten aus.</li>
-        <li><strong>Start-ups, Gründer, Unternehmer:</strong> Erfahre, wie andere KI bereits erfolgreich einsetzen und knüpfe neue Kontakte</li>
-        <li><strong>Forscher, Professoren, Studierende</strong> aus verschiedener Fachrichtungen</li>
-    </ul>
-    <p>Egal ob KI-Neuling oder Experte – die AI Week Mainfranken bietet für jeden spannende Einblicke und Austausch auf Augenhöhe.</p>
-    
-    <a href="#" class="button">Jetzt mitmachen</a>
-    
-    <div class="newsletter">
-        <h2>Bleib auf dem Laufenden →</h2>
-        <p>Melde dich für unseren Newsletter an und verpasse keine Updates zur AI Week Mainfranken</p>
-        <a href="#" class="button">Newsletter abonnieren</a>
-    </div>
-</body>
-</html>
+    <svg style="display: none;">
+        <symbol id="leaf" viewBox="0 0 100 100">
+            <path d="M50 0 C 60 40, 80 50, 100 50 C 80 60, 60 80, 50 100 C 40 80, 20 60, 0 50 C 20 40, 40 20, 50 0 Z" fill="currentColor" />
+            <path d="M50 10 L 50 90 M30 30 L 70 70 M30 70 L 70 30" stroke="currentColor" fill="none" stroke-width="2" />
+        </symbol>
+        <symbol id="grape" viewBox="0 0 100 100">
+            <circle cx="50" cy="50" r="45" fill="currentColor" />
+            <path d="M50 5 Q 60 20, 50 35 Q 40 50, 50 65 Q 60 80, 50 95" stroke="#ffffff" fill="none" stroke-width="2" />
+            <circle cx="30" cy="30" r="5" fill="#ffffff" />
+            <circle cx="70" cy="30" r="5" fill="#ffffff" />
+            <circle cx="30" cy="70" r="5" fill="#ffffff" />
+            <circle cx="70" cy="70" r="5" fill="#ffffff" />
+        </symbol>
+    </svg>
 
+    <div class="keyvisual-element leaf-1">
+        <svg><use href="#leaf" fill="rgba(52, 152, 219, 0.1)"/></svg>
+    </div>
+    <div class="keyvisual-element leaf-2">
+        <svg><use href="#leaf" fill="rgba(46, 204, 113, 0.1)"/></svg>
+    </div>
+    <div class="keyvisual-element grape">
+        <svg><use href="#grape" fill="rgba(52, 152, 219, 0.1)"/></svg>
+    </div>
+
+    <header>
+        <div class="container">
+            <div class="logo-container">
+                <img src="ai_week_2.svg" alt="AI Week Logo" class="logo-svg">
+                <span class="logo-text">AI WEEK</span>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#about">ABOUT</a></li>
+                    <li><a href="#mitmachen">MITMACHEN</a></li>
+                    <li><a href="#programm">PROGRAMM</a></li>
+                    <li><a href="#sponsoren">SPONSOREN</a></li>
+                    <li><a href="#news">NEWS</a></li>
+                    <li><a href="#contact">CONTACT</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <div class="grid">
+                <h1>AI WEEK MAINFRANKEN BAYERNS INNOVATIVES KI-FESTIVAL</h1>
+                
+                <div class="content-section">
+                    <p>Die AI Week Mainfranken ist Bayerns erstes dezentrales Festival mit Schwerpunkt KI. Vom 11. bis 15. November 2024 erwarten dich 42 Events an verschiedenen Orten in der Region sowie online.</p>
+                </div>
+
+                <div class="content-section">
+                    <h2>Unsere Vision</h2>
+                    <p>Wir sind überzeugt: KI kann viel, wir Menschen aber auch! Gemeinsam sind wir unschlagbar, wenn es darum geht, die großen Herausforderungen unserer Zeit zu meistern. Die AI Week Mainfranken bringt Innovatoren, Experten und Neugierige zusammen, um die Zukunft der KI aktiv mitzugestalten.</p>
+                </div>
+
+                <div class="content-section">
+                    <h2>Mit der AI Week Mainfranken möchten wir:</h2>
+                    <ul>
+                        <li>Künstliche Intelligenz greifbar machen</li>
+                        <li>Die Expertise unserer Region für alle sichtbar machen</li>
+                        <li>Aktuelle Möglichkeiten und Grenzen von KI aufzeigen</li>
+                        <li>Gemeinsam die KI-Zukunft vorantreiben</li>
+                    </ul>
+                </div>
+
+                <div class="content-section">
+                    <h2>Ablauf der AI Week Mainfranken:</h2>
+                    <ul>
+                        <li>Fünf thematische Schwerpunkte zum Thema KI (von Technologie bis Kultur), mehr dazu in diesem Beitrag</li>
+                        <li>42* Events über die 5 Veranstaltungstage verteilt</li>
+                        <li>Veranstaltungen für Einsteiger bis Profis</li>
+                        <li>Abschluss mit dem AI Camp Würzburg (LINK) am 15.11.2024</li>
+                        <li>Masterclasses für vertieftes KI-Wissen</li>
+                    </ul>
+                    <p><small>*Die finale Anzahl ist abhängig von den Einreichungen, maximal gibt es jedoch 42 Veranstaltungen.</small></p>
+                </div>
+
+ <div class="content-section">
+                    <h2>Für wen ist die AI Week Mainfranken?</h2>
+<p>Die AI Week Mainfranken richtet sich an alle, die die Zukunft der KI mitgestalten oder einfach mehr darüber erfahren möchten:</p>
+
+                    <ul>
+                        <li>Neugierige Einsteiger: Du hast von KI gehört und willst mehr wissen? Hier bist du richtig!</li>
+                        <li>Tech-Enthusiasten und KI-Experten: Teil dein Wissen und tausche dich mit Gleichgesinnten aus.
+</li>
+                        <li>Start-ups, Gründer, Unternehmer: Erfahre, wie andere KI bereits erfolgreich einsetzen und knüpfe neue Kontakte.</li>
+                        <li>Forscher, Professoren, Studierende aus verschiedener Fachrichtungen.
+</li>
+                    </ul>
+                    <p>Egal ob KI-Neuling oder Experte – die AI Week Mainfranken bietet für jeden spannende Einblicke und Austausch auf Augenhöhe.</p>
+                </div>
+                
+                <div style="text-align: center; grid-column: 1 / -1;">
+                    <a href="#" class="cta-button">JETZT MITMACHEN</a>
+                </div>
+
+                <div class="newsletter-box">
+                    <h2>Bleib auf dem

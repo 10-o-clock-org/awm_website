@@ -15,107 +15,44 @@
         }
         .container {
             width: 80%;
+            max-width: 1200px;
             margin: auto;
             overflow: hidden;
             padding: 20px;
         }
-        header {
-            background: #000000;
-            color: #ffffff;
-            padding-top: 20px;
-            padding-bottom: 10px;
-            border-bottom: #ffffff 3px solid;
-        }
-        header a {
-            color: #ffffff;
-            text-decoration: none;
-            text-transform: uppercase;
-            font-size: 16px;
-        }
-        header ul {
-            padding: 0;
-            list-style: none;
-            margin: 0;
-        }
-        header li {
-            display: inline;
-            padding: 0 20px 0 20px;
-        }
-        header #branding {
-            float: left;
-        }
-        header #branding h1 {
-            margin: 0;
-        }
-        header nav {
-            float: right;
-            margin-top: 10px;
-        }
         h1 {
             color: #ffffff;
-            margin-bottom: 20px;
+            margin-bottom: 40px;
         }
         h2 {
             color: #ffffff;
-            margin-top: 40px; /* Erhöhter Abstand vor den h2-Tags */
-            margin-bottom: 10px;
+            margin-top: 40px;
+            margin-bottom: 20px;
         }
         .content {
-            margin-top: 20px;
             display: flex;
             justify-content: space-between;
+            flex-wrap: wrap;
         }
         .left-column {
             width: 30%;
+            min-width: 250px;
         }
         .right-column {
             width: 65%;
+            min-width: 250px;
         }
         p {
-            margin: 5px 0;
+            margin: 10px 0;
         }
-        footer {
-            padding: 20px 0;
-            margin-top: 20px;
-            color: #ffffff;
-            background-color: #000000;
-            text-align: center;
-            border-top: #ffffff 3px solid;
-        }
-        footer ul {
-            padding: 0;
-            list-style: none;
-            margin-bottom: 10px;
-        }
-        footer li {
-            display: inline;
-            padding: 0 10px;
-        }
-        footer a {
-            color: #ffffff;
-            text-decoration: none;
+        @media (max-width: 768px) {
+            .left-column, .right-column {
+                width: 100%;
+            }
         }
     </style>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <div id="branding">
-                <h1>AI WEEK MAINFRANKEN</h1>
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="#">ABOUT</a></li>
-                    <li><a href="#">MITMACHEN</a></li>
-                    <li><a href="#">PROGRAMM</a></li>
-                    <li><a href="#">SPONSOREN</a></li>
-                    <li><a href="#">NEWS</a></li>
-                    <li><a href="#">CONTACT</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
-
     <div class="container">
         <h1>Impressum</h1>
         
@@ -132,9 +69,9 @@
 
             <div class="right-column">
                 <h2>ANGABEN GEMÄSS § 5 TMG</h2>
-                <p>10 o'clock GmbH</p>
-                <p>Untere Hofstatt 3</p>
-                <p>97286 Winterhausen</p>
+                <p>10 o'clock GmbH<br>
+                Untere Hofstatt 3<br>
+                97286 Winterhausen</p>
                 <p>Geschäftsführerin: Ute Mündlein</p>
                 <p>Handelsregister beim Amtsgericht Würzburg, HRB 16389</p>
 
@@ -146,17 +83,5 @@
             </div>
         </div>
     </div>
-
-    <footer>
-        <div class="container">
-            <ul>
-                <li><a href="#">FAQ</a></li>
-                <li><a href="#">DATENSCHUTZ</a></li>
-                <li><a href="#">IMPRESSUM</a></li>
-                <li><a href="#">PRESSE & LOGOS</a></li>
-            </ul>
-            <p>AI WEEK MAINFRANKEN &copy; 2024</p>
-        </div>
-    </footer>
 </body>
 </html>

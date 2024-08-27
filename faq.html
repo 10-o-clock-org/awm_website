@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ - AI Week Mainfranken</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .faq-container {
+            margin-top: 20px;
+        }
+        .faq-item {
+            border: 1px solid #ddd;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        .faq-question {
+            background-color: #f9f9f9;
+            padding: 15px;
+            cursor: pointer;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .faq-answer {
+            padding: 15px;
+            display: none;
+        }
+        .faq-toggle {
+            font-size: 20px;
+            transition: transform 0.3s ease;
+        }
+        .faq-item.active .faq-toggle {
+            transform: rotate(45deg);
+        }
+        .faq-item.active .faq-answer {
+            display: block;
+        }
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            .faq-question, .faq-answer {
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>FAQ - AI Week Mainfranken</h1>
+    <div class="faq-container">
+        <div class="faq-item active">
+            <div class="faq-question">
+                Was ist die AI Week Mainfranken?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Die AI Week Mainfranken ist Bayerns erstes dezentrales KI-Festival mit 42 Events an 5 Tagen, das KI-Innovationen und Austausch in der Region fördert.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Wann und wo findet die AI Week Mainfranken statt?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Vom 11. bis 15. November 2024 an verschiedenen Orten in Mainfranken sowie online.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Wer kann an der AI Week teilnehmen?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Alle Interessierten, von KI-Neulingen bis zu Experten, Unternehmen, Startups, Studierende und die breite Öffentlichkeit.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Wie kann ich eine Veranstaltung anbieten?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Reichen Sie Ihr Veranstaltungskonzept ein. Eine Jury wählt die besten Ideen aus. Details finden Sie auf unserer "Mitmachen"-Seite.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Was kostet die Teilnahme?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Die meisten Veranstaltungen sind kostenfrei. Ausnahmen sind Masterclasses und das AI Camp, für die ein Ticketpreis erhoben wird.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Welche Themen werden behandelt?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Die Themen reichen von Tech & Science über Digitale Gesellschaft & Nachhaltigkeit bis hin zu Business, Gründen und Kultur.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Was ist das AI Camp Würzburg?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Das AI Camp am 15.11.2024 ist die Abschlussveranstaltung der AI Week mit Vorträgen, Workshops und Networking-Möglichkeiten.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Wie unterscheidet sich die AI Week von klassischen Konferenzen?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Durch ihr dezentrales Konzept, verschiedene Veranstaltungsformate und -orte sowie die Möglichkeit für jeden, aktiv teilzunehmen.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Warum sollte ich als Unternehmen die AI Week sponsern?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Sponsoring bietet Sichtbarkeit, positioniert Sie als innovatives Unternehmen und unterstützt die Entwicklung der KI-Kompetenz in der Region.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Wie kann ich mich als Teilnehmer anmelden?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Die Anmeldung für einzelne Veranstaltungen wird auf unserer Website veröffentlicht, sobald das Programm feststeht.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Gibt es Veranstaltungen für KI-Einsteiger?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Ja, das Programm bietet Veranstaltungen für alle Wissensstände, von Einsteigern bis zu Experten.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Was sind Masterclasses?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Masterclasses sind vertiefende Workshops zu spezifischen KI-Themen, die von Experten geleitet werden.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Wer organisiert die AI Week Mainfranken?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Die AI Week wird von Ute Mündlein organisiert, der Mitgründerin und Hauptorganisatorin der Wuerzburg Web Week.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Wie kann ich auf dem Laufenden bleiben?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Melden Sie sich für unseren Newsletter an und folgen Sie uns auf den sozialen Medien.
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                Was ist der Unterschied zur Wuerzburg Web Week?
+                <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+                Die AI Week fokussiert sich speziell auf KI-Themen, während die Web Week ein breiteres Spektrum digitaler Themen abdeckt.
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.querySelectorAll('.faq-question').forEach(question => {
+            question.addEventListener('click', () => {
+                const item = question.parentNode;
+                item.classList.toggle('active');
+            });
+        });
+    </script>
+</body>
+</html>

@@ -16,6 +16,7 @@
             background-color: #1a1a1a;
             color: #ffffff;
             line-height: 1.6;
+            position: relative; /* make body relative for absolute positioning of dots */
         }
         .container {
             width: 90%;
@@ -72,6 +73,13 @@
             line-height: 1.2;
             margin-bottom: 20px;
         }
+        .ai-week {
+            color: #969797;
+            font-size: 90%;
+        }
+        .mainfranken {
+            color: #ffffff;
+        }
         p {
             font-size: 18px;
             margin-bottom: 30px;
@@ -90,11 +98,33 @@
             color: #1a1a1a;
         }
 
+        /* Countdown */
+        .countdown {
+            width: 100%;
+            text-align: center;
+            margin-bottom: 20px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1;
+            white-space: nowrap; /* prevent line breaks */
+        }
+        .countdown span {
+            display: inline-block;
+            font-size: 32px; /* make font size bigger */
+            margin: 0 10px;
+        }
+
         /* Animated Dots */
         .animated-dots {
-            width: 40%;
-            height: 300px;
-            position: relative;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 0; /* ensure dots are behind other content */
+            pointer-events: none; /* make sure dots don't interfere with user interactions */
         }
         .dot {
             position: absolute;
@@ -160,6 +190,7 @@
     </style>
 </head>
 <body>
+    <div class="animated-dots" id="animatedDots"></div> <!-- moved animated dots to cover entire page -->
     <div class="container">
         <header>
              <div class="logo-container">
@@ -180,13 +211,18 @@
 
         <main>
             <div class="content">
-                <h1>AI WEEK MAINFRANKEN</h1>
+                <h1><span class="ai-week">AI WEEK</span> <span class="mainfranken">MAINFRANKEN</span></h1>
                 <p>Bayerns 1. dezentrales KI-Festival<br>
                 42 Events in 5 Tagen – von Tech bis Kultur</p>
                 <p>11. BIS 15. NOVEMBER 2024</p>
                 <a href="#" class="cta-button">MEHR ERFAHREN</a>
             </div>
-            <div class="animated-dots" id="animatedDots"></div>
+            <div class="countdown" id="countdown">
+                <span id="days">0</span> Tage
+                <span id="hours">0</span> Stunden
+                <span id="minutes">0</span> Minuten
+                <span id="seconds">0</span> Sekunden
+            </div>
         </main>
 
         <footer>
@@ -222,6 +258,32 @@
             dot.style.animationDelay = `${Math.random() * 3}s`;
             dotsContainer.appendChild(dot);
         }
+
+        // JavaScript for countdown
+        const countdownElement = document.getElementById('countdown');
+        const targetDate = new Date('November 11, 2024 08:00:00').getTime();
+
+        function updateCountdown() {
+            const now = new Date().getTime();
+            const distance = targetDate - now;
+
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            document.getElementById('days').innerText = days;
+            document.getElementById('hours').innerText = hours;
+            document.getElementById('minutes').innerText = minutes;
+            document.getElementById('seconds').innerText = seconds;
+
+            if (distance < 0) {
+                clearInterval(countdownInterval);
+                countdownElement.innerHTML = "Event has started!";
+            }
+        }
+
+        const countdownInterval = setInterval(updateCountdown, 1000);
     </script>
 </body>
 </html>

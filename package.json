@@ -6,7 +6,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "mkdir -p dist && cp -R *.{html,xml,txt} dist && cp -R assets dist",
     "start": "vite preview"
   }
 }

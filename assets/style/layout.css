@@ -1,0 +1,309 @@
+/* Reset und allgemeine Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  line-height: 1.6;
+  position: relative;
+}
+
+.social-icons {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.footnote {
+  font-size: 0.8rem;
+  color: #ffffffcc;
+}
+
+.social-icons a {
+  text-decoration: none;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: underline #cc0000;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  flex-wrap: wrap;
+  /* allow wrapping for responsiveness */
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-svg {
+  width: 50px;
+  height: 50px;
+  margin-right: 15px;
+}
+
+.logo-text {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  /* allow wrapping for responsiveness */
+}
+
+nav ul li {
+  margin-left: 20px;
+}
+
+nav ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+/* Main Content */
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 80vh;
+  flex-wrap: wrap;
+  /* allow wrapping for responsiveness */
+}
+
+.content {
+  width: 100%;
+  max-width: 50%;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 4vw;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+.ai-week {
+  color: #969797;
+  font-size: 80%;
+}
+
+.mainfranken {
+  color: #ffffff;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.cta-button:hover {
+  background-color: #ffffff;
+  color: #1a1a1a;
+}
+
+/* Countdown */
+.countdown {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+
+.countdown > div {
+  display: flex;
+  flex-direction: column;
+  margin-right: 0.5rem;
+}
+
+.countdown-value {
+  border: 2px solid #fff;
+  padding: 0.5rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  min-height: 3rem;
+  font-family: monospace;
+  font-size: 2rem;
+  font-weight: bold;
+  background-color: #ffffff04;
+  text-align: center;
+}
+
+.countdown-label {
+  font-size: 0.8rem;
+  text-align: center;
+  color: #ffffffcc;
+  margin-top: 0.25rem;
+}
+/*
+
+.countdown span {
+  display: inline-block;
+  font-size: 32px;
+  margin: 0 10px;
+}
+*/
+
+/* Animated Dots */
+.animated-dots {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  /* ensure dots are behind other content */
+  pointer-events: none;
+  /* make sure dots don't interfere with user interactions */
+}
+
+.dot {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  opacity: 0;
+  animation: fadeInOut 3s infinite;
+}
+
+.dot-gray {
+  background-color: #808080;
+}
+
+.dot-white {
+  background-color: #ffffff;
+}
+
+.dot-blue {
+  background-color: #66a7bb;
+}
+
+/* Footer */
+footer {
+  background-color: transparent;
+  color: #ffffff;
+  padding: 20px 0;
+  text-align: center;
+  /* center footer content */
+}
+
+footer ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* allow wrapping for responsiveness */
+}
+
+footer ul li {
+  margin: 5px 15px;
+}
+
+footer ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+  }
+
+  .container {
+    width: 100%;
+    padding: 0;
+  }
+
+  .content {
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .logo-container {
+    margin-bottom: 15px;
+  }
+
+  nav ul {
+    margin-top: 20px;
+    flex-direction: column;
+    /* stack nav items vertically */
+    align-items: center;
+  }
+
+  nav ul li {
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .animated-dots {
+    width: 100%;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  .countdown {
+    white-space: pre-line;
+    text-align: left;
+    /* center countdown on small screens */
+  }
+}
+
+/* Animation for dots */
+@keyframes fadeInOut {
+
+  0%,
+  100% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+}
+
+.social-share-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 0.5rem;
+}

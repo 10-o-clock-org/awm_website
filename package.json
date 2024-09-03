@@ -1,6 +1,12 @@
 {
   "private": true,
   "dependencies": {
-    "@vercel/edge": "^0.1.2"
+    "@vercel/edge": "^0.1.2",
+    "vite": "^5.4.2"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
   }
 }

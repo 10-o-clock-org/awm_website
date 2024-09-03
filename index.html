@@ -1,303 +1,106 @@
 <!DOCTYPE html>
 <html lang="de">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI WEEK MAINFRANKEN</title>
-    <style>
-        /* Reset und allgemeine Styles */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #1a1a1a;
-            color: #ffffff;
-            line-height: 1.6;
-            position: relative; /* make body relative for absolute positioning of dots */
-        }
-        .container {
-            width: 90%;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI WEEK MAINFRANKEN</title>
+  <link rel="stylesheet" href="assets/style/layout.css" />
+  <link rel="icon" href="assets/img/favicon.png" type="image/png">
 
-        /* Header */
-        header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 20px 0;
-            flex-wrap: wrap; /* allow wrapping for responsiveness */
-        }
-        .logo-container {
-            display: flex;
-            align-items: center;
-        }
-        .logo-svg {
-            width: 50px;
-            height: 50px;
-            margin-right: 15px;
-        }
-        .logo-text {
-            font-size: 24px;
-            font-weight: bold;
-        }
-        nav ul {
-            display: flex;
-            list-style: none;
-            flex-wrap: wrap; /* allow wrapping for responsiveness */
-        }
-        nav ul li {
-            margin-left: 20px;
-        }
-        nav ul li a {
-            color: #ffffff;
-            text-decoration: none;
-            font-size: 14px;
-        }
+  <!-- SEO Meta Tags -->
+  <meta name="description"
+        content="AI WEEK MAINFRANKEN - 42 Events an 5 Tagen – von Tech bis Kultur. Dezentrales Event vom 11. bis 15. November 2024 in Mainfranken und online.">
+  <meta name="keywords"
+        content="AI Week, Mainfranken, Künstliche Intelligenz, Tech Events, Kultur Events, 2024, Online Events, Dezentrales Event">
+  <meta name="author" content="AI WEEK MAINFRANKEN">
 
-        /* Main Content */
-        main {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            min-height: 80vh;
-            flex-wrap: wrap; /* allow wrapping for responsiveness */
-        }
-        .content {
-            width: 100%;
-            max-width: 50%;
-            box-sizing: border-box;
-            padding: 20px;
-        }
-        h1 {
-            font-size: 4vw;
-            line-height: 1.2;
-            margin-bottom: 20px;
-        }
-        .ai-week {
-            color: #969797;
-            font-size: 90%;
-        }
-        .mainfranken {
-            color: #ffffff;
-        }
-        p {
-            font-size: 18px;
-            margin-bottom: 30px;
-        }
-        .cta-button {
-            display: inline-block;
-            padding: 10px 20px;
-            border: 1px solid #ffffff;
-            color: #ffffff;
-            text-decoration: none;
-            font-size: 16px;
-            transition: background-color 0.3s, color 0.3s;
-        }
-        .cta-button:hover {
-            background-color: #ffffff;
-            color: #1a1a1a;
-        }
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="AI WEEK MAINFRANKEN">
+  <meta property="og:description"
+        content="42 Events an 5 Tagen – von Tech bis Kultur. Dezentrales Event vom 11. bis 15. November 2024 in Mainfranken und online.">
+  <meta property="og:image" content="assets/img/preview.png">
+  <meta property="og:url" content="https://www.ai-week.de">
+  <meta property="og:type" content="website">
 
-        /* Countdown */
-        .countdown {
-            width: 100%;
-            text-align: right;
-            margin-bottom: 20px;
-            position: relative;
-            z-index: 1;
-            white-space: nowrap; /* prevent line breaks */
-        }
-        .countdown span {
-            display: inline-block;
-            font-size: 32px; /* make font size bigger */
-            margin: 0 10px;
-        }
-
-        /* Animated Dots */
-        .animated-dots {
-            width: 100%;
-            height: 100%;
-            position: absolute;
-            top: 0;
-            left: 0;
-            z-index: 0; /* ensure dots are behind other content */
-            pointer-events: none; /* make sure dots don't interfere with user interactions */
-        }
-        .dot {
-            position: absolute;
-            width: 5px;
-            height: 5px;
-            border-radius: 50%;
-            opacity: 0;
-            animation: fadeInOut 3s infinite;
-        }
-        .dot-gray { background-color: #808080; }
-        .dot-white { background-color: #ffffff; }
-        .dot-blue { background-color: #66a7bb; }
-
-        /* Footer */
-       footer {
-            background-color: transparent;
-            color: #ffffff;
-            padding: 20px 0;
-            text-align: center; /* center footer content */
-        }
-        footer ul {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap; /* allow wrapping for responsiveness */
-        }
-        footer ul li {
-            margin: 5px 15px;
-        }
-        footer ul li a {
-            color: #ffffff;
-            text-decoration: none;
-        }
-
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            header {
-                flex-direction: column;
-            }
-            .logo-container {
-                margin-bottom: 15px;
-            }
-            nav ul {
-                margin-top: 20px;
-                flex-direction: column; /* stack nav items vertically */
-                align-items: center;
-            }
-            nav ul li {
-                margin-left: 0;
-                margin-bottom: 10px;
-            }
-            main {
-                flex-direction: column;
-                align-items: center;
-            }
-            .content, .animated-dots {
-                width: 100%;
-            }
-            h1 {
-                font-size: 8vw;
-            }
-            .countdown {
-                text-align: center; /* center countdown on small screens */
-            }
-        }
-
-        /* Animation for dots */
-        @keyframes fadeInOut {
-            0%, 100% { opacity: 0; }
-            50% { opacity: 1; }
-        }
-    </style>
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="AI WEEK MAINFRANKEN">
+  <meta name="twitter:description"
+        content="42 Events an 5 Tagen – von Tech bis Kultur. Dezentrales Event vom 11. bis 15. November 2024 in Mainfranken und online.">
+  <meta name="twitter:image" content="assets/img/preview.png">
+  <meta name="twitter:url" content="https://www.ai-week.de">
+  <meta name="twitter:creator" content="@aiweekmainfranken">
 </head>
+
 <body>
-    <div class="animated-dots" id="animatedDots"></div> <!-- moved animated dots to cover entire page -->
-    <div class="container">
-        <header>
-             <div class="logo-container">
-                <img src="ai_week_2.svg" alt="AI Week Logo" class="logo-svg">
-                <div class="logo-text">AI WEEK</div>
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="/about.html">ABOUT</a></li>
-                    <li><a href="#mitmachen">MITMACHEN</a></li>
-                    <li><a href="#programm">PROGRAMM</a></li>
-                    <li><a href="#sponsoren">SPONSOREN</a></li>
-                    <li><a href="#news">NEWS</a></li>
-                    <li><a href="#contact">CONTACT</a></li>
-                </ul>
-            </nav>
-        </header>
+  <div class="animated-dots" id="animatedDots"></div> <!-- moved animated dots to cover entire page -->
+  <div class="container">
+    <header>
+      <div class="logo-container">
+        <!--<img src="ai_week_2.svg" alt="AI Week Logo" class="logo-svg">-->
+        <a href="/">
+          <div class="logo-text">AI WEEK</div>
+        </a>
+      </div>
+      <!-- Include the navigation template -->
+      <nav id="main-nav"></nav>
+    </header>
 
-        <main>
-            <div class="content">
-                <h1><span class="ai-week">AI WEEK</span> <span class="mainfranken">MAINFRANKEN</span></h1>
-                <p>42 Events an 5 Tagen – von Tech bis Kultur</p>
-                <p>📍 verschiedene Orte in Mainfranken und online<br>
-                📅 11. bis 15. November 2024</p>
-                <a href="#" class="cta-button">MEHR ERFAHREN</a>
-            </div>
-            <div class="countdown" id="countdown">
-                <span id="days">0</span> Tage
-                <span id="hours">0</span> Stunden
-                <span id="minutes">0</span> Minuten
-                <span id="seconds">0</span> Sekunden
-            </div>
-        </main>
+    <main>
+      <div class="content">
+        <h1>
+          <span class="ai-week">AI WEEK</span>
+          <span class="mainfranken">MAINFRANKEN</span>
+        </h1>
+        <p>42 Events an 5 Tagen – von Tech bis Kultur</p>
+        <p>📍 verschiedene Orte in Mainfranken und online<br>
+          📅 11. bis 15. November 2024</p>
+        <a href="/faq.html" class="cta-button">MEHR ERFAHREN</a>
+      </div>
+      <div class="countdown" id="countdown">
+        <div>
+          <span class="countdown-value" id="days">0</span>
+          <span class="countdown-label">Tage</span>
+        </div>
+        <div>
+          <span class="countdown-value" id="hours">0</span>
+          <span class="countdown-label">Std.</span>
+        </div>
+        <div>
+          <span class="countdown-value" id="minutes">0</span>
+          <span class="countdown-label">Min.</span>
+        </div>
+        <div>
+          <span class="countdown-value" id="seconds">0</span>
+          <span class="countdown-label">Sek.</span>
+        </div>
+      </div>
+    </main>
 
-        <footer>
-            <nav>
-                <ul>
-                    <li><a href="/faq.html">FAQ</a></li>
-                    <li><a href="/datenschutz.html">DATENSCHUTZ</a></li>
-                    <li><a href="/impressum.html">IMPRESSUM</a></li>
-                    <li><a href="#presse">PRESSE & LOGOS</a></li>
-                </ul>
-            </nav>
-            <div class="social-icons">
-                <a href="#" aria-label="Instagram">&#xf16d;</a>
-                <a href="#" aria-label="Twitter">&#xf099;</a>
-                <a href="#" aria-label="Email">&#x2709;</a>
-            </div>
-        </footer>
-    </div>
+    <footer>
+      <!-- Include the navigation template -->
+      <nav id="footer-nav"></nav>
+    </footer>
+  </div>
 
-    <script>
-        // JavaScript for animated dots
-        const dotsContainer = document.getElementById('animatedDots');
-        const numberOfDots = 50;
-        const colors = ['gray', 'white', 'blue'];
+  <script src="assets/js/dot.js"></script>
+  <script>
+    // Load the navigation template; Dev only
+    async function loadNavTemplate() {
+      const [responseHeaderNav, responseFooterNav] = await Promise.all([
+        fetch('assets/nav/header.html'),
+        fetch('assets/nav/footer.html')
+      ]);
 
-        for (let i = 0; i < numberOfDots; i++) {
-            const dot = document.createElement('div');
-            dot.classList.add('dot');
-            const colorClass = `dot-${colors[Math.floor(Math.random() * colors.length)]}`;
-            dot.classList.add(colorClass);
-            dot.style.left = `${Math.random() * 100}%`;
-            dot.style.top = `${Math.random() * 100}%`;
-            dot.style.animationDelay = `${Math.random() * 3}s`;
-            dotsContainer.appendChild(dot);
-        }
+      const headerNavTemplate = await responseHeaderNav.text();
+      const footerNavTemplate = await responseFooterNav.text();
 
-        // JavaScript for countdown
-        const countdownElement = document.getElementById('countdown');
-        const targetDate = new Date('November 11, 2024 08:00:00').getTime();
-
-        function updateCountdown() {
-            const now = new Date().getTime();
-            const distance = targetDate - now;
-
-            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-            document.getElementById('days').innerText = days;
-            document.getElementById('hours').innerText = hours;
-            document.getElementById('minutes').innerText = minutes;
-            document.getElementById('seconds').innerText = seconds;
-
-            if (distance < 0) {
-                clearInterval(countdownInterval);
-                countdownElement.innerHTML = "Event has started!";
-            }
-        }
-
-        const countdownInterval = setInterval(updateCountdown, 1000);
-    </script>
+      document.getElementById('main-nav').innerHTML = headerNavTemplate;
+      document.getElementById('footer-nav').innerHTML = footerNavTemplate;
+    }
+    loadNavTemplate();
+  </script>
 </body>
+
 </html>

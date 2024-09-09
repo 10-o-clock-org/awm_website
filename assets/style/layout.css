@@ -119,6 +119,86 @@ p {
   margin-bottom: 30px;
 }
 
+/* Aktualisierte Styles für .news-nav */
+
+.news-nav {
+  width: 100%; /* Stellt sicher, dass die nav-Komponente die volle Breite einnimmt */
+  margin-bottom: 40px; /* Fügt Abstand unterhalb der Aufzählung hinzu */
+}
+
+.news-nav ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding-left: 0; /* Entfernt den Standard-Einzug für ul */
+  width: 100%; /* Stellt sicher, dass die Liste die volle Breite einnimmt */
+}
+
+.news-nav li {
+  position: relative;
+  padding-left: 20px;
+  margin-bottom: 10px; /* Fügt etwas Abstand zwischen den Listenelementen hinzu */
+  width: 100%; /* Stellt sicher, dass jedes Listenelement die volle Breite einnimmt */
+}
+
+.news-nav li::before {
+  content: '■';
+  position: absolute;
+  left: 0;
+  color: #03c4fb;
+}
+.news-nav li a {
+  text-decoration: underline;
+  text-underline-offset: 3px; /* Schafft Abstand zwischen Text und Linie */
+  text-decoration-thickness: 2px;
+  text-decoration-color:  #cc0000;
+  font-size: inherit;
+}
+
+.news-nav li a:hover {
+  color: #0288d1; /* Dunklere Variante für Hover-Effekt */
+  text-decoration: underline; 
+  text-decoration-thickness: 2px;
+}
+
+/* Falls Sie span-Elemente innerhalb der Listenelemente verwenden */
+.news-nav li span {
+  font-size: inherit;
+}
+
+.news-nav li span {
+  font-size: 0.7em;
+  display: inline-block; /* Erlaubt dem Span, die volle Breite zu nutzen */
+  width: calc(100% - 20px); /* Zieht den Platz für das Quadrat-Symbol ab */
+}
+
+.container, .content, main {
+  width: 90%;
+  max-width: 100%; /* Entfernt mögliche Breitenbegrenzungen */
+}
+
+article {
+  margin-top: 40px; /* Fügt Abstand oberhalb jedes Artikels hinzu */
+}
+
+/* Spezifisch für den ersten Artikel, falls nötig */
+article:first-of-type {
+  margin-top: 60px; /* Noch mehr Abstand für den ersten Artikel */
+}
+
+/* Optional: Wenn Sie möchten, dass nur der erste Artikel diesen zusätzlichen Abstand hat */
+article:not(:first-of-type) {
+  margin-top: 20px; /* Weniger Abstand für die folgenden Artikel */
+}
+
+h2 {
+  color: #20afcf;
+}
+
+h3 {
+  margin-bottom: 20px; /* Fügt 20px Abstand nach unten für jedes h3 Element hinzu */
+}
+
 .cta-button {
   display: inline-block;
   padding: 10px 20px;
@@ -132,6 +212,50 @@ p {
 .cta-button:hover {
   background-color: #ffffff;
   color: #1a1a1a;
+}
+
+.newsletter-box {
+  background-color: #3498db;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.newsletter-box h2 {
+  margin: 0 0 15px 0;
+  font-size: 1.2em;
+}
+
+.newsletter-box p {
+  margin: 0 0 20px 0;
+  font-size: 0.9em;
+}
+
+.signup-button {
+  background-color: white;
+  color: #3498db;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+  text-decoration: none !important; /* Entfernt die Unterstreichung */
+}
+
+a.signup-button {
+  text-decoration: none !important; /* Spezifisch für <a>-Elemente mit der Klasse signup-button */
+  color: #3498db !important; /* Behält die blaue Textfarbe bei */
+}
+
+a.signup-button:hover {
+  text-decoration: none !important; /* Stellt sicher, dass auch beim Hover keine Unterstreichung erscheint */
+  background-color: #f1f1f1; /* Behält den bestehenden Hover-Effekt bei */
+  color: #3498db !important; /* Behält die blaue Textfarbe auch beim Hover bei */
 }
 
 /* Countdown */
@@ -288,6 +412,9 @@ footer ul li a {
     /* center countdown on small screens */
   }
 }
+
+.newsletter-box {
+  width: 90%;
 
 /* Animation for dots */
 @keyframes fadeInOut {

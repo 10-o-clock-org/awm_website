@@ -1,436 +1,227 @@
-/* Reset und allgemeine Styles */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Arial, sans-serif;
-  background-color: #1a1a1a;
-  color: #ffffff;
-  line-height: 1.6;
-  position: relative;
-}
-
-.social-icons {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-
-.footnote {
-  font-size: 0.8rem;
-  color: #ffffffcc;
-}
-
-.social-icons a {
-  text-decoration: none;
-}
-
-a {
-  color: #ffffff;
-  text-decoration: underline #cc0000;
-}
-
-.container {
-  width: 90%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-/* Header */
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px 0;
-  flex-wrap: wrap;
-  /* allow wrapping for responsiveness */
-}
-
-.logo-container {
-  display: flex;
-  align-items: center;
-}
-
-.logo-svg {
-  width: 50px;
-  height: 50px;
-  margin-right: 15px;
-}
-
-.logo-text {
-  font-size: 24px;
-  font-weight: bold;
-}
-
-nav ul {
-  display: flex;
-  list-style: none;
-  flex-wrap: wrap;
-  /* allow wrapping for responsiveness */
-}
-
-nav ul li {
-  margin-left: 20px;
-}
-
-nav ul li a {
-  color: #ffffff;
-  text-decoration: none;
-  font-size: 14px;
-}
-
-/* Main Content */
-main {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  min-height: 80vh;
-  flex-wrap: wrap;
-  /* allow wrapping for responsiveness */
-}
-
-.content {
-  width: 100%;
-  max-width: 50%;
-  box-sizing: border-box;
-  padding: 20px;
-}
-
-h1 {
-  font-size: 4vw;
-  line-height: 1.2;
-  margin-bottom: 20px;
-}
-
-.ai-week {
-  color: #969797;
-  font-size: 80%;
-}
-
-.mainfranken {
-  color: #ffffff;
-}
-
-p {
-  font-size: 18px;
-  margin-bottom: 30px;
-}
-
-/* Aktualisierte Styles für .news-nav */
-
-.news-nav {
-  width: 100%; /* Stellt sicher, dass die nav-Komponente die volle Breite einnimmt */
-  margin-bottom: 40px; /* Fügt Abstand unterhalb der Aufzählung hinzu */
-}
-
-.news-nav ul {
-  list-style-type: none;
-  display: flex;
-  flex-direction: column;
-  padding-left: 0; /* Entfernt den Standard-Einzug für ul */
-  width: 100%; /* Stellt sicher, dass die Liste die volle Breite einnimmt */
-}
-
-.news-nav li {
-  position: relative;
-  padding-left: 20px;
-  margin-bottom: 10px; /* Fügt etwas Abstand zwischen den Listenelementen hinzu */
-  width: 100%; /* Stellt sicher, dass jedes Listenelement die volle Breite einnimmt */
-}
-
-.news-nav li::before {
-  content: '■';
-  position: absolute;
-  left: 0;
-  color: #03c4fb;
-}
-.news-nav li a {
-  text-decoration: underline;
-  text-underline-offset: 3px; /* Schafft Abstand zwischen Text und Linie */
-  text-decoration-thickness: 2px;
-  text-decoration-color:  #cc0000;
-  font-size: inherit;
-}
-
-.news-nav li a:hover {
-  color: #0288d1; /* Dunklere Variante für Hover-Effekt */
-  text-decoration: underline; 
-  text-decoration-thickness: 2px;
-}
-
-/* Falls Sie span-Elemente innerhalb der Listenelemente verwenden */
-.news-nav li span {
-  font-size: inherit;
-}
-
-.news-nav li span {
-  font-size: 0.7em;
-  display: inline-block; /* Erlaubt dem Span, die volle Breite zu nutzen */
-  width: calc(100% - 20px); /* Zieht den Platz für das Quadrat-Symbol ab */
-}
-
-.container, .content, main {
-  width: 90%;
-  max-width: 100%; /* Entfernt mögliche Breitenbegrenzungen */
-}
-
-article {
-  margin-top: 40px; /* Fügt Abstand oberhalb jedes Artikels hinzu */
-}
-
-/* Spezifisch für den ersten Artikel, falls nötig */
-article:first-of-type {
-  margin-top: 60px; /* Noch mehr Abstand für den ersten Artikel */
-}
-
-/* Optional: Wenn Sie möchten, dass nur der erste Artikel diesen zusätzlichen Abstand hat */
-article:not(:first-of-type) {
-  margin-top: 20px; /* Weniger Abstand für die folgenden Artikel */
-}
-
-h2 {
-  color: #20afcf;
-}
-
-h3 {
-  margin-bottom: 20px; /* Fügt 20px Abstand nach unten für jedes h3 Element hinzu */
-}
-
-.cta-button {
-  display: inline-block;
-  padding: 10px 20px;
-  border: 1px solid #ffffff;
-  color: #ffffff;
-  text-decoration: none;
-  font-size: 16px;
-  transition: background-color 0.3s, color 0.3s;
-}
-
-.cta-button:hover {
-  background-color: #ffffff;
-  color: #1a1a1a;
-}
-
-.newsletter-box {
-  background-color: #3498db;
-  color: white;
-  padding: 20px;
-  text-align: center;
-  border-radius: 8px;
-  font-family: Arial, sans-serif;
-  max-width: 600px;
-  margin: 20px auto;
-}
-
-.newsletter-box h2 {
-  margin: 0 0 15px 0;
-  font-size: 1.2em;
-}
-
-.newsletter-box p {
-  margin: 0 0 20px 0;
-  font-size: 0.9em;
-}
-
-.signup-button {
-  background-color: white;
-  color: #3498db;
-  border: none;
-  padding: 10px 20px;
-  font-size: 1em;
-  cursor: pointer;
-  border-radius: 5px;
-  transition: background-color 0.3s, color 0.3s;
-  text-decoration: none !important; /* Entfernt die Unterstreichung */
-}
-
-a.signup-button {
-  text-decoration: none !important; /* Spezifisch für <a>-Elemente mit der Klasse signup-button */
-  color: #3498db !important; /* Behält die blaue Textfarbe bei */
-}
-
-a.signup-button:hover {
-  text-decoration: none !important; /* Stellt sicher, dass auch beim Hover keine Unterstreichung erscheint */
-  background-color: #f1f1f1; /* Behält den bestehenden Hover-Effekt bei */
-  color: #3498db !important; /* Behält die blaue Textfarbe auch beim Hover bei */
-}
-
-/* Countdown */
-.countdown {
-  display: flex;
-  position: relative;
-  flex-direction: row;
-}
-
-.countdown > div {
-  display: flex;
-  flex-direction: column;
-  margin-right: 0.5rem;
-}
-
-.countdown-value {
-  border: 2px solid #fff;
-  padding: 0.5rem;
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
-  min-height: 3rem;
-  font-family: monospace;
-  font-size: 2rem;
-  font-weight: bold;
-  background-color: #ffffff04;
-  text-align: center;
-}
-
-.countdown-label {
-  font-size: 0.8rem;
-  text-align: center;
-  color: #ffffffcc;
-  margin-top: 0.25rem;
-}
-/*
-
-.countdown span {
-  display: inline-block;
-  font-size: 32px;
-  margin: 0 10px;
-}
-*/
-
-/* Animated Dots */
-.animated-dots {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 0;
-  /* ensure dots are behind other content */
-  pointer-events: none;
-  /* make sure dots don't interfere with user interactions */
-}
-
-.dot {
-  position: absolute;
-  width: 5px;
-  height: 5px;
-  border-radius: 50%;
-  opacity: 0;
-  animation: fadeInOut 3s infinite;
-}
-
-.dot-gray {
-  background-color: #808080;
-}
-
-.dot-white {
-  background-color: #ffffff;
-}
-
-.dot-blue {
-  background-color: #66a7bb;
-}
-
-/* Footer */
-footer {
-  background-color: transparent;
-  color: #ffffff;
-  padding: 20px 0;
-  text-align: center;
-  /* center footer content */
-}
-
-footer ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  /* allow wrapping for responsiveness */
-}
-
-footer ul li {
-  margin: 5px 15px;
-}
-
-footer ul li a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-  header {
-    flex-direction: column;
-  }
-
-  .container {
-    width: 100%;
-    padding: 0;
-  }
-
-  .content {
-    max-width: 100%;
-    text-align: center;
-  }
-
-  .logo-container {
-    margin-bottom: 15px;
-  }
-
-  nav ul {
-    margin-top: 20px;
-    flex-direction: column;
-    /* stack nav items vertically */
-    align-items: center;
-  }
-
-  nav ul li {
-    margin-left: 0;
-    margin-bottom: 10px;
-  }
-
-  main {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .animated-dots {
-    width: 100%;
-  }
-
-  h1 {
-    font-size: 3rem;
-  }
-
-  .countdown {
-    white-space: pre-line;
-    text-align: left;
-    /* center countdown on small screens */
-  }
-}
-
-.newsletter-box {
-  width: 90%;
-
-/* Animation for dots */
-@keyframes fadeInOut {
-
-  0%,
-  100% {
-    opacity: 0;
-  }
-
-  50% {
-    opacity: 1;
-  }
-}
-
-.social-share-icon {
-  width: 1.5rem;
-  height: 1.5rem;
-  margin-right: 0.5rem;
-}
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News - AI WEEK MAINFRANKEN</title>
+    <link rel="stylesheet" href="assets/style/layout.css" />
+    <link rel="icon" href="assets/img/favicon.png" type="image/png">
+
+    <!-- SEO Meta Tags -->
+    <meta name="description"
+          content="AI WEEK MAINFRANKEN - 42 Events an 5 Tagen – von Tech bis Kultur. Dezentrales Event vom 11. bis 15. November 2024 in Mainfranken und online.">
+    <meta name="keywords"
+          content="AI Week, Mainfranken, Künstliche Intelligenz, Tech Events, Kultur Events, 2024, Online Events, Dezentrales Event">
+    <meta name="author" content="AI WEEK MAINFRANKEN">
+
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="AI WEEK MAINFRANKEN">
+    <meta property="og:description"
+          content="42 Events an 5 Tagen – von Tech bis Kultur. Dezentrales Event vom 11. bis 15. November 2024 in Mainfranken und online.">
+    <meta property="og:image" content="assets/img/preview.png">
+    <meta property="og:url" content="https://www.ai-week.de">
+    <meta property="og:type" content="website">
+
+  
+
+    <style>
+        .content {
+            max-width: 100%;
+        }
+        h2 {
+            margin-bottom: 20px;
+        }
+        article {
+            margin-bottom: 80px; /* added margin after each article */
+        }
+        .news-nav ul {
+            font-size: 1.5em; /* updated font-size for jump labels by 1.5em */
+        }
+        .news-nav ul li {
+            position: relative;
+            padding-left: 20px;
+        }
+        .news-nav ul li::before {
+            content: '■';
+            position: absolute;
+            left: 0;
+            color: #03c4fb;
+            margin-right: 2.0em; /* added margin right between the list-style-type and the text */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="logo-container">
+                <a href="/">
+                    <!--<img src="ai_week_2.svg" alt="AI Week Logo" class="logo-svg">-->
+                    <div class="logo-text">AI WEEK</div>
+                </a>
+            </div>
+            <!-- Include the navigation template -->
+            <nav id="main-nav">
+                <ul>
+                    <!--
+  <li><a href="/about.html">ABOUT</a></li>
+  <li><a href="#mitmachen">MITMACHEN</a></li>
+  <li><a href="#programm">PROGRAMM</a></li>
+  <li><a href="#sponsoren">SPONSOREN</a></li>
+  -->
+                    <li><a href="/faq.html">FAQ</a></li>
+                    <li><a href="mailto:kontakt@wueww.de">KONTAKT</a></li>
+                    <li><a href="/news.html">NEWS</a></li>
+
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <div class="content">
+                <h1>News</h1>
+<p><i>Einfach auf den jeweilgen Aufzählungspunkt klicken und direkt zur jeweilgen News gelangen.</i></p>
+                <!-- Jump labels for news articles -->
+                <nav class="news-nav">
+                    <ul>
+                        <li>
+                            <span><a href="#news1">AI Week Mainfranken – Das KI-Festival für alle</a> (09.09.24)</span>                        
+                        </li>
+                        <li>
+                            <span><a href="#news2">AI Week Mainfranken vs. Wuerzburg Web Week</a> (09.09.24)</span></li>                                                </li>
+                        <li>
+                            <span>Early Bird Tickets Available</span>
+                            <a href="#news3"></a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <!-- News articles -->
+                <article id="news1">
+                    <h2 style="margin-bottom: 20px;">AI Week Mainfranken – Das KI-Festival für alle</h2>
+                    <p>Das Team der Wuerzburg Web Week organisiert vom 11. bis 15. November das erste dezentrale KI-Festival in Bayern. Die AI Week Mainfranken bietet 42 Events an 5 Tagen.
+                    </p>
+                    <h3>Was erwartet dich?</h3>
+                    <p>Neben einem abwechslungsreichen Programm erwarten dich:</p>
+                    <nav class="news-nav">
+                    <ul>
+        <li>
+            <span>42 Events zu fünf thematischen Schwerpunkten: von Tech & Science bis Kultur</span>
+        </li>
+        <li>
+            <span>Veranstaltungen für Einsteiger bis KI-Profis</span></li>
+          
+           <li><span>Masterclasses für alle, die tiefer in die Materie eintauchen möchten</span>
+        </li>
+        <li>
+            <span>Zum Abschluss am 15.11. das <a href="https://www.ai-barcamp.de">2. AI Camp Würzburg</a></span></li>                         
+                      
+                </ul>
+                </nav>
+                <h3>Warum eine AI Week?</h3>
+                    <p>Du fragst dich vielleicht, warum wir statt einer Wuerzburg Web Week 2024 etwas Neues wagen. Die Antwort ist einfach: Künstliche Intelligenz ist in aller Munde, aber oft fehlt der praktische Bezug. Mit der AI Week Mainfranken wollen wir KI be-greifbar machen, Wissen teilen und die Expertise unserer Region für alle sichtbar machen.</p>
+                    <p>Unser Ziel ist es zu zeigen, was mit KI aktuell schon möglich ist, wo die Grenzen liegen und wie wir gemeinsam die KI-Zukunft gestalten können.</p>
+                    <p>Niemand muss sich abgehängt fühlen. Denn eines ist sicher: KI kann viel, wir Menschen aber auch! Und beide zusammen sind wir unschlagbar, wenn es darum geht die großen Probleme unserer Zeit zu lösen.</p>
+                    <p>In diesem Blogartikel erfährst du, wie du, euer Unternehmen oder eure Organisation bei der AI Mainfranken mitmachen kann und hier, wie sich die AI Week von der Wuerzburg Web Week unterscheidet.</p>
+            </br>
+                    <div class="newsletter-box">
+                        <h3>Für Veranstalter-Verteiler anmelden</h3>
+                        <p>Wir informieren dich, sobald wir das Event-Tool freischalten. </p>
+                        <a href="https://t2f924de9.emailsys2a.net/198/8419/0dc52b6de6/subscribe/form.html?_g=1725879643" target="_blank" class="signup-button">Anmelden</a>
+
+                    </div>
+                </article>
+
+                <article id="news2">
+                    <h2>AI Week Mainfranken vs. Wuerzburg Web Week: bewährtes Konzept, neuer Schwerpunkt</h2>
+
+    <p>Mainfranken wird zur KI-Hochburg! Vom 11. bis 15. November 2024 bringt die AI Week Mainfranken als erstes dezentrales KI-Festival Bayerns alle zusammen, die sich für das Thema Künstliche Intelligenz interessieren: Einsteiger ebenso wie Enthusiasten, die mehr erfahren wollen, und natürlich KI-Profis, die ihr Wissen weitergeben und sich mit anderen vernetzen wollen (natürlich alle Geschlechter).</p>
+
+    <p>Dafür übernehmen wir das erfolgreiche Konzept der Wuerzburg Web Week, etwas kleiner und kürzer als du es von der WueWW kennst:</p>
+
+    <h3>Das bleibt im Vergleich zur WueWW gleich:</h3>
+    <nav class="news-nav">
+    <ul>
+        <li><span>Dezentralität: An den ersten vier Tagen finden 41 Events dezentral an vielen Orten in Mainfranken bzw. auch online statt. Zum Abschluss am fünften Veranstaltungstag (15.11.) gibt es einen zentralen Veranstaltungsort, das <a href="https://www.ai-barcamp.de">AI Camp Würzburg</a>.</span></li>
+        <li><span>Veranstaltung statt Vortrag: Statt eines festen 45-minütigen Vortragsslots auf einer Konferenz kannst du eine oder mehrere eigenständige Veranstaltungen in unser Event-Tool eintragen (wird demnächst freigeschaltet).</span></li>
+        <li><span>Flexible Formate: darunter Vorträge, Podiumsdiskussionen, Frühstücke, Start-up-Pitches, Programmier-Sessions, Promptathons und was den Mainfranken sonst noch einfällt.</span></li>
+    </ul>
+    </nav>
+<p></p>
+    <h3>Das ist bei der AI Week Mainfranken anders:</h3>
+    <nav class="news-nav">
+    <ul>
+        <li><span>Dauer: Unser KI-Festival ist eine fünftägige Dachveranstaltung.</li>
+            <li><span>Anzahl Veranstaltungen: Das Programm hat maximal 42 Events, mehr nicht, ggf. auch weniger</li>
+                <li><span>Kuratierung: Diesmal entscheidet eine Jury, welche Veranstaltungsvorschläge ins Programm aufgenommen werden.</li>
+                    <li><span>Masterclasses: Wir planen zusätzlich kostenpflichtige Masterclasses als Weiterbildungsmöglichkeit für alle, die tiefer in die Materie eintauchen wollen. Mehr dazu in Kürze.</li>
+    </ul>
+</nav>
+    <h3>Mainfrankens nächste Erfolgsstory?</h3>
+    <p>Wird die AI Week Mainfranken die nächste Erfolgsgeschichte unserer Region? Das hängt von uns allen ab. Gemeinsam haben wir die Chance, Mainfranken als innovativen KI-Standort zu positionieren.</p>
+
+    <p>Aktuell suchen wir Sponsoren, die unser KI-Festival, das erste seiner Art in Bayern, finanziell unterstützen. Bei Interesse nimm mit uns Kontakt auf.</p>
+
+    <p><a href="#news1">In diesem Beitrag</a>, warum wir eine AI Week organisieren.</p>
+
+</br>
+<div class="newsletter-box">
+    <h3>Für Veranstalter-Verteiler anmelden</h3>
+    <p>Wir informieren dich, sobald wir das Event-Tool freischalten. </p>
+    <a href="https://t2f924de9.emailsys2a.net/198/8419/0dc52b6de6/subscribe/form.html?_g=1725879643" target="_blank" class="signup-button">Anmelden</a>
+
+</div>
+   
+                </article>
+            </div>
+        </main>
+
+        <footer>
+            <!-- Include the navigation template -->
+            <nav id="footer-nav">
+                <ul>
+                    <li><a href="/faq.html">FAQ</a></li>
+                    <li><a href="/datenschutz.html">DATENSCHUTZ</a></li>
+                    <li><a href="/impressum.html">IMPRESSUM</a></li>
+                    <li><a href="/news.html">NEWS</a></li>
+                    <!--
+                    <li><a href="#presse">PRESSE & LOGOS</a></li>
+                    -->
+                </ul>
+
+                <div class="social-icons">
+                    <a href="https://www.instagram.com/wueww" target="_blank" aria-label="Instagram">
+                        <img alt="Instagram Logo" src="assets/img/insta.svg" class="social-share-icon" />
+                    </a>
+                    <a href="https://www.linkedin.com/company/wuerzburg-web-week" target="_blank" aria-label="LinkedIn">
+                        <img alt="LinkedIn Logo" src="assets/img/linkedin.svg" class="social-share-icon" /></a>
+                    <a href="mailto:kontakt@wueww.de" aria-label="Email">
+                        <img alt="E-Mail Pictogram" src="assets/img/email.svg" class="social-share-icon" /></a>
+                </div>
+                <span class="footnote">
+                    Made with KI 🤖 and lots of love from <a aria-label="Ute Mündlein Organisatorin der Wuerzburg Web Week" href="https://www.wueww.de" target="_blank">Ute</a> & <a aria-label="Aron Homberg LinkedIn Profile"
+                       href="https://www.linkedin.com/in/aronhomberg" target="_blank">Aron</a>.
+                </span>
+            </nav>
+        </footer>
+    </div>
+    <script>
+        // Load the navigation template; Dev only
+        async function loadNavTemplate() {
+            const [responseHeaderNav, responseFooterNav] = await Promise.all([
+                fetch('assets/nav/header.html'),
+                fetch('assets/nav/footer.html')
+            ]);
+
+            const headerNavTemplate = await responseHeaderNav.text();
+            const footerNavTemplate = await responseFooterNav.text();
+
+            document.getElementById('main-nav').innerHTML = headerNavTemplate;
+            document.getElementById('footer-nav').innerHTML = footerNavTemplate;
+        }
+        loadNavTemplate();
+    </script>
+</body>
+
+</html>

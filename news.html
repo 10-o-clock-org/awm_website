@@ -49,6 +49,23 @@
             color: #03c4fb;
             margin-right: 2.0em; /* added margin right between the list-style-type and the text */
         }
+        .container, .content, main {
+  width: 90%;
+  max-width: 100%; /* Entfernt mögliche Breitenbegrenzungen */
+}
+
+article {
+  margin-top: 40px; /* Fügt Abstand oberhalb jedes Artikels hinzu */
+}
+
+/* Spezifisch für den ersten Artikel, falls nötig */
+article:first-of-type {
+  margin-top: 60px; /* Noch mehr Abstand für den ersten Artikel */
+}
+
+/* Optional: Wenn Sie möchten, dass nur der erste Artikel diesen zusätzlichen Abstand hat */
+article:not(:first-of-type) {
+  margin-top: 20px; /* Weniger Abstan
     </style>
 </head>
 
@@ -90,10 +107,7 @@
                         </li>
                         <li>
                             <span><a href="#news2">AI Week Mainfranken vs. Wuerzburg Web Week</a> (09.09.24)</span></li>                                                </li>
-                        <li>
-                            <span>Early Bird Tickets Available</span>
-                            <a href="#news3"></a>
-                        </li>
+                        
                     </ul>
                 </nav>
 
@@ -171,11 +185,10 @@
     <p>Wir informieren dich, sobald wir das Event-Tool freischalten. </p>
     <a href="https://t2f924de9.emailsys2a.net/198/8419/0dc52b6de6/subscribe/form.html?_g=1725879643" target="_blank" class="signup-button">Anmelden</a>
 
-                </div>
-
+</div>
+   
                 </article>
             </div>
-
         </main>
 
         <footer>

@@ -49,7 +49,36 @@
             color: #03c4fb;
             margin-right: 2.0em; /* added margin right between the list-style-type and the text */
         }
+        
+        .container, .content, main {
+  width: 90%;
+  max-width: 100%; /* Entfernt mögliche Breitenbegrenzungen */
+}
+
+article {
+  margin-top: 40px; /* Fügt Abstand oberhalb jedes Artikels hinzu */
+}
+
+/* Spezifisch für den ersten Artikel, falls nötig */
+article:first-of-type {
+  margin-top: 60px; /* Noch mehr Abstand für den ersten Artikel */
+}
+
+/* Optional: Wenn Sie möchten, dass nur der erste Artikel diesen zusätzlichen Abstand hat */
+article:not(:first-of-type) {
+  margin-top: 20px; /* Weniger Abstand für die folgenden Artikel */
+}
+
+h2 {
+  color: #20afcf;
+}
+
+h3 {
+  margin-bottom: 20px; /* Fügt 20px Abstand nach unten für jedes h3 Element hinzu */
+}
+
     </style>
+    
 </head>
 
 <body>

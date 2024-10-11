@@ -35,8 +35,8 @@ a {
 .container {
   width: 90%;
   max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
+  /*margin: 0 auto;*/
+  padding: 20px 0;
 }
 
 /* Header */
@@ -96,7 +96,7 @@ main {
   width: 100%;
   max-width: 50%;
   box-sizing: border-box;
-  padding: 20px;
+  padding: 20px 0;
 }
 
 h1 {

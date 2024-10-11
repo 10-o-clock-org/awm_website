@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News - AI WEEK MAINFRANKEN</title>
+    <title>Sponsoren - AI WEEK MAINFRANKEN</title>
     <link rel="stylesheet" href="assets/style/layout.css" />
     <link rel="icon" href="assets/img/favicon.png" type="image/png">
 
@@ -32,7 +32,6 @@
 
         h2 {
             margin-bottom: 20px;
-            color: #03c4fb;
         }
 
         article {
@@ -62,7 +61,7 @@
         .container,
         .content,
         main {
-            width: 90%;
+            width: 100%;
             max-width: 100%;
             /* Entfernt mögliche Breitenbegrenzungen */
         }
@@ -107,26 +106,101 @@
             /* Weniger Abstand für die folgenden Artikel */
         }
 
+        h2 {
+            color: #03c4fb;
+        }
 
         h3 {
             margin-bottom: 20px;
             /* Fügt 20px Abstand nach unten für jedes h3 Element hinzu */
         }
 
-        .cta-button-container {
-            text-align: center;
-            margin-top: 40px;
-            margin-bottom: 40px;
+
+        .hauptsponsoren,
+        .goldsponsoren {
+            display: flex;
+            flex-wrap: wrap;
+            column-gap: 3rem;
+            row-gap: 2rem;
+            margin-left: 1rem;
+            margin-right: 1rem;
         }
 
-        .cta-button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #3498db;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
+        .hauptsponsoren a,
+        .goldsponsoren a {
+            padding: 1rem;
+            display: flex;
+            width: 100%;
+            height: 100%;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .hauptsponsoren div {
+            position: relative;
+            flex: calc(30% - 3rem);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .hauptsponsoren div img {
+            max-width: 20rem;
+            max-height: 12rem;
+            object-fit: contain;
+        }
+
+        .goldsponsoren div {
+            position: relative;
+            min-width: 120px;
+            flex: calc(25% - 3rem);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            max-height: 8rem;
+            border: 1px solid #fff;
+            border-radius: 0 0 0 2rem;
+            overflow: hidden;
+        }
+
+
+        .goldsponsoren div a {
+            display: flex;
+            width: 100%;
+            height: 100%;
+        }
+
+
+        .goldsponsoren div.white-bg {
+            background: #fff;
+        }
+
+        .goldsponsoren div img {
+            max-width: 12.5rem;
+            max-height: 100%;
+            width: 100%;
+        }
+
+        .hauptsponsoren div img,
+        .goldsponsoren div img {
+            transition: .25s transform ease-in-out;
+            transform: scale(1);
+        }
+
+        .hauptsponsoren div:hover img,
+        .goldsponsoren div:hover img {
+            transform: scale(1.2);
+        }
+
+        .content {
+            margin-bottom: 4rem;
+        }
+
+        h3 {
+            font-size: 2rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
         }
     </style>
 
@@ -164,27 +238,66 @@
         </header>
 
         <main>
+
+
             <div class="content">
-                <h1>Programm</h1>
-                <h2>Hier findest du in Kürze das Programm der AI Week Mainfranken</h2>
-                <p>Wir hoffen, ein abwechslungsreiches Programm anbieten zu können, das für alle etwas bietet: vom
-                    KI-Neuling über Enthusiasten bis zur KI-Expertin.
-                </p>
-                <p>Damit das klappt, zählen wir auf die digitalen Pioniere, kreativen Köpfe und Zukunftsoptimisten
-                    unserer Region! Macht mit und tragt mit eurer Veranstaltung dazu bei!</p>
-                <p>Gemeinsame können wir unsere Region als innovativen KI-Standort positionieren und nach der Wuerzburg
-                    Web Week die nächste Erfolgsgeschichte schreiben. Mehr Infos <a
-                       href="https://www.ai-week.de/news.html#eventtool"> in diesem Beitrag</a>.</p>
 
+                <h1>Sponsoren</h1>
+                <h2>Wir danken unseren Sponsoren</h2>
 
-                <div class="cta-button-container">
-                    <a href="https://waw.vaud.rocks" class="cta-button">Bis 18.10.2024 Event-Vorschlag eintragen</a>
+                <h3>Technologiepartner</h3>
+
+                <div class="hauptsponsoren">
+                    <div><a href="#"><img src="assets/images/logo-hauptsponsor-01.png" alt="" /></a>
+                    </div>
+                    <div><a href="#"><img src="assets/images/logo-hauptsponsor-bayern-kreativ.png" alt="" /></a></div>
+                    <div><a href="#"><img src="assets/images/logo-hauptsponsor-jos-buero.png" alt="" /></a>
+                    </div>
                 </div>
-                <p>❗️ Wichtig: KI-Fokus der eingereichten Veranstaltung ist Voraussetzung für unser Programm, eigentlich
-                    logisch, oder? 😉</p>
+
+                <h3>Goldsponsoren</h3>
+
+                <div class="goldsponsoren">
+                    <div class="white-bg"><a href="#"><img src="assets/images/logo-sponsoren-futurelabs.png"
+                                 alt="" /></a></div>
+                    <div class="white-bg"><a href="#"><img
+                                 src="assets/images/logo-sponsoren-regionalgruppe-wuerzburg.png" alt="" /></a>
+                    </div>
+                    <div class=""><a href="#"><img src="assets/images/logo-hauptsponsor-01.png" alt="" /></a>
+                    </div>
+                    <div class="white-bg"><a href="#"><img src="assets/images/logo-sponsoren-futurelabs.png"
+                                 alt="" /></a></div>
+                    <div class="white-bg"><a href="#"><img
+                                 src="assets/images/logo-sponsoren-regionalgruppe-wuerzburg.png" alt="" /></a>
+                    </div>
+                    <div class=""><a href="#"><img src="assets/images/logo-hauptsponsor-bayern-kreativ.png"
+                                 alt="" /></a>
+                    </div>
+                    <div class="white-bg"><a href="#"><img src="assets/images/logo-sponsoren-futurelabs.png"
+                                 alt="" /></a></div>
+                    <div class="white-bg"><a href="#"><img
+                                 src="assets/images/logo-sponsoren-regionalgruppe-wuerzburg.png" alt="" /></a>
+                    </div>
+                </div>
+
+                <h3>Supporter</h3>
+
+                <div class="goldsponsoren">
+                    <div class="white-bg"><a href="#"><img src="assets/images/logo-sponsoren-futurelabs.png"
+                                 alt="" /></a></div>
+                    <div class="white-bg"><a href="#"><img
+                                 src="assets/images/logo-sponsoren-regionalgruppe-wuerzburg.png" alt="" /></a>
+                    </div>
+                    <div class=""><a href="#"><img src="assets/images/logo-hauptsponsor-01.png" alt="" /></a>
+                    </div>
+                    <div class="white-bg"><a href="#"><img src="assets/images/logo-sponsoren-futurelabs.png"
+                                 alt="" /></a></div>
+                    <div class="white-bg"><a href="#"><img
+                                 src="assets/images/logo-sponsoren-regionalgruppe-wuerzburg.png" alt="" /></a>
+                    </div>
+                </div>
 
             </div>
-            </article>
 
 
         </main>
@@ -196,7 +309,6 @@
                     <li><a href="/faq.html">FAQ</a></li>
                     <li><a href="/datenschutz.html">DATENSCHUTZ</a></li>
                     <li><a href="/impressum.html">IMPRESSUM</a></li>
-                    <li><a href="/news.html">NEWS</a></li>
                     <!--
                     <li><a href="#presse">PRESSE & LOGOS</a></li>
                     -->

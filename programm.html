@@ -1,237 +1,160 @@
 <!DOCTYPE html>
 <html lang="de">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>News - AI WEEK MAINFRANKEN</title>
     <link rel="stylesheet" href="assets/style/layout.css" />
-    <link rel="icon" href="assets/img/favicon.png" type="image/png">
+    <link rel="icon" href="assets/img/favicon.png" type="image/png" />
+    <link rel="stylesheet" href="programm.css" />
 
     <!-- SEO Meta Tags -->
-    <meta name="description"
-          content="AI WEEK MAINFRANKEN - 42 Events an 5 Tagen – von Tech bis Kultur. Dezentrales Event vom 11. bis 15. November 2024 in Mainfranken und online.">
-    <meta name="keywords"
-          content="AI Week, Mainfranken, Künstliche Intelligenz, Tech Events, Kultur Events, 2024, Online Events, Dezentrales Event">
-    <meta name="author" content="AI WEEK MAINFRANKEN">
+    <meta
+      name="description"
+      content="AI WEEK MAINFRANKEN - 42 Events an 5 Tagen – von Tech bis Kultur. Dezentrales Event vom 11. bis 15. November 2024 in Mainfranken und online."
+    />
+    <meta
+      name="keywords"
+      content="AI Week, Mainfranken, Künstliche Intelligenz, Tech Events, Kultur Events, 2024, Online Events, Dezentrales Event"
+    />
+    <meta name="author" content="AI WEEK MAINFRANKEN" />
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="AI WEEK MAINFRANKEN">
-    <meta property="og:description"
-          content="42 Events an 5 Tagen – von Tech bis Kultur. Dezentrales Event vom 11. bis 15. November 2024 in Mainfranken und online.">
-    <meta property="og:image" content="assets/img/preview.png">
-    <meta property="og:url" content="https://www.ai-week.de">
-    <meta property="og:type" content="website">
+    <meta property="og:title" content="AI WEEK MAINFRANKEN" />
+    <meta
+      property="og:description"
+      content="42 Events an 5 Tagen – von Tech bis Kultur. Dezentrales Event vom 11. bis 15. November 2024 in Mainfranken und online."
+    />
+    <meta property="og:image" content="assets/img/preview.png" />
+    <meta property="og:url" content="https://www.ai-week.de" />
+    <meta property="og:type" content="website" />
+  </head>
 
-
-
-    <style>
-        .content {
-            max-width: 100%;
-        }
-
-        h2 {
-            margin-bottom: 20px;
-            color: #03c4fb;
-        }
-
-        article {
-            margin-bottom: 80px;
-            /* added margin after each article */
-        }
-
-        .news-nav ul {
-            font-size: 1.5em;
-            /* updated font-size for jump labels by 1.5em */
-        }
-
-        .news-nav ul li {
-            position: relative;
-            padding-left: 20px;
-        }
-
-        .news-nav ul li::before {
-            content: '■';
-            position: absolute;
-            left: 0;
-            color: #03c4fb;
-            margin-right: 2.0em;
-            /* added margin right between the list-style-type and the text */
-        }
-
-        .container,
-        .content,
-        main {
-            width: 90%;
-            max-width: 100%;
-            /* Entfernt mögliche Breitenbegrenzungen */
-        }
-
-        body {
-            display: flex;
-            justify-content: center;
-            margin: 0;
-            padding: 0;
-        }
-
-        .container {
-            width: 100%;
-            max-width: 1200px;
-            /* oder ein anderer geeigneter Wert */
-            padding: 20px 0;
-            /* Fügt seitlichen Abstand hinzu */
-        }
-
-        .content {
-            width: 100%;
-            max-width: 800px;
-            /* oder ein anderer geeigneter Wert */
-            /*margin: 0 auto;*/
-            /* Zentriert den Inhalt */
-        }
-
-        article {
-            margin-top: 40px;
-            /* Fügt Abstand oberhalb jedes Artikels hinzu */
-        }
-
-        /* Spezifisch für den ersten Artikel, falls nötig */
-        article:first-of-type {
-            margin-top: 60px;
-            /* Noch mehr Abstand für den ersten Artikel */
-        }
-
-        /* Optional: Wenn Sie möchten, dass nur der erste Artikel diesen zusätzlichen Abstand hat */
-        article:not(:first-of-type) {
-            margin-top: 20px;
-            /* Weniger Abstand für die folgenden Artikel */
-        }
-
-
-        h3 {
-            margin-bottom: 20px;
-            /* Fügt 20px Abstand nach unten für jedes h3 Element hinzu */
-        }
-
-        .cta-button-container {
-            text-align: center;
-            margin-top: 40px;
-            margin-bottom: 40px;
-        }
-
-        .cta-button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #3498db;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
-        }
-    </style>
-
-</head>
-
-<body>
+  <body>
     <div class="container">
-        <header>
-            <div class="logo-container">
-                <a href="/">
-                    <!--<img src="ai_week_2.svg" alt="AI Week Logo" class="logo-svg">-->
-                    <div class="logo-text">AI WEEK</div>
-                </a>
-            </div>
-            <!-- Include the navigation template -->
-            <nav id="main-nav">
-                <ul>
-                    <!--
+      <header>
+        <div class="logo-container">
+          <a href="/">
+            <!--<img src="ai_week_2.svg" alt="AI Week Logo" class="logo-svg">-->
+            <div class="logo-text">AI WEEK</div>
+          </a>
+        </div>
+        <!-- Include the navigation template -->
+        <nav id="main-nav">
+          <ul>
+            <!--
   <li><a href="/about.html">ABOUT</a></li>
   <li><a href="#mitmachen">MITMACHEN</a></li>
   <li><a href="#programm">PROGRAMM</a></li>
   <li><a href="#sponsoren">SPONSOREN</a></li>
   -->
-                    <li><a href="/about.html">ABOUT</a></li>
-                    <li><a href="/mitmachen.html">MITMACHEN</a></li>
-                    <li><a href="/programm.html">PROGRAMM</a></li>
-                    <li><a href="/sponsoren.html">SPONSOREN</a></li>
-                    <li><a href="https://www.ai-barcamp.de/">AI CAMP</a></li>
-                    <li><a href="/news.html">NEWS</a></li>
-                    <li><a href="mailto:kontakt@wueww.de">KONTAKT</a></li>
+            <li><a href="/about.html">ABOUT</a></li>
+            <li><a href="/mitmachen.html">MITMACHEN</a></li>
+            <li><a href="/programm.html">PROGRAMM</a></li>
+            <li><a href="/sponsoren.html">SPONSOREN</a></li>
+            <li><a href="https://www.ai-barcamp.de/">AI CAMP</a></li>
+            <li><a href="/news.html">NEWS</a></li>
+            <li><a href="mailto:kontakt@wueww.de">KONTAKT</a></li>
+          </ul>
+        </nav>
+      </header>
 
+      <main>
+        <div class="content">
+          <h1>Programm</h1>
+          <div class="date-selector">
+            <button class="date-tab" data-date="2024-11-11" data-day="Montag">
+              <span class="day">Montag</span>
+              <span class="date">11.11.</span>
+            </button>
+            <button class="date-tab" data-date="2024-11-12" data-day="Dienstag">
+              <span class="day">Dienstag</span>
+              <span class="date">12.11.</span>
+            </button>
+            <button class="date-tab" data-date="2024-11-13" data-day="Mittwoch">
+              <span class="day">Mittwoch</span>
+              <span class="date">13.11.</span>
+            </button>
+            <button
+              class="date-tab"
+              data-date="2024-11-14"
+              data-day="Donnerstag"
+            >
+              <span class="day">Donnerstag</span>
+              <span class="date">14.11.</span>
+            </button>
+            <button class="date-tab" data-date="2024-11-15" data-day="Freitag">
+              <span class="day">Freitag</span>
+              <span class="date">15.11.</span>
+            </button>
+          </div>
+          <div class="event-list">
+            <!-- Die Eventliste wird hier dynamisch eingefügt -->
+          </div>
+        </div>
+      </main>
 
-                </ul>
-            </nav>
-        </header>
-
-        <main>
-            <div class="content">
-                <h1>Programm</h1>
-                <h2>Hier findest du in Kürze das Programm der AI Week Mainfranken</h2>
-                <p>Wir hoffen, ein abwechslungsreiches Programm anbieten zu können, das für alle etwas bietet: vom
-                    KI-Neuling über Enthusiasten bis zur KI-Expertin.
-                </p>
-                <p>Damit das klappt, zählen wir auf die digitalen Pioniere, kreativen Köpfe und Zukunftsoptimisten
-                    unserer Region! Macht mit und tragt mit eurer Veranstaltung dazu bei!</p>
-                <p>Gemeinsam können wir unsere Region als innovativen KI-Standort positionieren und nach der Wuerzburg
-                    Web Week die nächste Erfolgsgeschichte schreiben. 
-                       <p>Die Einreichungsfrist für unser Programm ist vorüber. In der Woche vom 21. Oktober (KW 43) veröffentlichen wir hier das Programm. Sei gespannt!</p>
-
-
-                
-
-            </div>
-            </article>
-
-
-        </main>
-
-        <footer>
-            <!-- Include the navigation template -->
-            <nav id="footer-nav">
-                <ul>
-                    <li><a href="/faq.html">FAQ</a></li>
-                    <li><a href="/datenschutz.html">DATENSCHUTZ</a></li>
-                    <li><a href="/impressum.html">IMPRESSUM</a></li>
-                    <li><a href="/news.html">NEWS</a></li>
-                    <!--
+      <footer>
+        <!-- Include the navigation template -->
+        <nav id="footer-nav">
+          <ul>
+            <li><a href="/faq.html">FAQ</a></li>
+            <li><a href="/datenschutz.html">DATENSCHUTZ</a></li>
+            <li><a href="/impressum.html">IMPRESSUM</a></li>
+            <li><a href="/news.html">NEWS</a></li>
+            <!--
                     <li><a href="#presse">PRESSE & LOGOS</a></li>
                     -->
-                </ul>
+          </ul>
 
-                <div class="social-icons">
-                    <a href="https://www.instagram.com/wueww" target="_blank" aria-label="Instagram">
-                        <img alt="Instagram Logo" src="assets/img/insta.svg" class="social-share-icon" />
-                    </a>
-                    <a href="https://www.linkedin.com/company/wuerzburg-web-week" target="_blank" aria-label="LinkedIn">
-                        <img alt="LinkedIn Logo" src="assets/img/linkedin.svg" class="social-share-icon" /></a>
-                    <a href="mailto:kontakt@wueww.de" aria-label="Email">
-                        <img alt="E-Mail Pictogram" src="assets/img/email.svg" class="social-share-icon" /></a>
-                </div>
-                <span class="footnote">
-                    Made with KI 🤖 and lots of love from <a
-                       aria-label="Ute Mündlein Organisatorin der Wuerzburg Web Week" href="https://www.wueww.de"
-                       target="_blank">Ute</a> & <a aria-label="Aron Homberg LinkedIn Profile"
-                       href="https://www.linkedin.com/in/aronhomberg" target="_blank">Aron</a>.
-                </span>
-            </nav>
-        </footer>
+          <div class="social-icons">
+            <a
+              href="https://www.instagram.com/wueww"
+              target="_blank"
+              aria-label="Instagram"
+            >
+              <img
+                alt="Instagram Logo"
+                src="assets/img/insta.svg"
+                class="social-share-icon"
+              />
+            </a>
+            <a
+              href="https://www.linkedin.com/company/wuerzburg-web-week"
+              target="_blank"
+              aria-label="LinkedIn"
+            >
+              <img
+                alt="LinkedIn Logo"
+                src="assets/img/linkedin.svg"
+                class="social-share-icon"
+            /></a>
+            <a href="mailto:kontakt@wueww.de" aria-label="Email">
+              <img
+                alt="E-Mail Pictogram"
+                src="assets/img/email.svg"
+                class="social-share-icon"
+            /></a>
+          </div>
+          <span class="footnote">
+            Made with KI 🤖 and lots of love from
+            <a
+              aria-label="Ute Mündlein Organisatorin der Wuerzburg Web Week"
+              href="https://www.wueww.de"
+              target="_blank"
+              >Ute</a
+            >
+            &
+            <a
+              aria-label="Aron Homberg LinkedIn Profile"
+              href="https://www.linkedin.com/in/aronhomberg"
+              target="_blank"
+              >Aron</a
+            >.
+          </span>
+        </nav>
+      </footer>
     </div>
-    <script>
-        // Load the navigation template; Dev only
-        async function loadNavTemplate() {
-            const [responseHeaderNav, responseFooterNav] = await Promise.all([
-                fetch('assets/nav/header.html'),
-                fetch('assets/nav/footer.html')
-            ]);
-
-            const headerNavTemplate = await responseHeaderNav.text();
-            const footerNavTemplate = await responseFooterNav.text();
-
-            document.getElementById('main-nav').innerHTML = headerNavTemplate;
-            document.getElementById('footer-nav').innerHTML = footerNavTemplate;
-        }
-        loadNavTemplate();
-    </script>
-</body>
-
+    <script type="module" src="program.js"></script>
+  </body>
 </html>

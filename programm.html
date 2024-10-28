@@ -924,30 +924,43 @@
         }
       }
 
-      let events;
+      let events = [];
       fetchEvents()
         .then((data) => {
-          events = [
-            ...data,
-            {
-              title: "AI Camp Würzburg",
-              start_time: "2024-11-15T09:00:00.000Z",
-              end_time: "2024-11-15T17:00:00.000Z",
-              organizer_name: "Wuerzburg Web Week",
-              organizer_website: "https://www.wueww.de",
-              category: "business",
-              format: "conference",
-              description_short:
-                " Beim AI Camp: Keine Keynotes, keine gekauften Vorträge, kein vorab festgelegtes Programm - sondern echte Interaktion. Das funktioniert? Und wie! Egal, ob Einsteiger oder Profi - hier lernst und teilst du Wissen rund um KI. Neugierig?",
-              description_long:
-                "Beim AI Camp Würzburg gestaltest du das Programm mit! Ob KI-Enthusiast, Entwickler, Kreative oder Studierende - hier findest du Sessions zu ganz unterschiedlichen KI-Themen: von Best Practices bei der Nutzung von ChatGPT, dem Einsatz Open-Source-Modellen für Unternehmensanwendungen, Austausch zu spannenden Tools oder den ethischen Aspekt von KI-Nutzung. In den verschiedenen Tracks (Anwendung, Entwicklung, Hackspace) ist für alle was dabei. Keine Vorkenntnisse nötig, nur Neugier auf KI. Ready für echten Austausch statt Frontalvorträge? Dann sei beim AI Camp dabei!",
-              accessibility: false,
-              location:
-                "Center for Artificial Intelligence (CAIRO) der THWS, Franz-Horn-Str. 2, 97082 Würzburg",
-              loginLink:
-                "https://www.meetup.com/de-DE/wue-tech/events/304195755",
-            },
-          ];
+          events.push({
+            title: "AI Camp Würzburg",
+            start_time: "2024-11-15T09:00:00.000Z",
+            end_time: "2024-11-15T17:00:00.000Z",
+            organizer_name: "Wuerzburg Web Week",
+            organizer_website: "https://www.wueww.de",
+            category: "business",
+            format: "conference",
+            description_short:
+              " Beim AI Camp: Keine Keynotes, keine gekauften Vorträge, kein vorab festgelegtes Programm - sondern echte Interaktion. Das funktioniert? Und wie! Egal, ob Einsteiger oder Profi - hier lernst und teilst du Wissen rund um KI. Neugierig?",
+            description_long:
+              "Beim AI Camp Würzburg gestaltest du das Programm mit! Ob KI-Enthusiast, Entwickler, Kreative oder Studierende - hier findest du Sessions zu ganz unterschiedlichen KI-Themen: von Best Practices bei der Nutzung von ChatGPT, dem Einsatz Open-Source-Modellen für Unternehmensanwendungen, Austausch zu spannenden Tools oder den ethischen Aspekt von KI-Nutzung. In den verschiedenen Tracks (Anwendung, Entwicklung, Hackspace) ist für alle was dabei. Keine Vorkenntnisse nötig, nur Neugier auf KI. Ready für echten Austausch statt Frontalvorträge? Dann sei beim AI Camp dabei!",
+            accessibility: false,
+            location:
+              "Center for Artificial Intelligence (CAIRO) der THWS, Franz-Horn-Str. 2, 97082 Würzburg",
+            loginLink: "https://www.meetup.com/de-DE/wue-tech/events/304195755",
+          });
+          data.forEach((event) => {
+            if (event.title === "#TalkToYourData - AI Reporting") {
+              events.push({ ...event, start_time: "2024-11-12T14:00:00.000Z" });
+            } else if (event.title === "How-To: ChatGPT besser nutzen") {
+              events.push({ ...event, start_time: "2024-11-14T10:00:00.000Z" });
+            } else if (event.title === "Online-Marketing mit KI-Boost") {
+              events.push({ ...event, start_time: "2024-11-13T14:00:00.000Z" });
+            } else if (event.title === "How-To: ChatGPT besser nutzen") {
+              events.push({ ...event, start_time: "2024-11-14T10:00:00.000Z" });
+            } else if (event.title === "KI: Potenzial vs. Praxis") {
+              events.push({ ...event, start_time: "2024-11-12T16:30:00.000Z" });
+            } else if (event.title === "Mensch & KI: Gemeinsam wachsen") {
+              events.push({ ...event, start_time: "2024-11-14T18:00:00.000Z" });
+            } else {
+              events.push(event);
+            }
+          });
           dateTabs[0].click();
         })
         .catch((err) => console.error("Error in fetchData: ", err));
@@ -1010,13 +1023,19 @@
             const eventTime = document.createElement("span");
             const start_time = new Date(event.start_time);
             const end_time = new Date(event.end_time);
-            eventTime.textContent = `${start_time.getUTCHours()}:${start_time
-              .getUTCMinutes()
-              .toString()
-              .padEnd(2, "0")} - ${end_time.getUTCHours()}:${end_time
+            let tempText = `${start_time.getUTCHours()}:${start_time
               .getUTCMinutes()
               .toString()
               .padEnd(2, "0")}`;
+            if (event.end_time !== "") {
+              tempText += ` - ${end_time.getUTCHours()}:${end_time
+                .getUTCMinutes()
+                .toString()
+                .padEnd(2, "0")}`;
+            } else {
+              tempText += " - Open End";
+            }
+            eventTime.textContent = tempText;
             eventTitle.appendChild(eventTime);
             header.appendChild(eventTitle);
             eventCard.appendChild(header);

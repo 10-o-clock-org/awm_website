@@ -946,17 +946,35 @@
           });
           data.forEach((event) => {
             if (event.title === "#TalkToYourData - AI Reporting") {
-              events.push({ ...event, start_time: "2024-11-12T14:00:00.000Z" });
+              events.push({
+                ...event,
+                start_time: "2024-11-12T14:00:00.000Z",
+                end_time: "2024-11-12T15:00:00.000Z",
+              });
             } else if (event.title === "How-To: ChatGPT besser nutzen") {
-              events.push({ ...event, start_time: "2024-11-14T10:00:00.000Z" });
+              events.push({
+                ...event,
+                start_time: "2024-11-14T10:00:00.000Z",
+                end_time: "2024-11-14T11:00:00.000Z",
+              });
             } else if (event.title === "Online-Marketing mit KI-Boost") {
-              events.push({ ...event, start_time: "2024-11-13T14:00:00.000Z" });
-            } else if (event.title === "How-To: ChatGPT besser nutzen") {
-              events.push({ ...event, start_time: "2024-11-14T10:00:00.000Z" });
+              events.push({
+                ...event,
+                start_time: "2024-11-13T14:00:00.000Z",
+                end_time: "2024-11-13T15:00:00.000Z",
+              });
             } else if (event.title === "KI: Potenzial vs. Praxis") {
-              events.push({ ...event, start_time: "2024-11-12T16:30:00.000Z" });
+              events.push({
+                ...event,
+                start_time: "2024-11-12T16:30:00.000Z",
+                end_time: "2024-11-12T17:30:00.000Z",
+              });
             } else if (event.title === "Mensch & KI: Gemeinsam wachsen") {
-              events.push({ ...event, start_time: "2024-11-14T18:00:00.000Z" });
+              events.push({
+                ...event,
+                start_time: "2024-11-14T18:00:00.000Z",
+                end_time: "2024-11-14T20:30:00.000Z",
+              });
             } else {
               events.push(event);
             }

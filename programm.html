@@ -942,7 +942,25 @@
             accessibility: false,
             location:
               "Center for Artificial Intelligence (CAIRO) der THWS, Franz-Horn-Str. 2, 97082 Würzburg",
-            loginLink: "https://www.meetup.com/de-DE/wue-tech/events/304195755",
+            register_link:
+              "https://www.meetup.com/de-DE/wue-tech/events/304195755",
+          });
+          events.push({
+            title: "AI Readiness Assessment",
+            start_time: "2024-11-13T10:00:00.000Z",
+            end_time: "2024-11-13T11:00:00.000Z",
+            organizer_name: "RAUSCH Technology GmbH",
+            organizer_website: "www.rausch.se",
+            category: "business",
+            format: "presentation",
+            description_short:
+              "AI Readiness ist ein entscheidender, aber oft unterschätzter Faktor für erfolgreiche KI-Implementierungen. Erfahren Sie, wie ein AI Readiness Assessment Ihr Unternehmen optimal auf den Einsatz von KI vorbereitet.",
+            description_long:
+              "Nach einem kurzen Impulsvortrag über die Bedeutung der KI-Readiness als entscheidenden Faktor für den Erfolg von KI-Projekten stellen wir Ihnen einen systematischen Ansatz vor, wie die AI Readiness in Unternehmen untersucht werden kann. Dabei zeigen wir, welche Dimensionen für eine effektive Bewertung wichtig sind und wie Sie den aktuellen Stand Ihrer technologischen Bereitschaft ermitteln können. Abschließend diskutieren wir über die Erfahrungen bei der Umsetzung von KI-Projekten in Unternehmen und die damit verbundenen Hürden. Gemeinsam beleuchten wir typische Herausforderungen wie mangelnde Datenqualität, fehlende Mitarbeiterqualifikation oder kulturellen Widerstand und erörtern Strategien, um diese erfolgreich zu meistern. Nutzen Sie diese Gelegenheit, um wertvolle Einblicke in die Praxis zu gewinnen und zu erfahren, wie Sie Ihr Unternehmen optimal auf den Einsatz von KI vorbereiten können. Seien Sie dabei und gestalten Sie aktiv die digitale Zukunft Ihres Unternehmens mit.",
+            accessibility: false,
+            location:
+              "Ideenlabor im Tower, Rottendorfer Straße 71, 97074 Würzburg",
+            register_link: "https://www.rausch.se/ai-week",
           });
           data.forEach((event) => {
             if (event.title === "#TalkToYourData - AI Reporting") {
@@ -1076,16 +1094,16 @@
                   <p>Format: ${formatToDisplay(event.format)}</p>`;
             if (event.location !== "Online") {
               temp += `<p>Ort: ${event.location}`;
-              if (event.loginLink) {
-                temp += ` [<a href="${event.loginLink}" target="_blank">Anmeldung</a>]`;
+              if (event.register_link) {
+                temp += ` [<a href="${event.register_link}" target="_blank">Anmeldung</a>]`;
               }
               temp += `</p><p>Barrierefreiheit: ${
                 event.accessibility ? "Ja" : "Nein"
               }</p>`;
             } else {
               temp += `<p>Ort: Online`;
-              if (event.loginLink) {
-                temp += ` [<a href="${event.loginLink}" target="_blank">Anmeldung</a>]`;
+              if (event.register_link) {
+                temp += ` [<a href="${event.register_link}" target="_blank">Anmeldung</a>]`;
               }
               if (event.meetingLink) {
                 temp += ` [<a href=${event.meetingLink}" target="_blank">Zoom</a>]`;

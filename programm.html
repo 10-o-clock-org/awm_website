@@ -84,6 +84,7 @@
         max-width: 1200px;
         /* oder ein anderer geeigneter Wert */
         padding: 20px 0;
+        align-items: center;
         /* Fügt seitlichen Abstand hinzu */
       }
 
@@ -137,6 +138,12 @@
         display: flex;
         gap: 10px;
         margin-bottom: 20px;
+      }
+
+      @media (max-width: 650px) {
+        .date-selector {
+          flex-wrap: wrap;
+        }
       }
 
       .date-tab {
@@ -211,11 +218,14 @@
       .category-business {
         background-color: #ffc107;
       }
-      .category-founding {
+      .category-founders {
         background-color: #2196f3;
       }
       .category-society {
         background-color: #ba68c8;
+      }
+      .category-culture {
+        background-color: #a1887f;
       }
 
       .event-card h3 {
@@ -409,6 +419,7 @@
       </footer>
     </div>
     <script type="module">
+<<<<<<< HEAD
       const events = {
         "2024-11-11": [
           {
@@ -826,23 +837,589 @@
         ],
         "2024-11-15": [
           {
+=======
+      async function fetchEvents() {
+        try {
+          const response = await fetch(
+            "https://waw.vaud.rocks/api/v1/public/events"
+          );
+          if (!response.ok)
+            throw new Error(`HTTP error! Status: ${response.status}`);
+          const data = response.json();
+          return data;
+        } catch (error) {
+          console.error("Fetch failed; using default value: ", error);
+          return [
+            {
+              title: "How to Run AI Models (Fast)",
+              start_time: "2024-11-12T10:30:00.000Z",
+              end_time: "2024-11-12T12:00:00.000Z",
+              organizer_name: "snapADDY GmbH",
+              organizer_website: "https://www.snapaddy.com/de/",
+              category: "tech",
+              format: "presentation",
+              description_short:
+                "Das legendäre Entwickler-Weißwurstfrühstück ist zurück! Erfahrt mehr darüber, wie ihr eure Machine-Learning-Modelle mit Techniken wie Quantisierung beschleunigen könnt – und stärkt euch dabei mit Weißwürsten, Brezeln und Bier.",
+              description_long:
+                "Weißwürste und AI – wir bringen zusammen, was zusammen gehört. In entspannter Atmosphäre erfahrt ihr, wie ihr euren Machine-Learning-Modelle Beine macht. Ob ihr Anfänger seid oder bereits Erfahrung mitbringt – bei dieser Veranstaltung erhaltet ihr wertvolle (und praktische) Einblicke in fortgeschrittene Techniken wie Quantisierung, die es ermöglichen, Modelle effizienter und schneller zu machen, ohne dabei an Genauigkeit einzubüßen. Freut euch auf eine einzigartige Kombination aus fachlichem Austausch und bayerischer Tradition.",
+              location: "snapADDY GmbH, Haugerkirchgasse 7, 97070 Würzburg",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "https://forms.office.com/e/6fYCkXF7TM",
+            },
+            {
+              title: "Rechenzentrumsführung",
+              start_time: "2024-11-11T17:00:00.000Z",
+              end_time: "2024-11-11T17:30:00.000Z",
+              organizer_name: "Rechenzentrum Uni Würzburg",
+              organizer_website: "https://www.rz.uni-wuerzburg.de/",
+              category: "tech",
+              format: "other",
+              description_short:
+                "Wir geben einen Einblick hinter die Kulissen von KI \u0026 Co. und werfen einen Blick auf die notwendige Infrastruktur um KI zu betreiben.",
+              description_long:
+                "KI-Anwendungen benötigen in der Regel Beschleunigerkarten um notwendige Berechnungen durchzuführen. Dabei handelt es sich meistens um spezielle Grafikkarten und davon möglichst viele. Jede Karte hat eine Leistungsaufnahme zwischen 300W und 800W, die entsprechend gekühlt werden muss. Aber auch die Prozessoren sowie der Arbeitsspeicher und die Datenspeicher-Infrastruktur fordern ihren Obulus.\n\nWir werfen einen Blick auf die dafür notwendige Infrastrukur und deren Ressourcenverbrauch.",
+              location:
+                "Universität Würzburg - Campus Hubland Nord, Matthias-Lexer-Weg 25, 97074 Würzburg",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "Wann kommen die Robo Lawyer?",
+              start_time: "2024-11-12T15:00:00.000Z",
+              end_time: "2024-11-12T16:30:00.000Z",
+              organizer_name: "JunIT Rechtsanwälte",
+              organizer_website: "junit.de",
+              category: "business",
+              format: "presentation",
+              description_short:
+                'Wo kann KI Anwält*innen ersetzen? Und wie könnte das aussehen? Wir berichten von unserem Forschungsprojekt "Juriskop" und zeigen mehrere von uns entwickelte Prototypen zur KI-gestützten Beratung in Rechtsfragen, u.a. bzgl. Hatespeech und Erbrecht',
+              description_long:
+                'Wir erforschen nun seit fast drei Jahren zusammen mit dem KI-Lehrstuhl von Prof. Puppe, wie eine automatisierte juristische Einzelfallberatung mithilfe von Chatbots oder anderen Tools gelingen kann. \nWir sind überzeugt, dass die Frage nicht mehr lautet "ob" KI irgendwann anwaltliche Tätigkeiten übernehmen kann, sondern nur "wann" und "inwieweit". Daher haben wir erforscht, "wie" eine solche KI-gestützte Beratung aussehen könnte. Über unsere Erkenntnisse zu all diesen Fragestellungen möchten wir berichten.\nZur Veranschaulichung unserer Erkenntnisse zeigen wir mehrere von uns entwickelte Prototypen, darunter ein LLM-basierter Chatbot, der gesetzliche Erbfolgen und -quoten ermittelt, ein ebenfalls LLM-basiertes Tool, das Äußerungen auf enthaltene strafbare Hatespeech (Beleidigungen, üble Nachrede, Verleumdungen) überprüft, sowie ein Tool, das die komplette anwaltliche Erstberatung zu einer erhaltenen Filesharing-Abmahnung übernimmt.\nAbschließend findet eine Diskussionsrunde statt.',
+              location:
+                "Kanzleiräume JunIT Rechtsanwälte, Salvatorstraße 21, 97074 Würzburg",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "Applied SustAInability",
+              start_time: "2024-11-11T16:00:00.000Z",
+              end_time: "2024-11-11T17:00:00.000Z",
+              organizer_name: "Ingdilligenz",
+              organizer_website: "https://ingdilligenz.de/",
+              category: "tech",
+              format: "workshop",
+              description_short:
+                "Als daten- und technologieorientierte Nachhaltigkeitsberatung stellen wir vor, wo AI Tools bereits heute helfen, die nachhaltige Transformation zu beschleunigen und welche Use Cases wir noch kommen sehen.",
+              description_long:
+                'Wir stellen verschiedene Use Cases für KI aus unserem Nachhaltigkeitsconsulting vor, die bereits heute im Einsatz sind. Darunter selbstgebaute Lösungen sowie am Markt vorhandene Tools, von denen wir einige auch gerne live zeigen. Außerdem haben wir ein paar Tools der Kategorie "Zukunftsmusik" auf dem Schirm, die wir gerne vorstellen wollen. Wir sind auch gespannt, welche Ideen und Erfahrungen die Teilnehmenden haben und welche Meinungen zur "Zukunftsmusik" da sind. Wir freuen uns auf interaktiven Erfahrungsaustausch!',
+              location: "Online",
+              accessibility: false,
+              meeting_link:
+                "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmYxZDAwNmItYmFjNi00NDg4LWJhZTEtOWYyMWYyZWUxN2Jl%40thread.v2/0?context=%7b%22Tid%22%3a%22d0a8b671-ac1c-43e2-ab64-74da71e2b20c%22%2c%22Oid%22%3a%22ae50fa54-af7f-4707-88db-0a57b9cb460b%22%7d",
+              register_link: "",
+            },
+            {
+              title: "KI ethisch gestalten!",
+              start_time: "2024-11-12T09:30:00.000Z",
+              end_time: "2024-11-12T11:00:00.000Z",
+              organizer_name:
+                "THWS - Fakultät für Informatik und Wirtschaftsinformatik",
+              organizer_website: "https://fiw.thws.de/",
+              category: "society",
+              format: "workshop",
+              description_short:
+                "Künstliche Intelligenz trifft heute wichtige Entscheidungen für uns, die das Zusammenleben in unserer Gesellschaft prägen. Unser Einführungsworkshop vermittelt Dir einen Einstieg in eine ethisch und sozioformatisch aufgeklärte Perspektive auf KI.",
+              description_long:
+                "Künstliche Intelligenz trifft heute wichtige Entscheidungen für uns. Von der Empfehlung der nächsten Serie, über die Beurteilung der Kreditwürdigkeit bis hin zu Auswahl von Jobinteressierten - automatische Entscheidungsunterstützung durchdringt zunehmend unseren Alltag. Für die Digitale Gesellschaft hat das gravierende Folgen, geht es doch teilweise um die Verteilung sozial sehr bedeutsamer Güter wie Kapital oder Arbeitsplätze. \n\nIn einem interaktiven Workshop erfährst Du, wie Dir Digitale Ethik und Kenntnisse der Sozioinformatik helfen, solche Systeme zu verstehen, auf Fehler zu analysieren und diese zu beheben oder - noch besser - schon von Beginn an bei der Entwicklung und Implementierung zu vermeiden. Der Workshop richtet sich an alle, die in ihrem beruflichen oder privaten Umfeld mit KI-Systemen zu tun haben und sich für gesellschaftliche Fragen von KI interessieren. Technische oder philosophische Vorkenntnisse sind nicht erforderlich.",
+              location:
+                "THWS, Sanderheinrichsleitenweg 20, Raum H.1.11, 97074 Würzburg",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "KI im Fussball",
+              start_time: "2024-11-14T17:00:00.000Z",
+              end_time: "2024-11-14T18:00:00.000Z",
+              organizer_name: "KI-Experte und Fußballenthusiast",
+              organizer_website: "",
+              category: "tech",
+              format: "presentation",
+              description_short:
+                "KI verändert den Fußball auf allen Ebenen – von der Analyse über die Taktik bis hin zur Entscheidungsfindung. Doch ist sie wirklich ein Gamechanger oder bloß ein Hype? Der Vortrag beleuchtet Potenziale und Grenzen dieser Technologie.",
+              description_long:
+                "Künstliche Intelligenz im Fußball verspricht, den Sport in vielerlei Hinsicht zu revolutionieren. Von der datengestützten Analyse von Spieltaktiken über die Verbesserung der Entscheidungsfindung beim Scouting bis hin zur Vorhersage von Verletzungsrisiken und Leistungssteigerung der Spieler – KI wird in vielen Bereichen eingesetzt. Doch wie viel davon ist wirklicher Mehrwert, und wie viel ist bloß ein Hype? In diesem Vortrag beleuchte ich die aktuellen Anwendungen von KI im Fußball, wie sie von Vereinen, Analysten und Trainern genutzt wird, und hinterfrage, ob diese Technologien den Sport nachhaltig verändern können. Dabei werden sowohl die Chancen als auch die Grenzen der Künstlichen Intelligenz diskutiert und aufgezeigt, wo sie bereits heute einen entscheidenden Unterschied macht – und wo nicht. Gerne mit anregender anschließender Diskussion :-)\n\nP.S. Dieser Vortrag geht auf andere Aspekte ein, als die, die vor einem Jahr auf der WWW gezeigt wurden. Also vieles neu :)",
+              location: "Online",
+              accessibility: false,
+              meeting_link: "Wird nachgetragen",
+              register_link: "online",
+            },
+            {
+              title: "KI-Start-up-Pitches",
+              start_time: "2024-11-11T12:00:00.000Z",
+              end_time: "2024-11-11T13:00:00.000Z",
+              organizer_name: "Gründen in Mainfranken",
+              organizer_website: "",
+              category: "founders",
+              format: "startUpPitch",
+              description_short:
+                "Regionale Start-ups präsentieren bei der AI Week in kurzen Online-Pitches ihre innovativen KI-Lösungen. Nutze die Mittagspause für neue Einblicke, gib wertvolles Feedback und knüpfe Kontakte in der Gründer- und Tech-Szene Mainfrankens.",
+              description_long:
+                "Von Montag bis Donnerstag präsentieren Start-ups während der AI Week in fünfminütigen Online-Pitches ihre KI-Lösungen. Nach jedem Pitch kannst du Fragen stellen und Feedback geben. \n\nHeute stellen vor: \n\n- Start-up 1 \n- Start-up 2 \n- Start-up 3 \n\nNutze die Mittagspause für neue Einblicke, Inspiration und knüpfe darüber hinaus Kontakte in der Gründer- und Tech-Szene Mainfrankens – die übrigens gar nicht so klein ist. 😉 \n\nSchau auch an den anderen Tagen vorbei! Melde dich an und erfahre, woran KI-Start-ups arbeiten.\n\n💡 Moderiert werden die Pitches von Partnern des Netzwerks Gründen in Mainfranken. ",
+              location: "Online",
+              accessibility: false,
+              meeting_link:
+                "https://us02web.zoom.us/j/87851014676?pwd=BOCj2aEXrryb5GW6yDzNN8GZrOKPaq.1",
+              register_link: "",
+            },
+            {
+              title: "KI-basierte Kundeninteraktion",
+              start_time: "2024-11-13T16:00:00.000Z",
+              end_time: "2024-11-13T17:00:00.000Z",
+              organizer_name: "Mainition CRM Automation",
+              organizer_website: "www.mainition.de",
+              category: "business",
+              format: "presentation",
+              description_short:
+                "Ist eine automatisierte und zugleich individuelle Kundeninteraktion mithilfe von KI möglich? In dieser Session stellen wir verschiedene Tools und Lösungsansätze vor. Und vor allem was ist bereits praxistauglich für den Vertrieb?",
+              description_long:
+                "Ein interaktives Event über die Zukunft der Kundeninteraktion! In diesem Webinar zeigen wir, wie KI-Tools die Automatisierung und Individualisierung von Kundenkontakten revolutionieren. Wir zeigen wie Sie Ihre Kunden bereits mit wenig Aufwand effizienter ansprechen können, automatisierte und zugleich individuelle Interaktionen schaffen und so Schritt für Schritt die Kundenbeziehung aufbauen.\n\nInhalte des Webinars:\n- KI im Kundenkontakt - die Versprechen und die echten Chancen\n- Halbautomatische Möglichkeiten mit ChatGPT und Co. und ihre Grenzen\n- Tools zur Automatisierung von LinkedIn, E-Mail, Chat sowie kanalübergreifende Tools\n- Praxisbeispiele erfolgreicher KI-Anwendungen in Vertrieb und Kundenbeziehung anhand unseres eigenen Produkts\n\nFür wen ist das Webinar geeignet? \n\nDieses Event richtet sich an Geschäftsführer, Vertriebsleiter und alle, die ihre Kundeninteraktionen mit innovativen KI-Lösungen verbessern möchten.",
+              location: "Online",
+              accessibility: false,
+              meeting_link: "",
+              register_link:
+                "https://www.eventbrite.com/e/ai-week-automatisierte-und-individualisierte-kundeninteraktion-mit-ki-tickets-1057546152009?aff=aiweek",
+            },
+            {
+              title: "KI-Gestützte Fitnesspläne ",
+              start_time: "2024-11-13T17:00:00.000Z",
+              end_time: "2024-11-13T18:00:00.000Z",
+              organizer_name: "Garmin Würzburg",
+              organizer_website: "garmin.com",
+              category: "tech",
+              format: "presentation",
+              description_short:
+                "Trainings- und Gesundheitspläne erfreuen sich immer mehr Beliebtheit. Mithilfe KI und hinreichenden Daten lassen sich individuelle Pläne generieren und dynamisch anpassen während sie durchlaufen werden. Wir bieten hierzu einen Überblick mit Demo.",
+              description_long:
+                "Mithilfe von hoch individualisierten Plänen lassen sich perönliche Ziele im Bereich Fitness oder Gesundheit optimal erreichen. Im klassischen Ansatz werden dazu Profildaten erhoben, z.B. Alter, Gewicht, bisherige Aktivitäten, Problemzonen. Weiterhin werden Ziele definiert, sei es eine sportliche Zielmarke oder Steigerung der Fitness, Gewichtsreduktion usw. Durch KI-gestütze Anwendungen können hier mittlerweile Pläne erstellt werden, die weitaus besser auf die einzelne Person zugeschnitten sind und die sich während des Durchlaufens des Plans dynamisch anpassen unter Zuhilfenahme von Metriken die durch Körpersensoren oder manuelle Eingabe erfasst werden. Diese werden mit vorhandenen Daten abgeglichen und lassen so eine spezifische Anpassung des Planes zu. \nIn diesem Vortrag wird zunächst ein allgemeiner Überblick über die Thematik gegeben, dann etwas technischer Hintergrund vorgestellt und schließlich gezeigt, wie das ganze tatsächlich in einer App funktioniert. ",
+              location: "Garmin, Beethovenstr. 1b, 97080 Würzburg",
+              accessibility: false,
+              meeting_link: "",
+              register_link:
+                "https://feedback.garmin.com/EFM/se/46E3B81808D0E9ED",
+            },
+            {
+              title: "KI-Start-up-Pitches",
+              start_time: "2024-11-12T12:00:00.000Z",
+              end_time: "2024-11-12T13:00:00.000Z",
+              organizer_name: "Gründen in Mainfranken",
+              organizer_website: "",
+              category: "founders",
+              format: "startUpPitch",
+              description_short:
+                "Regionale Start-ups präsentieren bei der AI Week in kurzen Online-Pitches ihre innovativen KI-Lösungen. Nutze die Mittagspause für neue Einblicke, gib wertvolles Feedback und knüpfe Kontakte in der Gründer- und Tech-Szene Mainfrankens.\n",
+              description_long:
+                "Von Montag bis Donnerstag präsentieren Start-ups während der AI Week in fünfminütigen Online-Pitches ihre KI-Lösungen. Nach jedem Pitch kannst du Fragen stellen und Feedback geben. \n\nHeute stellen vor: \n\n- Start-up 1 \n- Start-up 2 \n- Start-up 3 \n\nNutze die Mittagspause für neue Einblicke, Inspiration und knüpfe darüber hinaus Kontakte in der Gründer- und Tech-Szene Mainfrankens – die übrigens gar nicht so klein ist. 😉 \n\nSchau auch an den anderen Tagen vorbei! Melde dich an und erfahre, woran KI-Start-ups arbeiten.\n\n💡 Moderiert werden die Pitches von Partnern des Netzwerks Gründen in Mainfranken. ",
+              location: "Online",
+              accessibility: false,
+              meeting_link:
+                "https://us02web.zoom.us/j/87851014676?pwd=BOCj2aEXrryb5GW6yDzNN8GZrOKPaq.1",
+              register_link: "",
+            },
+            {
+              title: "KI-Start-up-Pitches",
+              start_time: "2024-11-14T12:00:00.000Z",
+              end_time: "2024-11-14T13:00:00.000Z",
+              organizer_name: "Gründen in Mainfranken",
+              organizer_website: "",
+              category: "founders",
+              format: "startUpPitch",
+              description_short:
+                "Regionale Start-ups präsentieren bei der AI Week in kurzen Online-Pitches ihre innovativen KI-Lösungen. Nutze die Mittagspause für neue Einblicke, gib wertvolles Feedback und knüpfe Kontakte in der Gründer- und Tech-Szene Mainfrankens.",
+              description_long:
+                "Von Montag bis Donnerstag präsentieren Start-ups während der AI Week in fünfminütigen Online-Pitches ihre KI-Lösungen. Nach jedem Pitch kannst du Fragen stellen und Feedback geben. \n\nHeute stellen vor: \n\n- Start-up 1 \n- Start-up 2 \n- Start-up 3 \n\nNutze die Mittagspause für neue Einblicke, Inspiration und knüpfe darüber hinaus Kontakte in der Gründer- und Tech-Szene Mainfrankens – die übrigens gar nicht so klein ist. 😉 \n\nSchau auch an den anderen Tagen vorbei! Melde dich an und erfahre, woran KI-Start-ups arbeiten.\n\n💡 Moderiert werden die Pitches von Partnern des Netzwerks Gründen in Mainfranken. \n",
+              location: "Online",
+              accessibility: false,
+              meeting_link:
+                "https://us02web.zoom.us/j/87851014676?pwd=BOCj2aEXrryb5GW6yDzNN8GZrOKPaq.1",
+              register_link: "",
+            },
+            {
+              title: "Optische Sortiertechnik",
+              start_time: "2024-11-11T09:00:00.000Z",
+              end_time: "2024-11-11T16:00:00.000Z",
+              organizer_name: "IFSYS GmbH",
+              organizer_website: "https://www.ifsys.com/de/",
+              category: "tech",
+              format: "presentation",
+              description_short:
+                "IFSYS als Spezialist für Zuführtechnik setzt neue Maßstäbe im Bereich Sortiertechnik. Besonders Sortiergüter mit wechselnden und anspruchsvollen Geometrien können mit Hilfe unserer Sortiertechnik sortiert und klassifiziert werden.",
+              description_long:
+                "360°-Rundumansicht und Klassifizierung Ihrer Sortiergüter\nIFSYS setzt als Spezialist für Zuführtechnik neue Maßstäbe in der optischen Sortiertechnik. Am Bsp der Haselnusssortierung zeigen wir, wie anspruchsvolle Geometrien durch den Einsatz von KI effizient erkannt und klassifiziert werden. KI-basierte Algorithmen analysieren und klassifizieren in Echtzeit nach den vorgegebenen Kriterien.\nDie KI garantiert eine gleichbleibend hohe Qualität und kann rund um die Uhr mit konstanter Leistung sortieren. Der Einsatz von KI eröffnet neue Möglichkeiten, die über herkömmliche Programmierungen hinausgehen.\nUnsere maßgeschneiderte Sortiertechnik bietet höchste Flexibilität bei der Klassifizierung u. ist ideal für den Agrarsektor, die Lebensmittelindustrie u. ähnliche Bereiche. Ob Bevorratung, Zuführung, Sortierung oder Verpackung – KI-gestützte optische Sortiertechnik passt sich nahtlos an spezifische Anforderungen an u. ermöglicht eine zukunftsorientierte Automatisierung der Sortierprozesse.",
+              location: "IFSYS GmbH, Am Weißen Kreuz 5, 97633 Großbardorf",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "BARC Data \u0026 Analytics Meetup",
+              start_time: "2024-11-12T18:15:00.000Z",
+              end_time: "",
+              organizer_name: "BARC GmbH",
+              organizer_website: "www.barc.com",
+              category: "tech",
+              format: "presentation",
+              description_short:
+                "Damit künstliche Intelligenz eure Unternehmensdaten interpretieren kann ist es notwendig das richtige Umfeld dafür zu schaffen. Wir zeigen euch einen ganzen Abend lang, wie Ihr mit der Open Source Variante von dbt eure Datenplattform bauen könnt.",
+              description_long:
+                "Wie ist ein dbt Projekt aufgebaut, warum dbt der König der SQL-Transformation genannt wird und das Open Source Framework seit Jahren auf allen Plattformen immer beliebter wird. Egal ob Data Mesh, Data Warehouse, Data Fabric – Datenprodukte sind in allen Bereichen der Wirtschaft angekommen. Aber wie baue ich diese effektiv, wie verbinde ich die Methoden moderner Softwareentwicklung mit SQL? Warum wird DevOps für Data Analytics zu DataOps?\n\nWir zeigen es euch einen Abend lang, von Null. Wir stellen euch das Open Source Framework vor, zeigen euch wie Ihr es anwendet und wie Ihr out of the box, Data Lineage, Metadaten zu euren Modellen und Beschreibungen der Daten erstellt. Und das alles unter Sicherstellung der entsprechenden Data Quality.\n\nDieser Meetup ist für alle Interessierte an Analytics/Business Intelligence, künstlicher Intelligenz und Datenmanagement - egal ob Anwender, Consultant, Softwareanbieter oder Student.",
+              location:
+                "Folgt sobald Termin feststeht, Platzhalterweg 1, 97080 Würzburg",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "Chatbots: Innovation \u0026 Praxis",
+              start_time: "2024-11-14T11:00:00.000Z",
+              end_time: "2024-11-14T11:45:00.000Z",
+              organizer_name: "s.Oliver Group",
+              organizer_website: "https://soliver-group.com/",
+              category: "business",
+              format: "presentation",
+              description_short:
+                "Erleben Sie, wie Chatbots mit künstlicher Intelligenz Interaktionen revolutionieren! In diesem Vortrag zeigen wir, wie AI in Chatbots funktioniert und welche Anwendungsfälle es für Unternehmen gibt",
+              description_long:
+                "Chatbots im Unternehmen: Innovation und Praxis in der S.OLIVER GROUP\nErleben Sie, wie Chatbots mit künstlicher Intelligenz Interaktionen revolutionieren! In diesem Vortrag zeigen wir, wie AI in Chatbots funktioniert und welche Anwendungsfälle es für Unternehmen gibt. Anhand eines Praxisbeispiels aus unserem Händlerportal demonstrieren wir, wie Chatbots unsere B2B-Kunden beim Ordern unserer Marke QS unterstützen. ",
+              location: "Online",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "KI in der Praxis",
+              start_time: "2024-11-11T10:00:00.000Z",
+              end_time: "2024-11-11T10:45:00.000Z",
+              organizer_name: "s.Oliver Group",
+              organizer_website: "https://soliver-group.com/",
+              category: "business",
+              format: "presentation",
+              description_short:
+                "Wie gestaltet s.Oliver die Reise zur KI? Erfahren Sie, wie Mitarbeiter eingebunden werden, warum Datenqualität \u0026 Datenschutz wichtig ist und wie kleine Schritte und mutige Ideen große Veränderungen bewirken. Wir zeigen Praxisbeispiele \u0026 Pilotprojekte",
+              description_long:
+                "In diesem Vortrag zeigen wir, wie s.Oliver die Reise zur Künstlichen Intelligenz gestaltet. Erfahren Sie, wie Mitarbeiter in den Wandel eingebunden werden, warum Datenqualität unverzichtbar ist und wie mit kleinen Schritten und mutigen Ideen große Veränderungen erzielt werden können. Praxisbeispiele aus der Modebranche verdeutlichen die Bedeutung von Ethik, Datenschutz, Plattformauswahl und Pilotprojekten in der Entwicklung von KI-Lösungen bei s.Oliver.\n",
+              location: "Online",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "KI-Start-up-Pitches",
+              start_time: "2024-11-13T12:00:00.000Z",
+              end_time: "2024-11-13T13:00:00.000Z",
+              organizer_name: "Gründen in Mainfranken",
+              organizer_website: "",
+              category: "founders",
+              format: "startUpPitch",
+              description_short:
+                "Regionale Start-ups präsentieren bei der AI Week in kurzen Online-Pitches ihre innovativen KI-Lösungen. Nutze die Mittagspause für neue Einblicke, gib wertvolles Feedback und knüpfe Kontakte in der Gründer- und Tech-Szene Mainfrankens.",
+              description_long:
+                "Von Montag bis Donnerstag präsentieren Start-ups während der AI Week in fünfminütigen Online-Pitches ihre KI-Lösungen. Nach jedem Pitch kannst du Fragen stellen und Feedback geben. \n\nHeute stellen vor: \n\n- Start-up 1 \n- Start-up 2 \n- Start-up 3 \n\nNutze die Mittagspause für neue Einblicke, Inspiration und knüpfe darüber hinaus Kontakte in der Gründer- und Tech-Szene Mainfrankens – die übrigens gar nicht so klein ist. 😉 \n\nSchau auch an den anderen Tagen vorbei! Melde dich an und erfahre, woran KI-Start-ups arbeiten.\n\n💡 Moderiert werden die Pitches von Partnern des Netzwerks Gründen in Mainfranken. \n",
+              location: "Online",
+              accessibility: false,
+              meeting_link:
+                "https://us02web.zoom.us/j/87851014676?pwd=BOCj2aEXrryb5GW6yDzNN8GZrOKPaq.1",
+              register_link: "",
+            },
+            {
+              title: "Copilot: KI im Büroalltag",
+              start_time: "2024-11-11T13:00:00.000Z",
+              end_time: "2024-11-11T13:30:00.000Z",
+              organizer_name: "Simon Fieber IT-Services",
+              organizer_website: "https://simonfieber.it",
+              category: "business",
+              format: "presentation",
+              description_short:
+                "Erleben Sie Microsoft Copilot in Aktion: Von der Einführung über praktische Beispiele aus dem Büroalltag bis hin zu den Anforderungen für die reibungslose Implementierung. Entdecken Sie, wie Copilot Ihren Büroalltag revolutionieren kann.",
+              description_long:
+                "In diesem Impulsvortrag geben wir Ihnen einen umfassenden Einblick in die Welt von Microsoft Copilot und seine Anwendungsmöglichkeiten im modernen Büroalltag. Nach einer kurzen Einführung in die Funktionen und Vorteile von Copilot zeigen wir anhand einer Live-Demo, wie die KI-basierte Lösung alltägliche Aufgaben automatisiert und den Workflow effizienter gestaltet. Ob bei der Erstellung von Dokumenten, der Analyse von Daten oder der Optimierung von Arbeitsprozessen – wir demonstrieren praxisnah, wie Copilot den Arbeitsalltag unterstützt. Zudem klären wir über die technischen Voraussetzungen auf, die für die erfolgreiche Implementierung in Ihre bestehende IT-Infrastruktur notwendig sind, und zeigen, wie Sie Copilot nahtlos in Ihre Arbeitsabläufe integrieren können. Lassen Sie sich inspirieren, wie Microsoft Copilot die Effizienz steigert und die Arbeitsweise in Ihrem Unternehmen revolutionieren kann.",
+              location: "Online",
+              accessibility: false,
+              meeting_link: "",
+              register_link:
+                "https://events.teams.microsoft.com/event/81a09609-f686-4ebf-945a-e9d4d357c933@51cad58d-8317-426c-8bcc-35481d8a4901",
+            },
+            {
+              title: "GenAI: Was kommt nach dem Hype",
+              start_time: "2024-11-14T13:00:00.000Z",
+              end_time: "2024-11-14T13:45:00.000Z",
+              organizer_name: "Signals",
+              organizer_website: "https://www.signals-innovationhub.com/",
+              category: "business",
+              format: "presentation",
+              description_short:
+                "Viele Unternehmen befinden sich in der ersten Phase, in der KI genutzt wird, um zu Optimieren. Doch dieacht von KI zeigt sich erst in den nächsten Phasen. Es geht um den aktuellen Status von GenAI \u0026 wie wir von einem Hype zur Transformation kommen. ",
+              description_long:
+                "Die Entwicklung der KI könnte in Wellen verlaufen. Die meisten Unternehmen befinden sich heute in der ersten Phase, in der KI genutzt wird, um Zeit, Kosten und Effizienz zu optimieren.\n\nDoch die wahre Macht von KI zeigt sich erst in den nächsten beiden Phasen. \nIn dem Vortrag geht es um den aktuellen Status von KI Anwendungen (Der Stand der GenAI Anwendungen der Signal Iduna wird erläutert) und wie wir von einem Hype zu einer Transformation kommen. \n\nDer Vortrag lädt dazu ein, über die aktuellen Anwendungen von KI zu diskutieren und die Chancen zu erkennen, die in der langfristigen Entwicklung von KI-Technologien wie GenAI liegen",
+              location: "Online",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "AI Readiness Assessment",
+              start_time: "2024-11-13T10:00:00.000Z",
+              end_time: "2024-11-13T11:30:00.000Z",
+              organizer_name: "RAUSCH Technology GmbH",
+              organizer_website: "www.rausch.se",
+              category: "business",
+              format: "presentation",
+              description_short:
+                "AI Readiness ist ein entscheidender, aber oft unterschätzter Faktor für erfolgreiche KI-Implementierungen. Erfahren Sie, wie ein AI Readiness Assessment Ihr Unternehmen optimal auf den Einsatz von KI vorbereitet.",
+              description_long:
+                "Nach einem kurzen Impulsvortrag über die Bedeutung der KI-Readiness als entscheidenden Faktor für den Erfolg von KI-Projekten stellen wir Ihnen einen systematischen Ansatz vor, wie die AI Readiness in Unternehmen untersucht werden kann. Dabei zeigen wir, welche Dimensionen für eine effektive Bewertung wichtig sind und wie Sie den aktuellen Stand Ihrer technologischen Bereitschaft ermitteln können. Abschließend diskutieren wir über die Erfahrungen bei der Umsetzung von KI-Projekten in Unternehmen und die damit verbundenen Hürden. Gemeinsam beleuchten wir typische Herausforderungen wie mangelnde Datenqualität, fehlende Mitarbeiterqualifikation oder kulturellen Widerstand und erörtern Strategien, um diese erfolgreich zu meistern. Nutzen Sie diese Gelegenheit, um wertvolle Einblicke in die Praxis zu gewinnen und zu erfahren, wie Sie Ihr Unternehmen optimal auf den Einsatz von KI vorbereiten können. Seien Sie dabei und gestalten Sie aktiv die digitale Zukunft Ihres Unternehmens mit.",
+              location:
+                "Ideenlabor im Tower, Rottendorfer Straße 71, 97074 Würzburg",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "Mit KI gemeinsam wachsen",
+              start_time: "2024-11-13T13:00:00.000Z",
+              end_time: "2024-11-13T14:00:00.000Z",
+              organizer_name: "viteamin b",
+              organizer_website: "https://viteamin-b.de/",
+              category: "business",
+              format: "presentation",
+              description_short:
+                "Entdecke, wie Unternehmen und Teams eine KI-Strategie entwickeln können, die gezielt auf Schwachstellen eingeht. Erfahre, wie Du Deine Kollegen befähigen kannst, KI-Lösungen zu verstehen, mitzugestalten und das volle Potenzial auszuschöpfen.",
+              description_long:
+                "KI bietet Unternehmen und Teams enorme Möglichkeiten, Arbeitsprozesse effizienter zu gestalten und Schwachstellen gezielt zu beheben. Aber wie entwickelt man eine Strategie, die genau auf die aktuellen Bedürfnisse abgestimmt ist? In diesem interaktiven Event lernst Du, wie Du gemeinsam mit Deinem Team eine nachhaltige KI-Strategie erarbeitest, die sowohl die Herausforderungen als auch die Potenziale berücksichtigt. Ein besonderer Fokus liegt darauf, wie Menschen aktiv in den Wandel eingebunden werden können – von der Sensibilisierung bis zur aktiven Mitgestaltung. Du erfährst, wie Du Dein Team motivierst, KI nicht als Bedrohung, sondern als Chance zu sehen, und wie ihr gemeinsam wachsen könnt, um das volle Potenzial von KI-Lösungen im Arbeitsalltag auszuschöpfen.\n\nDieses Format bietet praxisnahe Impulse, Raum für Austausch und konkrete Ansätze, die direkt in Deinem Unternehmen umgesetzt werden können.",
+              location: "Online",
+              accessibility: false,
+              meeting_link: "folgt",
+              register_link: "Anmeldung unter info@viteamin-b.de",
+            },
+            {
+              title: "So nutzt die Main-Post KI",
+              start_time: "2024-11-13T09:00:00.000Z",
+              end_time: "2024-11-13T09:45:00.000Z",
+              organizer_name: "Main-Post",
+              organizer_website: "mainpost.de",
+              category: "society",
+              format: "presentation",
+              description_short:
+                "Die Main-Post hat einen KI-Assistenten programmiert, der die Redaktion bei der Arbeit unterstützt. Chefredakteur Ivo Knahn stellt Chancen und Risiken vor und berichtet, welche Pläne es für die künftige Arbeit mit Künstlicher Intelligenz gibt.",
+              description_long:
+                "Künstliche Intelligenz hat schnell ihren Platz im Alltag von Journalistinnen und Journalisten gefunden. Aber wie kann eine Technik, deren Ergebnisse großteils auf Wahrscheinlichkeiten basiert, ausgerechnet im Journalismus funktionieren? Die Redaktion der Main-Post hat sich mit rechtlichen und ethischen Fragen befasst und einen Weg gefunden, ihre Redakteurinnen und Redakteure durch KI im Alltag zu unterstützen. In redaktionellen Leitlinien sind die Grenzen der KI-Nutzung beschrieben. Ein selbst entwickelter KI-Assistent begleitet die Redaktionen bei der täglichen Arbeit - etwa bei der Themenfindung, bei Überschriften oder bei der Fehlersuche. In Zukunft könnten die Seiten der gedruckten Zeitung KI-unterstützt und weitestgehend automatisiert layoutet werden. Ivo Knahn, Chefredakteur der Main-Post stellt vor, welche Chancen und Risiken KI für Verlage bedeutet und welche Pläne es für die künftige Nutzung von Künstlicher Intelligenz gibt. Fragen und Diskussion ausdrücklich erwünscht!",
+              location: "Online",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "ChatGPT und Co. im Forecasting",
+              start_time: "2024-11-11T18:00:00.000Z",
+              end_time: "2024-11-11T19:30:00.000Z",
+              organizer_name: "prognostica GmbH",
+              organizer_website: "https://www.prognostica.de/",
+              category: "business",
+              format: "presentation",
+              description_short:
+                "Wie revolutionieren Large Language Models (LLMs) das Forecasting? Welche Möglichkeiten eröffnen sich für moderne Forecasting-Software? Ein Vortrag und spannende Diskussionen rund um ChatGPT und seine Verwandten im Forecasting erwarten dich. ",
+              description_long:
+                "Large Language Models (LLMs) eröffnen neue Möglichkeiten sowohl bei der Erstellung von Vorhersagen als auch bei deren Nutzung. \nDank der Transformer-Technologie können LLMs auch direkt zur Vorhersage von Zeitreihen eingesetzt werden. Am Beispiel von MOIRAI zeigen wir euch, welche Leistungsfähigkeit diese Vorhersagemethoden aktuell bieten.\nWir wollen euch demonstrieren, wie Planer sich Vorhersagen zusammenfassen lassen, nach Gründen für Trends und Ausreißern suchen oder sogar ihre Berichterstellung mittels Sprache individuell erstellen können.\nLLMs können nicht nur den Planer, sondern auch die Planungssoftware selbst unterstützen, indem sie selbst passende Kontextinformationen generieren. \nLasst euch inspirieren und diskutiert mit unserem Data Science Team im Anschluss an den Vortrag über die neuen Möglichkeiten im Bereich Forecasting.",
+              location:
+                "Capri \u0026 Blaue Grotte, Elefantengasse 1, 97070 Würzburg",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "KI im Geschäftsmodell",
+              start_time: "2024-11-14T09:00:00.000Z",
+              end_time: "2024-11-14T09:30:00.000Z",
+              organizer_name: "RAUSCH Technology GmbH",
+              organizer_website: "www.rausch.se",
+              category: "business",
+              format: "presentation",
+              description_short:
+                "Entdecken Sie, wie Sie die Potenziale der Künstlichen Intelligenz in Ihrem Geschäftsmodell erkennen und nutzen können. ",
+              description_long:
+                "Die Künstliche Intelligenz (KI) revolutioniert Geschäftsmodelle in nahezu allen Branchen. Doch wie können Unternehmen die vielfältigen Potenziale von KI gezielt identifizieren und für sich nutzen? In dieser Veranstaltung zeigen wir Ihnen, wie Sie systematisch KI-Möglichkeiten in Ihrem Geschäftsmodell erkennen und priorisieren können. Wir stellen bewährte Frameworks wie das Business Model Canvas mit KI-Fokus und die Wertschöpfungskettenanalyse vor, die Ihnen helfen, strategische Entscheidungen zu treffen.\n\nAnhand eines konkreten Praxisbeispiels erfahren Sie, wie ein Unternehmen durch die Integration von KI sein Geschäftsmodell erfolgreich transformiert hat. In einer interaktiven Workshop-Session haben Sie die Gelegenheit, diese Methoden auf Ihr eigenes Geschäftsmodell anzuwenden und erste KI-Potenziale zu identifizieren. Nutzen Sie die Chance, sich mit anderen Teilnehmern auszutauschen, Ideen zu diskutieren und wertvolle Impulse für die Umsetzung in Ihrem Unternehmen zu erhalten.",
+              location:
+                "Ideenlabor im Tower, Rottendorfer Straße 71, 97074 Würzburg",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "Zum Kundenportal mit KI",
+              start_time: "2024-11-13T09:30:00.000Z",
+              end_time: "2024-11-13T11:00:00.000Z",
+              organizer_name: "jo's büro für Gestaltung GmbH",
+              organizer_website: "https://jos-buero.de/",
+              category: "business",
+              format: "presentation",
+              description_short:
+                "Unsere JOSi ist auf dem Weg zum allumfassenden Kundenportal. Programmiert auf unseren individuellen Bedürfnisse - ohne Programmiererfahrung. JOSi ist aktuell für Kunden eingesetztes Budget- und Planungstool der Aufwände.",
+              description_long:
+                "Auf dem Weg zum allumfassenden Kundenportal mit KI. Johannes Breidenbach, Gründer und Geschäftsführer von jo's büro, ist dabei ohne Programmierkenntnisse, aber mit Leidenschaft und Unterstützung von KI, das innovative Kundenportal JOSi zu entwickeln. Ursprünglich wurden Kundenbudgets manuell über Excel verwaltet, doch JOSi bietet eine smarte Lösung für die speziellen Anforderungen von Designagenturen. Es ermöglicht den Zugriff auf getrackte und abgerechnete Stunden, schafft Transparenz und erleichtert zudem das interne Controlling, indem es nahtlos in die Projektmanagementsoftware integriert wird. Durch die KI erkannte Breidenbach neue Herausforderungen, die er gezielt lösen konnte. Version 2.0 wird bald live gehen. JOSi soll künftig zu einem umfassenden Kundenportal erweitert werden, das neben aktuellen Daten auch markenspezifische Assets verwaltet. Mit KI-Unterstützung werden Prozesse weiter automatisiert und die Plattform als zentrale Lösung für Effizienz und Transparenz genutzt.",
+              location:
+                "jo's büro für Gestaltung, Juliuspromenade 3, 97070 Würzburg",
+              accessibility: false,
+              meeting_link: "",
+              register_link: "",
+            },
+            {
+              title: "Postolympischer KI-Triathlon",
+              start_time: "2024-11-14T15:00:00.000Z",
+              end_time: "2024-11-14T17:00:00.000Z",
+              organizer_name: "vAudience GmbH",
+              organizer_website: "https://www.vaudience.ai/",
+              category: "tech",
+              format: "workshop",
+              description_short:
+                "Tauchen Sie ein in Sound-, Bild- und Quiz-Challenges und entdecken Sie das Potenzial von KI für Ihr Unternehmen. Interaktive 90 Minuten, max. 18 Teilnehmer. Siegprämie für den besten Triathleten! Jetzt anmelden und die Zukunft gestalten!",
+              description_long:
+                "Erleben Sie den Postolympischen KI-Triathlon!\nTauchen Sie ein in eine faszinierende Welt der Künstlichen Intelligenz mit unserem einzigartigen, interaktiven KI-Triathlon bei vAudience. In 90 spannenden Minuten erleben Sie, wie autonome Multiagentensysteme die Unternehmenswelt revolutionieren. Meistern Sie dank Künstlicher Intelligenz Sound-, Bild- und Quiz-Challenges und entdecken Sie, wie KI das Potenzial hat, Ihr Unternehmen nachhaltig zu transformieren.\nWir erklären, wie Sie mit Ihren Unternehmensdaten sprechen können. Profitieren Sie von praxisnahen Beispielen, die zeigen, wie KI Ihre Geschäftsprozesse optimieren kann.\nMit einer maximalen Teilnehmerzahl von 18 Personen garantieren wir eine intensive und persönliche Lernerfahrung. Eine Siegprämie wartet auf den besten Triathleten! Verpassen Sie nicht diese Gelegenheit, die Zukunft Ihres Unternehmens aktiv zu gestalten. Jetzt anmelden und auf der KI-Überholspur fahren.",
+              location:
+                "vAudience GmbH, John-Skilton-Straße 22, 97074 Würzburg",
+              accessibility: false,
+              meeting_link: "",
+              register_link:
+                "https://www.vaudience.ai/details-registrierung/postolympischer-ki-triathlon",
+            },
+          ];
+        }
+      }
+
+      function categoryToDisplay(category) {
+        switch (category) {
+          case "founders":
+            return "Gründen/Start-Up";
+          case "tech":
+            return "Tech & Science";
+          case "society":
+            return "Digitale Gesellschaft & Nachhaltigkeit";
+          case "culture":
+            return "Kultur";
+          case "business":
+            return "Business & New Work";
+          default:
+            return "";
+            break;
+        }
+      }
+
+      function formatToDisplay(format) {
+        switch (format) {
+          case "presentation":
+            return "Vortrag";
+          case "workshop":
+            return "Workshop";
+          case "conference":
+            return "Konferenz";
+          case "programmingSession":
+            return "Programmiersession";
+          case "demo":
+            return "Demo";
+          case "discussion":
+            return "Diskussion";
+          case "posterSession":
+            return "Poster-Session";
+          case "hackathon":
+            return "Hackathon";
+          case "startUpPitch":
+            return "Start-up-Pitch";
+          case "other":
+            return "Sonstiges";
+          default:
+            return "";
+        }
+      }
+
+      let events = [];
+      fetchEvents()
+        .then((data) => {
+          events.push({
+>>>>>>> 08fb474739d5d762ad5dca51e4acf4286eccef18
             title: "AI Camp Würzburg",
-            time: "9:00 - 17:00",
-            organizer: "Wuerzburg Web Week",
-            website: "https://www.wueww.de",
+            start_time: "2024-11-15T09:00:00.000Z",
+            end_time: "2024-11-15T17:00:00.000Z",
+            organizer_name: "Wuerzburg Web Week",
+            organizer_website: "https://www.wueww.de",
             category: "business",
-            format: "Konferenz",
-            shortDesc:
+            format: "conference",
+            description_short:
               " Beim AI Camp: Keine Keynotes, keine gekauften Vorträge, kein vorab festgelegtes Programm - sondern echte Interaktion. Das funktioniert? Und wie! Egal, ob Einsteiger oder Profi - hier lernst und teilst du Wissen rund um KI. Neugierig?",
-            longDesc:
+            description_long:
               "Beim AI Camp Würzburg gestaltest du das Programm mit! Ob KI-Enthusiast, Entwickler, Kreative oder Studierende - hier findest du Sessions zu ganz unterschiedlichen KI-Themen: von Best Practices bei der Nutzung von ChatGPT, dem Einsatz Open-Source-Modellen für Unternehmensanwendungen, Austausch zu spannenden Tools oder den ethischen Aspekt von KI-Nutzung. In den verschiedenen Tracks (Anwendung, Entwicklung, Hackspace) ist für alle was dabei. Keine Vorkenntnisse nötig, nur Neugier auf KI. Ready für echten Austausch statt Frontalvorträge? Dann sei beim AI Camp dabei!",
             accessibility: false,
             location:
               "Center for Artificial Intelligence (CAIRO) der THWS, Franz-Horn-Str. 2, 97082 Würzburg",
-            loginLink: "https://www.meetup.com/de-DE/wue-tech/events/304195755",
-          },
-        ],
-      };
+            register_link:
+              "https://www.meetup.com/de-DE/wue-tech/events/304195755",
+          });
+          events.push({
+            title: "AI Readiness Assessment",
+            start_time: "2024-11-13T10:00:00.000Z",
+            end_time: "2024-11-13T11:00:00.000Z",
+            organizer_name: "RAUSCH Technology GmbH",
+            organizer_website: "www.rausch.se",
+            category: "business",
+            format: "presentation",
+            description_short:
+              "AI Readiness ist ein entscheidender, aber oft unterschätzter Faktor für erfolgreiche KI-Implementierungen. Erfahren Sie, wie ein AI Readiness Assessment Ihr Unternehmen optimal auf den Einsatz von KI vorbereitet.",
+            description_long:
+              "Nach einem kurzen Impulsvortrag über die Bedeutung der KI-Readiness als entscheidenden Faktor für den Erfolg von KI-Projekten stellen wir Ihnen einen systematischen Ansatz vor, wie die AI Readiness in Unternehmen untersucht werden kann. Dabei zeigen wir, welche Dimensionen für eine effektive Bewertung wichtig sind und wie Sie den aktuellen Stand Ihrer technologischen Bereitschaft ermitteln können. Abschließend diskutieren wir über die Erfahrungen bei der Umsetzung von KI-Projekten in Unternehmen und die damit verbundenen Hürden. Gemeinsam beleuchten wir typische Herausforderungen wie mangelnde Datenqualität, fehlende Mitarbeiterqualifikation oder kulturellen Widerstand und erörtern Strategien, um diese erfolgreich zu meistern. Nutzen Sie diese Gelegenheit, um wertvolle Einblicke in die Praxis zu gewinnen und zu erfahren, wie Sie Ihr Unternehmen optimal auf den Einsatz von KI vorbereiten können. Seien Sie dabei und gestalten Sie aktiv die digitale Zukunft Ihres Unternehmens mit.",
+            accessibility: false,
+            location:
+              "Ideenlabor im Tower, Rottendorfer Straße 71, 97074 Würzburg",
+            register_link: "https://www.rausch.se/ai-week",
+          });
+          data.forEach((event) => {
+            if (event.title === "#TalkToYourData - AI Reporting") {
+              events.push({
+                ...event,
+                start_time: "2024-11-12T14:00:00.000Z",
+                end_time: "2024-11-12T15:00:00.000Z",
+              });
+            } else if (event.title === "How-To: ChatGPT besser nutzen") {
+              events.push({
+                ...event,
+                start_time: "2024-11-14T10:00:00.000Z",
+                end_time: "2024-11-14T11:00:00.000Z",
+              });
+            } else if (event.title === "Online-Marketing mit KI-Boost") {
+              events.push({
+                ...event,
+                start_time: "2024-11-13T14:00:00.000Z",
+                end_time: "2024-11-13T15:00:00.000Z",
+              });
+            } else if (event.title === "KI: Potenzial vs. Praxis") {
+              events.push({
+                ...event,
+                start_time: "2024-11-12T16:30:00.000Z",
+                end_time: "2024-11-12T17:30:00.000Z",
+              });
+            } else if (event.title === "Mensch & KI: Gemeinsam wachsen") {
+              events.push({
+                ...event,
+                start_time: "2024-11-14T18:00:00.000Z",
+                end_time: "2024-11-14T20:30:00.000Z",
+              });
+            } else {
+              events.push(event);
+            }
+          });
+          dateTabs[0].click();
+        })
+        .catch((err) => console.error("Error in fetchData: ", err));
 
       async function loadNavTemplate() {
         const [responseHeaderNav, responseFooterNav] = await Promise.all([
@@ -863,10 +1440,18 @@
       const eventListContainer = document.querySelector(".event-list");
       const dateTabs = document.querySelectorAll(".date-tab");
 
+      function getFilteredEvents(selectedDate) {
+        return events
+          .filter((event) => event.start_time.includes(selectedDate))
+          .sort(function (a, b) {
+            return new Date(a.start_time) - new Date(b.start_time);
+          });
+      }
+
       // Funktion zum Rendern der Events als Karten
       function renderEvents(selectedDate) {
         // Filtere die Events basierend auf dem ausgewählten Datum
-        const filteredEvents = events[selectedDate];
+        const filteredEvents = getFilteredEvents(selectedDate);
 
         // Die Eventliste leeren
         eventListContainer.innerHTML = "";
@@ -886,14 +1471,27 @@
               "category-chip",
               `category-${event.category.toLowerCase()}`
             );
-            categoryChip.textContent =
-              event.category.charAt(0).toUpperCase() + event.category.slice(1);
+            categoryChip.textContent = categoryToDisplay(event.category);
             header.appendChild(categoryChip);
 
             const eventTitle = document.createElement("h3");
             eventTitle.textContent = event.title;
             const eventTime = document.createElement("span");
-            eventTime.textContent = event.time;
+            const start_time = new Date(event.start_time);
+            const end_time = new Date(event.end_time);
+            let tempText = `${start_time.getUTCHours()}:${start_time
+              .getUTCMinutes()
+              .toString()
+              .padEnd(2, "0")}`;
+            if (event.end_time !== "") {
+              tempText += ` - ${end_time.getUTCHours()}:${end_time
+                .getUTCMinutes()
+                .toString()
+                .padEnd(2, "0")}`;
+            } else {
+              tempText += " - Open End";
+            }
+            eventTime.textContent = tempText;
             eventTitle.appendChild(eventTime);
             header.appendChild(eventTitle);
             eventCard.appendChild(header);
@@ -902,21 +1500,30 @@
             const eventInfo = document.createElement("div");
             eventInfo.classList.add("event-info");
             let temp = `
-                <p>Veranstalter: <a href="${event.website}" target="_blank">${event.organizer}</a></p>
-                <p>Format: ${event.format}</p>
-            `;
+                  <p>Veranstalter:
+              `;
+            if (event.organizer_website !== "") {
+              const website_url = event.organizer_website.startsWith("https://")
+                ? event.organizer_website
+                : "https://" + event.organizer_website;
+              temp += `<a href="${website_url}" target="_blank">${event.organizer_name}</a>`;
+            } else {
+              temp += event.organizer_name;
+            }
+            temp += `</p>
+                  <p>Format: ${formatToDisplay(event.format)}</p>`;
             if (event.location !== "Online") {
               temp += `<p>Ort: ${event.location}`;
-              if (event.loginLink) {
-                temp += ` [<a href="${event.loginLink}" target="_blank">Anmeldung</a>]`;
+              if (event.register_link) {
+                temp += ` [<a href="${event.register_link}" target="_blank">Anmeldung</a>]`;
               }
               temp += `</p><p>Barrierefreiheit: ${
                 event.accessibility ? "Ja" : "Nein"
               }</p>`;
             } else {
               temp += `<p>Ort: Online`;
-              if (event.loginLink) {
-                temp += ` [<a href="${event.loginLink}" target="_blank">Anmeldung</a>]`;
+              if (event.register_link) {
+                temp += ` [<a href="${event.register_link}" target="_blank">Anmeldung</a>]`;
               }
               if (event.meetingLink) {
                 temp += ` [<a href=${event.meetingLink}" target="_blank">Zoom</a>]`;
@@ -931,23 +1538,23 @@
 
             // Kurzbeschreibung
             const eventDescriptionShort = document.createElement("p");
-            eventDescriptionShort.textContent = event.shortDesc;
+            eventDescriptionShort.textContent = event.description_short;
             eventDescriptionShort.classList.add("event-short-description");
             eventCard.appendChild(eventDescriptionShort);
 
             // Lange Beschreibung (standardmäßig versteckt)
             const eventDescriptionLong = document.createElement("p");
             eventDescriptionLong.classList.add("event-description");
-            eventDescriptionLong.textContent = event.longDesc;
+            eventDescriptionLong.textContent = event.description_long;
             eventCard.appendChild(eventDescriptionLong);
 
             // Toggle-Button für die lange Beschreibung
             const toggleIcon = document.createElement("div");
             toggleIcon.classList.add("toggle-icon");
             toggleIcon.innerHTML = `
-                <svg viewBox="0 0 24 24" width="40" height="40">
-                    <path fill="black" d="M12 16.5L6.75 11.25L8.16 9.84L12 13.67L15.84 9.84L17.25 11.25L12 16.5Z"/>
-                </svg>`;
+                  <svg viewBox="0 0 24 24" width="40" height="40">
+                      <path fill="black" d="M12 16.5L6.75 11.25L8.16 9.84L12 13.67L15.84 9.84L17.25 11.25L12 16.5Z"/>
+                  </svg>`;
             toggleIcon.addEventListener("click", () => {
               eventCard.classList.toggle("expanded");
             });
@@ -976,7 +1583,7 @@
       });
 
       // Initiales Rendern
-      dateTabs[0].click(); // Der erste Tab ist standardmäßig ausgewählt
+      // Der erste Tab ist standardmäßig ausgewählt
     </script>
   </body>
 </html>

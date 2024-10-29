@@ -1041,7 +1041,15 @@
             register_link: "https://www.ai-barcamp.de",
           });
           data.forEach((event) => {
-            events.push(event);
+            if (event.title === "Mensch & KI: Gemeinsam wachsen") {
+              events.push({
+                ...event,
+                start_time: "2024-11-14T18:00:00.000Z",
+                end_time: "2024-11-14T20:30:00.000Z",
+              });
+            } else {
+              events.push(event);
+            }
           });
           dateTabs[0].click();
         })

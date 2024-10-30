@@ -1053,6 +1053,13 @@
                 start_time: "2024-11-14T17:00:00.000Z",
                 end_time: "2024-11-14T18:00:00.000Z",
               });
+            } else if (event.title === "KI-Start-up-Pitches") {
+              events.push({
+                ...event,
+                description_long:
+                  event.description_long +
+                  `Nutze die Mittagspause für neue Einblicke, Inspiration und knüpfe darüber hinaus Kontakte in der Gründer- und Tech-Szene Mainfrankens – die übrigens gar nicht so klein ist. 😉  Schau auch an den anderen Tagen vorbei! Melde dich an und erfahre, woran KI-Start-ups arbeiten. 💡 Moderiert werden die Pitches von Partnern des Netzwerks Gründen in Mainfranken. `,
+              });
             } else {
               events.push(event);
             }

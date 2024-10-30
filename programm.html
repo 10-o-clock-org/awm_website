@@ -1185,14 +1185,20 @@
 
             // Kurzbeschreibung
             const eventDescriptionShort = document.createElement("p");
-            eventDescriptionShort.textContent = event.description_short;
+            eventDescriptionShort.innerHTML = event.description_short.replace(
+              /\n/g,
+              "<br>"
+            );
             eventDescriptionShort.classList.add("event-short-description");
             eventCard.appendChild(eventDescriptionShort);
 
             // Lange Beschreibung (standardmäßig versteckt)
             const eventDescriptionLong = document.createElement("p");
             eventDescriptionLong.classList.add("event-description");
-            eventDescriptionLong.textContent = event.description_long;
+            eventDescriptionLong.innerHTML = event.description_long.replace(
+              /\n/g,
+              "<br>"
+            );
             eventCard.appendChild(eventDescriptionLong);
 
             // Toggle-Button für die lange Beschreibung

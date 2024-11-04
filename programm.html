@@ -192,6 +192,7 @@
         transition: box-shadow 0.3s;
         overflow: hidden;
         position: relative;
+        cursor: pointer;
       }
 
       .event-card:hover {
@@ -419,6 +420,9 @@
       </footer>
     </div>
     <script type="module">
+      function goToEventDetails(eventId) {
+        window.location.href = `program-details.html?id=${eventId}`;
+      }
       async function fetchEvents() {
         try {
           const response = await fetch(
@@ -1108,6 +1112,7 @@
           filteredEvents.forEach((event) => {
             const eventCard = document.createElement("div");
             eventCard.classList.add("event-card");
+            eventCard.onclick = () => goToEventDetails(event.id);
 
             // Header mit Kategorie-Chip und Titel
             const header = document.createElement("div");
@@ -1172,7 +1177,7 @@
               if (event.register_link) {
                 temp += ` [<a href="${event.register_link}" target="_blank">Anmeldung</a>]`;
               }
-              if (event.meetingLink) {
+              if (event.meeting_link) {
                 temp += ` [<a href=${event.meetingLink}" target="_blank">Zoom</a>]`;
               }
               if (event.loginInstruction) {

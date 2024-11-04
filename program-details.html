@@ -399,6 +399,32 @@
       async function loadEventDetails() {
         const params = new URLSearchParams(window.location.search);
         const eventId = params.get("id");
+
+        if (eventId === "51dbd295-99eb-4fd3-9174-36a53409f745") {
+          return {
+            id: "51dbd295-99eb-4fd3-9174-36a53409f745",
+            title: "AI Camp Würzburg",
+            start_time: "2024-11-15T09:00:00.000Z",
+            end_time: "2024-11-15T17:00:00.000Z",
+            organizer_name: "Wuerzburg Web Week",
+            organizer_website: "https://www.wueww.de",
+            category: "business",
+            format: "conference",
+            description_short:
+              " Beim AI Camp: Keine Keynotes, keine gekauften Vorträge, kein vorab festgelegtes Programm - sondern echte Interaktion. Das funktioniert? Und wie! Egal, ob Einsteiger oder Profi - hier lernst und teilst du Wissen rund um KI. Neugierig?",
+            description_long:
+              "Beim AI Camp Würzburg gestaltest du das Programm mit! Ob KI-Enthusiast, Entwickler, Kreative oder Studierende - hier findest du Sessions zu ganz unterschiedlichen KI-Themen: von Best Practices bei der Nutzung von ChatGPT, dem Einsatz Open-Source-Modellen für Unternehmensanwendungen, Austausch zu spannenden Tools oder den ethischen Aspekt von KI-Nutzung. In den verschiedenen Tracks (Anwendung, Entwicklung, Hackspace) ist für alle was dabei. Keine Vorkenntnisse nötig, nur Neugier auf KI. Ready für echten Austausch statt Frontalvorträge? Dann sei beim AI Camp dabei!",
+            accessibility: false,
+            location:
+              "Center for Artificial Intelligence (CAIRO) der THWS, Franz-Horn-Str. 2, 97082 Würzburg",
+            register_link: "https://www.ai-barcamp.de",
+            lat: "49.7960534",
+            lng: "9.8987993",
+            organizer_description: "",
+            socials: {},
+            organizer_sponsor: true,
+          };
+        }
         try {
           const response = await fetch(
             "https://waw.vaud.rocks/api/v1/public/events"

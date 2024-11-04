@@ -446,6 +446,19 @@
             window.location.href = "programm.html";
             return;
           }
+
+          if (element.title === "Mensch & KI: Gemeinsam wachsen") {
+            element.start_time = "2024-11-14T18:00:00.000Z";
+            element.end_time = "2024-11-14T20:30:00.000Z";
+          } else if (element.title === "KI im Fussball") {
+            element.start_time = "2024-11-14T17:00:00.000Z";
+            element.end_time = "2024-11-14T18:00:00.000Z";
+          } else if (element.title === "KI-Start-up-Pitches") {
+            element.description_long =
+              element.description_long +
+              `Nutze die Mittagspause für neue Einblicke, Inspiration und knüpfe darüber hinaus Kontakte in der Gründer- und Tech-Szene Mainfrankens – die übrigens gar nicht so klein ist. 😉  Schau auch an den anderen Tagen vorbei! Melde dich an und erfahre, woran KI-Start-ups arbeiten. 💡 Moderiert werden die Pitches von Partnern des Netzwerks Gründen in Mainfranken. `;
+          }
+
           return element;
         } catch (error) {
           window.location.href = "programm.html";

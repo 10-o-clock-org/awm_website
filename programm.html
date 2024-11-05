@@ -267,6 +267,22 @@
       .event-card .event-info p {
         margin: 0;
       }
+
+      .register-button {
+        font-size: 16px;
+        padding: 5px;
+        padding-left: 15px;
+        padding-right: 15px;
+        background-color: #ff5400;
+        color: #ffff;
+        border: none;
+        cursor: pointer;
+        border-radius: 6px;
+      }
+      .register-button:hover {
+        box-shadow: 2px 2px 2px black;
+        transform: translateY(-2px);
+      }
     </style>
   </head>
 
@@ -409,7 +425,7 @@
           const data = response.json();
           return data;
         } catch (error) {
-          window.location.href = "index.html";
+          return;
         }
       }
 
@@ -499,7 +515,10 @@
           });
           dateTabs[0].click();
         })
-        .catch((err) => console.error("Error in fetchData: ", err));
+        .catch((err) => {
+          console.error("Error in fetchData: ", err);
+          dateTabs[4].click();
+        });
 
       async function loadNavTemplate() {
         const [responseHeaderNav, responseFooterNav] = await Promise.all([
@@ -604,6 +623,17 @@
             );
             eventDescriptionShort.classList.add("event-short-description");
             eventCard.appendChild(eventDescriptionShort);
+
+            if (event.register_link !== "") {
+              const registerButton = document.createElement("button");
+              registerButton.classList.add("register-button");
+              registerButton.onclick = (clickevent) => {
+                clickevent.stopPropagation();
+                window.open(event.register_link, "_blank");
+              };
+              registerButton.textContent = "Zur Anmeldung";
+              eventCard.appendChild(registerButton);
+            }
 
             eventListContainer.appendChild(eventCard);
           });

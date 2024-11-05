@@ -249,6 +249,22 @@
         display: flex;
         flex-direction: column;
       }
+      .register-button {
+        font-size: 16px;
+        padding: 5px;
+        padding-left: 15px;
+        padding-right: 15px;
+        background-color: #ff5400;
+        color: #ffff;
+        border: none;
+        cursor: pointer;
+        margin-bottom: 30px;
+        width: fit-content;
+        border-radius: 6px;
+      }
+      .register-button:hover {
+        transform: translateY(-2px);
+      }
     </style>
   </head>
 
@@ -522,6 +538,17 @@
         );
         eventDetails.appendChild(longDescription);
 
+        if (event.register_link !== "") {
+          const registerButton = document.createElement("button");
+          registerButton.classList.add("register-button");
+          registerButton.onclick = (clickevent) => {
+            clickevent.stopPropagation();
+            window.open(event.register_link, "_blank");
+          };
+          registerButton.textContent = "Zur Anmeldung";
+          eventDetails.appendChild(registerButton);
+        }
+
         var map = L.map("map").setView([event.lat, event.lng], 13);
         L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
           maxZoom: 19,
@@ -569,12 +596,6 @@
           ? "Barrierefrei"
           : "Nicht barrierefrei";
 
-        const registrationLink = document.createElement("a");
-        registrationLink.classList.add("some-link");
-        registrationLink.href = event.register_link;
-        registrationLink.target = "_blank";
-        registrationLink.innerHTML = "Anmeldung";
-
         const onlineDisplay = document.createElement("p");
         onlineDisplay.textContent = "Event findet online statt";
         const meetingDisplay = document.createElement("a");
@@ -596,8 +617,6 @@
           physicalAddress.append(onlineDisplay);
           if (event.meeting_link) physicalAddress.append(meetingDisplay);
         }
-        if (event.register_link !== "")
-          physicalAddress.appendChild(registrationLink);
         addressContainer.appendChild(physicalAddress);
 
         const socialsContainer = document.createElement("div");

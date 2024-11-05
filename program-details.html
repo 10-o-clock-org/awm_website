@@ -491,7 +491,9 @@
 
         const start = new Date(event.start_time);
         const end = new Date(event.end_time);
-        const startString = `${start.getUTCDate()}.${start.getUTCMonth()} ${start.getUTCHours()}:${start
+        const startString = `${start.getUTCDate()}.${
+          start.getUTCMonth() + 1
+        } ${start.getUTCHours()}:${start
           .getUTCMinutes()
           .toString()
           .padEnd(2, "0")} Uhr`;

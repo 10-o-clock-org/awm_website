@@ -378,10 +378,10 @@
             <a
               href="https://www.linkedin.com/company/wuerzburg-web-week"
               target="_blank"
-              aria-label="LinkedIn"
+              aria-label="Linked"
             >
               <img
-                alt="LinkedIn Logo"
+                alt="Linked Logo"
                 src="assets/img/linkedin.svg"
                 class="social-share-icon"
             /></a>
@@ -402,7 +402,7 @@
             >
             &
             <a
-              aria-label="Aron Homberg LinkedIn Profile"
+              aria-label="Aron Homberg Linked Profile"
               href="https://www.linkedin.com/in/aronhomberg"
               target="_blank"
               >Aron</a
@@ -425,8 +425,8 @@
           const data = response.json();
           return data;
         } catch (error) {
-          return;
-        }
+         return;
+       }
       }
 
       function categoryToDisplay(category) {
@@ -501,9 +501,10 @@
             accessibility: false,
             location:
               "Center for Artificial Intelligence (CAIRO) der THWS, Franz-Horn-Str. 2, 97082 Würzburg",
-            register_link: "https://www.ai-barcamp.de/",
+           register_link:
+              "https://www.ai-barcamp.de",
           });
-          data.forEach((event) => {
+         data.forEach((event) => {
             if (event.title === "Mensch & KI: Gemeinsam wachsen") {
               events.push({
                 ...event,

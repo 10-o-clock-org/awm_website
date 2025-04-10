@@ -16,7 +16,7 @@ for (let i = 0; i < numberOfDots; i++) {
 
 // JavaScript for countdown
 const countdownElement = document.getElementById('countdown');
-const targetDate = new Date('June 30th, 2025 08:00:00').getTime();
+const targetDate = new Date('June 30, 2025 08:00:00').getTime();
 
 function padNumber(number) {
   return number < 10 ? `0${number}` : number;

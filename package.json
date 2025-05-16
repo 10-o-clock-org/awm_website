@@ -1,6 +1,0 @@
-{
-  "private": true,
-  "scripts": {
-    "build": "mkdir -p dist && cp -R *.{html,xml,txt} dist && cp -R assets dist"
-  }
-}

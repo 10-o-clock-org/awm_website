@@ -1,12 +1,6 @@
 {
   "private": true,
-  "dependencies": {
-    "@vercel/edge": "^0.1.2",
-    "vite": "^5.4.2"
-  },
   "scripts": {
-    "dev": "vite",
-    "build": "mkdir -p dist && cp -R *.{html,xml,txt} dist && cp -R assets dist",
-    "start": "vite preview"
+    "build": "mkdir -p dist && cp -R *.{html,xml,txt} dist && cp -R assets dist"
   }
 }

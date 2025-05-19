@@ -25,5 +25,5 @@ jobs:
       - run: chmod 400 ~/.ssh/github-action ~/.ssh/known_hosts
 
       - run: if [ "$GITHUB_REF_NAME" != "main" ]; then ssh -i $HOME/.ssh/github-action m3621@web15.biohost.net mkdir /home/m3621/Sites/ai-week.de/"$GITHUB_REF_NAME"; fi
-      - run: rsync -rtl -e "ssh -i $HOME/.ssh/github-action" *.html *.xml *.txt assets m3621@web15.biohost.net:"/home/m3621/Sites/ai-week.de/${GITHUB_REF_NAME#main}/"
+      - run: rsync -rtl -e "ssh -i $HOME/.ssh/github-action" css fonts images inc js template-parts *.php robots.txt m3621@web15.biohost.net:"/home/m3621/Sites/ai-week.de/${GITHUB_REF_NAME#main}/"
 

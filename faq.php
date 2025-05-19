@@ -34,24 +34,24 @@
                             </div>
 
                               <div class="tab">                                
-                                <input type="checkbox" name="accordion-1" id="cb2" checked>
-                                <label for="cb1" class="tab__label">Wann und wo findet sie statt?</label>
+                                <input type="checkbox" name="accordion-2" id="cb2" checked>
+                                <label for="cb2" class="tab__label">Wann und wo findet sie statt?</label>
                                 <div class="tab__content">
                                     <p>Vom vom 30. Juni bis 4. Juli 2025 an verschiedenen Orten in Mainfranken sowie online.</p>
                                 </div>
                             </div>
                             
                             <div class="tab">                                
-                                <input type="checkbox" name="accordion-1" id="cb3" checked>
-                                <label for="cb1" class="tab__label">Wer kann teilnehmen?</label>
+                                <input type="checkbox" name="accordion-3" id="cb3" checked>
+                                <label for="cb3" class="tab__label">Wer kann teilnehmen?</label>
                                 <div class="tab__content">
                                     <p>Alle, die die KI-Zukunft vorantreiben möchten: neugierige Einsteiger ebenso wie Tech-Enthusiasten und KI-Experten, Start-ups, Gründer, Unternehmer, Professoren und
                         Studierende ...</p>
                                 </div>
                             </div>
                             <div class="tab">
-                                <input type="checkbox" name="accordion-2" id="cb4">
-                                <label for="cb2" class="tab__label">Accordion Überschrift B</label>
+                                <input type="checkbox" name="accordion-4" id="cb4">
+                                <label for="cb4" class="tab__label">Accordion Überschrift B</label>
                                 <div class="tab__content">
                                     <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
                                 </div>

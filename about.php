@@ -24,7 +24,7 @@
                         <p>Die AI Week Mainfranken ist Bayerns erstes dezentrales Festival mit Schwerpunkt KI.</p> 
                         <p>Vom 30. Juni bis 4. Juli 2025 erwarten dich 42 Events an verschiedenen Orten in der Region sowie online.
                 An der ersten AI Week Mainfranken 2024 nahmen <a href="https://www.linkedin.com/feed/update/urn:li:activity:7264913707372089345">über 1.000 Menschen teil</a>.</p>
-                <h2>Unsere Vision</h2>
+                <h2>Unsere Vision:</h2>
                 <p>Wir sind überzeugt: KI kann viel, wir Menschen aber auch! Gemeinsam sind wir unschlagbar, wenn es
                     darum geht, die großen Herausforderungen unserer Zeit zu meistern. Die AI Week Mainfranken bringt
                     Innovatoren, Experten und Neugierige zusammen, um die Zukunft der KI aktiv mitzugestalten.

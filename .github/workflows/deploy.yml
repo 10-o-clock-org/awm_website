@@ -2,7 +2,7 @@ name: Deploy Website
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "*" ]
 
 permissions:
   contents: read
@@ -24,5 +24,6 @@ jobs:
           SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
       - run: chmod 400 ~/.ssh/github-action ~/.ssh/known_hosts
 
-      - run: rsync -rtl -e "ssh -i $HOME/.ssh/github-action" *.html *.xml *.txt assets m3621@web15.biohost.net:/home/m3621/Sites/ai-week.de/
+      - run: if [ "$GITHUB_REF_NAME" != "main" ]; then ssh -i $HOME/.ssh/github-action m3621@web15.biohost.net mkdir /home/m3621/Sites/ai-week.de/"$GITHUB_REF_NAME"; fi
+      - run: rsync -rtl -e "ssh -i $HOME/.ssh/github-action" *.html *.xml *.txt assets m3621@web15.biohost.net:"/home/m3621/Sites/ai-week.de/${GITHUB_REF_NAME#main}/"
 

@@ -17,13 +17,55 @@
             <div class="container">                 
                 <div class="grid">
                     <div class="col span-8">
-                        <h1>H1 Versal</h1>
+                        <h1>About</h1>
                         <br>
-                        <h2>H2 Normal</h2>
+                        <h2>Bayerns erstes dezentrales KI-Festival</h2>
                         <br>
-                        <h3>H3 Normal</h3>
+                        <p>Die AI Week Mainfranken ist Bayerns erstes dezentrales Festival mit Schwerpunkt KI.</p> 
+                        <p>Vom 30. Juni bis 4. Juli 2025 erwarten dich 42 Events an verschiedenen Orten in der Region sowie online.
+                An der ersten AI Week Mainfranken 2024 nahmen <a href="https://www.linkedin.com/feed/update/urn:li:activity:7264913707372089345">über 1.000 Menschen teil</a>.</p>
+                <h2>Unsere Vision</h2>
+                <p>Wir sind überzeugt: KI kann viel, wir Menschen aber auch! Gemeinsam sind wir unschlagbar, wenn es
+                    darum geht, die großen Herausforderungen unserer Zeit zu meistern. Die AI Week Mainfranken bringt
+                    Innovatoren, Experten und Neugierige zusammen, um die Zukunft der KI aktiv mitzugestalten.
+                </p>
+                <h3>Mit der AI Week Mainfranken möchten wir:</h3>
+                <ul>
+                            <li>Künstliche Intelligenz greifbar machen</li>
+                            <li>Die Expertise unserer Region für alle sichtbar machen</li>
+                            <li>Aktuelle Möglichkeiten und Grenzen von KI aufzeigen</li>
+                            <li>Gemeinsam die KI-Zukunft vorantreiben</li>        
+                </ul>
                         <br>
-                        <p>Paragraph Fließtext Er hörte leise Schritte hinter sich. Das bedeutete nichts Gutes. Wer würde ihm schon folgen, spät in der Nacht und dazu noch in dieser engen Gasse mitten im übel beleumundeten Hafenviertel? Gerade jetzt, wo er das Ding seines Lebens gedreht hatte und mit der Beute verschwinden wollte! Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner <span>Arbeit</span> zu erleichtern?</p>
+                         <h2>Ablauf der AI Week Mainfranken:</h2>
+                         <ul>
+                        <li>Fünf thematische Schwerpunkte zum Thema KI (von Technologie bis Fitness)</li>                  </li>
+                        <li>42 Events über 5 Veranstaltungstage verteilt</li>
+                        <li>Veranstaltungen für Einsteiger bis Profis</li>
+                        <li><a href="https://www.ai-barcamp.de">AI Camp Würzburg</a> als Abschluss-Event am 4. Juli 2025</li>
+                                            </ul>
+                     <br>
+                        <h2>Für wen ist die AI Week Mainfranken?</h2>
+                <p>Die AI Week Mainfranken richtet sich an alle (m/w/d), die die Zukunft der KI mitgestalten oder
+                    einfach mehr darüber erfahren möchten:</p>
+                </p>
+                <ul>
+                        <li>Neugierige Einsteiger: Du hast von KI gehört und willst mehr wissen? Hier bist du
+                                richtig!</li>
+                        <li>Tech-Enthusiasten und KI-Expertinnen: Teil dein Wissen und tausche dich mit
+                                Gleichgesinnten aus.</li>
+                        <li>Start-ups, Gründerin und Unternehmer: Erfahre, wie andere KI bereits erfolgreich
+                                einsetzen und knüpfe neue Kontakte.</li>
+                        <li>Forscher, Professoren, Studierende aus verschiedenen Fachrichtungen.</li>                       </li>
+                        </ul>
+                         <p>Egal, ob KI-Neuling oder Expertin – die AI Week Mainfranken bietet für alle spannende Einblicke und
+                        einen Austausch auf Augenhöhe.</p>
+                         <h2>Wer organisiert die AI Week Mainfranken?</h2>
+                <p>Die AI Week Mainfranken wird von Ute Mündlein organisiert. Sie ist Mitgründerin und Hauptorganisatorin der seit 2018 jährlich stattfindenden 
+                    <a href="https://www.wueww.de" target="_blank">Wuerzburg Web Week</a>.</p>
+                    <a class="button" href="/mitmachen.php">MACH MIT</a>
+
+                        
                         <figure>
                             <img src="images/bild.jpg" alt="" />
                             <figcaption>Bildunterschrift mit Erklärung etc.<br>oder einfach nur so</figcaption>
@@ -41,6 +83,7 @@
                             <li>Aufzählung</li>
                             <li>Aufzählung</li>
                         </ol>
+                        <h3>H3 Normal</h3>
                         <br><br>
                         <a class="button" href="#">Button</a>
                         <br><br>

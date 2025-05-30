@@ -119,8 +119,8 @@
                         </br>
                         <section class="accordion">
                                 <div class="tab">                                
-                                <input type="checkbox" name="accordion-1" id="cb1" checked>
-                                <label for="cb1" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
+                                <input type="checkbox" name="accordion-13" id="cb13" checked>
+                                <label for="cb13" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
                                 <div class="tab__content">
                                     <p>Bis Montag, den 2. Juni um 23:59 Uhr, kannst du <a aria-label="Event-Tool der AI Week Mainfranken" href="https://backend.timetable.ai-week.de"
                                     target="_blank">in unser Event-Tool</a> Veranstaltungen für die AI Week eintragen.</p>

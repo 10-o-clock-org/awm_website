@@ -170,22 +170,18 @@
                             <h2>Für XXX</h2>
                         </br>
                         <section class="accordion">
-                                <input type="checkbox" name="accordion-2" id="cb2">
-                                <label for="cb2" class="tab__label">Accordion Überschrift B</label>
+                                <input type="checkbox" name="accordion-1" id="cb1">
+                                <label for="cb1" class="tab__label">Accordion Überschrift B</label>
                                 <div class="tab__content">
                                     <p <section class="accordion">
-                            <div class="tab">
-                                <input type="checkbox" name="accordion-1" id="cb1" checked>
-                                <label for="cb1" class="tab__label">Accordion Überschrift A</label>
-                                <div class="tab__content">
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-                                </div>
-                            </div>
-
-                            <div class="t>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-                                </div>
-                            </div>
-</section>
+                            < <div class="tab">
+            <input type="checkbox" name="accordion-2" id="cb2">
+            <label for="cb2" class="tab__label">Accordion Überschrift B</label>
+            <div class="tab__content">
+                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+            </div>
+        </div>
+    </section>
                     </div>
                 </div>
             </div>

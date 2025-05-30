@@ -223,20 +223,28 @@
                                    target="_blank">Weitere Informationen.</a></p>
             </div>
         </div>
+        <div class="tab">
+            <input type="checkbox" name="accordion-24" id="cb24" checked>
+            <label for="cb24" class="tab__label">Bis wann kann ich mich für die KI-Start-up-Pitches bewerben?</label>
+            <div class="tab__content">
+                <p>Bis Montag, den 23. Juni 2025 <a href="https://www.ai-week.de/news.html#pitches"
+                                   target="_blank">Weitere Informationen.</a></p>
+            </div>
+        </div>
         </section>
                         <h2>Für Sponsoren und Presse</h2>
                         </br>
                             <div class="tab">
-            <input type="checkbox" name="accordion-24" id="cb24">
-            <label for="cb24" class="tab__label">Warum sollte mein Unternehmen die AI Week Mainfranken sponsern?</label>
+            <input type="checkbox" name="accordion-25" id="cb25">
+            <label for="cb25" class="tab__label">Warum sollte mein Unternehmen die AI Week Mainfranken sponsern?</label>
             <div class="tab__content">
                 <p>Als Sponsor erhältst du Sichtbarkeit, positionierst dich als innovatives Unternehmen und unterstützt die Entwicklung der KI-Kompetenz in der Region. Bei Interesse an einem
                                 Sponsoring bitte ute.muendlein@wueww puuunkt de kontaktieren.</p>
             </div>
         </div>
         <div class="tab">
-            <input type="checkbox" name="accordion-25" id="cb25">
-            <label for="cb25" class="tab__label">Wie kann die Presse Informationen zur AI Week Mainfranken erhalten?</label>
+            <input type="checkbox" name="accordion-26" id="cb26">
+            <label for="cb26" class="tab__label">Wie kann die Presse Informationen zur AI Week Mainfranken erhalten?</label>
             <div class="tab__content">
                 <p>Aktuell am besten per Anfrage an ute.muendlein@wueww punkt de.</p>
             </div>

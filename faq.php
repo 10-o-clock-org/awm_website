@@ -51,16 +51,67 @@
                             </div>
                             <div class="tab">
                                 <input type="checkbox" name="accordion-4" id="cb4">
-                                <label for="cb4" class="tab__label">Accordion Überschrift B</label>
+                                <label for="cb4" class="tab__label">Wie viel kostet die Teilnahme?</label>
                                 <div class="tab__content">
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                                    <p>Die meisten Veranstaltungen sind kostenfrei. Eine Ausnahmen ist das <a href="https://www.ai-barcamp.de" target="_blank">AI Camp</a>, für das ein Ticketpreis erhoben wird.</p>
                                 </div>
                             </div>
                             <div class="tab">
-                                <input type="checkbox" name="accordion-3" id="cb5">
-                                <label for="cb3" class="tab__label">Accordion Überschrift C</label>
+                                <input type="checkbox" name="accordion-5" id="cb5">
+                                <label for="cb5" class="tab__label">Welche Themen werden behandelt?</label>
                                 <div class="tab__content">
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                                    <p>Bei der AI Week Mainfranken gibt es Events zu Tech & Science, Digitale Gesellschaft & Nachhaltigkeit, Business, Gründen und Kultur.</p>
+                                </div>
+                                <div class="tab">
+                                <input type="checkbox" name="accordion-6" id="cb6">
+                                <label for="cb6" class="tab__label">Gibt es auch Veranstaltungen für KI-Einsteiger?</label>
+                                <div class="tab__content">
+                                    <p>Ja, wir werden Veranstaltungen für alle Wissensstände haben: für interessierte Einsteiger, ambitionierte Anwenderinnen und KI-Profis. Mehr dazu demnächst im Programm.</p>
+                                </div>
+                                <div class="tab">
+                                <input type="checkbox" name="accordion-7" id="cb7">
+                                <label for="cb7" class="tab__label">Was ist das AI Camp Würzburg?</label>
+                                <div class="tab__content">
+                                    <p>Das AI Camp Würzburg am 4. Juli 2025 ist die Abschlussveranstaltung der zweiten AI Week Mainfranken. Weitere Informationen und Tickets gibt es <a href="https://www.ai-barcamp.de" target="_blank">auf der Webseite des AI Camp Würzburg.</a></p>
+                                </div>
+                                <div class="tab">
+                                <input type="checkbox" name="accordion-8" id="cb8">
+                                <label for="cb8" class="tab__label">Wie unterscheidet sich die AI Week Mainfranken von klassischen Konferenzen?</label>
+                                <div class="tab__content">
+                                    <p>Du erlebst ein dezentrales Konzept, verschiedene Veranstaltungsformate und -orte und hast die Möglichkeit, selbst ein Event anzubieten.</p>
+                                </div>
+                                <div class="tab">
+                                <input type="checkbox" name="accordion-9" id="cb9">
+                                <label for="cb9" class="tab__label">Wie melde ich mich für einzelne Veranstaltungen an?</label>
+                                <div class="tab__content">
+                                    <p>Du findest die Anmeldung hier auf der Webseite, sobald das Programm feststeht.</p>
+                                </div>
+                                <div class="tab">
+                                <input type="checkbox" name="accordion-10" id="cb10">
+                                <label for="cb10" class="tab__label">Wer organisiert die AI Week Mainfranken?</label>
+                                <div class="tab__content">
+                                    <p>Ute Mündlein, die du vielleicht schon als Mitgründerin und Hauptorganisatorin der <a href="https://www.wueww.de" target="_blank">Wuerzburg Web Week kennst.</a></p>
+                                </div>
+                                <div class="tab">
+                                <input type="checkbox" name="accordion-11" id="cb11">
+                                <label for="cb11" class="tab__label">Wie bleibe ich über die AI Week Mainfranken informiert?</label>
+                                <div class="tab__content">
+                                    <p>Am besten du meldest dich für den <a
+                           aria-label="Anmeldeformular für den Newsletter neunsieben.digital"
+                           href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1747632365"
+                           target="_blank">Newsletter neunsieben.digital</a> an und folge uns auf <a
+                           aria-label="LinkedIn-Seite der Wuerzburg Web Week"
+                           href="https://www.linkedin.com/company/wuerzburg-web-week" target="_blank">LinkedIn</a> und
+                        <a aria-label="Instagram-Seite der Wuerzburg Web Week" href="https://www.instagram.com/wueww"
+                           target="_blank">Instagram</a>, um nichts zu verpassen.</p>
+                                </div>
+                                <div class="tab">
+                                <input type="checkbox" name="accordion-12" id="cb12">
+                                <label for="cb12" class="tab__label">Was ist der Unterschied zur Wuerzburg Web Week?</label>
+                                <div class="tab__content">
+                                    <p>Die AI Week Mainfranken fokussiert sich speziell auf KI-Themen, während
+                        du bei der Web Week ein breiteres Spektrum digitaler Themen findest. <a href="news.html#Festival" target="_blank">In diesem Beitrag</a> 
+                        haben wir mehr dazu geschrieben.</p>
                                 </div>
                             </div>
                         </section>

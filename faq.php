@@ -166,20 +166,66 @@
                           <p>Falls du weitere Fragen hast, schreib uns eine E-Mail an kontakt@wueww.de.</p>
                                 </div>
                             </div>
-                            </section>
-                            <h2>Für XXX</h2>
+                            <div class="tab">
+            <input type="checkbox" name="accordion-18" id="cb18" checked>
+            <label for="cb18" class="tab__label">Kostet eine Teilnahme als Veranstalter etwas?</label>
+            <div class="tab__content">
+                <p>LNein. Wir würden uns sehr freuen, wenn dein Unternehmen/deine Organisation uns
+                            auch <a aria-label="Sponsoren-Seite der AI Week Mainfranken"
+                               href="https://www.ai-week.de/sponsoren.html" target="_blank">als Sponsor</a> unterstützt.</p>
+            </div>
+        </div>
+        < <div class="tab">
+            <input type="checkbox" name="accordion-19" id="cb19">
+            <label for="cb19" class="tab__label">Warum nur maximal 42 Termine und eine so kurze Einreichungsfrist?</label>
+            <div class="tab__content">
+                <p>Das ermöglicht es uns, ein hochaktuelles und relevantes Programm zusammenzustellen, 
+                das die neuesten KI-Entwicklungen widerspiegelt und mit 42 Terminen übersichtlich bleibt.</p>
+            </div>
+        </div>
+        < <div class="tab">
+            <input type="checkbox" name="accordion-20" id="cb20">
+            <label for="cb20" class="tab__label">Wann bekomme ich Bescheid, ob die Veranstaltung ins Programm aufgenommen wurde?</label>
+            <div class="tab__content">
+            Der zeitliche Ablauf sieht wie folgt aus:
+                            <ul>
+                                <br>
+                                <li>Die Einreichungsfrist läuft bis Montag, den 2. Juni um 23:59 Uhr.</li>
+                                <li>Anfang Juni veröffentlichen wir dann das Programm.</li>
+                            </ul></div>
+                        </div>
+                                                    <div class="tab">
+            <input type="checkbox" name="accordion-21" id="cb21" checked>
+            <label for="cb21" class="tab__label">Ich möchte als Sprecher einen Vortrag anbieten ...</label>
+            <div class="tab__content">
+                <p>Die AI Week Mainfranken ist keine klassische Konferenz. Du bietest
+                eine eigenständige Veranstaltung an, nicht nur einen Vortrag.</p>
+            </div>
+        </div>
+        <input type="checkbox" name="accordion-22" id="cb22" checked>
+            <label for="cb22" class="tab__label">Übernehmt ihr das Ticketing?</label>
+            <div class="tab__content">
+                <p>Nein.</p>
+            </div>
+        </div>
+        </section>
+                            <h2>Für Start-ups</h2>
                         </br>
                         <section class="accordion">
-        <div class="tab">
-            <input type="checkbox" name="accordion-18" id="cb18" checked>
-            <label for="cb18" class="tab__label">Accordion Überschrift A</label>
+        
+                        <div class="tab">
+            <input type="checkbox" name="accordion-23" id="cb23" checked>
+            <label for="cb23" class="tab__label">Was sind Start-up-Pitches und wer kann da mitmachen?</label>
             <div class="tab__content">
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                <p>Bei den KI-Start-up-Lunch-Pitches können Start-ups mitmachen, die
+                                2022 oder später gegründet wurden, gerne aktuell auch noch in der Vorgründungsphase.
+                                Ihr müsst einen KI-Fokus haben. <a href="https://www.ai-week.de/news.html#pitches"
+                                   target="_blank">Weitere Informationen.</a></p>
             </div>
         </div>
                             < <div class="tab">
-            <input type="checkbox" name="accordion-19" id="cb19">
-            <label for="cb19" class="tab__label">Accordion Überschrift B</label>
+            <input type="checkbox" name="accordion-22" id="cb22">
+            <label for="cb22" class="tab__label">Accordion Überschrift B</label>
             <div class="tab__content">
                 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
             </div>

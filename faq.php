@@ -166,6 +166,18 @@
                           <p>Falls du weitere Fragen hast, schreib uns eine E-Mail an kontakt@wueww.de.</p>
                                 </div>
                             </div>
+
+                            <h2>Für XXX</h2>
+                        </br>
+                        <section class="accordion">
+                            <div class="tab">
+                                <input type="checkbox" name="accordion-1" id="cb1" checked>
+                                <label for="cb1" class="tab__label">Accordion Überschrift A</label>
+                                <div class="tab__content">
+                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                                </div>
+                            </div>
+
                     </div>
                 </div>
             </div>

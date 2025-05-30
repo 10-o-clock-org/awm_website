@@ -133,21 +133,21 @@
                                     target="_blank">in unser Event-Tool</a> Veranstaltungen für die AI Week eintragen.</p>
                                 </div>
                                 <div class="tab">                                
-                                <input type="checkbox" name="accordion-3" id="cb3">
-                                <label for="cb3" class="tab__label">Können auch Online-Events angeboten werden?</label>
+                                <input type="checkbox" name="accordion-15" id="cb15">
+                                <label for="cb15" class="tab__label">Können auch Online-Events angeboten werden?</label>
                                 <div class="tab__content">
                                     <p>Ja, du kannst Online-, Live- oder Hybrid-Events anbieten.</p>
                                 </div>
                                 <div class="tab">                                
-                                <input type="checkbox" name="accordion-4" id="cb4">
-                                <label for="cb4" class="tab__label">Gibt es eine Bewerbungsfrist für Veranstalter?</label>
+                                <input type="checkbox" name="accordion-16" id="cb16">
+                                <label for="cb16" class="tab__label">Gibt es eine Bewerbungsfrist für Veranstalter?</label>
                                 <div class="tab__content">
                                     <p>Du kannst bis Montag, den 2. Juni um 23:59 Uhr, Veranstaltungen für die AI Week <a aria-label="Event-Tool der AI Week Mainfranken" href="https://backend.timetable.ai-week.de"
                                     target="_blank">in unser Event-Tool</a> eintragen.</p>
                                 </div>
                                 <div class="tab">                                
-                                <input type="checkbox" name="accordion-5" id="cb5">
-                                <label for="cb5" class="tab__label">Welche Infos brauchen Veranstalter für die Einreichung?</label>
+                                <input type="checkbox" name="accordion-17" id="cb17">
+                                <label for="cb17" class="tab__label">Welche Infos brauchen Veranstalter für die Einreichung?</label>
                                 <div class="tab__content">
                                     <p>Grundsätzlich benötigen wir unter anderem folgende Informationen bei der
                             Einreichungen von Veranstaltungen für unser Programm:</p>
@@ -171,15 +171,15 @@
                         </br>
                         <section class="accordion">
         <div class="tab">
-            <input type="checkbox" name="accordion-1" id="cb1" checked>
-            <label for="cb1" class="tab__label">Accordion Überschrift A</label>
+            <input type="checkbox" name="accordion-18" id="cb18" checked>
+            <label for="cb18" class="tab__label">Accordion Überschrift A</label>
             <div class="tab__content">
                 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
             </div>
         </div>
                             < <div class="tab">
-            <input type="checkbox" name="accordion-2" id="cb2">
-            <label for="cb2" class="tab__label">Accordion Überschrift B</label>
+            <input type="checkbox" name="accordion-19" id="cb19">
+            <label for="cb19" class="tab__label">Accordion Überschrift B</label>
             <div class="tab__content">
                 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
             </div>

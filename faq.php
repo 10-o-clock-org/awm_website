@@ -34,7 +34,7 @@
                             </div>
 
                               <div class="tab">                                
-                                <input type="checkbox" name="accordion-2" id="cb2" checked>
+                                <input type="checkbox" name="accordion-2" id="cb2"
                                 <label for="cb2" class="tab__label">Wann und wo findet sie statt?</label>
                                 <div class="tab__content">
                                     <p>Vom vom 30. Juni bis 4. Juli 2025 an verschiedenen Orten in Mainfranken sowie online.</p>
@@ -42,7 +42,7 @@
                             </div>
                             
                             <div class="tab">                                
-                                <input type="checkbox" name="accordion-3" id="cb3" checked>
+                                <input type="checkbox" name="accordion-3" id="cb3"
                                 <label for="cb3" class="tab__label">Wer kann teilnehmen?</label>
                                 <div class="tab__content">
                                     <p>Alle, die die KI-Zukunft vorantreiben möchten: neugierige Einsteiger ebenso wie Tech-Enthusiasten und KI-Experten, Start-ups, Gründer, Unternehmer, Professoren und

@@ -1,6 +1,6 @@
 // JavaScript for countdown
 const countdownElement = document.getElementById('countdown');
-const targetDate = new Date('November 11, 2024 08:00:00').getTime();
+const targetDate = new Date('June 30, 2025 08:00:00').getTime();
 
 function padNumber(number) {
   return number < 10 ? `0${number}` : number;

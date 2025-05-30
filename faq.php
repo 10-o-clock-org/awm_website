@@ -166,7 +166,7 @@
                           <p>Falls du weitere Fragen hast, schreib uns eine E-Mail an kontakt@wueww.de.</p>
                                 </div>
                             </div>
-                            </section>
+
                             <h2>Für XXX</h2>
                         </br>
                        ab">

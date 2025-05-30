@@ -223,11 +223,22 @@
                                    target="_blank">Weitere Informationen.</a></p>
             </div>
         </div>
+        </section>
+                        <h2>Für Sponsoren und Presse</h2>
+                        </br>
                             < <div class="tab">
-            <input type="checkbox" name="accordion-22" id="cb22">
-            <label for="cb22" class="tab__label">Accordion Überschrift B</label>
+            <input type="checkbox" name="accordion-24" id="cb24">
+            <label for="cb24" class="tab__label">Warum sollte mein Unternehmen die AI Week Mainfranken sponsern?</label>
             <div class="tab__content">
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                <p>Als Sponsor erhältst du Sichtbarkeit, positionierst dich als innovatives Unternehmen und unterstützt die Entwicklung der KI-Kompetenz in der Region. Bei Interesse an einem
+                                Sponsoring bitte ute.muendlein@wueww puuunkt de kontaktieren.</p>
+            </div>
+        </div>
+        < <div class="tab">
+            <input type="checkbox" name="accordion-25" id="cb25">
+            <label for="cb25" class="tab__label">Wie kann die Presse Informationen zur AI Week Mainfranken erhalten?</label>
+            <div class="tab__content">
+                <p>Aktuell am besten per Anfrage an ute.muendlein@wueww punkt de.</p>
             </div>
         </div>
     </section>

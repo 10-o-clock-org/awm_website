@@ -132,6 +132,39 @@
                                     <p>Bis Montag, den 2. Juni um 23:59 Uhr, kannst du <a aria-label="Event-Tool der AI Week Mainfranken" href="https://backend.timetable.ai-week.de"
                                     target="_blank">in unser Event-Tool</a> Veranstaltungen für die AI Week eintragen.</p>
                                 </div>
+                                <div class="tab">                                
+                                <input type="checkbox" name="accordion-3" id="cb3">
+                                <label for="cb3" class="tab__label">Können auch Online-Events angeboten werden?</label>
+                                <div class="tab__content">
+                                    <p>Ja, du kannst Online-, Live- oder Hybrid-Events anbieten.</p>
+                                </div>
+                                <div class="tab">                                
+                                <input type="checkbox" name="accordion-4" id="cb4">
+                                <label for="cb4" class="tab__label">Gibt es eine Bewerbungsfrist für Veranstalter?</label>
+                                <div class="tab__content">
+                                    <p>Du kannst bis Montag, den 2. Juni um 23:59 Uhr, Veranstaltungen für die AI Week <a aria-label="Event-Tool der AI Week Mainfranken" href="https://backend.timetable.ai-week.de"
+                                    target="_blank">in unser Event-Tool</a> eintragen.</p>
+                                </div>
+                                <div class="tab">                                
+                                <input type="checkbox" name="accordion-5" id="cb5">
+                                <label for="cb5" class="tab__label">Welche Infos brauchen Veranstalter für die Einreichung?</label>
+                                <div class="tab__content">
+                                    <p>Grundsätzlich benötigen wir unter anderem folgende Informationen bei der
+                            Einreichungen von Veranstaltungen für unser Programm:</p>
+                            <ul>
+                            <li>Infos zum Veranstalter (u. a. Name, Beschreibung)</li>
+                            <li>Drei mögliche Termine im Zeitraum vom 30. Juni bis 4. Juli</li>
+                            <li>Titel (max. 30 Zeichen)</li>
+                            <li>Eine kurze und eine etwas ausführliche Beschreibung des Events</li>
+                            <li><a href="news.html#Kategorien" target="_blank">Thematische
+                                    Kategorie</a></li>
+                            <li>Ort (wo findet das Ganze statt), bei virtuellen Events entfällt diese Angabe</li>
+                            <li>Ansprechpartner für uns (E-Mail-Adresse & Namen; Daten werden nicht veröffentlicht)
+                            </li><br>
+                                    </ul>
+                          <p>Weitere Infos zum Thema "Events einreichen" haben wir <a href="news.html#eventtool" target="_blank">in diesem Beitrag</a> zusammengestellt.</p>
+                          <p>Falls du weitere Fragen hast, schreib uns eine E-Mail an kontakt@wueww.de.</p>
+                                </div>
                             </div>
                     </div>
                 </div>

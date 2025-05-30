@@ -120,12 +120,17 @@
                         <section class="accordion">
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-1" id="cb1" checked>
-                                <label for="cb1" class="tab__label">Was ist die AI Week Mainfranken?</label>
+                                <label for="cb1" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
                                 <div class="tab__content">
-                                    <p>Die AI Week Mainfranken ist Bayerns erstes dezentrales Festival mit Schwerpunkt Künstliche Intelligenz. 
-                                        Wir wollen KI greifbar und die Expertise unserer Region für alle sichtbar machen. 
-                                        Hier die <a href="https://www.ai-week.de/assets/images/Zahlen%20AI%20Week%20Mainfranken%202024%20klein.pdf" target="_blank">Zahlen der 1. AI Week</a>. 
-                                        Wir hatten über 1.000 Teilnehmende an fünf Veranstaltungstagen!</p>
+                                    <p>Bis Montag, den 2. Juni um 23:59 Uhr, kannst du <a aria-label="Event-Tool der AI Week Mainfranken" href="https://backend.timetable.ai-week.de"
+                                    target="_blank">in unser Event-Tool</a> Veranstaltungen für die AI Week eintragen.</p>
+                                </div>
+                                <div class="tab">                                
+                                <input type="checkbox" name="accordion-2" id="cb2">
+                                <label for="cb2" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
+                                <div class="tab__content">
+                                    <p>Bis Montag, den 2. Juni um 23:59 Uhr, kannst du <a aria-label="Event-Tool der AI Week Mainfranken" href="https://backend.timetable.ai-week.de"
+                                    target="_blank">in unser Event-Tool</a> Veranstaltungen für die AI Week eintragen.</p>
                                 </div>
                             </div>
                     </div>

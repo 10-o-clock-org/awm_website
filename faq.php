@@ -170,12 +170,12 @@
             <input type="checkbox" name="accordion-18" id="cb18" checked>
             <label for="cb18" class="tab__label">Kostet eine Teilnahme als Veranstalter etwas?</label>
             <div class="tab__content">
-                <p>LNein. Wir würden uns sehr freuen, wenn dein Unternehmen/deine Organisation uns
+                <p>Nein. Wir würden uns sehr freuen, wenn dein Unternehmen/deine Organisation uns
                             auch <a aria-label="Sponsoren-Seite der AI Week Mainfranken"
                                href="https://www.ai-week.de/sponsoren.html" target="_blank">als Sponsor</a> unterstützt.</p>
             </div>
         </div>
-        < <div class="tab">
+        <div class="tab">
             <input type="checkbox" name="accordion-19" id="cb19">
             <label for="cb19" class="tab__label">Warum nur maximal 42 Termine und eine so kurze Einreichungsfrist?</label>
             <div class="tab__content">
@@ -183,7 +183,7 @@
                 das die neuesten KI-Entwicklungen widerspiegelt und mit 42 Terminen übersichtlich bleibt.</p>
             </div>
         </div>
-        < <div class="tab">
+        <div class="tab">
             <input type="checkbox" name="accordion-20" id="cb20">
             <label for="cb20" class="tab__label">Wann bekomme ich Bescheid, ob die Veranstaltung ins Programm aufgenommen wurde?</label>
             <div class="tab__content">

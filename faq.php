@@ -178,6 +178,14 @@
                                 </div>
                             </div>
 
+                            <div class="tab">
+                                <input type="checkbox" name="accordion-2" id="cb2">
+                                <label for="cb2" class="tab__label">Accordion Überschrift B</label>
+                                <div class="tab__content">
+                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                                </div>
+                            </div>
+
                     </div>
                 </div>
             </div>

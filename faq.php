@@ -115,6 +115,19 @@
                                 </div>
                             </div>
                         </section>
+                        <h2>Für Veranstalterinnen und Veranstalter</h2>
+                        </br>
+                        <section class="accordion">
+                                <div class="tab">                                
+                                <input type="checkbox" name="accordion-1" id="cb1" checked>
+                                <label for="cb1" class="tab__label">Was ist die AI Week Mainfranken?</label>
+                                <div class="tab__content">
+                                    <p>Die AI Week Mainfranken ist Bayerns erstes dezentrales Festival mit Schwerpunkt Künstliche Intelligenz. 
+                                        Wir wollen KI greifbar und die Expertise unserer Region für alle sichtbar machen. 
+                                        Hier die <a href="https://www.ai-week.de/assets/images/Zahlen%20AI%20Week%20Mainfranken%202024%20klein.pdf" target="_blank">Zahlen der 1. AI Week</a>. 
+                                        Wir hatten über 1.000 Teilnehmende an fünf Veranstaltungstagen!</p>
+                                </div>
+                            </div>
                     </div>
                 </div>
             </div>

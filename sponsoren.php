@@ -21,7 +21,7 @@
                         <h2>Wir danken unseren Sponsoren</h2>
                         <p>Hauptsponsoren</p><br><br>
                         <div class="hauptsponsoren">
-                        <div class="white-bg"><a href="https://karriere.knauf.de" target="_blank"><img src="images/logo-knauf.png" alt="Logo Knauf" /></a></div>
+                        <div class="white-bg"><a href="mailto:kontakt@wueww.de" target="_blank"><img src="images/logo-ai-week-sponsor-werden.png" alt="Logo Sponsor der AI Week werden" /></a></div>
                             <div><a href="#"><img src="images/logo-hauptsponsor-bayern-kreativ.png" alt="" /></a></div>
                             <div><a href="#"><img src="images/logo-hauptsponsor-jos-buero.png" alt="" /></a></div>
                         </div>

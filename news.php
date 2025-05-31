@@ -19,7 +19,7 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p><a href="#eventtool">2025-05-18 | <u>an 5 Tagen – von Tech bis Kultur</a></u><br>
+                        <p><a href="#eventtool">2025-05-18 | <u>Bis 2. Juni 2025 Event(s) eintragen</a></u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>
@@ -60,8 +60,21 @@
                         Um eine hohe Qualität und Themenvielfalt zu gewährleisten, entscheidet eine Jury, welche
                         Veranstaltungen in das endgültige Programm aufgenommen werden.
                     </p>
-                    <h3>Bevor du loslegst:</h3>
-
+                    <h2>Bevor du loslegst:</h2>
+                    <ul>
+                            <li>Klarer KI-Bezug der Veranstaltung ist Voraussetzung</li>
+                            <li>Plane dein(e) Event(s) für den Zeitraum Montag bis Donnerstag (30. Juni bis 3. Juli 2025). 
+                                    Am 4. Juli rundet das <a href="https://www.ai-barcamp.de/"
+                                       target="_blank">AI Camp Würzburg</a> die Woche ab. An diesem Tag findet kein weiteres Event
+                                    der AI Week Mainfranken statt.</li>
+                            <li>Maximal 41 Veranstaltungsslots plus das <a href="https://www.ai-barcamp.de/"
+                                       target="_blank">AI Camp Würzburg</a></li>
+                            <li>Dein Event ist kostenfrei oder der Ticketpreis sollte Catering/Raummiete
+                                    decken></li>
+                        </ul>
+                        <br><br>
+                        <a href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event eintragen</a>
+                        <br><br>
 
 
 

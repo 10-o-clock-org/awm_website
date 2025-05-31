@@ -19,9 +19,11 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p><a href="#eventtool">2025-05-18 | <u>Bis 2. Juni 2025 Event(s) eintragen</a></u><br>
-                        p><a href="pitches">2025-05-18 | <u>KI-Start-up-Lunch-Pitches: Jetzt bewerben!</a></u><br>
-                        p><a href="kategorien">2025-05-16 | <u>AI Week Mainfranken: unsere fünf Themen-Kategorien</a></u><br>
+                        <p><a href="eventtool">2025-05-18 | <u>Bis 2. Juni 2025 Event(s) eintragen</a></u><br>
+                        p><a href="pitches">2025-05-18 | <u>KI-Start-up-Lunch-Pitches: Jetzt bewerben!</a></u><br> 
+                        p><a href="kategorien">2025-05-16 | <u>AI Week Mainfranken – Das KI-Festival für alle</a></u><br>                        
+                        p><a href="kifestival">2024-09-09 | <u>AI Week Mainfranken: unsere fünf Themen-Kategorien</a></u><br>
+                        p><a href="wueww">2024-09-09 | <u>AI Week Mainfranken vs. Wuerzburg Web Week</a></u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>
@@ -114,7 +116,7 @@
                    
                     <p>💡 PS: Wir möchten im Rahmen der AI Week Mainfranken auch KI-Start-ups eine Bühne geben:
                         Präsentiert eure Idee bei den KI-Start-up-Lunch-Pitches. Weitere Infos gibt es <a
-                           href="https://www.ai-week.de/news.html#pitches">in diesem Beitrag</a>.</p>
+                           href="https://www.ai-week.de/news.php#pitches">in diesem Beitrag</a>.</p>
 
 
                       
@@ -254,13 +256,48 @@
 
 
 
-                        <div class="section" id="news1">
+                        <div class="section" id="kifestival">
             <div class="container">                 
                 <div class="grid">
                     <div class="col span-8">
                         <div class="spacer"></div>
-                        <h1>H1 Versal</h1>
+                        <h1>AI Week Mainfranken – Das KI-Festival für alle</h1>
                         <br>
+                        <p>Das Team der <a href="https://www.wueww.de">Wuerzburg Web Week</a> organisiert vom 30. Juni bis 4. Juli 
+                        die zweite AI Week Mainfranken. Sie ist das erste dezentrale KI-Festival Bayerns und bietet 42 Events an 5 Tagen.
+                    </p>
+                    <h2>Was erwartet dich?</h2>
+                    <p>Neben einem abwechslungsreichen Programm erwarten dich:</p>
+                    <ul>
+                            <li>42 Events zu fünf thematischen Schwerpunkten: von Tech & Science bis Kultur</li>
+                            <li>Veranstaltungen für Einsteiger bis KI-Profis</li>
+                            <li> Masterclasses für alle, die tiefer in die Materie eintauchen möchten</li>
+                            <li>Zum Abschluss am 4. Juli 2025 das <a href="https://www.ai-barcamp.de">3. AI Camp Würzburg</a></li>
+                        </ul>
+                  
+                    <h2>Warum eine AI Week?</h2>
+                    <p>Künstliche Intelligenz ist in aller Munde, aber oft fehlt der praktische
+                        Bezug. Mit der AI Week Mainfranken wollen wir KI be-greifbar machen, Wissen teilen und die
+                        Expertise unserer Region für alle sichtbar machen.</p>
+                    <p>Unser Ziel ist es zu zeigen, was mit KI aktuell schon möglich ist, wo die Grenzen liegen und wie
+                        wir gemeinsam die KI-Zukunft gestalten können.</p>
+                    <p>Niemand muss sich abgehängt fühlen. Denn eines ist sicher: KI kann viel, wir Menschen aber auch!
+                        Und beide zusammen sind wir unschlagbar, wenn es darum geht, die großen Probleme unserer Zeit zu
+                        lösen.</p>
+                    <p><a href="/mitmachen.php">Auf dieser Seite</a> erfährst du, wie du, euer Unternehmen oder eure
+                        Organisation bei der AI Mainfranken mitmachen kann und <a
+                           href="https://www.ai-week.de/news.php#WueWW">in diesem Beitrag</a>, wie sich die AI Week von
+                        der Wuerzburg Web Week unterscheidet.</p>
+                                         <div class="cta-button-container">
+                    <a href="https://backend.timetable.ai-week.de" target="_blank" class="cta-button">Jetzt Event eintragen!</a>
+                    </div>
+                </div>
+            </div>
+        </div> 
+                        
+                        
+                        
+                        
                         <h2>H2 Normal</h2>
                         <br>
                         <h3>H3 Normal</h3>

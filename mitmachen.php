@@ -43,7 +43,7 @@
                     </ul>
                     <p>Antworten auf weitere Fragen findest du in unseren <a href="/faq.php">FAQ</a>.</p>
                     <a href="https://backend.timetable.ai-week.de" target="_blank" class="button" href="#">Jetzt Event eintragen!</a>
-                    </br>
+                    </br> </br>
                     <h2>Unterstütze die Initiative als Sponsor</h2>
                 <p>Die AI Week ist auf die finanzielle Unterstützung von Sponsoren angewiesen. Damit können wir unter
                     anderem die Stellen von Ute und Franzi, verschiedene Werbemaßnahmen und einiges mehr finanzieren.

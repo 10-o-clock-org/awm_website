@@ -288,8 +288,61 @@
                         Organisation bei der AI Mainfranken mitmachen kann und <a
                            href="https://www.ai-week.de/news.php#WueWW">in diesem Beitrag</a>, wie sich die AI Week von
                         der Wuerzburg Web Week unterscheidet.</p>
-                                         <div class="cta-button-container">
-                    <a href="https://backend.timetable.ai-week.de" target="_blank" class="cta-button">Jetzt Event eintragen!</a>
+                        <br><br>
+                        <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event für die AI Week eintragen</a>
+                        <br><br><br>    
+                        </div>
+                </div>
+            </div>
+        </div> 
+
+
+        <div class="section" id="wueww">
+            <div class="container">                 
+                <div class="grid">
+                    <div class="col span-8">
+                        <div class="spacer"></div>
+                        <h1>AI Week Mainfranken vs. Wuerzburg Web Week: bewährtes Konzept, neuer Schwerpunkt</h1>
+                        <br>
+                        <p>Mainfranken wird zur KI-Hochburg! Vom 30. Juni bis 4. Juli 2025 bringt die AI Week Mainfranken
+                        als erstes dezentrales KI-Festival Bayerns alle zusammen, die sich für das Thema Künstliche
+                        Intelligenz interessieren: Einsteiger ebenso wie Enthusiasten und KI-Profis, die ihr Wissen
+                        weitergeben und sich mit anderen vernetzen wollen.</p>
+
+                    <p>Dafür übernehmen wir das erfolgreiche Konzept der Wuerzburg Web Week, etwas kleiner und kürzer
+                        als du es von der WueWW kennst:</p>
+
+                    <h2>Das bleibt gleich:</h2>
+                        <ul>
+                            <li> Dezentralität: An den ersten vier Tagen finden 41 Events dezentral an vielen Orten
+                                    in Mainfranken bzw. auch online statt. Zum Abschluss am fünften Veranstaltungstag, dem
+                                   4. Juli 2025, gibt es das <a href="https://www.ai-barcamp.de">AI Camp Würzburg</a>.</li>
+                            <li> Veranstaltung statt Vortrag: Statt eines festen 45-minütigen Vortragsslots auf
+                                    einer Konferenz kannst du eine oder mehrere eigenständige Veranstaltungen 
+                                <a href="https://backend.timetable.ai-week.de" target="_blank"> in unser
+                                    Event-Tool eintragen.</a></li>
+                            <li>Flexible Formate: darunter Vorträge, Podiumsdiskussionen, Frühstücke,
+                                    Start-up-Pitches, Programmier-Sessions, Promptathons und was den Mainfranken sonst
+                                    noch einfällt.</li>
+                        </ul>
+                    
+                    
+                    <h2>Das ist bei der AI Week Mainfranken anders:</h2>
+                        <ul>
+                            <li>Dauer: Unser KI-Festival ist eine fünftägige Dachveranstaltung.</li>
+                            <li>Anzahl Veranstaltungen: Das Programm hat maximal 42 Events.</li>
+                            <li>Kuratierung: Diesmal entscheidet eine Jury, welche Veranstaltungen ins Programm aufgenommen werden.</li>
+                        </ul>
+                   
+                    <h2>Mainfrankens nächste Erfolgsstory!</h2>
+                    <p>An der ersten AI Week Mainfranken nahmen <a href="https://www.ai-week.de/assets/images/Zahlen%20AI%20Week%20Mainfranken%202024%20klein.pdf" 
+                       target="_blank"> über 1.000 Menschen teil</a>. Das beweist: Mainfranken ist auch ein innovativer KI-Standort!</p>
+
+                    <p>Aktuell suchen wir Sponsoren, die unser KI-Festival finanziell unterstützen, das erste seiner Art in Bayern. Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@wueww.de">Kontakt
+                            auf.</a></p>
+                            <br><br>
+                        <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event für die AI Week eintragen</a>
+                        <br><br><br>   
                     </div>
                 </div>
             </div>

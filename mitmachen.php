@@ -32,7 +32,7 @@
                                 Frühstück, Programmiersession, ein Promptathon oder was immer euch einfällt.</li>
                         <li>Gebt an, wann ihr die Veranstaltung anbieten wollt (Datum und Uhrzeit).</li>
                     </ul>
-                    <h3>Wichtig:</h3>
+                    <p>Wichtig:</p>
                     <ul>
                         <li>Anders als bei der Wuerzburg Web Week wählt eine Jury die besten Einreichungen aus.</li>
                         <li>Gold- und Hauptsponsoren erhalten einen Veranstaltungsslot (kontaktiere <a
@@ -43,7 +43,7 @@
                     </ul>
                     <p>Antworten auf weitere Fragen findest du in unseren <a href="/faq.php">FAQ</a>.</p>
                     <a href="https://backend.timetable.ai-week.de" target="_blank" class="button" href="#">Jetzt Event eintragen!</a>
-                
+                    </br>
                     <h2>Unterstütze die Initiative als Sponsor</h2>
                 <p>Die AI Week ist auf die finanzielle Unterstützung von Sponsoren angewiesen. Damit können wir unter
                     anderem die Stellen von Ute und Franzi, verschiedene Werbemaßnahmen und einiges mehr finanzieren.

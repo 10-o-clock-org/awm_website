@@ -18,6 +18,29 @@
                 <div class="grid">
                     <div class="col span-12">
                         <h1>Impressum</h1>
+                        <div class="left-column">
+                    <h2>KONTAKT</h2>
+                    <p>Telefon: +49 (0) 1 76 10 30 55 38</p>
+                    <p>E-Mail: info@10-o-clock.de</p>
+                </div>
+
+                <div class="right-column">
+                    <h2>ANGABEN GEMÄSS § 5 TMG</h2>
+                    <p>10 o'clock GmbH<br>
+                        Untere Hofstatt 3<br>
+                        97286 Winterhausen</p>
+                    <p>Geschäftsführerin: Ute Mündlein</p>
+                    <p>Handelsregister beim Amtsgericht Würzburg, HRB 16389</p>
+
+                    <h2>VERANTWORTLICH FÜR DEN INHALT</h2>
+                    <p>Nach § 55 Abs. 2 RStV: Ute Mündlein</p>
+
+                    <h2>UMSATZSTEUER-ID</h2>
+                    <p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE355144537</p>
+                </div>
+            </div>
+                        
+                        
                         <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<br><br>
                         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<br><br>
                         <a class="button" href="#">Button</a>

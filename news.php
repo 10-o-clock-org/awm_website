@@ -164,7 +164,7 @@
                        bereits das <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
                        <br><br> 
                         <a class="button" href="https://forms.gle/p48HHAffYBUH6kP4A" target="_blank">Jetzt für den Pitch bewerben</a>
-                       <br><br>                       
+</br></br>                       
                     </div>
                 </div>
             </div>
@@ -190,7 +190,7 @@
                         </ul>
                     
                    <p>Mögliche Themen aus den verschiedenen Kategorien:</p>
-                    <h3>1. Tech & Science</h3>                 
+                    <h2>1. Tech & Science</h2>                 
                         <ul>
                             <li>Software, z. B. KI-gestützte Softwareentwicklung</li>
                             <li>Hardware</li>
@@ -199,7 +199,7 @@
                             <li>Robotik</li>
                             <li>KI und Cyber Security</li>
                         </ul>
-            
+                        </br>
                     <h3>2. Digitale Gesellschaft</h3>
 
                         <ul>
@@ -207,7 +207,7 @@
                             <li>KI in der Landwirtschaft</li>
                             <li> Deepfakes und Desinformation: Wie KI unsere Wahrnehmung der Realität verändert </li>
                         </ul>
- 
+                        </br>
                     <h3>3. Business & New Work</h3>
 
                         <ul>

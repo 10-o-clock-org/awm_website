@@ -21,7 +21,7 @@
                         <h2>Wir danken unseren Sponsoren</h2>
                         <p>Hauptsponsoren</p><br><br>
                         <div class="hauptsponsoren">
-                            <div><a href="#"><img src="images/logo-hauptsponsor-01.png" alt="" /></a></div>
+                        <div class="white-bg"><a href="https://karriere.knauf.de" target="_blank"><img src="images/logo-knauf.png" alt="Logo Knauf" /></a></div>
                             <div><a href="#"><img src="images/logo-hauptsponsor-bayern-kreativ.png" alt="" /></a></div>
                             <div><a href="#"><img src="images/logo-hauptsponsor-jos-buero.png" alt="" /></a></div>
                         </div>

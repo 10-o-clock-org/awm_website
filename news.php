@@ -73,7 +73,7 @@
                         </ul>
                         <br><br>
                         <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event eintragen</a>
-                        <br><br>
+                        <br><br><br>
 
                         <h2>Hinweise zum Event-Tool:</h2>
                     <p>❗️ Wer im letzten Jahr bereits mit einem Event mitgemacht hat: Wir haben ein neues Tool, 

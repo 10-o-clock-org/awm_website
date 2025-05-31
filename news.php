@@ -21,8 +21,8 @@
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
                         <p><a href="#eventtool">2025-05-18 | <u>Bis 2. Juni 2025 Event(s) eintragen</a></u><br>
                             <a href="#pitches">2025-05-18 | <u>KI-Start-up-Lunch-Pitches: Jetzt bewerben!</a></u><br> 
-                            <a href="#kategorien">2025-05-16 | <u>AI Week Mainfranken – Das KI-Festival für alle</a></u><br>                        
-                            <a href="#kifestival">2024-09-09 | <u>AI Week Mainfranken: unsere fünf Themen-Kategorien</a></u><br>
+                            <a href="#kategorien">2025-05-16 | <u>AI Week Mainfranken: unsere fünf Themen-Kategorien</a></u><br>                             
+                            <a href="#kifestival">2024-09-09 | <u> AI Week Mainfranken – Das KI-Festival für alle</a></u><br>
                             <a href="#wueww">2024-09-09 | <u>AI Week Mainfranken vs. Wuerzburg Web Week</a></u><br></p>
                     </div>
                 </div>

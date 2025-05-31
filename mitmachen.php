@@ -55,10 +55,6 @@
                 <p>🗓️ Save the date! Das Programm veröffentlichen wir im Juni 2025.</p>
                 <a href="https://backend.timetable.ai-week.de" target="_blank" class="button" href="#">Jetzt Event eintragen!</a>
                 
-                
-                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<br><br>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<br><br>
-                        <a class="button" href="#">Button</a>
                        
                 
                 </div>

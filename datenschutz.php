@@ -103,36 +103,7 @@
                     gew&auml;hrleistet, dass dieser die personenbezogenen Daten unserer Websitebesucher nur nach unseren
                     Weisungen und unter Einhaltung der DSGVO verarbeitet.</p>
 
-                <h3>Cloudflare</h3>
-                <p>Wir nutzen den Service „Cloudflare“. Anbieter ist die Cloudflare Inc., 101 Townsend St., San
-                    Francisco,
-                    CA
-                    94107, USA (im Folgenden „Cloudflare”).</p>
-                <p>Cloudflare bietet ein weltweit verteiltes Content Delivery Network mit DNS an. Dabei wird technisch
-                    der
-                    Informationstransfer zwischen Ihrem Browser und unserer Website über das Netzwerk von Cloudflare
-                    geleitet.
-                    Das versetzt Cloudflare in die Lage, den Datenverkehr zwischen Ihrem Browser und unserer Website zu
-                    analysieren und als Filter zwischen unseren Servern und potenziell bösartigem Datenverkehr aus dem
-                    Internet
-                    zu dienen. Hierbei kann Cloudflare auch Cookies oder sonstige Technologien zur Wiedererkennung von
-                    Internetnutzern einsetzen, die jedoch allein zum hier beschriebenen Zweck verwendet werden.</p>
-                <p>Der Einsatz von Cloudflare beruht auf unserem berechtigten Interesse an einer möglichst fehlerfreien
-                    und
-                    sicheren Bereitstellung unseres Webangebotes (Art. 6 Abs. 1 lit. f DSGVO).</p>
-                <p>Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt.
-                    Details
-                    finden Sie hier: <a
-                       href="https://www.cloudflare.com/privacypolicy/">https://www.cloudflare.com/privacypolicy/</a>.
-                </p>
-                <p>Weitere Informationen zum Thema Sicherheit und Datenschutz bei Cloudflare finden Sie hier: <a
-                       href="https://www.cloudflare.com/privacypolicy/">https://www.cloudflare.com/privacypolicy/</a>.
-                </p>
-                <h4>Auftragsverarbeitung</h4>
-                <p>Wir haben einen Vertrag &uuml;ber Auftragsverarbeitung (AVV) zur Nutzung der oben genannten Dienste
-                    geschlossen. Hierbei handelt es sich um einen datenschutzrechtlich vorgeschriebenen Vertrag, der
-                    gew&auml;hrleistet, dass dieser die personenbezogenen Daten unserer Websitebesucher nur nach unseren
-                    Weisungen und unter Einhaltung der DSGVO verarbeitet.</p>
+               
                 <h2>3. Allgemeine Hinweise und Pflicht&shy;informationen</h2>
                 <h3>Datenschutz</h3>
                 <p>Die Betreiber dieser Seiten nehmen den Schutz Ihrer pers&ouml;nlichen Daten sehr ernst. Wir behandeln

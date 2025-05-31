@@ -89,18 +89,19 @@
                         <li>Die Jury-Entscheidung fällt in der Woche vom 2. Juni (KW 19).</li>
                         <li>Im Anschluss informieren wir dich, ob dein Vorschlag es ins Programm geschafft hat.</li>
                         </ul>
+                        </br>
                     <h2>Warum solltest du eine Veranstaltung bei der AI Week einreichen?</h2>
                     <p>Die AI Week bietet dir eine tolle Gelegenheit, deine Expertise einem breiten Publikum zu präsentieren und wertvolle Kontakte in der KI-Community zu knüpfen.</p>
                     <p>Sie ist als Plattform für Wissensaustausch gedacht, bei der du dein Know-how teilen und von anderen Experten lernen kannst.</p>
                     <p>Wer weiß – vielleicht findest du hier sogar deinen nächsten Kooperationspartner für ein innovatives KI-Projekt?</p></br>
-                   
+                    </br>
                     <h2>KI kennt keine Grenzen</h2> 
                     <p>Einreichungen für die AI Week sind auch von Unternehmen, Organisationen und Einzelpersonen außerhalb Mainfrankens möglich. Frage gerne mal in deinem Netzwerk nach. 🙏</p>
 
                     <br><br>
                         <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event eintragen</a>
                         <br><br>
-
+                        
                         <h2>FAQ: Veranstaltung bei der AI Week einreichen</h2>
                     <p>👉 Können auch nach der Einreichungsfrist Veranstaltungen in das <a href="https://backend.timetable.ai-week.de"
                                        target="_blank">Event-Tool</a> eingetragen werden?</p>

@@ -200,7 +200,7 @@
                             <li>KI und Cyber Security</li>
                         </ul>
                         </br>
-                    <h3>2. Digitale Gesellschaft</h3>
+                    <h2>2. Digitale Gesellschaft</h2>
 
                         <ul>
                             <li>Smart City: KI für lebenswertere und nachhaltigere Städte</li>
@@ -208,22 +208,22 @@
                             <li> Deepfakes und Desinformation: Wie KI unsere Wahrnehmung der Realität verändert </li>
                         </ul>
                         </br>
-                    <h3>3. Business & New Work</h3>
+                    <h2>3. Business & New Work</h2>
 
                         <ul>
                             <li>KI-gestütztes Recruiting</li>
                             <li>Predictive Maintenance: Wie KI Ausfallzeiten minimiert</li>
                             <li> KI-gestützte Prozessoptimierung: Effizienzsteigerung in Unternehmen</li>
                         </ul>
-
-                    <h3>4. Digitale Gesellschaft</h3>
+                        </br>
+                    <h2>4. Digitale Gesellschaft</h2>
 
                         <ul>
                             <li>KI-Startups: von der Idee zur erfolgreichen Gründung</li>
                             <li>Kooperationen zwischen Start-ups und etablierten Unternehmen im KI-Bereich</li>
                         </ul>
-
-                    <h3>5. Kultur</h3>
+                        </br>
+                    <h2>5. Kultur</h2>
 
                         <ul>
                             <li>KI: Ist das Kunst oder kann das weg?</li>

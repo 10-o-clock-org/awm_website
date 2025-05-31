@@ -9,7 +9,7 @@
                     <li><a href="kontakt.php">Kontakt</a></li>
                     <li><a href="faq.php">FAQ</a></li>
                     <li><a href="impressum.php">Impressum</a></li>
-                    <li><a href="#">Datenschutz</a></li>
+                    <li><a href="datenschutz.php">Datenschutz</a></li>
                 </ul>
             </div>
         </div>

@@ -4,7 +4,7 @@ $pages = array(
     'mitmachen.php' => 'Mitmachen',
     'programm.php' => 'Programm',
     'sponsoren.php' => 'Sponsoren',
-    'aicamp.php' => 'AI CAMP',
+    'aicamp.php' => '<a href="https://www.ai-barcamp.de">AI Camp</a>',
     'news.php' => 'News',
 ) ;
 

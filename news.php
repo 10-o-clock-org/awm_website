@@ -20,6 +20,7 @@
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
                         <p><a href="#eventtool">2025-05-18 | <u>Bis 2. Juni 2025 Event(s) eintragen</a></u><br>
+                        p><a href="pitches">2025-05-18 | <u>KI-Start-up-Lunch-Pitches: Jetzt bewerben!</a></u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>
@@ -130,6 +131,82 @@
 
 
 
+        <div class="section" id="pitches">
+            <div class="container">                 
+                <div class="grid">
+                    <div class="col span-8">
+                        <div class="spacer"></div>
+                        <h1>KI-Start-up-Lunch-Pitches: Jetzt bewerben!</h1>
+                        <br>
+                        <p>Wenn sich bei der AI Week Mainfranken 2025 alles rund um KI dreht, dürfen
+                        natürlich Start-ups nicht fehlen.</p>
+                    <p>KI-Start-ups aufgepasst:
+                        Wir bieten euch eine tolle Gelegenheit, euer Unternehmen bei unseren "KI-Start-up-Lunch-Pitches"
+                        zu präsentieren.</p>
+                        <h2>Ablauf:</h2>
+                    <p>Von Montag bis Donnerstag (30.6. bis 3.7.) gibt es zur Mittagspause (12 bis 13 Uhr) drei bis vier Online-Pitches à
+                        5 Minuten. Moderiert werden die Start-up-Lunch-Pitches von Partnern des Netzwerkes <a href="https://gim-bayern.de"
+                        target="_blank">Gründen in Mainfranken</a> .</p>
+                    <h2>Wer kann mitmachen?</h2>
+                    <ul>
+                            <li>Start-ups 2022 oder später gegründet; gerne noch in der Vorgründungsphase</li>
+                            <li>KI-Fokus ist ein Muss</li>
+                            <li>Vorzug für mainfränkische Gründungen, Bewerbungen aus dem gesamten deutschsprachigen Raum willkommen</li>
+                    </ul>
+                   <p>Die Teilnahme ist kostenfrei. 
+                   <br><br>
+                        <a class="button" href="https://forms.gle/p48HHAffYBUH6kP4A" target="_blank">Jetzt für den Pitch bewerben</a>
+                        <br><br><br>  
+                   
+                    <p>Bei Fragen schreib uns <a href="mailto:kontakt@wueww.de">eine E-Mail</a>.</p>
+
+                    <p>Wer sich fragt, warum gibt es am Freitag, dem 4. Juli, keine Pitches? Da organisieren wir als Abschlussevent der AI Week das ganztägige <a href="https://www.ai-barcamp.de"
+               target="_blank">AI Camp Würzburg</a>.</p>
+
+                    <p><a href="https://forms.gle/p48HHAffYBUH6kP4A" target="_blank">Bewirb dich</a> und pitche euer
+                        KI-Start-up bei der AI Week Mainfranken! Wir freuen uns, von euch zu hören!</p>
+                    <p>Noch Fragen zur AI Week Mainfranken? Antworten haben wir <a href="/faq.html" target="_blank">in
+                            unseren FAQ</a> zusammengestellt.</p>
+                    <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
+                       bereits das <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a>
+                    </p>
+
+
+
+
+
+                        <h2>H2 Normal</h2>
+                        <br>
+                        <h3>H3 Normal</h3>
+                        <br>
+                        <p>Paragraph Fließtext Er hörte leise Schritte hinter sich. Das bedeutete nichts Gutes. Wer würde ihm schon folgen, spät in der Nacht und dazu noch in dieser engen Gasse mitten im übel beleumundeten Hafenviertel? Gerade jetzt, wo er das Ding seines Lebens gedreht hatte und mit der Beute verschwinden wollte! Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner <span>Arbeit</span> zu erleichtern?</p>
+                        <figure>
+                            <img src="images/bild.jpg" alt="SEO BLABLA" />
+                            <figcaption>Bildunterschrift mit Erklärung etc.<br>oder einfach nur so</figcaption>
+                        </figure>
+                        <br><br>
+                        <br><br>
+                        <ul>
+                            <li>Bullet</li>
+                            <li>Bullet</li>
+                            <li>Bullet</li>
+                        </ul>
+                        <br>
+                        <ol>
+                            <li>Aufzählung</li>
+                            <li>Aufzählung</li>
+                            <li>Aufzählung</li>
+                        </ol>
+                        <br><br>
+                        <a class="button" href="#">Button</a>
+                        <br><br>
+                        <p class="quote">
+                            „Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner Arbeit zu erleichtern?”
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div> 
         <div class="section" id="news1">
             <div class="container">                 
                 <div class="grid">
@@ -169,6 +246,9 @@
                 </div>
             </div>
         </div> 
+
+
+
         <!-- Ende der News Section -->
         
     </div>

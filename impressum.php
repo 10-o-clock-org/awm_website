@@ -18,6 +18,7 @@
                 <div class="grid">
                     <div class="col span-12">
                         <h1>Impressum</h1>
+                        </br>
                         <div class="left-column">
                     <h2>KONTAKT</h2>
                     <p>Telefon: +49 (0) 1 76 10 30 55 38</p>

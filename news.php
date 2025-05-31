@@ -100,7 +100,7 @@
 
                     <br><br>
                         <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event eintragen</a>
-                        <br><br>
+                        <br><br><br>
                         
                         <h2>FAQ: Veranstaltung bei der AI Week einreichen</h2>
                     <p>👉 Können auch nach der Einreichungsfrist Veranstaltungen in das <a href="https://backend.timetable.ai-week.de"

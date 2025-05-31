@@ -43,13 +43,13 @@
                     </ul>
                     <p>Antworten auf weitere Fragen findest du in unseren <a href="/faq.php">FAQ</a>.</p>
                     <a href="https://backend.timetable.ai-week.de" target="_blank" class="button" href="#">Jetzt Event eintragen!</a>
-                    </br> </br>
+                    </br></br></br> 
                     <h2>Unterstütze die Initiative als Sponsor</h2>
                 <p>Die AI Week ist auf die finanzielle Unterstützung von Sponsoren angewiesen. Damit können wir unter
                     anderem die Stellen von Ute und Franzi, verschiedene Werbemaßnahmen und einiges mehr finanzieren.
 
                     Bei Interesse melde dich <a href="mailto:ute.muendlein@wueww.de">bei Ute</a>.</p>
-                </br>
+                    </br></br></br> 
                 <h2>Nimm an Veranstaltungen teil und gib anderen Bescheid:</h2>
 
                 <p>🗓️ Save the date! Das Programm veröffentlichen wir im Juni 2025.</p>

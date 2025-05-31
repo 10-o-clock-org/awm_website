@@ -38,8 +38,7 @@
                         <li>Gold- und Hauptsponsoren erhalten einen Veranstaltungsslot (kontaktiere <a
                                    href="mailto:ute.muendlein@wueww.de">Ute</a> für weitere Infos)</li>
                         <li>Veranstaltungen bei der AI Week sind kostenfrei; falls ein Ticketpreis erhoben wird,
-                                darf er lediglich Raum-/Cateringkosten decken. Davon ausgenommen sind
-                                Masterclasses.</li>
+                                darf er lediglich Raum-/Cateringkosten decken. Davon ausgenommen sind Masterclasses.</li>
                     </ul>
                     <p>Antworten auf weitere Fragen findest du in unseren <a href="/faq.php">FAQ</a>.</p>
                     <a href="https://backend.timetable.ai-week.de" target="_blank" class="button" href="#">Jetzt Event eintragen!</a>

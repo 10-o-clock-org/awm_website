@@ -18,7 +18,7 @@
                 <div class="grid">
                     <div class="col span-12">
                         <h1>AI Camp Würzburg</h1>
-                        <p>Beim AI Camp bestimmen die Teilnehmer selbst, worüber gesprochen wird. Das Barcamp-Format sorgt für spontane Diskussionen und echten Wissensaustausch zwischen KI-Einsteigern und Profis, von Studierenden, Anwendern, Entwicklerinnen über Kreative bis hin zu Gründungsinteressierten und Start-ups.<br><br>
+                        <p>Beim AI Camp bestimmen die Teilnehmer selbst, worüber gesprochen wird. Das Barcamp-Format sorgt für spontane Diskussionen und echten Wissensaustausch zwischen KI-Einsteigern und Profis, von Studierenden, Anwendern, Entwicklerinnen über Kreative bis hin zu Gründungsinteressierten und Start-ups.</p>
                         <p>Die Themen können von ChatGPT-Tipps bis zur Integration von Open-Source-KI in eigene Projekte reichen. Schlag vor, was dich interessiert.</p>
                         <p>Es ist auch die perfekte Gelegenheit, um neue Tools zu entdecken, konkrete Probleme zu lösen und in Ask-Sessions Antworten auf konkrete Fragen zu erhalten.</p>
                         <ul>

@@ -242,12 +242,13 @@
                     <p>PS: Noch gibt es Tickets für das <a href="https://www.ai-barcamp.de/" target="_blank">AI Camp
                             Würzburg am 4. Juli 2025</a>, das Abschluss-Event der AI Week Mainfranken. Unsere Empfehlung:
                         Warte nicht zu lange, die Early-Bird-Tickets waren innerhalb von 30 Minuten weg.</p>
-                  
-                        </div>
+                        <br><br>
+                        <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event für die AI Week eintragen</a>
+                        <br><br><br>         
+                    </div>
                 </div>
             </div>
         </div> 
-
 
 
 

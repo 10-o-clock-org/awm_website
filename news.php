@@ -19,7 +19,7 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                            2025-05-18 |<a href="#eventtool"><u> Bis 2. Juni 2025 Event(s) eintragen</a>/u>
+                        <p><a href="#Eventtool">2025-05-18 | <u>an 5 Tagen – von Tech bis Kultur</a></u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>
                             2024-09-11 | <u>an 5 Tagen – von Tech bis Kultur</u><br>

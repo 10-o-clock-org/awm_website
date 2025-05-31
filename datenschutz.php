@@ -93,10 +93,10 @@
                     Leistungspflichten
                     erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen.</p>
                 <p>Wir setzen folgenden Hoster ein:</p>
-                <p>Vercel Inc.<br>
-                    340 S Lemon Ave #4133<br>
-                    Walnut, CA 91789<br>
-                    USA</p>
+                <p>BIOHOST<br>
+                    Dorfstraße 2c
+                    24354 Kosel (Bohnert)<br>
+                    Deutschland</p>
                 <h4>Auftragsverarbeitung</h4>
                 <p>Wir haben einen Vertrag &uuml;ber Auftragsverarbeitung (AVV) zur Nutzung der oben genannten Dienste
                     geschlossen. Hierbei handelt es sich um einen datenschutzrechtlich vorgeschriebenen Vertrag, der

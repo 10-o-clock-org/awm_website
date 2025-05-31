@@ -73,7 +73,7 @@
                                     decken></li>
                         </ul>
                         <br><br>
-                        <a href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event eintragen</a>
+                        <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event eintragen</a>
                         <br><br>
 
 

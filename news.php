@@ -116,32 +116,7 @@
                            href="https://www.ai-week.de/news.html#pitches">in diesem Beitrag</a>.</p>
 
 
-                        <h3>H3 Normal</h3>
-                        <br>
-                        <p>Paragraph Fließtext Er hörte leise Schritte hinter sich. Das bedeutete nichts Gutes. Wer würde ihm schon folgen, spät in der Nacht und dazu noch in dieser engen Gasse mitten im übel beleumundeten Hafenviertel? Gerade jetzt, wo er das Ding seines Lebens gedreht hatte und mit der Beute verschwinden wollte! Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner <span>Arbeit</span> zu erleichtern?</p>
-                        <figure>
-                            <img src="images/bild.jpg" alt="SEO BLABLA" />
-                            <figcaption>Bildunterschrift mit Erklärung etc.<br>oder einfach nur so</figcaption>
-                        </figure>
-                        <br><br>
-                        <br><br>
-                        <ul>
-                            <li>Bullet</li>
-                            <li>Bullet</li>
-                            <li>Bullet</li>
-                        </ul>
-                        <br>
-                        <ol>
-                            <li>Aufzählung</li>
-                            <li>Aufzählung</li>
-                            <li>Aufzählung</li>
-                        </ol>
-                        <br><br>
-                        <a class="button" href="#">Button</a>
-                        <br><br>
-                        <p class="quote">
-                            „Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner Arbeit zu erleichtern?”
-                        </p>
+                      
                     </div>
                 </div>
             </div>

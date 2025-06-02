@@ -314,10 +314,12 @@ a:active, p a:active {
 	text-decoration: none;
 	outline: none;
     transition: all 0.25s ease-out;
+    border-bottom: 3px solid #fff;
 }
 a:hover, 
 p a:hover {
 	color: #fff;
+    border-bottom: 3px solid #EE1F5C;
 }
 a:focus {
    outline: none;

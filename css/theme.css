@@ -314,7 +314,7 @@ a:active, p a:active {
 	text-decoration: none;
 	outline: none;
     transition: all 0.25s ease-out;
-    border-bottom: 2px solid #fff;
+    border-bottom: 1px solid #fff;
 }
 a:hover, 
 p a:hover {

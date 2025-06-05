@@ -4,6 +4,7 @@
     include("template-parts/header.php");
 ?>
 <body>
+    <link rel="stylesheet" href="timetable/main.f3d7ac27.css" />
 <?php 
     include("template-parts/overlay.php");
 ?>
@@ -16,37 +17,8 @@
         <div class="section">
             <div class="container">                 
                 <div class="grid">
-                    <div class="col span-8">
-                        <h1>H1 Versal</h1>
-                        <br>
-                        <h2>H2 Normal</h2>
-                        <br>
-                        <h3>H3 Normal</h3>
-                        <br>
-                        <p>Paragraph Fließtext Er hörte leise Schritte hinter sich. Das bedeutete nichts Gutes. Wer würde ihm schon folgen, spät in der Nacht und dazu noch in dieser engen Gasse mitten im übel beleumundeten Hafenviertel? Gerade jetzt, wo er das Ding seines Lebens gedreht hatte und mit der Beute verschwinden wollte! Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner <span>Arbeit</span> zu erleichtern?</p>
-                        <figure>
-                            <img src="images/bild.jpg" alt="" />
-                            <figcaption>Bildunterschrift mit Erklärung etc.<br>oder einfach nur so</figcaption>
-                        </figure>
-                        <br><br>
-                        <br><br>
-                        <ul>
-                            <li>Bullet</li>
-                            <li>Bullet</li>
-                            <li>Bullet</li>
-                        </ul>
-                        <br>
-                        <ol>
-                            <li>Aufzählung</li>
-                            <li>Aufzählung</li>
-                            <li>Aufzählung</li>
-                        </ol>
-                        <br><br>
-                        <a class="button" href="#">Button</a>
-                        <br><br>
-                        <p class="quote">
-                            „Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner Arbeit zu erleichtern?”
-                        </p>
+                    <div class="col span-12">
+                        <div id="app" />
                     </div>
                 </div>
             </div>
@@ -57,5 +29,6 @@
 </div>
 <script src="js/jquery-3.3.1.min.js"></script>
 <script src="js/theme.js" type="text/javascript"></script>
+<script src="timetable/main.b2f3f89a.js"></script>
 </body>
 </html>

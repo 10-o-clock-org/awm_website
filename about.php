@@ -22,17 +22,17 @@
                         <h2>Bayerns erstes dezentrales KI-Festival</h2>
                         <br>
                         <p>Die AI Week Mainfranken ist Bayerns erstes dezentrales Festival mit Schwerpunkt KI.</p> 
-                        <p>Vom 30. Juni bis 4. Juli 2025 erwarten dich 42 Events an verschiedenen Orten in der Region sowie online.
+                        <p>Vom 30. Juni bis 4. Juli 2025 erwarten dich 35 Events an verschiedenen Orten in der Region sowie online.
                 An der ersten AI Week Mainfranken 2024 nahmen <a href="https://www.linkedin.com/feed/update/urn:li:activity:7264913707372089345">über 1.000 Menschen teil</a>.</p>
                 <h2>Unsere Vision:</h2>
                 <p>Wir sind überzeugt: KI kann viel, wir Menschen aber auch! Gemeinsam sind wir unschlagbar, wenn es
                     darum geht, die großen Herausforderungen unserer Zeit zu meistern. Die AI Week Mainfranken bringt
                     Innovatoren, Experten und Neugierige zusammen, um die Zukunft der KI aktiv mitzugestalten.
                 </p>
-                <h3>Mit der AI Week Mainfranken möchten wir:</h3>
+                <h3>Mit der AI Week Mainfranken machen wir:</h3>
                 <ul>
-                            <li>Künstliche Intelligenz greifbar machen</li>
-                            <li>Die Expertise unserer Region für alle sichtbar machen</li>
+                            <li>Künstliche Intelligenz greifbar</li>
+                            <li>Die Expertise unserer Region für alle sichtbar</li>
                             <li>Aktuelle Möglichkeiten und Grenzen von KI aufzeigen</li>
                             <li>Gemeinsam die KI-Zukunft vorantreiben</li>        
                 </ul>
@@ -70,26 +70,7 @@
                             <img src="images/bild.jpg" alt="" />
                             <figcaption>Bildunterschrift mit Erklärung etc.<br>oder einfach nur so</figcaption>
                         </figure>
-                        <br><br>
-                        <br><br>
-                        <ul>
-                            <li>Bullet</li>
-                            <li>Bullet</li>
-                            <li>Bullet</li>
-                        </ul>
-                        <br>
-                        <ol>
-                            <li>Aufzählung</li>
-                            <li>Aufzählung</li>
-                            <li>Aufzählung</li>
-                        </ol>
-                        <h3>H3 Normal</h3>
-                        <br><br>
-                        <a class="button" href="#">Button</a>
-                        <br><br>
-                        <p class="quote">
-                            „Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner Arbeit zu erleichtern?”
-                        </p>
+                        
                     </div>
                 </div>
             </div>

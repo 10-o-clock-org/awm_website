@@ -40,7 +40,7 @@
                          <h2>Ablauf der AI Week Mainfranken:</h2>
                          <ul>
                         <li>Fünf thematische Schwerpunkte zum Thema KI (von Technologie bis Fitness)</li>                  </li>
-                        <li>42 Events über 5 Veranstaltungstage verteilt</li>
+                        <li>35 Events über 5 Veranstaltungstage verteilt</li>
                         <li>Veranstaltungen für Einsteiger bis Profis</li>
                         <li><a href="https://www.ai-barcamp.de">AI Camp Würzburg</a> als Abschluss-Event am 4. Juli 2025</li>
                                             </ul>

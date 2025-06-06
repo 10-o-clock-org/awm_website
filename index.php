@@ -50,17 +50,7 @@
                     </div>
                 </div>
                 
-                <div class="grid">
-                    <div class="col span-12">
-                        <h6>Unsere Hauptsponsoren</h6>
-                        <br>
-                        <img style="max-width: 11.7rem; margin: 0 3rem 2rem 0;" src="images/logo-hauptsponsor-01.png" alt="" />
-                        <img style="max-width: 11.7rem; margin: 0 3rem 2rem 0;" src="images/logo-hauptsponsor-01.png" alt="" />
-                        <img style="max-width: 11.7rem; margin-bottom: 2rem;" src="images/logo-hauptsponsor-01.png" alt="" />
-                        <br><br><br><br>
-                        <p style="font-size: 1.5rem">Prototyp by KI und viel ♡ von Ute & Aron, Designschliff von jo’s buero</p>
-                    </div>
-                </div>
+               
                 
             </div>
         </div> 

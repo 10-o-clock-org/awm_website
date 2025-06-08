@@ -129,7 +129,7 @@
                         natürlich Start-ups nicht fehlen.</p>
                     <p>KI-Start-ups aufgepasst:
                         Wir bieten euch eine tolle Gelegenheit, euer Unternehmen bei unseren "KI-Start-up-Lunch-Pitches"
-                        zu präsentieren.</p>
+                        zu präsentieren. Bewerbt euch bis Montag, den 23. Juni 2025.</p>
                         <h2>Ablauf:</h2>
                     <p>Von Montag bis Donnerstag (30.6. bis 3.7.) gibt es zur Mittagspause (12 bis 13 Uhr) drei bis vier Online-Pitches à
                         5 Minuten. Moderiert werden die Start-up-Lunch-Pitches von Partnern des Netzwerkes <a href="https://gim-bayern.de"
@@ -141,7 +141,7 @@
                             <li>KI-Fokus ist ein Muss</li>
                             <li>Vorzug für mainfränkische Gründungen, Bewerbungen aus dem gesamten deutschsprachigen Raum willkommen</li>
                     </ul>
-                   <p>Die Teilnahme ist kostenfrei. Wir freuen uns, von euch zu hören! Bei Fragen schreib uns gerne <a href="mailto:kontakt@wueww.de">eine E-Mail</a>.</p>                                  
+                   <p>Die Teilnahme ist kostenfrei. Wir freuen uns, von euch zu hören! Bei Fragen schreib uns gerne <a href="mailto:hello@10-o-clock.de">eine E-Mail</a>.</p>                                  
                     
 
                     <p>Wer sich fragt, warum es am Freitag, dem 4. Juli, keine Pitches gibt: Da organisieren wir als Abschlussevent der AI Week das ganztägige <a href="https://www.ai-barcamp.de"
@@ -224,13 +224,13 @@
                     <p>Noch Fragen? Schau in unsere <a href="/faq.html">FAQ</a>.</p>
                     <p>Tipp: Du kannst dich bei der AI Week Mainfranken nicht nur mit einer oder mehreren
                         Veranstaltungen beteiligen, sondern uns auch als Sponsor unterstützen. Bei Interesse nimm mit
-                        uns <a href="mailto:ute.muendlein@wueww.de">Kontakt auf</a>.
+                        uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf</a>.
                     </p>
                     <p>PS: Noch gibt es Tickets für das <a href="https://www.ai-barcamp.de/" target="_blank">AI Camp
                             Würzburg am 4. Juli 2025</a>, das Abschluss-Event der AI Week Mainfranken. Unsere Empfehlung:
                         Warte nicht zu lange, die Early-Bird-Tickets waren innerhalb von 30 Minuten weg.</p>
                         <br><br>
-                        <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event für die AI Week eintragen</a>
+                        <a class="button" href="programm.php" target="_blank">Hier geht's zum Programm</a>
                         <br><br><br>         
                     </div>
                 </div>
@@ -274,7 +274,7 @@
                            href="https://www.ai-week.de/news.php#WueWW">in diesem Beitrag</a>, wie sich die AI Week von
                         der Wuerzburg Web Week unterscheidet.</p>
                         <br><br>
-                        <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event für die AI Week eintragen</a>
+                        <a class="button" href="programm.php" target="_blank">Hier geht's zum Programm</a>
                         <br><br><br>    
                         </div>
                 </div>
@@ -304,8 +304,7 @@
                                    4. Juli 2025, gibt es das <a href="https://www.ai-barcamp.de">AI Camp Würzburg</a>.</li>
                             <li> Veranstaltung statt Vortrag: Statt eines festen 45-minütigen Vortragsslots auf
                                     einer Konferenz kannst du eine oder mehrere eigenständige Veranstaltungen 
-                                <a href="https://backend.timetable.ai-week.de" target="_blank"> in unser
-                                    Event-Tool eintragen.</a></li>
+                                anbieten.</li>
                             <li>Flexible Formate: darunter Vorträge, Podiumsdiskussionen, Frühstücke,
                                     Start-up-Pitches, Programmier-Sessions, Promptathons und was den Mainfranken sonst
                                     noch einfällt.</li>
@@ -326,7 +325,7 @@
                     <p>Aktuell suchen wir Sponsoren, die unser KI-Festival finanziell unterstützen, das erste seiner Art in Bayern. Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@wueww.de">Kontakt
                             auf.</a></p>
                             <br><br>
-                        <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event für die AI Week eintragen</a>
+                            <a class="button" href="programm.php" target="_blank">Hier geht's zum Programm</a>
                         <br><br><br>   
                     </div>
                 </div>
@@ -335,73 +334,7 @@
                         
                         
                         
-                        
-                        <h2>H2 Normal</h2>
-                        <br>
-                        <h3>H3 Normal</h3>
-                        <br>
-                        <p>Paragraph Fließtext Er hörte leise Schritte hinter sich. Das bedeutete nichts Gutes. Wer würde ihm schon folgen, spät in der Nacht und dazu noch in dieser engen Gasse mitten im übel beleumundeten Hafenviertel? Gerade jetzt, wo er das Ding seines Lebens gedreht hatte und mit der Beute verschwinden wollte! Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner <span>Arbeit</span> zu erleichtern?</p>
-                        <figure>
-                            <img src="images/bild.jpg" alt="SEO BLABLA" />
-                            <figcaption>Bildunterschrift mit Erklärung etc.<br>oder einfach nur so</figcaption>
-                        </figure>
-                        <br><br>
-                        <br><br>
-                        <ul>
-                            <li>Bullet</li>
-                            <li>Bullet</li>
-                            <li>Bullet</li>
-                        </ul>
-                        <br>
-                        <ol>
-                            <li>Aufzählung</li>
-                            <li>Aufzählung</li>
-                            <li>Aufzählung</li>
-                        </ol>
-                        <br><br>
-                        <a class="button" href="#">Button</a>
-                        <br><br>
-                        <p class="quote">
-                            „Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner Arbeit zu erleichtern?”
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div> 
-
-
-
-                        <h2>H2 Normal</h2>
-                        <br>
-                        <h3>H3 Normal</h3>
-                        <br>
-                        <p>Paragraph Fließtext Er hörte leise Schritte hinter sich. Das bedeutete nichts Gutes. Wer würde ihm schon folgen, spät in der Nacht und dazu noch in dieser engen Gasse mitten im übel beleumundeten Hafenviertel? Gerade jetzt, wo er das Ding seines Lebens gedreht hatte und mit der Beute verschwinden wollte! Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner <span>Arbeit</span> zu erleichtern?</p>
-                        <figure>
-                            <img src="images/bild.jpg" alt="SEO BLABLA" />
-                            <figcaption>Bildunterschrift mit Erklärung etc.<br>oder einfach nur so</figcaption>
-                        </figure>
-                        <br><br>
-                        <br><br>
-                        <ul>
-                            <li>Bullet</li>
-                            <li>Bullet</li>
-                            <li>Bullet</li>
-                        </ul>
-                        <br>
-                        <ol>
-                            <li>Aufzählung</li>
-                            <li>Aufzählung</li>
-                            <li>Aufzählung</li>
-                        </ol>
-                        <br><br>
-                        <a class="button" href="#">Button</a>
-                        <br><br>
-                        <p class="quote">
-                            „Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner Arbeit zu erleichtern?”
-                        </p>
-                    </div>
-                </div>
-            </div>
+        
         </div> 
 
 

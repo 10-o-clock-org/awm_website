@@ -24,7 +24,7 @@
                             <br>
                             <p><img class="icon" src="images/icon-flag.png" alt="" />verschiedene Orte in Mainfranken und online</p>
                             <p><img class="icon" src="images/icon-calendar.png" alt="" />30. Juni bis 4. Juli 2025</p>
-                            <a class="button" href="/about.php">Mehr erfahren</a>
+                            <a class="button" href="about.php">Mehr erfahren</a>
                         </div>
                         <div class="col span-6">
                             <div class="star-btn"><a href="programm.php#/veranstaltung/2" style="border-bottom: none"></a><span class="tooltip">zum Abschluss-Event</span></div>

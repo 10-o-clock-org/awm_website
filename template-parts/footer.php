@@ -15,8 +15,8 @@
         </div>
     </div>
     <ul class="social-navigation">
-        <li><a href="#" target="_blank"><img class="icon" src="images/linkedin.svg" alt="LinkedIn"></a></li>
-        <li><a href="#" target="_blank"><img class="icon" src="images/instagram.svg" alt="Instagram"></a></li>
-        <li><a href="#" target="_blank"><img class="icon" src="images/icon-mail.png" alt="Mail"></a></li>
+        <li><a href="https://www.linkedin.com/company/wuerzburg-web-week" target="_blank"><img class="icon" src="images/linkedin.svg" alt="LinkedIn"></a></li>
+        <li><a href="https://www.instagram.com/wueww" target="_blank"><img class="icon" src="images/instagram.svg" alt="Instagram"></a></li>
+        <li><a href="mailto:kontakt@wueww.de" target="_blank"><img class="icon" src="images/icon-mail.png" alt="Mail"></a></li>
     </ul>
 </div>

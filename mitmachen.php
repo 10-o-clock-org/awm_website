@@ -32,9 +32,9 @@
                                 Frühstück, Programmiersession, ein Promptathon oder was immer euch einfällt.</li>
                         <li>Gebt an, wann ihr die Veranstaltung anbieten wollt (Datum und Uhrzeit).</li>
                     </ul>
-                    <p>Wichtig: Die Einreichungsfrist ist leider abgelaufen.</p>
+                    <p>Die Einreichungsfrist ist leider abgelaufen.</p>
                     
-                    <a class="button" href="programm.php">"Hier geht's zum Programm</a>
+                    <a class="button" href="programm.php">Hier geht's zum Programm</a>
                     </br></br></br> 
                     <h2>Unterstütze die Initiative als Sponsor</h2>
                 <p>Die AI Week ist auf die finanzielle Unterstützung von Sponsoren angewiesen. Damit können wir unter
@@ -44,7 +44,7 @@
                     </br></br></br> 
                 <h2>Nimm an Veranstaltungen teil und gib anderen Bescheid:</h2>
 
-                <a class="button" href="programm.php">"Hier geht's zum Programm</a>
+                <a class="button" href="programm.php">Hier geht's zum Programm</a>
                 
                        
                 

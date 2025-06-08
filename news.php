@@ -306,20 +306,18 @@
 
                     <p>Dafür übernehmen wir das erfolgreiche Konzept der Wuerzburg Web Week, etwas kleiner und kürzer
                         als du es von der WueWW kennst:</p>
-
+                        <br> 
                     <h2>Das bleibt gleich:</h2>
                         <ul>
-                            <li> Dezentralität: An den ersten vier Tagen finden 41 Events dezentral an vielen Orten
+                            <li> Dezentralität: An den ersten vier Tagen finden 34 Events dezentral an vielen Orten
                                     in Mainfranken bzw. auch online statt. Zum Abschluss am fünften Veranstaltungstag, dem
                                    4. Juli 2025, gibt es das <a href="aicamp.php">AI Camp Würzburg</a>.</li>
                             <li> Veranstaltung statt Vortrag: Statt eines festen 45-minütigen Vortragsslots auf
                                     einer Konferenz kannst du eine oder mehrere eigenständige Veranstaltungen 
                                 anbieten.</li>
-                            <li>Flexible Formate: darunter Vorträge, Podiumsdiskussionen, Frühstücke,
-                                    Start-up-Pitches, Programmier-Sessions, Promptathons und was den Mainfranken sonst
-                                    noch einfällt.</li>
+                            <li>Flexible Formate: darunter Vorträge, Frühstück, Start-up-Pitches und was den Mainfranken sonst noch einfällt.</li>
                         </ul>
-                    
+                        <br>
                     
                     <h2>Das ist bei der AI Week Mainfranken anders:</h2>
                         <ul>
@@ -327,7 +325,7 @@
                             <li>Anzahl Veranstaltungen: Das Programm hat maximal 42 Events.</li>
                             <li>Kuratierung: Diesmal entscheidet eine Jury, welche Veranstaltungen ins Programm aufgenommen werden.</li>
                         </ul>
-                   
+                        <br> 
                     <h2>Mainfrankens nächste Erfolgsstory!</h2>
                     <p>An der ersten AI Week Mainfranken nahmen <a href="https://www.ai-week.de/assets/images/Zahlen%20AI%20Week%20Mainfranken%202024%20klein.pdf" 
                        target="_blank"> über 1.000 Menschen teil</a>. Das beweist: Mainfranken ist auch ein innovativer KI-Standort!</p>
@@ -339,7 +337,7 @@
                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
                        <br><br> 
                        
-                            <br><br>
+                        
                             <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>   
                     </div>

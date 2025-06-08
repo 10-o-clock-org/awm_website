@@ -29,17 +29,17 @@
                     darum geht, die großen Herausforderungen unserer Zeit zu meistern. Die AI Week Mainfranken bringt
                     Innovatoren, Experten und Neugierige zusammen, um die Zukunft der KI aktiv mitzugestalten.
                 </p>
-                <h3>Mit der AI Week Mainfranken machen wir:</h3>
+                <h3>Mit der AI Week Mainfranken:</h3>
                 <ul>
-                            <li>Künstliche Intelligenz greifbar</li>
-                            <li>Die Expertise unserer Region für alle sichtbar</li>
-                            <li>Aktuelle Möglichkeiten und Grenzen von KI aufzeigen</li>
-                            <li>Gemeinsam die KI-Zukunft vorantreiben</li>        
+                            <li>Machen wir Künstliche Intelligenz greifbar</li>
+                            <li>Wird die Expertise unserer Region für alle sichtbar</li>
+                            <li>Zeigen wir aktuelle Möglichkeiten und Grenzen von KI auf</li>
+                            <li>Treiben wir gemeinsam die KI-Zukunft voran</li>        
                 </ul>
                         <br>
                          <h2>Ablauf der AI Week Mainfranken:</h2>
                          <ul>
-                        <li>Fünf thematische Schwerpunkte zum Thema KI (von Technologie bis Fitness)</li>                  </li>
+                        <li>Fünf thematische Schwerpunkte zum Thema KI (von Chatbot bis Baustellenassistent)</li>                  </li>
                         <li>35 Events über 5 Veranstaltungstage verteilt</li>
                         <li>Veranstaltungen für Einsteiger bis Profis</li>
                         <li><a href="https://www.ai-barcamp.de">AI Camp Würzburg</a> als Abschluss-Event am 4. Juli 2025</li>
@@ -66,10 +66,7 @@
                     <a class="button" href="/mitmachen.php">MACH MIT</a>
 
                         
-                        <figure>
-                            <img src="images/bild.jpg" alt="" />
-                            <figcaption>Bildunterschrift mit Erklärung etc.<br>oder einfach nur so</figcaption>
-                        </figure>
+                       
                         
                     </div>
                 </div>

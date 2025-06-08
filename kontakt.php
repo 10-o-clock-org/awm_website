@@ -18,7 +18,7 @@
                 <div class="grid">
                     <div class="col span-12">
                         <h1>Retro-Feature: Kontakt</h1>
-                        <p>Fragen rund um die AI Week Mainfranken? Dann schreib uns ganz old-school eine E-Mail oder ruf uns an. Hier antworten noch Menschen (immer) und meist auch zeitnah.</p> <br><br>
+                        <p>Fragen rund um die AI Week Mainfranken? Dann schreib uns ganz old-school eine E-Mail oder ruf uns an. Hier antworten noch Menschen (immer) und meist auch zeitnah.</p> 
                         <p>AI Week Mainfranken<br>
                         c/o 10 o'clock GmbH<br>
                         Untere Hofstatt 3<br>

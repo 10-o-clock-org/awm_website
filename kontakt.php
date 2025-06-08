@@ -18,9 +18,9 @@
                 <div class="grid">
                     <div class="col span-12">
                         <h1>Retro-Feature: Kontakt</h1>
-                        <p>Fragen rund um die AI Week Mainfranken? Dann schreib uns ganz old-school eine E-Mail an. Hier antworten noch Menschen (immer) und auch zeitnah. <br><br>
+                        <p>Fragen rund um die AI Week Mainfranken? Dann schreib uns ganz old-school eine E-Mail oder ruf uns an. Hier antworten noch Menschen (immer) und meist auch zeitnah. <br><br>
                         AI Week Mainfranken<br>
-                        10 o'clock GmbH<br>
+                        c/o 10 o'clock GmbH<br>
                         Untere Hofstatt 3
                         97286 Winterhausen
                         Telefon: +49 (0) 176 10 30 55 38<br><br>

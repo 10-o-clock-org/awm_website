@@ -55,7 +55,7 @@
                                     Am 4. Juli rundet das <a href="aicamp.php"
                                        target="_blank">AI Camp Würzburg</a> die Woche ab. An diesem Tag findet kein weiteres Event
                                     der AI Week Mainfranken statt.</li>
-                            <li>Maximal 41 Veranstaltungsslots plus das <a href="https://www.ai-barcamp.de/"
+                            <li>Maximal 41 Veranstaltungsslots plus das <a href="aicamp.php"
                                        target="_blank">AI Camp Würzburg</a></li>
                             <li>Dein Event ist kostenfrei oder der Ticketpreis sollte Catering/Raummiete decken</li>
                         </ul>

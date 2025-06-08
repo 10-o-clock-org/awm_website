@@ -52,7 +52,7 @@
                     <ul>
                             <li>Klarer KI-Bezug der Veranstaltung ist Voraussetzung</li>
                             <li>Plane dein(e) Event(s) für den Zeitraum Montag bis Donnerstag (30. Juni bis 3. Juli 2025). 
-                                    Am 4. Juli rundet das <a href="https://www.ai-barcamp.de/"
+                                    Am 4. Juli rundet das <a href="aicamp.php"
                                        target="_blank">AI Camp Würzburg</a> die Woche ab. An diesem Tag findet kein weiteres Event
                                     der AI Week Mainfranken statt.</li>
                             <li>Maximal 41 Veranstaltungsslots plus das <a href="https://www.ai-barcamp.de/"

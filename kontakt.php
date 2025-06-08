@@ -17,10 +17,14 @@
             <div class="container">                 
                 <div class="grid">
                     <div class="col span-12">
-                        <h1>LOG</h1>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<br><br>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<br><br>
-                        <a class="button" href="#">Button</a>
+                        <h1>Retro-Feature: Kontakt</h1>
+                        <p>Fragen rund um die AI Week Mainfranken? Dann schreib uns ganz old-school eine E-Mail an. Hier antworten noch Menschen (immer) und auch zeitnah. <br><br>
+                        AI Week Mainfranken<br>
+                        10 o'clock GmbH<br>
+                        Untere Hofstatt 3
+                        97286 Winterhausen
+                        Telefon: +49 (0) 176 10 30 55 38<br><br>
+                        <a class="button" href="a href="mailto:halloy@10-o-clock.de">hallo@10-o-clock.de</a>
                         </p>
                     </div>
                 </div>

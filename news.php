@@ -41,8 +41,7 @@
                         Einblicke und Austausch auf Augenhöhe.</p>
                         <h2>Sei nicht nur dabei, sondern mach mit!</h2>
                         <br>
-                        <p>Trage bis zum 2. Juni 2025 deine Veranstaltungsidee(n) <a href="https://backend.timetable.ai-week.de"
-                                       target="_blank">in unser neues Event-Tool</a> ein. Vielen
+                        <p>Trage bis zum 2. Juni 2025 deine Veranstaltungsidee(n) ein. Vielen
                         Dank an <a href="https://wue.social/@rolf"
                                        target="_blank">Stefan "Rolf" Siegl</a>, der das Tool für uns programmiert hat.
                     </p>
@@ -62,12 +61,12 @@
                             <li>Dein Event ist kostenfrei oder der Ticketpreis sollte Catering/Raummiete decken</li>
                         </ul>
                         <br><br>
-                        <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event eintragen</a>
+                        <a class="button" href="programm.php" target="_blank">Hier geht's zum Programm</a>
                         <br><br><br>
 
                         <h2>Hinweise zum Event-Tool:</h2>
                     <p>❗️ Wer im letzten Jahr bereits mit einem Event mitgemacht hat: Wir haben ein neues Tool, 
-                        bitte erstelle <a href="https://backend.timetable.ai-week.de" target="_blank">hier</a> einen neuen Account.</p>
+                        bitte erstelle einen neuen Account.</p>
                     <p>Nachdem du alle Daten eingegeben und nochmals überprüft hast, klicke auf “Abschicken”, dann ist dein Vorschlag eingereicht. 🥳</p>
                     <p>💡Hinweis: Du kannst einen Beitrag speichern, wenn du noch etwas ergänzen willst. Sobald du aber auf "Abschicken" geklickt hast, kannst du die Angaben nicht mehr ändern. 
                         Solltest du etwas ändern müssen, klicke zum erneuten Bearbeiten auf “Zurückziehen”. Vergiss bitte nicht, dann wieder auf Abschicken zu klicken. </p>
@@ -89,12 +88,11 @@
                     <p>Einreichungen für die AI Week sind auch von Unternehmen, Organisationen und Einzelpersonen außerhalb Mainfrankens möglich. Frage gerne mal in deinem Netzwerk nach. 🙏</p>
 
                     <br><br>
-                        <a class="button" href="https://backend.timetable.ai-week.de" target="_blank">Jetzt Event eintragen</a>
+                    <a class="button" href="programm.php" target="_blank">Hier geht's zum Programm</a>
                         <br><br><br>
                         
                         <h2>FAQ: Veranstaltung bei der AI Week einreichen</h2>
-                    <p>👉 Können auch nach der Einreichungsfrist Veranstaltungen in das <a href="https://backend.timetable.ai-week.de"
-                                       target="_blank">Event-Tool</a> eingetragen werden?</p>
+                    <p>👉 Können auch nach der Einreichungsfrist Veranstaltungen in das eingetragen werden?</p>
                     <p>Nein, das ist nicht möglich.</p>
                     <p>Weitere Antworten rund um die AI Week findest du in unseren <a
                            href="https://www.ai-week.de/faq.html" target="_blank">FAQ</a>. Falls dennoch Fragen offen

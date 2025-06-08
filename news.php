@@ -47,8 +47,7 @@
                     </p>
                     <p>Anders als bei der Wuerzburg Web Week beschränken wir die Anzahl der Vortragsslots auf maximal 42. 
                         Um eine hohe Qualität und Themenvielfalt zu gewährleisten, entscheidet eine Jury, welche
-                        Veranstaltungen in das endgültige Programm aufgenommen werden.
-                    </p>
+                        Veranstaltungen in das endgültige Programm aufgenommen werden.</p>
                     <h2>Bevor du loslegst:</h2>
                     <ul>
                             <li>Klarer KI-Bezug der Veranstaltung ist Voraussetzung</li>
@@ -61,17 +60,10 @@
                             <li>Dein Event ist kostenfrei oder der Ticketpreis sollte Catering/Raummiete decken</li>
                         </ul>
                         <br><br>
-                        <a class="button" href="programm.php" target="_blank">Hier geht's zum Programm</a>
+                        <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>
 
-                        <h2>Hinweise zum Event-Tool:</h2>
-                    <p>❗️ Wer im letzten Jahr bereits mit einem Event mitgemacht hat: Wir haben ein neues Tool, 
-                        bitte erstelle einen neuen Account.</p>
-                    <p>Nachdem du alle Daten eingegeben und nochmals überprüft hast, klicke auf “Abschicken”, dann ist dein Vorschlag eingereicht. 🥳</p>
-                    <p>💡Hinweis: Du kannst einen Beitrag speichern, wenn du noch etwas ergänzen willst. Sobald du aber auf "Abschicken" geklickt hast, kannst du die Angaben nicht mehr ändern. 
-                        Solltest du etwas ändern müssen, klicke zum erneuten Bearbeiten auf “Zurückziehen”. Vergiss bitte nicht, dann wieder auf Abschicken zu klicken. </p>
-                    <p>Alle, deren Veranstaltung ins Programm aufgenommen wird, können nach der Bekanntgabe noch einen Link zur Anmeldung oder zur Online-Teilnahme hinzufügen. Weitere Infos gibt es in diesem Beitrag.</p>
-                    </br>
+                        
                     <h2>Zeitlicher Ablauf:</h2>
                         <ul>
                          <li>Die Einreichungsfrist endet am Montag, dem 2. Juni um 23:59 Uhr.</li>
@@ -83,12 +75,12 @@
                     <p>Die AI Week bietet dir eine tolle Gelegenheit, deine Expertise einem breiten Publikum zu präsentieren und wertvolle Kontakte in der KI-Community zu knüpfen.</p>
                     <p>Sie ist als Plattform für Wissensaustausch gedacht, bei der du dein Know-how teilen und von anderen Experten lernen kannst.</p>
                     <p>Wer weiß – vielleicht findest du hier sogar deinen nächsten Kooperationspartner für ein innovatives KI-Projekt?</p></br>
-                    </br>
+                    
                     <h2>KI kennt keine Grenzen</h2> 
                     <p>Einreichungen für die AI Week sind auch von Unternehmen, Organisationen und Einzelpersonen außerhalb Mainfrankens möglich. Frage gerne mal in deinem Netzwerk nach. 🙏</p>
 
                     <br><br>
-                    <a class="button" href="programm.php" target="_blank">Hier geht's zum Programm</a>
+                    <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>
                         
                         <h2>FAQ: Veranstaltung bei der AI Week einreichen</h2>
@@ -230,7 +222,7 @@
                             Würzburg am 4. Juli 2025</a>, das Abschluss-Event der AI Week Mainfranken. Unsere Empfehlung:
                         Warte nicht zu lange, die Early-Bird-Tickets waren innerhalb von 30 Minuten weg.</p>
                         <br><br>
-                        <a class="button" href="programm.php" target="_blank">Hier geht's zum Programm</a>
+                        <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>         
                     </div>
                 </div>
@@ -274,7 +266,7 @@
                            href="https://www.ai-week.de/news.php#WueWW">in diesem Beitrag</a>, wie sich die AI Week von
                         der Wuerzburg Web Week unterscheidet.</p>
                         <br><br>
-                        <a class="button" href="programm.php" target="_blank">Hier geht's zum Programm</a>
+                        <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>    
                         </div>
                 </div>
@@ -325,7 +317,7 @@
                     <p>Aktuell suchen wir Sponsoren, die unser KI-Festival finanziell unterstützen, das erste seiner Art in Bayern. Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@wueww.de">Kontakt
                             auf.</a></p>
                             <br><br>
-                            <a class="button" href="programm.php" target="_blank">Hier geht's zum Programm</a>
+                            <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>   
                     </div>
                 </div>

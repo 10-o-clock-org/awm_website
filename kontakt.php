@@ -25,7 +25,7 @@
                         97286 Winterhausen<br>
                         Telefon: +49 (0) 176 10 30 55 38<br><br>
                     
-                        <a class="button" href="a href="mailto:hallo@10-o-clock.de">hallo@10-o-clock.de</a>
+                        <a class="button" href="mailto:hallo@10-o-clock.de">hallo@10-o-clock.de</a>
                         </p>
                     </div>
                 </div>

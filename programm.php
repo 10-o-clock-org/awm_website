@@ -4,7 +4,7 @@
     include("template-parts/header.php");
 ?>
 <body>
-    <link rel="stylesheet" href="timetable/main.1dfd4fb1.css" />
+    <link rel="stylesheet" href="timetable/main.5878fc8d.css" />
 <?php 
     include("template-parts/overlay.php");
 ?>

@@ -63,7 +63,7 @@
                          <h2>Wer organisiert die AI Week Mainfranken?</h2>
                 <p>Die AI Week Mainfranken wird von Ute Mündlein organisiert. Sie ist Mitgründerin und Hauptorganisatorin der seit 2018 jährlich stattfindenden 
                     <a href="https://www.wueww.de" target="_blank">Wuerzburg Web Week</a>.</p>
-                    <a class="button" href="/mitmachen.php">MACH MIT</a>
+                    <a class="button" href="/programm.php">Hier geht's zum Programm</a>
 
                         
                        

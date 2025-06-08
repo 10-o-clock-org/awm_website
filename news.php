@@ -87,13 +87,13 @@
                     <p>👉 Können auch nach der Einreichungsfrist Veranstaltungen in das eingetragen werden?</p>
                     <p>Nein, das ist nicht möglich.</p>
                     <p>Weitere Antworten rund um die AI Week findest du in unseren <a
-                           href="https://www.ai-week.de/faq.html" target="_blank">FAQ</a>. Falls dennoch Fragen offen
+                           href="faq.php" target="_blank">FAQ</a>. Falls dennoch Fragen offen
                         sind, schreibe uns eine E-Mail an: kontakt @ wueww. de.</p>
                     </br>
                    
                     <p>💡 PS: Wir möchten im Rahmen der AI Week Mainfranken auch KI-Start-ups eine Bühne geben:
                         Präsentiert eure Idee bei den KI-Start-up-Lunch-Pitches. Weitere Infos gibt es <a
-                           href="https://www.ai-week.de/news.php#pitches">in diesem Beitrag</a>.</p>
+                           href="news.php#pitches">in diesem Beitrag</a>.</p>
 
 
                       

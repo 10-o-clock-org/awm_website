@@ -53,7 +53,7 @@
                                 <input type="checkbox" name="accordion-4" id="cb4">
                                 <label for="cb4" class="tab__label">Wie viel kostet die Teilnahme?</label>
                                 <div class="tab__content">
-                                    <p>Die meisten Veranstaltungen sind kostenfrei. Eine Ausnahmen ist das <a href="https://www.ai-barcamp.de" target="_blank">AI Camp</a>, für das ein Ticketpreis erhoben wird.</p>
+                                    <p>Die meisten Veranstaltungen sind kostenfrei. Eine Ausnahmen ist das <a href="aicamp.php" target="_blank">AI Camp</a>, für das ein Ticketpreis erhoben wird.</p>
                                 </div>
                             </div>
                             <div class="tab">
@@ -84,7 +84,7 @@
                                 <input type="checkbox" name="accordion-9" id="cb9">
                                 <label for="cb9" class="tab__label">Wie melde ich mich für einzelne Veranstaltungen an?</label>
                                 <div class="tab__content">
-                                    <p>Du findest die Anmeldung hier auf der Webseite, sobald das Programm feststeht.</p>
+                                    <p>Du findest die Anmeldung für die jeweiligen Events <a href="programm.php" target="_blank">im Programm</a></p>
                                 </div>
                                 <div class="tab">
                                 <input type="checkbox" name="accordion-10" id="cb10">
@@ -110,11 +110,12 @@
                                 <label for="cb12" class="tab__label">Was ist der Unterschied zur Wuerzburg Web Week?</label>
                                 <div class="tab__content">
                                     <p>Die AI Week Mainfranken fokussiert sich speziell auf KI-Themen, während
-                        du bei der Web Week ein breiteres Spektrum digitaler Themen findest. <a href="news.html#Festival" target="_blank">In diesem Beitrag</a> 
+                        du bei der Web Week ein breiteres Spektrum digitaler Themen findest. <a href="news.php#kifestival" target="_blank">In diesem Beitrag</a> 
                         haben wir mehr dazu geschrieben.</p>
                                 </div>
                             </div>
                         </section>
+                        <br> <br>
                         <h2>Für Veranstalterinnen und Veranstalter</h2>
                         </br>
                         <section class="accordion">
@@ -122,15 +123,13 @@
                                 <input type="checkbox" name="accordion-13" id="cb13" checked>
                                 <label for="cb13" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
                                 <div class="tab__content">
-                                    <p>Bis Montag, den 2. Juni um 23:59 Uhr, kannst du <a aria-label="Event-Tool der AI Week Mainfranken" href="https://backend.timetable.ai-week.de"
-                                    target="_blank">in unser Event-Tool</a> Veranstaltungen für die AI Week eintragen.</p>
+                                    <p>Die Einreichungsfrist ist leider abgelaufen. Hier geht es <a href="programm.php" target="_blank">zum Programm</a>.</p>
                                 </div>
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-14" id="cb14">
                                 <label for="cb14" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
                                 <div class="tab__content">
-                                    <p>Bis Montag, den 2. Juni um 23:59 Uhr, kannst du <a aria-label="Event-Tool der AI Week Mainfranken" href="https://backend.timetable.ai-week.de"
-                                    target="_blank">in unser Event-Tool</a> Veranstaltungen für die AI Week eintragen.</p>
+                                <p>Die Einreichungsfrist für Veranstaltungen ist leider abgelaufen. Hier geht es <a href="programm.php" target="_blank">zum Programm</a>.</p>
                                 </div>
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-15" id="cb15">
@@ -142,8 +141,7 @@
                                 <input type="checkbox" name="accordion-16" id="cb16">
                                 <label for="cb16" class="tab__label">Gibt es eine Bewerbungsfrist für Veranstalter?</label>
                                 <div class="tab__content">
-                                    <p>Du kannst bis Montag, den 2. Juni um 23:59 Uhr, Veranstaltungen für die AI Week <a aria-label="Event-Tool der AI Week Mainfranken" href="https://backend.timetable.ai-week.de"
-                                    target="_blank">in unser Event-Tool</a> eintragen.</p>
+                                    <p>Ja, sie lief bis zum 2. Juni.; hier geht es <a href="programm.php" target="_blank">zum Programm</a>.</p>
                                 </div>
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-17" id="cb17">
@@ -156,30 +154,30 @@
                             <li>Drei mögliche Termine im Zeitraum vom 30. Juni bis 4. Juli</li>
                             <li>Titel (max. 30 Zeichen)</li>
                             <li>Eine kurze und eine etwas ausführliche Beschreibung des Events</li>
-                            <li><a href="news.html#Kategorien" target="_blank">Thematische
+                            <li><a href="news.php#kategorien" target="_blank">Thematische
                                     Kategorie</a></li>
                             <li>Ort (wo findet das Ganze statt), bei virtuellen Events entfällt diese Angabe</li>
                             <li>Ansprechpartner für uns (E-Mail-Adresse & Namen; Daten werden nicht veröffentlicht)
                             </li><br>
                                     </ul>
-                          <p>Weitere Infos zum Thema "Events einreichen" haben wir <a href="news.html#eventtool" target="_blank">in diesem Beitrag</a> zusammengestellt.</p>
+                          <p>Weitere Infos zum Thema "Events einreichen" haben wir <a href="news.php#eventtool" target="_blank">in diesem Beitrag</a> zusammengestellt.</p>
                           <p>Falls du weitere Fragen hast, schreib uns eine E-Mail an kontakt@wueww.de.</p>
                                 </div>
                             </div>
                             <div class="tab">
-            <input type="checkbox" name="accordion-18" id="cb18" checked>
+            <input type="checkbox" name="accordion-18" id="cb18">
             <label for="cb18" class="tab__label">Kostet eine Teilnahme als Veranstalter etwas?</label>
             <div class="tab__content">
                 <p>Nein. Wir würden uns sehr freuen, wenn dein Unternehmen/deine Organisation uns
                             auch <a aria-label="Sponsoren-Seite der AI Week Mainfranken"
-                               href="https://www.ai-week.de/sponsoren.html" target="_blank">als Sponsor</a> unterstützt.</p>
+                               href="sponsoren.php" target="_blank">als Sponsor</a> unterstützt.</p>
             </div>
         </div>
         <div class="tab">
             <input type="checkbox" name="accordion-19" id="cb19">
             <label for="cb19" class="tab__label">Warum nur maximal 42 Termine und eine so kurze Einreichungsfrist?</label>
             <div class="tab__content">
-                <p>Das ermöglicht es uns, ein hochaktuelles und relevantes Programm zusammenzustellen, 
+                <p>Das ermöglicht es uns, ein hochaktuelles und <a href="programm.php" target="_blank">relevantes Programm</a> zusammenzustellen, 
                 das die neuesten KI-Entwicklungen widerspiegelt und mit 42 Terminen übersichtlich bleibt.</p>
             </div>
         </div>
@@ -191,24 +189,25 @@
                             <ul>
                                 <br>
                                 <li>Die Einreichungsfrist läuft bis Montag, den 2. Juni um 23:59 Uhr.</li>
-                                <li>Anfang Juni veröffentlichen wir dann das Programm.</li>
+                                <li>Anfang Juni veröffentlichen wir dann <a href="programm.php" target="_blank">das Programm</a>.</li>
                             </ul></div>
                         </div>
                                                     <div class="tab">
-            <input type="checkbox" name="accordion-21" id="cb21" checked>
+            <input type="checkbox" name="accordion-21" id="cb21">
             <label for="cb21" class="tab__label">Ich möchte als Sprecher einen Vortrag anbieten ...</label>
             <div class="tab__content">
                 <p>Die AI Week Mainfranken ist keine klassische Konferenz. Du bietest
                 eine eigenständige Veranstaltung an, nicht nur einen Vortrag.</p>
             </div>
         </div>
-        <input type="checkbox" name="accordion-22" id="cb22" checked>
+        <input type="checkbox" name="accordion-22" id="cb22">
             <label for="cb22" class="tab__label">Übernehmt ihr das Ticketing?</label>
             <div class="tab__content">
                 <p>Nein.</p>
             </div>
         </div>
         </section>
+        <br> <br>
                             <h2>Für Start-ups</h2>
                         </br>
                         <section class="accordion">
@@ -219,34 +218,35 @@
             <div class="tab__content">
                 <p>Bei den KI-Start-up-Lunch-Pitches können Start-ups mitmachen, die
                                 2022 oder später gegründet wurden, gerne aktuell auch noch in der Vorgründungsphase.
-                                Ihr müsst einen KI-Fokus haben. <a href="https://www.ai-week.de/news.html#pitches"
+                                Ihr müsst einen KI-Fokus haben. <a href="news.php#pitches"
                                    target="_blank">Weitere Informationen.</a></p>
             </div>
         </div>
         <div class="tab">
-            <input type="checkbox" name="accordion-24" id="cb24" checked>
+            <input type="checkbox" name="accordion-24" id="cb24">
             <label for="cb24" class="tab__label">Bis wann kann ich mich für die KI-Start-up-Pitches bewerben?</label>
             <div class="tab__content">
-                <p>Bis Montag, den 23. Juni 2025 <a href="https://www.ai-week.de/news.html#pitches"
+                <p>Bis Montag, den 23. Juni 2025 <a href="news.php#pitches"
                                    target="_blank">Weitere Informationen.</a></p>
             </div>
         </div>
         </section>
+        <br> <br>
                         <h2>Für Sponsoren und Presse</h2>
                         </br>
                             <div class="tab">
-            <input type="checkbox" name="accordion-25" id="cb25">
+            <input type="checkbox" name="accordion-25" id="cb25" checked>
             <label for="cb25" class="tab__label">Warum sollte mein Unternehmen die AI Week Mainfranken sponsern?</label>
             <div class="tab__content">
                 <p>Als Sponsor erhältst du Sichtbarkeit, positionierst dich als innovatives Unternehmen und unterstützt die Entwicklung der KI-Kompetenz in der Region. Bei Interesse an einem
-                                Sponsoring bitte ute.muendlein@wueww puuunkt de kontaktieren.</p>
+                                Sponsoring bitte ute.muendlein@ 10 - o - clock punkt de kontaktieren.</p>
             </div>
         </div>
         <div class="tab">
             <input type="checkbox" name="accordion-26" id="cb26">
             <label for="cb26" class="tab__label">Wie kann die Presse Informationen zur AI Week Mainfranken erhalten?</label>
             <div class="tab__content">
-                <p>Aktuell am besten per Anfrage an ute.muendlein@wueww punkt de.</p>
+                <p>Aktuell am besten per Anfrage an ute.muendlein@ 10 - o - clock punkt de.</p>
             </div>
         </div>
     </section>

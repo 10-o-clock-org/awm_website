@@ -25,7 +25,7 @@
                             <li>Wann: Freitag, den 4. Juli</li>
                             <li>Uhrzeit: 9 bis 17 Uhr</li>
                             <li>Wo: Center for Artificial Intelligence (CAIRO) der THWS, Franz-Horn-Str. 2, 97082 Würzburg</li>
-                            <li>Weitere Infos & Tickets<a href="https://www.ai-barcamp.de">www.ai-barcamp.de</a></li>
+                            <li>Weitere Infos &amp; Tickets <a href="https://www.ai-barcamp.de">www.ai-barcamp.de</a></li>
                         </ul>
                         <p>Die Teilnehmer kommen auch dieses Mal wieder aus dem gesamten Bundesgebiet, also die perfekte Gelegenheit zum Vernetzen.</p>
                         <p>💡 Gut zu wissen:</br>

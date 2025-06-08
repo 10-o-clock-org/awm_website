@@ -79,7 +79,7 @@
                     <h2>KI kennt keine Grenzen</h2> 
                     <p>Einreichungen für die AI Week sind auch von Unternehmen, Organisationen und Einzelpersonen außerhalb Mainfrankens möglich. Frage gerne mal in deinem Netzwerk nach. 🙏</p>
 
-                    <br><br>
+                    <br>
                     <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>
                         

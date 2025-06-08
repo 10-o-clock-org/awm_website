@@ -133,12 +133,12 @@
                             <li>KI-Fokus ist ein Muss</li>
                             <li>Vorzug für mainfränkische Gründungen, Bewerbungen aus dem gesamten deutschsprachigen Raum willkommen</li>
                     </ul>
-                   <p>Die Teilnahme ist kostenfrei. Wir freuen uns, von euch zu hören! Bei Fragen schreib uns gerne <a href="mailto:hello@10-o-clock.de">eine E-Mail</a>.</p>                                  
+                   <p>Die Teilnahme ist kostenfrei. Wir freuen uns, von euch zu hören! Bei Fragen schreib uns gerne <a href="mailto:hallo@10-o-clock.de">eine E-Mail</a>.</p>                                  
                     
 
                     <p>Wer sich fragt, warum es am Freitag, dem 4. Juli, keine Pitches gibt: Da organisieren wir als Abschlussevent der AI Week das ganztägige <a href="https://www.ai-barcamp.de"
                target="_blank">AI Camp Würzburg</a>.</p>              
-                    <p>Noch Fragen zur AI Week Mainfranken? Antworten haben wir <a href="/faq.html" target="_blank">in unseren FAQ</a> zusammengestellt.</p>
+                    <p>Noch Fragen zur AI Week Mainfranken? Antworten haben wir <a href="faq.php" target="_blank">in unseren FAQ</a> zusammengestellt.</p>
                     <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
                        bereits das <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
                        <br><br> 

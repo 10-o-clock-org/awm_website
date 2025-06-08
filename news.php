@@ -222,19 +222,17 @@
                         Podiumsdiskussion, Hack- oder Promptathon – der Kreativität sind keine Grenzen gesetzt! Sei
                         dabei und lass uns gemeinsam Mainfranken auch als KI-Standort etablieren!</p>
                     <p>Noch Fragen? Schau in unsere <a href="faq.php">FAQ</a>.</p>
-                    <p>Tipp: Du kannst dich bei der AI Week Mainfranken nicht nur mit einer oder mehreren
-                        Veranstaltungen beteiligen, sondern uns auch als Sponsor unterstützen. Bei Interesse nimm mit
-                        uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf</a>.
+                    <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
+                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
+                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
+                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
                     </p>
                     <p>PS: Noch gibt es Tickets für das <a href="aicamp.php" target="_blank">AI Camp
                             Würzburg am 4. Juli 2025</a>, das Abschluss-Event der AI Week Mainfranken. Unsere Empfehlung:
                         Warte nicht zu lange, die Early-Bird-Tickets waren innerhalb von 30 Minuten weg.</p>
                         <br><br>
-                        <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
-                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
-                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
-                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
-                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
+                        
                        <br><br> 
                         <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>         
@@ -277,7 +275,7 @@
                         lösen.</p>
                     <p><a href="/mitmachen.php">Auf dieser Seite</a> erfährst du, wie du, euer Unternehmen oder eure
                         Organisation bei der AI Mainfranken mitmachen kann und <a
-                           href="news.php#WueWW">in diesem Beitrag</a>, wie sich die AI Week von
+                           href="news.php#wueww">in diesem Beitrag</a>, wie sich die AI Week von
                         der Wuerzburg Web Week unterscheidet.</p>
                         <br><br>
                         <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell

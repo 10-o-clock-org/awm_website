@@ -1,5 +1,5 @@
 <?php 
-    $title = 'Startseite'; 
+    $title = 'Impressum'; 
     include("inc/variables.php");
     include("template-parts/header.php");
 ?>

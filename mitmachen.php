@@ -1,5 +1,5 @@
 <?php 
-    $title = 'Startseite'; 
+    $title = 'Mitmachen'; 
     include("inc/variables.php");
     include("template-parts/header.php");
 ?>

@@ -1,5 +1,5 @@
 <?php 
-    $title = 'Startseite'; 
+    $title = 'AI Camp'; 
     include("inc/variables.php");
     include("template-parts/header.php");
 ?>

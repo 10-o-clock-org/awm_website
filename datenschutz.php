@@ -1,5 +1,5 @@
 <?php 
-    $title = 'Startseite'; 
+    $title = 'Datenschutz'; 
     include("inc/variables.php");
     include("template-parts/header.php");
 ?>

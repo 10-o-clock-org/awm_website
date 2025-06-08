@@ -15,8 +15,8 @@
         </div>
     </div>
     <ul class="social-navigation">
-        <li><a href="#" target="_blank"><img class="icon" src="images/icon-linkedin.png" alt="LinkedIn"></a></li>
-        <li><a href="#" target="_blank"><img class="icon" src="images/icon-instagram.png" alt="Instagram"></a></li>
+        <li><a href="#" target="_blank"><img class="icon" src="images/linkedin.svg" alt="LinkedIn"></a></li>
+        <li><a href="#" target="_blank"><img class="icon" src="images/instagram.svg" alt="Instagram"></a></li>
         <li><a href="#" target="_blank"><img class="icon" src="images/icon-mail.png" alt="Mail"></a></li>
     </ul>
 </div>

@@ -1309,6 +1309,16 @@ tbody tr:nth-of-type(2n) {
 .footer ul.social-navigation li {
     margin: 0 0 1rem;
 }
+.footer ul.social-navigation a {
+    padding-bottom: 3px;
+    border-bottom-color: transparent;
+}
+.footer ul.social-navigation a:hover {
+    border-bottom-color: #EE1F5C;
+}
+.footer ul.social-navigation li:before {
+    display: none;
+}
 .footer ul.social-navigation img.icon {
     margin: 0;
 }

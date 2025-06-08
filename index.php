@@ -27,7 +27,7 @@
                             <a class="button">Mehr erfahren</a>
                         </div>
                         <div class="col span-6">
-                            <div class="star-btn"><a href="#"></a><span class="tooltip">zur Hauptveranstaltung</span></div>
+                            <div class="star-btn"><a href="programm.php#/veranstaltung/2" style="border-bottom: none"></a><span class="tooltip">zum Abschluss-Event</span></div>
                             <div class="countdown" id="countdown">
                                 <div>
                                   <span class="countdown-value" id="days">48</span>

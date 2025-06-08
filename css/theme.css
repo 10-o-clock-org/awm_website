@@ -423,6 +423,9 @@ ul, ol {
     transition: all 0.25s ease-out;
     z-index: 1;
 }
+.logo a {
+    border-bottom: none;
+}
 .logo img {
     width: 11.6rem;
     transition: all 0.25s ease-out;

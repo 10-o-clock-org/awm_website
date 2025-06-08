@@ -136,7 +136,7 @@
                    <p>Die Teilnahme ist kostenfrei. Wir freuen uns, von euch zu hören! Bei Fragen schreib uns gerne <a href="mailto:hallo@10-o-clock.de">eine E-Mail</a>.</p>                                  
                     
 
-                    <p>Wer sich fragt, warum es am Freitag, dem 4. Juli, keine Pitches gibt: Da organisieren wir als Abschlussevent der AI Week das ganztägige <a href="https://www.ai-barcamp.de"
+                    <p>Wer sich fragt, warum es am Freitag, dem 4. Juli, keine Pitches gibt: Da organisieren wir als Abschlussevent der AI Week das ganztägige <a href="aicamp.php"
                target="_blank">AI Camp Würzburg</a>.</p>              
                     <p>Noch Fragen zur AI Week Mainfranken? Antworten haben wir <a href="faq.php" target="_blank">in unseren FAQ</a> zusammengestellt.</p>
                     <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
@@ -213,12 +213,12 @@
                     <p>Wir freuen uns auf viele innovative Veranstaltungsideen und Eventformate. Ob Workshop, Vortrag,
                         Podiumsdiskussion, Hack- oder Promptathon – der Kreativität sind keine Grenzen gesetzt! Sei
                         dabei und lass uns gemeinsam Mainfranken auch als KI-Standort etablieren!</p>
-                    <p>Noch Fragen? Schau in unsere <a href="/faq.html">FAQ</a>.</p>
+                    <p>Noch Fragen? Schau in unsere <a href="faq.php">FAQ</a>.</p>
                     <p>Tipp: Du kannst dich bei der AI Week Mainfranken nicht nur mit einer oder mehreren
                         Veranstaltungen beteiligen, sondern uns auch als Sponsor unterstützen. Bei Interesse nimm mit
                         uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf</a>.
                     </p>
-                    <p>PS: Noch gibt es Tickets für das <a href="https://www.ai-barcamp.de/" target="_blank">AI Camp
+                    <p>PS: Noch gibt es Tickets für das <a href="aicamp.php" target="_blank">AI Camp
                             Würzburg am 4. Juli 2025</a>, das Abschluss-Event der AI Week Mainfranken. Unsere Empfehlung:
                         Warte nicht zu lange, die Early-Bird-Tickets waren innerhalb von 30 Minuten weg.</p>
                         <br><br>
@@ -249,7 +249,7 @@
                             <li>42 Events zu fünf thematischen Schwerpunkten: von Tech & Science bis Kultur</li>
                             <li>Veranstaltungen für Einsteiger bis KI-Profis</li>
                             <li> Masterclasses für alle, die tiefer in die Materie eintauchen möchten</li>
-                            <li>Zum Abschluss am 4. Juli 2025 das <a href="https://www.ai-barcamp.de">3. AI Camp Würzburg</a></li>
+                            <li>Zum Abschluss am 4. Juli 2025 das <a href="aicamp.php">3. AI Camp Würzburg</a></li>
                         </ul>
                   
                     <h2>Warum eine AI Week?</h2>
@@ -263,7 +263,7 @@
                         lösen.</p>
                     <p><a href="/mitmachen.php">Auf dieser Seite</a> erfährst du, wie du, euer Unternehmen oder eure
                         Organisation bei der AI Mainfranken mitmachen kann und <a
-                           href="https://www.ai-week.de/news.php#WueWW">in diesem Beitrag</a>, wie sich die AI Week von
+                           href="news.php#WueWW">in diesem Beitrag</a>, wie sich die AI Week von
                         der Wuerzburg Web Week unterscheidet.</p>
                         <br><br>
                         <a class="button" href="programm.php">Hier geht's zum Programm</a>
@@ -293,7 +293,7 @@
                         <ul>
                             <li> Dezentralität: An den ersten vier Tagen finden 41 Events dezentral an vielen Orten
                                     in Mainfranken bzw. auch online statt. Zum Abschluss am fünften Veranstaltungstag, dem
-                                   4. Juli 2025, gibt es das <a href="https://www.ai-barcamp.de">AI Camp Würzburg</a>.</li>
+                                   4. Juli 2025, gibt es das <a href="aicamp.php">AI Camp Würzburg</a>.</li>
                             <li> Veranstaltung statt Vortrag: Statt eines festen 45-minütigen Vortragsslots auf
                                     einer Konferenz kannst du eine oder mehrere eigenständige Veranstaltungen 
                                 anbieten.</li>

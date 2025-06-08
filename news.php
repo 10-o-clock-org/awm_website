@@ -90,7 +90,12 @@
                            href="faq.php" target="_blank">FAQ</a>. Falls dennoch Fragen offen
                         sind, schreibe uns eine E-Mail an: kontakt @ wueww. de.</p>
                     </br>
-                   
+                    <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
+                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
+                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
+                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
+                       <br><br> 
                     <p>💡 PS: Wir möchten im Rahmen der AI Week Mainfranken auch KI-Start-ups eine Bühne geben:
                         Präsentiert eure Idee bei den KI-Start-up-Lunch-Pitches. Weitere Infos gibt es <a
                            href="news.php#pitches">in diesem Beitrag</a>.</p>
@@ -143,6 +148,7 @@
                        bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
                        <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
                        <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
+                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
                        <br><br> 
                         <a class="button" href="https://forms.gle/p48HHAffYBUH6kP4A" target="_blank">Jetzt für den Pitch bewerben</a>
 </br></br>                       
@@ -224,6 +230,12 @@
                             Würzburg am 4. Juli 2025</a>, das Abschluss-Event der AI Week Mainfranken. Unsere Empfehlung:
                         Warte nicht zu lange, die Early-Bird-Tickets waren innerhalb von 30 Minuten weg.</p>
                         <br><br>
+                        <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
+                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
+                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
+                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
+                       <br><br> 
                         <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>         
                     </div>
@@ -268,6 +280,12 @@
                            href="news.php#WueWW">in diesem Beitrag</a>, wie sich die AI Week von
                         der Wuerzburg Web Week unterscheidet.</p>
                         <br><br>
+                        <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
+                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
+                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
+                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
+                       <br><br> 
                         <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>    
                         </div>
@@ -316,8 +334,13 @@
                     <p>An der ersten AI Week Mainfranken nahmen <a href="https://www.ai-week.de/assets/images/Zahlen%20AI%20Week%20Mainfranken%202024%20klein.pdf" 
                        target="_blank"> über 1.000 Menschen teil</a>. Das beweist: Mainfranken ist auch ein innovativer KI-Standort!</p>
 
-                    <p>Aktuell suchen wir Sponsoren, die unser KI-Festival finanziell unterstützen, das erste seiner Art in Bayern. Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@wueww.de">Kontakt
-                            auf.</a></p>
+                       <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
+                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
+                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
+                      <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
+                       <br><br> 
+                       
                             <br><br>
                             <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>   

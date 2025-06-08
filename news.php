@@ -140,7 +140,9 @@
                target="_blank">AI Camp Würzburg</a>.</p>              
                     <p>Noch Fragen zur AI Week Mainfranken? Antworten haben wir <a href="faq.php" target="_blank">in unseren FAQ</a> zusammengestellt.</p>
                     <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
-                       bereits das <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
+                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
+                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
                        <br><br> 
                         <a class="button" href="https://forms.gle/p48HHAffYBUH6kP4A" target="_blank">Jetzt für den Pitch bewerben</a>
 </br></br>                       

@@ -31,8 +31,9 @@
                         <br><br>
                         <p>Supporter</p><br><br>
                         <div class="goldsponsoren">
-                            <div class="white-bg"><a href="https://karriere.knauf.de" target="_blank"><img src="images/logo-knauf.png" alt="Logo Knauf" /></a></div>
-                            <div class="white-bg"><a href="https://www.ukw.de/startseite" target="_blank"><img src="images/logo-uniklinikum-wuerzburg.png" alt="Logo Uniklinikum Würzburg" /></a></div>
+                            <div class="white-bg"><a href="https://wuems.de" target="_blank"><img src="images/logo_stadtmarketing-wuerzburg-macht-spass-eV.png" alt="Logo Stadtmarketing Würzburg macht Spaß e.V." /></a></div>
+                            <div class="white-bg"><a href="https://www.wuerzburg.de/unternehmen" target="_blank"><img src="images/logo-stadt-wuerzburg.png" alt="Logo Stadt Würzburg" /></a></div>
+                            
                             
                         </div>
                     </div>

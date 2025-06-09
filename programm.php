@@ -25,7 +25,7 @@
         </div> 
         
     </div>
-    </br></br></br></br></br></br></br></br>
+    <br/><br/><br/><br/><br/><br/><br/><br/>
     <?php include("template-parts/footer.php"); ?>
 </div>
 <script src="js/jquery-3.3.1.min.js"></script>

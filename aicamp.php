@@ -31,9 +31,9 @@
                         <p>💡 Gut zu wissen:</br>
                         Bereits zum dritten Mal findet das AI Camp Würzburg statt - die beiden vorherigen Events waren mit je 125 Teilnehmern ausverkauft und hatten Wartelisten. Diesmal waren die Early-Bird-Tickets binnen 30 Minuten vergriffen, schneller denn je und das sogar in den Osterferien!
                         </p>
-                        <br><br>
+                        <br/><br/>
                         <a class="button" href="https://www.ai-barcamp.de" target="_blank">Mehr übers AI Camp erfahren und Ticket sichern</a>
-                        <br><br><br>    
+                        <br/><br/><br/>    
                     </div>
                 </div>
             </div>

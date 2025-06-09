@@ -18,9 +18,9 @@
                 <div class="grid">
                     <div class="col span-8">
                         <h1>FAQ</h1>
-                        <br>
+                        <br/>
                         <h2>Für Teilnehmerinnen und Teilnehmer</h2>
-                        </br>
+                        <br/>
                         <section class="accordion">
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-1" id="cb1" checked>
@@ -117,9 +117,9 @@
                                 </div>
                             </div>
                         </section>
-                        <br> <br>
+                        <br/> <br/>
                         <h2>Für Veranstalterinnen und Veranstalter</h2>
-                        </br>
+                        <br/>
                         <section class="accordion">
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-13" id="cb13" checked>
@@ -159,7 +159,7 @@
                                     Kategorie</a></li>
                             <li>Ort (wo findet das Ganze statt), bei virtuellen Events entfällt diese Angabe</li>
                             <li>Ansprechpartner für uns (E-Mail-Adresse & Namen; Daten werden nicht veröffentlicht)
-                            </li><br>
+                            </li><br/>
                                     </ul>
                           <p>Weitere Informationen zum Thema "Events einreichen" haben wir <a href="news.php#eventtool" target="_blank">in diesem Beitrag</a> zusammengestellt.</p>
                           <p>Falls du weitere Fragen hast, schreib uns eine E-Mail an kontakt@wueww.de.</p>
@@ -188,7 +188,7 @@
             <div class="tab__content">
             Der zeitliche Ablauf sieht wie folgt aus:
                             <ul>
-                                <br>
+                                <br/>
                                 <li>Die Einreichungsfrist läuft bis Montag, den 2. Juni um 23:59 Uhr.</li>
                                 <li>Anfang Juni veröffentlichen wir dann <a href="programm.php" target="_blank">das Programm</a>.</li>
                             </ul></div>
@@ -208,9 +208,9 @@
             </div>
         </div>
         </section>
-        <br> <br>
+        <br/> <br/>
                             <h2>Für Start-ups</h2>
-                        </br>
+                        <br/>
                         <section class="accordion">
         
                         <div class="tab">
@@ -234,9 +234,9 @@
             </div>
         </div>
         </section>
-        <br> <br>
+        <br/> <br/>
                         <h2>Für Sponsoren und Presse</h2>
-                        </br>
+                        <br/>
                             <div class="tab">
             <input type="checkbox" name="accordion-25" id="cb25" checked>
             <label for="cb25" class="tab__label">Warum sollte mein Unternehmen die AI Week Mainfranken sponsern?</label>

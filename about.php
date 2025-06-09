@@ -18,13 +18,13 @@
                 <div class="grid">
                     <div class="col span-8">
                         <h1>About</h1>
-                        <br>
+                       <br/>
                         <h2>Bayerns erstes dezentrales KI-Festival</h2>
-                        <br>
+                       <br/>
                         <p>Die AI Week Mainfranken ist Bayerns erstes dezentrales Festival mit Schwerpunkt KI.</p> 
                         <p>Vom 30. Juni bis 4. Juli 2025 erwarten dich 35 Events an verschiedenen Orten in der Region sowie online.
                 An der ersten AI Week Mainfranken 2024 nahmen <a href="https://www.linkedin.com/feed/update/urn:li:activity:7264913707372089345">über 1.000 Menschen teil</a>.</p>
-                <br>
+               <br/>
                 <h2>Unsere Vision:</h2>
                 <p>Wir sind überzeugt: KI kann viel, wir Menschen aber auch! Gemeinsam sind wir unschlagbar, wenn es
                     darum geht, die großen Herausforderungen unserer Zeit zu meistern. Die AI Week Mainfranken bringt
@@ -37,7 +37,7 @@
                             <li>Zeigen wir aktuelle Möglichkeiten und Grenzen von KI auf</li>
                             <li>Treiben wir gemeinsam die KI-Zukunft voran</li>        
                 </ul>
-                        <br>
+                       <br/>
                          <h2>Ablauf der AI Week Mainfranken:</h2>
                          <ul>
                         <li>Fünf thematische Schwerpunkte zum Thema KI (von Chatbot bis Baustellenassistent)</li>                  </li>
@@ -45,7 +45,7 @@
                         <li>Veranstaltungen für Einsteiger bis Profis</li>
                         <li><a href="https://www.ai-barcamp.de">AI Camp Würzburg</a> als Abschluss-Event am 4. Juli 2025</li>
                                             </ul>
-                     <br>
+                    <br/>
                         <h2>Für wen ist die AI Week Mainfranken?</h2>
                 <p>Die AI Week Mainfranken richtet sich an alle (m/w/d), die die Zukunft der KI mitgestalten oder
                     einfach mehr darüber erfahren möchten:</p>
@@ -61,13 +61,13 @@
                         </ul>
                          <p>Egal, ob KI-Neuling oder Expertin – die AI Week Mainfranken bietet für alle spannende Einblicke und
                         einen Austausch auf Augenhöhe.</p>
-                        <br>
+                       <br/>
                          <h2>Wer organisiert die AI Week Mainfranken?</h2>
                 <p>Die AI Week Mainfranken wird von Ute Mündlein organisiert. Sie ist Mitgründerin und Hauptorganisatorin der seit 2018 jährlich stattfindenden 
                     <a href="https://www.wueww.de" target="_blank">Wuerzburg Web Week</a>.</p>
-                    <br>
+                   <br/>
                     <a class="button" href="programm.php">Hier geht's zum Programm</a>
-                    <br><br><br><br><br><br>   
+                   <br/><br><br><br><br><br>   
 
                         
                        

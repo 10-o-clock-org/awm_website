@@ -20,6 +20,7 @@
                         <h1>Datenschutz­erklärung</h1>
                         </br>
                         <h2>1. Datenschutz auf einen Blick</h2>
+                        </br>
                 <h3>Allgemeine Hinweise</h3>
                 <p>Die folgenden Hinweise geben einen einfachen &Uuml;berblick dar&uuml;ber, was mit Ihren
                     personenbezogenen
@@ -28,6 +29,7 @@
                     pers&ouml;nlich identifiziert werden k&ouml;nnen. Ausf&uuml;hrliche Informationen zum Thema
                     Datenschutz
                     entnehmen Sie unserer unter diesem Text aufgef&uuml;hrten Datenschutzerkl&auml;rung.</p>
+                    </br>
                 <h3>Datenerfassung auf dieser Website</h3>
                 <h4>Wer ist verantwortlich f&uuml;r die Datenerfassung auf dieser Website?</h4>
                 <p>Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten
@@ -35,6 +37,7 @@
                     Sie dem Abschnitt &bdquo;Hinweis zur Verantwortlichen Stelle&ldquo; in dieser
                     Datenschutzerkl&auml;rung
                     entnehmen.</p>
+                    </br>
                 <h4>Wie erfassen wir Ihre Daten?</h4>
                 <p>Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich
                     z.&nbsp;B. um
@@ -46,11 +49,13 @@
                     des
                     Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.
                 </p>
+                </br>
                 <h4>Wof&uuml;r nutzen wir Ihre Daten?</h4>
                 <p>Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu
                     gew&auml;hrleisten.
                     Andere
                     Daten k&ouml;nnen zur Analyse Ihres Nutzerverhaltens verwendet werden.</p>
+                    </br>
                 <h4>Welche Rechte haben Sie bez&uuml;glich Ihrer Daten?</h4>
                 <p>Sie haben jederzeit das Recht, unentgeltlich Auskunft &uuml;ber Herkunft, Empf&auml;nger und Zweck
                     Ihrer
@@ -71,8 +76,10 @@
                 </p>
                 <p>Hierzu sowie zu weiteren Fragen zum Thema Datenschutz k&ouml;nnen Sie sich jederzeit an uns wenden.
                 </p>
+                </br>
                 <h2>2. Hosting und Content Delivery Networks (CDN)</h2>
                 <p>Wir hosten die Inhalte unserer Website bei folgendem Anbieter:</p>
+                </br>
                 <h3>Externes Hosting</h3>
                 <p>Diese Website wird bei einem externen Dienstleister gehostet (Hoster). Die personenbezogenen Daten,
                     die
@@ -97,14 +104,16 @@
                     Dorfstraße 2c
                     24354 Kosel (Bohnert)<br>
                     Deutschland</p>
+                    </br>
                 <h4>Auftragsverarbeitung</h4>
                 <p>Wir haben einen Vertrag &uuml;ber Auftragsverarbeitung (AVV) zur Nutzung der oben genannten Dienste
                     geschlossen. Hierbei handelt es sich um einen datenschutzrechtlich vorgeschriebenen Vertrag, der
                     gew&auml;hrleistet, dass dieser die personenbezogenen Daten unserer Websitebesucher nur nach unseren
                     Weisungen und unter Einhaltung der DSGVO verarbeitet.</p>
 
-               
+                    </br>
                 <h2>3. Allgemeine Hinweise und Pflicht&shy;informationen</h2>
+                </br>
                 <h3>Datenschutz</h3>
                 <p>Die Betreiber dieser Seiten nehmen den Schutz Ihrer pers&ouml;nlichen Daten sehr ernst. Wir behandeln
                     Ihre
@@ -122,6 +131,7 @@
                     E-Mail) Sicherheitsl&uuml;cken aufweisen kann. Ein l&uuml;ckenloser Schutz der Daten vor dem Zugriff
                     durch
                     Dritte ist nicht m&ouml;glich.</p>
+                    </br>
                 <h3>Hinweis zur verantwortlichen Stelle</h3>
                 <p>Die verantwortliche Stelle f&uuml;r die Datenverarbeitung auf dieser Website ist:</p>
                 <p>10 o&lsquo;clock GmbH<br />
@@ -136,7 +146,7 @@
                     anderen
                     &uuml;ber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen,
                     E-Mail-Adressen o. &Auml;.) entscheidet.</p>
-
+                    </br>
                 <h3>Speicherdauer</h3>
                 <p>Soweit innerhalb dieser Datenschutzerkl&auml;rung keine speziellere Speicherdauer genannt wurde,
                     verbleiben
@@ -152,6 +162,7 @@
                     Aufbewahrungsfristen); im letztgenannten Fall erfolgt die L&ouml;schung nach Fortfall dieser
                     Gr&uuml;nde.
                 </p>
+                </br>
                 <h3>Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website</h3>
                 <p>Sofern Sie in die Datenverarbeitung eingewilligt haben, verarbeiten wir Ihre personenbezogenen Daten
                     auf
@@ -180,6 +191,7 @@
                     jeweils im
                     Einzelfall einschl&auml;gigen Rechtsgrundlagen wird in den folgenden Abs&auml;tzen dieser
                     Datenschutzerkl&auml;rung informiert.</p>
+                    </br>
                 <h3>Hinweis zur Datenweitergabe in datenschutzrechtlich nicht sichere Drittstaaten sowie die Weitergabe
                     an
                     US-Unternehmen, die nicht DPF-zertifiziert sind</h3>
@@ -202,6 +214,7 @@
                     Drittstaaten einschlie&szlig;lich der Datenempf&auml;nger finden Sie in dieser
                     Datenschutzerkl&auml;rung.
                 </p>
+                </br>
                 <h3>Empfänger von personenbezogenen Daten</h3>
                 <p>Im Rahmen unserer Gesch&auml;ftst&auml;tigkeit arbeiten wir mit verschiedenen externen Stellen
                     zusammen.
@@ -223,6 +236,7 @@
                     Vertrags &uuml;ber Auftragsverarbeitung weiter. Im Falle einer gemeinsamen Verarbeitung wird ein
                     Vertrag
                     &uuml;ber gemeinsame Verarbeitung geschlossen.</p>
+                    </br>
                 <h3>Widerruf Ihrer Einwilligung zur Datenverarbeitung</h3>
                 <p>Viele Datenverarbeitungsvorg&auml;nge sind nur mit Ihrer ausdr&uuml;cklichen Einwilligung
                     m&ouml;glich.
@@ -231,6 +245,7 @@
                     der
                     bis
                     zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unber&uuml;hrt.</p>
+                    </br>
                 <h3>Widerspruchsrecht gegen die Datenerhebung in besonderen F&auml;llen sowie gegen Direktwerbung (Art.
                     21
                     DSGVO)</h3>
@@ -260,11 +275,13 @@
                     ZWECKE
                     DER
                     DIREKTWERBUNG VERWENDET (WIDERSPRUCH NACH ART. 21 ABS. 2 DSGVO).</p>
+                    </br>
                 <h3>Beschwerde&shy;recht bei der zust&auml;ndigen Aufsichts&shy;beh&ouml;rde</h3>
                 <p>Im Falle von Verst&ouml;&szlig;en gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer
                     Aufsichtsbeh&ouml;rde, insbesondere in dem Mitgliedstaat ihres gew&ouml;hnlichen Aufenthalts, ihres
                     Arbeitsplatzes oder des Orts des mutma&szlig;lichen Versto&szlig;es zu. Das Beschwerderecht besteht
                     unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.</p>
+                    </br>
                 <h3>Recht auf Daten&shy;&uuml;bertrag&shy;barkeit</h3>
                 <p>Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erf&uuml;llung eines
                     Vertrags
@@ -272,6 +289,7 @@
                     Format
                     aush&auml;ndigen zu lassen. Sofern Sie die direkte &Uuml;bertragung der Daten an einen anderen
                     Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.</p>
+                    </br>
                 <h3>Auskunft, Berichtigung und L&ouml;schung</h3>
                 <p>Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche
                     Auskunft
@@ -281,6 +299,7 @@
                     Datenverarbeitung und ggf. ein Recht auf Berichtigung oder L&ouml;schung dieser Daten. Hierzu sowie
                     zu
                     weiteren Fragen zum Thema personenbezogene Daten k&ouml;nnen Sie sich jederzeit an uns wenden.</p>
+                    </br>
                 <h3>Recht auf Einschr&auml;nkung der Verarbeitung</h3>
                 <p>Sie haben das Recht, die Einschr&auml;nkung der Verarbeitung Ihrer personenbezogenen Daten zu
                     verlangen.
@@ -319,6 +338,7 @@
                     nat&uuml;rlichen oder juristischen Person oder aus Gr&uuml;nden eines wichtigen &ouml;ffentlichen
                     Interesses
                     der Europ&auml;ischen Union oder eines Mitgliedstaats verarbeitet werden.</p>
+                    </br>
                 <h3>SSL- bzw. TLS-Verschl&uuml;sselung</h3>
                 <p>Diese Seite nutzt aus Sicherheitsgr&uuml;nden und zum Schutz der &Uuml;bertragung vertraulicher
                     Inhalte,
@@ -332,8 +352,11 @@
                     Browserzeile.</p>
                 <p>Wenn die SSL- bzw. TLS-Verschl&uuml;sselung aktiviert ist, k&ouml;nnen die Daten, die Sie an uns
                     &uuml;bermitteln, nicht von Dritten mitgelesen werden.</p>
+                    </br>
                 <h2>4. Datenerfassung auf dieser Website</h2>
+                </br>
                 <h3>Cookies</h3>
+                </br>
                 <p>Unsere Internetseiten verwenden so genannte &bdquo;Cookies&ldquo;. Cookies sind kleine Datenpakete
                     und
                     richten auf Ihrem Endger&auml;t keinen Schaden an. Sie werden entweder vor&uuml;bergehend f&uuml;r
@@ -389,6 +412,7 @@
                     sein.</p>
                 <p>Welche Cookies und Dienste auf dieser Website eingesetzt werden, k&ouml;nnen Sie dieser
                     Datenschutzerkl&auml;rung entnehmen.</p>
+                    </br>
                 <h3>Server-Log-Dateien</h3>
                 <p>Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten
                     Server-Log-Dateien,
@@ -408,6 +432,7 @@
                     berechtigtes Interesse an der technisch fehlerfreien Darstellung und der Optimierung seiner Website
                     &ndash;
                     hierzu m&uuml;ssen die Server-Log-Files erfasst werden.</p>
+                    </br>
                 <h3>Anfrage per E-Mail, Telefon oder Telefax</h3>
                 <p>Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage inklusive aller daraus
                     hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens
@@ -431,7 +456,9 @@
                     Zwingende
                     gesetzliche Bestimmungen &ndash; insbesondere gesetzliche Aufbewahrungsfristen &ndash; bleiben
                     unber&uuml;hrt.</p>
+                    </br>
                 <h2>5. Soziale Medien</h2>
+                </br>
                 <h3>Facebook</h3>
                 <p>Auf dieser Website sind Elemente des sozialen Netzwerks Facebook integriert. Anbieter dieses Dienstes
                     ist
@@ -517,6 +544,7 @@
                        target="_blank"
                        rel="noopener noreferrer">https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true&id=a2zt0000000GnywAAC&status=Active</a>.
                 </p>
+                </br>
                 <h3>X (ehemals Twitter)</h3>
                 <p>Auf dieser Website sind Funktionen des Dienstes X (ehemals Twitter) eingebunden. Diese Funktionen
                     werden
@@ -553,7 +581,7 @@
                 <p>Ihre Datenschutzeinstellungen bei X (ehemals Twitter) k&ouml;nnen Sie in den Konto-Einstellungen
                     unter <a href="https://x.com/settings/account" target="_blank"
                        rel="noopener noreferrer">https://x.com/settings/account</a> &auml;ndern.</p>
-
+                       </br>
                 <h3>Instagram</h3>
                 <p>Auf dieser Website sind Funktionen des Dienstes Instagram eingebunden. Diese Funktionen werden
                     angeboten
@@ -623,6 +651,7 @@
                        target="_blank"
                        rel="noopener noreferrer">https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true&id=a2zt0000000GnywAAC&status=Active</a>.
                 </p>
+                </br>
                 <h3>LinkedIn</h3>
                 <p>Diese Website nutzt Elemente des Netzwerks LinkedIn. Anbieter ist die LinkedIn Ireland Unlimited
                     Company,
@@ -662,7 +691,9 @@
                     folgendem
                     Link: <a href="https://www.dataprivacyframework.gov/participant/5448" target="_blank"
                        rel="noopener noreferrer">https://www.dataprivacyframework.gov/participant/5448</a>.</p>
+                       </br>
                 <h2>6. Newsletter</h2>
+                </br>
                 <h3>Newsletter&shy;daten</h3>
                 <p>Wenn Sie den auf der Website angebotenen Newsletter beziehen m&ouml;chten, ben&ouml;tigen wir von
                     Ihnen
@@ -674,6 +705,7 @@
                     werden
                     nicht bzw. nur auf freiwilliger Basis erhoben. F&uuml;r die Abwicklung der Newsletter nutzen wir
                     Newsletterdiensteanbieter, die nachfolgend beschrieben werden.</p>
+                    </br>
                 <h3>Rapidmail</h3>
                 <p>Diese Website nutzt Rapidmail f&uuml;r den Versand von Newslettern. Anbieter ist die rapidmail GmbH,
                     Augustinerplatz 2, 79098 Freiburg i.Br., Deutschland.</p>
@@ -682,6 +714,7 @@
                     Die von Ihnen zum Zwecke des Newsletterbezugs eingegeben Daten werden auf den Servern von Rapidmail
                     in
                     Deutschland gespeichert.</p>
+                    </br>
                 <h4>Datenanalyse durch Rapidmail</h4>
                 <p>Zum Zwecke der Analyse enthalten die mit Rapidmail versandten E-Mails ein sog.
                     &bdquo;Tracking-Pixel&ldquo;,
@@ -695,11 +728,13 @@
                 <p>N&auml;heres zu den Analyse-Funktionen von Rapidmail entnehmen Sie folgendem Link: <a
                        href="https://de.rapidmail.wiki/kategorien/statistiken/" target="_blank"
                        rel="noopener noreferrer">https://de.rapidmail.wiki/kategorien/statistiken/</a>.</p>
+                       </br>
                 <h4>Rechtsgrundlage</h4>
                 <p>Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie
                     k&ouml;nnen
                     diese Einwilligung jederzeit widerrufen. Die Rechtm&auml;&szlig;igkeit der bereits erfolgten
                     Datenverarbeitungsvorg&auml;nge bleibt vom Widerruf unber&uuml;hrt.</p>
+                    </br>
                 <h4>Speicherdauer</h4>
                 <p>Die von Ihnen zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden von uns bis zu Ihrer
                     Austragung aus dem Newsletter bei uns bzw. dem Newsletterdiensteanbieter gespeichert und nach der
@@ -724,12 +759,13 @@
                 <p>N&auml;heres entnehmen Sie den Datensicherheitshinweisen von Rapidmail unter: <a
                        href="https://www.rapidmail.de/datensicherheit" target="_blank"
                        rel="noopener noreferrer">https://www.rapidmail.de/datensicherheit</a>.</p>
-
+                       </br>
                 <h4>Auftragsverarbeitung</h4>
                 <p>Wir haben einen Vertrag &uuml;ber Auftragsverarbeitung (AVV) zur Nutzung des oben genannten Dienstes
                     geschlossen. Hierbei handelt es sich um einen datenschutzrechtlich vorgeschriebenen Vertrag, der
                     gew&auml;hrleistet, dass dieser die personenbezogenen Daten unserer Websitebesucher nur nach unseren
                     Weisungen und unter Einhaltung der DSGVO verarbeitet.</p>
+                    </br>
                 <h3>Newsletterversand an Bestandskunden</h3>
                 <p>Wenn Sie Waren oder Dienstleistungen bei uns bestellen und hierbei Ihre E-Mail-Adresse hinterlegen,
                     kann
@@ -754,7 +790,9 @@
                     Newslettern (berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO). Die Speicherung in der
                     Blacklist ist zeitlich nicht befristet. Sie k&ouml;nnen der Speicherung widersprechen, sofern Ihre
                     Interessen unser berechtigtes Interesse &uuml;berwiegen.</p>
+                    </br>
                 <h2>7. Plugins und Tools</h2>
+                </br>
                 <h3>Google Fonts</h3>
                 <p>Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Google Fonts, die von
                     Google
@@ -800,6 +838,7 @@
         </div> 
         
     </div>
+    </br></br></br></br></br></br></br></br>
     <?php include("template-parts/footer.php"); ?>
 </div>
 <script src="js/jquery-3.3.1.min.js"></script>

@@ -37,7 +37,7 @@
                                 <input type="checkbox" name="accordion-2" id="cb2">
                                 <label for="cb2" class="tab__label">Wann und wo findet sie statt?</label>
                                 <div class="tab__content">
-                                    <p>Vom vom 30. Juni bis 4. Juli 2025 an verschiedenen Orten in Mainfranken sowie online.</p>
+                                    <p>Vom 30. Juni bis 4. Juli 2025 an verschiedenen Orten in Mainfranken sowie online.</p>
                                 </div>
                             </div>
                             
@@ -46,27 +46,29 @@
                                 <label for="cb3" class="tab__label">Wer kann teilnehmen?</label>
                                 <div class="tab__content">
                                     <p>Alle, die die KI-Zukunft vorantreiben möchten: neugierige Einsteiger ebenso wie Tech-Enthusiasten und KI-Experten, Start-ups, Gründer, Unternehmer, Professoren und
-                        Studierende ...</p>
+                        Studierende ... Welche Events angeboten werden findet du <a href="programm.php" target="_blank">im Programm</a>.</p>
                                 </div>
                             </div>
                             <div class="tab">
                                 <input type="checkbox" name="accordion-4" id="cb4">
                                 <label for="cb4" class="tab__label">Wie viel kostet die Teilnahme?</label>
                                 <div class="tab__content">
-                                    <p>Die meisten Veranstaltungen sind kostenfrei. Eine Ausnahmen ist das <a href="aicamp.php" target="_blank">AI Camp</a>, für das ein Ticketpreis erhoben wird.</p>
+                                    <p>Die meisten Veranstaltungen sind kostenfrei. Ausnahmen sind das <a href="aicamp.php" target="_blank">AI Camp</a> und das <a href="https://www.ai-barcamp.de/barcamp-wuerzburg" target="_blank">Barcamp Würzburg</a>, für die
+                                    ein Ticketpreis erhoben wird.</p>
                                 </div>
                             </div>
                             <div class="tab">
                                 <input type="checkbox" name="accordion-5" id="cb5">
                                 <label for="cb5" class="tab__label">Welche Themen werden behandelt?</label>
                                 <div class="tab__content">
-                                    <p>Bei der AI Week Mainfranken gibt es Events zu Tech & Science, Digitale Gesellschaft & Nachhaltigkeit, Business, Gründen und Kultur.</p>
+                                    <p>Bei der AI Week Mainfranken gibt es Events zu Tech & Science, Digitale Gesellschaft & Nachhaltigkeit, Business, Gründen und Kultur. <a href="news.php#kategorien" target="_blank">In diesem Beitrag</a>
+                                    mehr Informationen zu den Kategorien.</p>
                                 </div>
                                 <div class="tab">
                                 <input type="checkbox" name="accordion-6" id="cb6">
                                 <label for="cb6" class="tab__label">Gibt es auch Veranstaltungen für KI-Einsteiger?</label>
                                 <div class="tab__content">
-                                    <p>Ja, wir werden Veranstaltungen für alle Wissensstände haben: für interessierte Einsteiger, ambitionierte Anwenderinnen und KI-Profis. Mehr dazu demnächst im Programm.</p>
+                                    <p>Ja, wir werden Veranstaltungen für alle Wissensstände haben: für interessierte Einsteiger, ambitionierte Anwenderinnen und KI-Profis. Mehr dazu <a href="programm.php" target="_blank">im Programm</a>.</p>
                                 </div>
                                 <div class="tab">
                                 <input type="checkbox" name="accordion-7" id="cb7">
@@ -84,7 +86,7 @@
                                 <input type="checkbox" name="accordion-9" id="cb9">
                                 <label for="cb9" class="tab__label">Wie melde ich mich für einzelne Veranstaltungen an?</label>
                                 <div class="tab__content">
-                                    <p>Du findest die Anmeldung für die jeweiligen Events <a href="programm.php" target="_blank">im Programm</a></p>
+                                    <p>Du findest die Anmeldung für die jeweiligen Events <a href="programm.php" target="_blank">im Programm</a>.</p>
                                 </div>
                                 <div class="tab">
                                 <input type="checkbox" name="accordion-10" id="cb10">
@@ -141,16 +143,15 @@
                                 <input type="checkbox" name="accordion-16" id="cb16">
                                 <label for="cb16" class="tab__label">Gibt es eine Bewerbungsfrist für Veranstalter?</label>
                                 <div class="tab__content">
-                                    <p>Ja, sie lief bis zum 2. Juni.; hier geht es <a href="programm.php" target="_blank">zum Programm</a>.</p>
+                                    <p>Ja, sie lief bis zum 2. Juni. Hier geht es <a href="programm.php" target="_blank">zum Programm</a>.</p>
                                 </div>
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-17" id="cb17">
                                 <label for="cb17" class="tab__label">Welche Infos brauchen Veranstalter für die Einreichung?</label>
                                 <div class="tab__content">
-                                    <p>Grundsätzlich benötigen wir unter anderem folgende Informationen bei der
-                            Einreichungen von Veranstaltungen für unser Programm:</p>
+                                    <p>Grundsätzlich benötigen wir unter anderem folgende Informationen:</p>
                             <ul>
-                            <li>Infos zum Veranstalter (u. a. Name, Beschreibung)</li>
+                            <li>Angaben zum Veranstalter (u. a. Name, Beschreibung)</li>
                             <li>Drei mögliche Termine im Zeitraum vom 30. Juni bis 4. Juli</li>
                             <li>Titel (max. 30 Zeichen)</li>
                             <li>Eine kurze und eine etwas ausführliche Beschreibung des Events</li>
@@ -160,7 +161,7 @@
                             <li>Ansprechpartner für uns (E-Mail-Adresse & Namen; Daten werden nicht veröffentlicht)
                             </li><br>
                                     </ul>
-                          <p>Weitere Infos zum Thema "Events einreichen" haben wir <a href="news.php#eventtool" target="_blank">in diesem Beitrag</a> zusammengestellt.</p>
+                          <p>Weitere Informationen zum Thema "Events einreichen" haben wir <a href="news.php#eventtool" target="_blank">in diesem Beitrag</a> zusammengestellt.</p>
                           <p>Falls du weitere Fragen hast, schreib uns eine E-Mail an kontakt@wueww.de.</p>
                                 </div>
                             </div>
@@ -178,7 +179,7 @@
             <label for="cb19" class="tab__label">Warum nur maximal 42 Termine und eine so kurze Einreichungsfrist?</label>
             <div class="tab__content">
                 <p>Das ermöglicht es uns, ein hochaktuelles und <a href="programm.php" target="_blank">relevantes Programm</a> zusammenzustellen, 
-                das die neuesten KI-Entwicklungen widerspiegelt und mit 42 Terminen übersichtlich bleibt.</p>
+                das die neuesten KI-Entwicklungen widerspiegelt und mit maximal 42 Terminen übersichtlich bleibt.</p>
             </div>
         </div>
         <div class="tab">
@@ -216,17 +217,19 @@
             <input type="checkbox" name="accordion-23" id="cb23" checked>
             <label for="cb23" class="tab__label">Was sind Start-up-Pitches und wer kann da mitmachen?</label>
             <div class="tab__content">
-                <p>Bei den KI-Start-up-Lunch-Pitches können Start-ups mitmachen, die
-                                2022 oder später gegründet wurden, gerne aktuell auch noch in der Vorgründungsphase.
-                                Ihr müsst einen KI-Fokus haben. <a href="news.php#pitches"
-                                   target="_blank">Weitere Informationen.</a></p>
+                <p>Bei den KI-Start-up-Lunch-Pitches können alle mitmachen, die</p>
+                               <ul>
+                               <li>einen KI-Fokus haben.</li> 
+                               <li>2022 oder später gegründet wurden, gerne auch noch in der Vorgründungsphase.</li>
+                                    </ul> 
+                                <p><a href="news.php#pitches" target="_blank">Weitere Informationen.</a></p>
             </div>
         </div>
         <div class="tab">
             <input type="checkbox" name="accordion-24" id="cb24">
             <label for="cb24" class="tab__label">Bis wann kann ich mich für die KI-Start-up-Pitches bewerben?</label>
             <div class="tab__content">
-                <p>Bis Montag, den 23. Juni 2025 <a href="news.php#pitches"
+                <p>Bis Montag, den 23. Juni 2025. <a href="news.php#pitches"
                                    target="_blank">Weitere Informationen.</a></p>
             </div>
         </div>

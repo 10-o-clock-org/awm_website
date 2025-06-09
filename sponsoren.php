@@ -31,7 +31,8 @@
                         <br><br>
                         <p>Supporter</p><br><br>
                         <div class="goldsponsoren">
-                            <div class="white-bg"><a href="https://wuems.de" target="_blank"><img src="images/logo_stadtmarketing-wuerzburg-macht-spass-eV.png" alt="Logo Stadtmarketing Würzburg macht Spaß e.V." /></a></div>
+                            <div class="white-bg"><a href="https://wuems.de" target="_blank"><img src="images/logo_stadtmarketing-wuerzburg-macht-spass.png" alt="Logo Stadtmarketing Würzburg macht Spaß e.V." /></a></div>
+                            <div class="white-bg"><a href="https://www.wuerzburg.de/unternehmen" target="_blank"><img src="images/logo-stadt-wuerzburg.png" alt="Logo Stadt Würzburg" /></a></div>
                             <div class="white-bg"><a href="https://www.wuerzburg.de/unternehmen" target="_blank"><img src="images/logo-stadt-wuerzburg.png" alt="Logo Stadt Würzburg" /></a></div>
                             
                             

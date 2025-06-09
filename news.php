@@ -91,12 +91,12 @@
                         sind, schreibe uns eine E-Mail an: kontakt @ wueww. de.</p>
                     </br>
                     <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
-                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
-                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
+                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>, 
+                       die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
                        <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
                        <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
                        <br><br> 
-                    <p>💡 PS: Wir möchten im Rahmen der AI Week Mainfranken auch KI-Start-ups eine Bühne geben:
+                    <p>💡 PS: Wir möchten im Rahmen der AI Week Mainfranken auch KI-Start-ups und (Gründer)Teams eine Bühne geben:
                         Präsentiert eure Idee bei den KI-Start-up-Lunch-Pitches. Weitere Infos gibt es <a
                            href="news.php#pitches">in diesem Beitrag</a>.</p>
 
@@ -122,15 +122,13 @@
                         <div class="spacer"></div>
                         <h1>KI-Start-up-Lunch-Pitches: Jetzt bewerben!</h1>
                         <br>
-                        <p>Wenn sich bei der AI Week Mainfranken 2025 alles rund um KI dreht, dürfen
-                        natürlich Start-ups nicht fehlen.</p>
-                    <p>KI-Start-ups aufgepasst:
+                        <p>KI-Start-ups aufgepasst:
                         Wir bieten euch eine tolle Gelegenheit, euer Unternehmen bei unseren "KI-Start-up-Lunch-Pitches"
                         zu präsentieren. Bewerbt euch bis Montag, den 23. Juni 2025.</p>
                         <h2>Ablauf:</h2>
                     <p>Von Montag bis Donnerstag (30.6. bis 3.7.) gibt es zur Mittagspause (12 bis 13 Uhr) drei bis vier Online-Pitches à
                         5 Minuten. Moderiert werden die Start-up-Lunch-Pitches von Partnern des Netzwerkes <a href="https://gim-bayern.de"
-                        target="_blank">Gründen in Mainfranken</a> .</p>
+                        target="_blank">Gründen in Mainfranken</a>.</p>
                         <br> 
                     <h2>Wer kann mitmachen?</h2>
                     <ul>
@@ -146,7 +144,7 @@
                     <p>Noch Fragen zur AI Week Mainfranken? Antworten haben wir <a href="faq.php" target="_blank">in unseren FAQ</a> zusammengestellt.</p>
                     <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
                        bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
-                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
+                      die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
                        <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
                        <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
                        <br><br> 
@@ -192,7 +190,7 @@
                         <ul>
                             <li>Smart City: KI für lebenswertere und nachhaltigere Städte</li>
                             <li>KI in der Landwirtschaft</li>
-                            <li> Deepfakes und Desinformation: Wie KI unsere Wahrnehmung der Realität verändert </li>
+                            <li>Deepfakes und Desinformation: Wie KI unsere Wahrnehmung der Realität verändert </li>
                         </ul>
                         </br>
                     <h2>3. Business & New Work</h2>
@@ -200,7 +198,7 @@
                         <ul>
                             <li>KI-gestütztes Recruiting</li>
                             <li>Predictive Maintenance: Wie KI Ausfallzeiten minimiert</li>
-                            <li> KI-gestützte Prozessoptimierung: Effizienzsteigerung in Unternehmen</li>
+                            <li>KI-gestützte Prozessoptimierung: Effizienzsteigerung in Unternehmen</li>
                         </ul>
                         </br>
                     <h2>4. Digitale Gesellschaft</h2>
@@ -215,7 +213,7 @@
                         <ul>
                             <li>KI: Ist das Kunst oder kann das weg?</li>
                             <li>KI-Tools für Musik, Filme oder Schreiben</li>
-                            <li> KI als Muse</li>
+                            <li>KI als Muse</li>
                     </ul>
                    
                     <p>Wir freuen uns auf viele innovative Veranstaltungsideen und Eventformate. Ob Workshop, Vortrag,
@@ -223,8 +221,8 @@
                         dabei und lass uns gemeinsam Mainfranken auch als KI-Standort etablieren!</p>
                     <p>Noch Fragen? Schau in unsere <a href="faq.php">FAQ</a>.</p>
                     <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
-                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
-                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
+                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>, 
+                       die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
                        <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
                        <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
                     </p>
@@ -232,8 +230,6 @@
                             Würzburg am 4. Juli 2025</a>, das Abschluss-Event der AI Week Mainfranken. Unsere Empfehlung:
                         Warte nicht zu lange, die Early-Bird-Tickets waren innerhalb von 30 Minuten weg.</p>
                         <br><br>
-                        
-                       <br><br> 
                         <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br><br><br>         
                     </div>
@@ -260,7 +256,6 @@
                     <ul>
                             <li>42 Events zu fünf thematischen Schwerpunkten: von Tech & Science bis Kultur</li>
                             <li>Veranstaltungen für Einsteiger bis KI-Profis</li>
-                            <li> Masterclasses für alle, die tiefer in die Materie eintauchen möchten</li>
                             <li>Zum Abschluss am 4. Juli 2025 das <a href="aicamp.php">3. AI Camp Würzburg</a></li>
                         </ul>
                   
@@ -280,7 +275,7 @@
                         <br><br>
                         <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
                        bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
-                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
+                        die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
                        <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
                        <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
                        <br><br> 
@@ -309,10 +304,10 @@
                         <br> 
                     <h2>Das bleibt gleich:</h2>
                         <ul>
-                            <li> Dezentralität: An den ersten vier Tagen finden 34 Events dezentral an vielen Orten
+                            <li>Dezentralität: An den ersten vier Tagen finden 34 Events dezentral an vielen Orten
                                     in Mainfranken bzw. auch online statt. Zum Abschluss am fünften Veranstaltungstag, dem
                                    4. Juli 2025, gibt es das <a href="aicamp.php">AI Camp Würzburg</a>.</li>
-                            <li> Veranstaltung statt Vortrag: Statt eines festen 45-minütigen Vortragsslots auf
+                            <li>Veranstaltung statt Vortrag: Statt eines festen 45-minütigen Vortragsslots auf
                                     einer Konferenz kannst du eine oder mehrere eigenständige Veranstaltungen 
                                 anbieten.</li>
                             <li>Flexible Formate: darunter Vorträge, Frühstück, Start-up-Pitches und was den Mainfranken sonst noch einfällt.</li>
@@ -323,7 +318,7 @@
                         <ul>
                             <li>Dauer: Unser KI-Festival ist eine fünftägige Dachveranstaltung.</li>
                             <li>Anzahl Veranstaltungen: Das Programm hat maximal 42 Events.</li>
-                            <li>Kuratierung: Diesmal entscheidet eine Jury, welche Veranstaltungen ins Programm aufgenommen werden.</li>
+                            <li>Kuratierung: Eine Jury entscheidet, welche Veranstaltungen ins Programm aufgenommen werden.</li>
                         </ul>
                         <br> 
                     <h2>Mainfrankens nächste Erfolgsstory!</h2>
@@ -332,7 +327,7 @@
 
                        <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
                        bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
-                       <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – the Bavarian AI Network</a>, die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
+                       die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
                        <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
                        <br><br> 

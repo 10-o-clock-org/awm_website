@@ -22,12 +22,14 @@
 </br>
                         
                         <h2 style="margin-top: 2rem">Goldsponsoren</h2>
+                        </br></br>
                         <div class="goldsponsoren">
                             <div class="white-bg"><a href="https://karriere.knauf.de" target="_blank"><img src="images/logo-knauf.png" alt="Logo Knauf" /></a></div>
                             <div class="white-bg"><a href="https://www.ukw.de/startseite" target="_blank"><img src="images/logo-uniklinikum-wuerzburg.png" alt="Logo Uniklinikum Würzburg" /></a></div>
                             
                         </div>
                         <h2 style="margin-top: 5rem">Supporter</h2>
+                        </br></br>
                         <div class="supporter">
                             <div class="white-bg"><a href="https://wuems.de" target="_blank"><img src="images/logo_stadtmarketing-wuerzburg-macht-spass.png" alt="Logo Stadtmarketing Würzburg macht Spaß e.V." /></a></div>
                             <div class="white-bg"><a href="https://www.wuerzburg.de/unternehmen" target="_blank"><img src="images/logo-stadt-wuerzburg.png" alt="Logo Stadt Würzburg" /></a></div>

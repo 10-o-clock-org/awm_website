@@ -1034,14 +1034,16 @@ body:not(.home) .content {
     opacity: 1;
 }
 .hauptsponsoren,
-.goldsponsoren {
+.goldsponsoren,
+.supporter {
     display: flex;
     flex-wrap: wrap;
     column-gap: 3rem;
     row-gap: 2rem;
 }
 .hauptsponsoren a,
-.goldsponsoren a {
+.goldsponsoren a,
+.supporter a {
     padding: 1rem;
     display: flex;
     width: 100%;
@@ -1051,7 +1053,7 @@ body:not(.home) .content {
 }
 .hauptsponsoren div {
     position: relative;
-    flex: calc(30% - 3rem);
+    flex-basis: calc(50% - 3rem);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -1061,32 +1063,42 @@ body:not(.home) .content {
     max-height: 12rem;
     object-fit: contain;
 }
-.goldsponsoren div {
+.goldsponsoren div,
+.supporter div {
     position: relative;
-    flex: calc(25% - 3rem);
+    flex-basis: calc(33% - 3rem);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    max-height: 8rem;
     border: 1px solid #fff;
     border-radius: 0 0 0 2rem;
     overflow: hidden;
 }
-.goldsponsoren div.white-bg {
+.goldsponsoren div {
+    height: 18rem;
+}
+.supporter div {
+    height: 10rem;
+}
+.goldsponsoren div.white-bg,
+.supporter div.white-bg {
     background: #fff;
 }
-.goldsponsoren div img {
-    max-width: 12.5rem;
+.goldsponsoren div img,
+.supporter div img {
+    max-width: min(100%, 16rem);
     max-height: 100%;
 }
 .hauptsponsoren div img,
-.goldsponsoren div img {
+.goldsponsoren div img,
+.supporter div img {
     transition: .25s transform ease-in-out;
     transform: scale(1);
 }
 .hauptsponsoren div:hover img,
-.goldsponsoren div:hover img {
+.goldsponsoren div:hover img,
+.supporter div:hover img {
     transform: scale(1.2);
 }
 

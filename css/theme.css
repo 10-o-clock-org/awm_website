@@ -1087,7 +1087,7 @@ body:not(.home) .content {
 }
 .goldsponsoren div img,
 .supporter div img {
-    max-width: min(100%, 16rem);
+    max-width: 85%;
     max-height: 100%;
 }
 .hauptsponsoren div img,

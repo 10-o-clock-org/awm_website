@@ -24,6 +24,7 @@
                         <p>Die AI Week Mainfranken ist Bayerns erstes dezentrales Festival mit Schwerpunkt KI.</p> 
                         <p>Vom 30. Juni bis 4. Juli 2025 erwarten dich 35 Events an verschiedenen Orten in der Region sowie online.
                 An der ersten AI Week Mainfranken 2024 nahmen <a href="https://www.linkedin.com/feed/update/urn:li:activity:7264913707372089345">über 1.000 Menschen teil</a>.</p>
+                <br>
                 <h2>Unsere Vision:</h2>
                 <p>Wir sind überzeugt: KI kann viel, wir Menschen aber auch! Gemeinsam sind wir unschlagbar, wenn es
                     darum geht, die großen Herausforderungen unserer Zeit zu meistern. Die AI Week Mainfranken bringt
@@ -54,16 +55,19 @@
                                 richtig!</li>
                         <li>Tech-Enthusiasten und KI-Expertinnen: Teil dein Wissen und tausche dich mit
                                 Gleichgesinnten aus.</li>
-                        <li>Start-ups, Gründerin und Unternehmer: Erfahre, wie andere KI bereits erfolgreich
+                        <li>Start-ups, Gründerinnen und Unternehmer: Erfahre, wie andere KI bereits erfolgreich
                                 einsetzen und knüpfe neue Kontakte.</li>
                         <li>Forscher, Professoren, Studierende aus verschiedenen Fachrichtungen.</li>                       </li>
                         </ul>
                          <p>Egal, ob KI-Neuling oder Expertin – die AI Week Mainfranken bietet für alle spannende Einblicke und
                         einen Austausch auf Augenhöhe.</p>
+                        <br>
                          <h2>Wer organisiert die AI Week Mainfranken?</h2>
                 <p>Die AI Week Mainfranken wird von Ute Mündlein organisiert. Sie ist Mitgründerin und Hauptorganisatorin der seit 2018 jährlich stattfindenden 
                     <a href="https://www.wueww.de" target="_blank">Wuerzburg Web Week</a>.</p>
+                    <br>
                     <a class="button" href="programm.php">Hier geht's zum Programm</a>
+                    <br><br><br><br><br><br>   
 
                         
                        

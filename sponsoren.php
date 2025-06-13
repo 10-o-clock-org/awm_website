@@ -33,6 +33,7 @@
                         <div class="supporter">
                         <div class="white-bg"><a href="https://wuems.de" target="_blank"><img src="images/logo_stadtmarketing-wuerzburg-macht-spass-eV.png" alt="Logo Stadtmarketing Würzburg macht Spaß e.V." /></a></div>
                             <div class="white-bg"><a href="https://www.wuerzburg.de/unternehmen" target="_blank"><img src="images/logo-stadt-wuerzburg.png" alt="Logo Stadt Würzburg" /></a></div>
+                            <div class="white-bg"><a href="https://intense.de" target="_blank"><img src="images/logo-intense-ag.png" alt="Logo INTENSE AG" /></a></div> 
                             
                             
                         </div>

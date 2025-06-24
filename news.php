@@ -20,7 +20,7 @@
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
                         <p><a href="#eventtool">2025-05-18 | Bis 2. Juni 2025 Event(s) eintragen</a><br/>
-                            <a href="#pitches">2025-05-18 | KI-Start-up-Lunch-Pitches: Jetzt bewerben!</a><br/> 
+                            <a href="#pitches">2025-05-18 | KI-Start-up-Lunch-Pitches: Bis 23.6. bewerben!</a><br/> 
                             <a href="#kategorien">2025-05-16 | AI Week Mainfranken: unsere fünf Themen-Kategorien</a><br/>                             
                             <a href="#kifestival">2024-09-09 |  AI Week Mainfranken – Das KI-Festival für alle</a><br/>
                             <a href="#wueww">2024-09-09 | AI Week Mainfranken vs. Wuerzburg Web Week</a><br/></p>
@@ -90,18 +90,10 @@
                            href="faq.php" target="_blank">FAQ</a>. Falls dennoch Fragen offen
                         sind, schreibe uns eine E-Mail an: kontakt @ wueww. de.</p>
                     <br/>
-                    <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
-                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>, 
-                       die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
-                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
-                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
-                       <br/><br/> 
-                    <p>💡 PS: Wir möchten im Rahmen der AI Week Mainfranken auch KI-Start-ups und (Gründer)Teams eine Bühne geben:
-                        Präsentiert eure Idee bei den KI-Start-up-Lunch-Pitches. Weitere Infos gibt es <a
-                           href="news.php#pitches">in diesem Beitrag</a>.</p>
-
-
-                      
+                    <p>Wir danken unseren Sponsoren, die die AI Week Mainfranken finanziell unterstützen: 
+                     <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                      <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a>, <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a>
+                      und <a href="https://www.intense.de" target="_blank">INTENSE AG</a>.</p>                      
                     </div>
                 </div>
             </div>
@@ -120,7 +112,7 @@
                 <div class="grid">
                     <div class="col span-8">
                         <div class="spacer"></div>
-                        <h1>KI-Start-up-Lunch-Pitches: Jetzt bewerben!</h1>
+                        <h1>KI-Start-up-Lunch-Pitches: Bis 23.6. bewerben!</h1>
                         <br/>
                         <p>KI-Start-ups aufgepasst:
                         Wir bieten euch eine tolle Gelegenheit, euer Unternehmen bei unseren "KI-Start-up-Lunch-Pitches"
@@ -136,19 +128,19 @@
                             <li>KI-Fokus ist ein Muss</li>
                             <li>Vorzug für mainfränkische Gründungen, Bewerbungen aus dem gesamten deutschsprachigen Raum willkommen</li>
                     </ul>
-                   <p>Die Teilnahme ist kostenfrei. Wir freuen uns, von euch zu hören! Bei Fragen schreib uns gerne <a href="mailto:hallo@10-o-clock.de">eine E-Mail</a>.</p>                                  
+                   <p>Die Teilnahme ist kostenfrei. Die Bewerbungfrist ist inzwischen beendet.</p>                                  
                     
 
                     <p>Wer sich fragt, warum es am Freitag, dem 4. Juli, keine Pitches gibt: Da organisieren wir als Abschlussevent der AI Week das ganztägige <a href="aicamp.php"
                target="_blank">AI Camp Würzburg</a>.</p>              
                     <p>Noch Fragen zur AI Week Mainfranken? Antworten haben wir <a href="faq.php" target="_blank">in unseren FAQ</a> zusammengestellt.</p>
-                    <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
-                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
-                      die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
-                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
-                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
+                    <p>Wir danken unseren Sponsoren, die die AI Week Mainfranken finanziell unterstützen: 
+                     <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                      <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a>, <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a>
+                      und <a href="https://www.intense.de" target="_blank">INTENSE AG</a>.</p>
+                       
                        <br/><br/> 
-                        <a class="button" href="https://forms.gle/p48HHAffYBUH6kP4A" target="_blank">Jetzt für den Pitch bewerben</a>
+                        
 <br/><br/>                       
                     </div>
                 </div>
@@ -220,11 +212,10 @@
                         Podiumsdiskussion, Hack- oder Promptathon – der Kreativität sind keine Grenzen gesetzt! Sei
                         dabei und lass uns gemeinsam Mainfranken auch als KI-Standort etablieren!</p>
                     <p>Noch Fragen? Schau in unsere <a href="faq.php">FAQ</a>.</p>
-                    <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
-                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>, 
-                       die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
-                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
-                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
+                    <p>Wir danken unseren Sponsoren, die die AI Week Mainfranken finanziell unterstützen: 
+                     <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                      <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a>, <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a>
+                      und <a href="https://www.intense.de" target="_blank">INTENSE AG</a>.</p>
                     </p>
                     <p>PS: Noch gibt es Tickets für das <a href="aicamp.php" target="_blank">AI Camp
                             Würzburg am 4. Juli 2025</a>, das Abschluss-Event der AI Week Mainfranken. Unsere Empfehlung:
@@ -273,11 +264,10 @@
                            href="news.php#wueww">in diesem Beitrag</a>, wie sich die AI Week von
                         der Wuerzburg Web Week unterscheidet.</p>
                         <br/><br/>
-                        <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
-                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
-                        die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
-                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
-                       <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
+                        <p>Wir danken unseren Sponsoren, die die AI Week Mainfranken finanziell unterstützen: 
+                     <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                      <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a>, <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a>
+                      und <a href="https://www.intense.de" target="_blank">INTENSE AG</a>.</p>
                        <br/><br/> 
                         <a class="button" href="programm.php">Hier geht's zum Programm</a>
                         <br/><br/><br/>    
@@ -325,11 +315,10 @@
                     <p>An der ersten AI Week Mainfranken nahmen <a href="https://www.ai-week.de/assets/images/Zahlen%20AI%20Week%20Mainfranken%202024%20klein.pdf" 
                        target="_blank"> über 1.000 Menschen teil</a>. Das beweist: Mainfranken ist auch ein innovativer KI-Standort!</p>
 
-                       <p>Aktuell suchen wir weitere Sponsoren, die uns auch finanziell unterstützen möchten, wie aktuell
-                       bereits <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, das <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
-                       die <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a> und
-                       <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a></p>
-                      <p>Bei Interesse nimm mit uns <a href="mailto:ute.muendlein@10-o-clock.de">Kontakt auf.</a></p>
+                       <p>Wir danken unseren Sponsoren, die die AI Week Mainfranken finanziell unterstützen: 
+                     <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                      <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a>, <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a>
+                      und <a href="https://www.intense.de" target="_blank">INTENSE AG</a>.</p>
                        <br/><br/> 
                        
                         

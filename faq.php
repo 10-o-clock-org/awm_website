@@ -222,14 +222,14 @@
                                <li>einen KI-Fokus haben.</li> 
                                <li>2022 oder später gegründet wurden, gerne auch noch in der Vorgründungsphase.</li>
                                     </ul> 
-                                <p><a href="news.php#pitches" target="_blank">Weitere Informationen.</a></p>
+                                <p>Die Einreichungsfrist ist am 23.06. abgelaufen.</p>
             </div>
         </div>
         <div class="tab">
             <input type="checkbox" name="accordion-24" id="cb24">
             <label for="cb24" class="tab__label">Bis wann kann ich mich für die KI-Start-up-Pitches bewerben?</label>
             <div class="tab__content">
-                <p>Bis Montag, den 23. Juni 2025. <a href="news.php#pitches"
+                <p>Die Einreichungsfrist ist am 23.06. abgelaufen. <a href="news.php#pitches"
                                    target="_blank">Weitere Informationen.</a></p>
             </div>
         </div>

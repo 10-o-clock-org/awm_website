@@ -19,7 +19,8 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p><a href="#eventtool">2025-05-18 | Bis 2. Juni 2025 Event(s) eintragen</a><br/>
+                        <p> <a href="#zahlen2025">2025-07-16 | AI Week Mainfranken 2025 – Hotspot für KI</a><br/>
+                            <a href="#eventtool">2025-05-18 | Bis 2. Juni 2025 Event(s) eintragen</a><br/>
                             <a href="#pitches">2025-05-18 | KI-Start-up-Lunch-Pitches: Bis 23.6. bewerben!</a><br/> 
                             <a href="#kategorien">2025-05-16 | AI Week Mainfranken: unsere fünf Themen-Kategorien</a><br/>                             
                             <a href="#kifestival">2024-09-09 |  AI Week Mainfranken – Das KI-Festival für alle</a><br/>

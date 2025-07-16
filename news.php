@@ -102,7 +102,7 @@
 
                     <br/>
                     <p>Und danke an alle, die der AI Week 2025 mit ihrer Teilnahme, ihren Beiträgen und ihrer Begeisterung zum Erfolg beigetragen haben.</p>
-                    <p>Weitere spannende Zahlen und Details findest du in diesem PDF. Gerne auch den Beiträgen auf LinkedIn noch ein Like oder Herz spendieren – da freut sich der Algorithmus und wir Menschen uns auch.</p>
+                    <p>Weitere spannende Zahlen und Details findest du in diesem <a href="alle-zahlen-ai-week mainfranken-2025.pdf" target="_blank"> PDF</a>. Gerne auch den Beiträgen auf LinkedIn noch ein Like oder Herz spendieren – da freut sich der Algorithmus und wir Menschen uns auch.</p>
                     <p>PS: Wer wissen will, was außerhalb der AI Week Spannendes in der Tech- und Digitalszene passiert, 
                         sollte <a href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017" target="_blank">den Newsletter neunsieben.digital abonnieren</a>. 
                         Für viele der einzige Newsletter, den sie regelmäßig lesen.</p> 

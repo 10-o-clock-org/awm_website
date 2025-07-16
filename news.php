@@ -39,7 +39,7 @@
                         <h1>AI Week Mainfranken 2025 – Hotspot für KI</h1>
                         <br/>
                         <figure>
-                            <img src="images/Zahlen_AI_Week_Mainfranken_2025.jpg" alt="Teaserbild mit Impressionen einigen Fotos von der AI Week 2025" />                           
+                            <img src="images/zahlen ai week mainfranken 2025.jpg" alt="Teaserbild mit Impressionen einigen Fotos von der AI Week 2025" />                           
                         </figure><br/><br/>
                         <p>Mainfranken war während der AI Week 2025 in jeder Hinsicht ein Hotspot: Am 1. Juli wurden in Kitzingen 37,8 Grad im Schatten gemessen – der bislang höchste Wert des Jahres in Deutschland. 
                         Aber davon lassen sich KI-Begeisterte natürlich nicht abhalten oder wie Ute Mündlein, Organisatorin der AI Week Mainfranken, <a href="https://www.linkedin.com/posts/ute-muendlein_ki-musst-du-herunterk%C3%BChlen-damit-sie-arbeitet-activity-7346044755341967360-o54Q"

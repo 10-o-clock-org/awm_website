@@ -29,6 +29,83 @@
             </div>
         </div>
         <!-- Start einer News-Section-->
+
+        <div class="section" id="zahlen2025">
+            <div class="container">                 
+                <div class="grid">
+                    <div class="col span-8">
+                        <div class="spacer"></div>
+                        <h1>AI Week Mainfranken 2025 – Hotspot für KI</h1>
+                        <br/>
+                        <figure>
+                            <img src="images/Zahlen zur AI Week 2025 - Teaserbild.jpg" alt="Teaserbild mit Impressionen einigen Fotos von der AI Week 2025" />
+                            <figcaption>Bildunterschrift mit Erklärung etc.<br>oder einfach nur so</figcaption>
+                        </figure>
+                        <p>Die zweite AI Week Mainfranken steht vor der Tür! Vom 30. Juni bis 4. Juli 2025 machen wir Künstliche
+                        Intelligenz wieder für alle begreifbar. Egal, ob KI-Neuling oder Experte, hier findest du spannende
+                        Einblicke und Austausch auf Augenhöhe.</p>
+                        <h2>Sei nicht nur dabei, sondern mach mit!</h2>
+                        <br/>
+                        <p>Trage bis zum 2. Juni 2025 deine Veranstaltungsidee(n) ein. Vielen
+                        Dank an <a href="https://wue.social/@rolf"
+                                       target="_blank">Stefan "Rolf" Siegl</a>, der das Tool für uns programmiert hat.
+                    </p>
+                    <p>Anders als bei der Wuerzburg Web Week beschränken wir die Anzahl der Vortragsslots auf maximal 42. 
+                        Um eine hohe Qualität und Themenvielfalt zu gewährleisten, entscheidet eine Jury, welche
+                        Veranstaltungen in das endgültige Programm aufgenommen werden.</p>
+                    <h2>Bevor du loslegst:</h2>
+                    <ul>
+                            <li>Klarer KI-Bezug der Veranstaltung ist Voraussetzung</li>
+                            <li>Plane dein(e) Event(s) für den Zeitraum Montag bis Donnerstag (30. Juni bis 3. Juli 2025). 
+                                    Am 4. Juli rundet das <a href="aicamp.php"
+                                       target="_blank">AI Camp Würzburg</a> die Woche ab. An diesem Tag findet kein weiteres Event
+                                    der AI Week Mainfranken statt.</li>
+                            <li>Maximal 41 Veranstaltungsslots plus das <a href="aicamp.php"
+                                       target="_blank">AI Camp Würzburg</a></li>
+                            <li>Dein Event ist kostenfrei oder der Ticketpreis sollte Catering/Raummiete decken</li>
+                        </ul>
+                        <br/><br/>
+                        <a class="button" href="programm.php">Hier geht's zum Programm</a>
+                        <br/><br/><br/>
+
+                        
+                    <h2>Zeitlicher Ablauf:</h2>
+                        <ul>
+                         <li>Die Einreichungsfrist endet am Montag, dem 2. Juni um 23:59 Uhr.</li>
+                        <li>Die Jury-Entscheidung fällt in der Woche vom 2. Juni (KW 19).</li>
+                        <li>Im Anschluss informieren wir dich, ob dein Vorschlag es ins Programm geschafft hat.</li>
+                        </ul>
+                        <br/>
+                    <h2>Warum solltest du eine Veranstaltung bei der AI Week einreichen?</h2>
+                    <p>Die AI Week bietet dir eine tolle Gelegenheit, deine Expertise einem breiten Publikum zu präsentieren und wertvolle Kontakte in der KI-Community zu knüpfen.</p>
+                    <p>Sie ist als Plattform für Wissensaustausch gedacht, bei der du dein Know-how teilen und von anderen Experten lernen kannst.</p>
+                    <p>Wer weiß – vielleicht findest du hier sogar deinen nächsten Kooperationspartner für ein innovatives KI-Projekt?</p><br/>
+                    
+                    <h2>KI kennt keine Grenzen</h2> 
+                    <p>Einreichungen für die AI Week sind auch von Unternehmen, Organisationen und Einzelpersonen außerhalb Mainfrankens möglich. Frage gerne mal in deinem Netzwerk nach. 🙏</p>
+
+                    <br/>
+                    <a class="button" href="programm.php">Hier geht's zum Programm</a>
+                        <br/><br/><br/>
+                        
+                        <h2>FAQ: Veranstaltung bei der AI Week einreichen</h2>
+                    <p>👉 Können auch nach der Einreichungsfrist Veranstaltungen in das eingetragen werden?</p>
+                    <p>Nein, das ist nicht möglich.</p>
+                    <p>Weitere Antworten rund um die AI Week findest du in unseren <a
+                           href="faq.php" target="_blank">FAQ</a>. Falls dennoch Fragen offen
+                        sind, schreibe uns eine E-Mail an: kontakt @ wueww. de.</p>
+                    <br/>
+                    <p>Wir danken unseren Sponsoren, die die AI Week Mainfranken finanziell unterstützen: 
+                     <a href="https://karriere.knauf.de" target="_blank">Knauf</a>, <a href="https://www.ukw.de/startseite" target="_blank">Universitätsklinikum Würzburg</a>,
+                      <a href="https://www.wuerzburg.de/unternehmen" target="_blank">Stadt Würzburg</a>, <a href="https://wuems.de" target="_blank">Stadtmarketing Würzburg Macht Spaß e.V.</a>
+                      und <a href="https://www.intense.de" target="_blank">INTENSE AG</a>.</p>                      
+                    </div>
+                </div>
+            </div>
+        </div> 
+
+
+
         <div class="section" id="eventtool">
             <div class="container">                 
                 <div class="grid">

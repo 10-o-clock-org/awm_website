@@ -19,7 +19,8 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p><a href="#eventtool">2025-05-18 | Bis 2. Juni 2025 Event(s) eintragen</a><br/>
+                        <p> <a href="#zahlen2025">2025-07-16 |AI Week Mainfranken 2025 – Hotspot für KI</a><br/>
+                            <a href="#eventtool">2025-05-18 | Bis 2. Juni 2025 Event(s) eintragen</a><br/>
                             <a href="#pitches">2025-05-18 | KI-Start-up-Lunch-Pitches: Bis 23.6. bewerben!</a><br/> 
                             <a href="#kategorien">2025-05-16 | AI Week Mainfranken: unsere fünf Themen-Kategorien</a><br/>                             
                             <a href="#kifestival">2024-09-09 |  AI Week Mainfranken – Das KI-Festival für alle</a><br/>
@@ -82,6 +83,11 @@
                     <br/><br/>
                     <h2>Das Orga-Team</h2> 
                     <p>Hinter der AI Week stehen (noch) Menschen, die mit viel Leidenschaft und ❤️ gearbeitet haben.</p>
+                    <figure>
+                            <img src="images/Orga-Team AI Week Mainfranken.jpg" alt="Bild des Orga-Teams der AI Week Mainfranken 2025" />
+                            <figcaption>Ute Mündlein, Franziska Raupach und Stefan "Rolf" Siegl</figcaption>
+                        </figure>
+                        <br><br>
                     <p>Uns begeistert, dass 32 Veranstalter wieder so viele unterschiedliche Themen eingebracht haben. Das dezentrale Konzept der Wuerzburg Web Week funktioniert auch bei der AI Week. #YEAH</p>
                     <br/><br/>
                     <h2>Ausblick: AI Week 2026</h2> 

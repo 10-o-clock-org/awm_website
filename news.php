@@ -43,20 +43,50 @@
                         </figure><br/><br/>
                         <p>In Deutschland wurden im ersten Halbjahr 2025 laut Startupverband <a href="https://startupverband.de/fileadmin/startupverband/mediaarchiv/research/Next_Generation_Report/Next_Generation_Startup-Neugruendungen_in_Deutschland_H1_2025.pdf"
                         target="_blank"> 1.500 Start-ups gegründet</a> – neun Prozent mehr als im zweiten Halbjahr 2024. Die Gründungslust ist also ungebrochen.</p>
-                        <p>Wie sieht es in Mainfranken aus? Zusammen mit der Plattform "Gründen in Mainfranken" haben wir recherchiert und stellen hier sechs Neuggründungen vor. Von KI-Coaching über Pilz-Fleischersatz bis zu humanoiden Robotern decken sie eine große Bandbreite ab.
+                        <p>Wie sieht es in Mainfranken aus? Zusammen mit der Plattform <a href="https://gim-bayern.de" target="_blank" rel="noopener">"Gründen in Mainfranken"</a>" haben wir recherchiert und stellen hier sechs Neuggründungen vor. Von KI-Coaching über Pilz-Fleischersatz bis zu humanoiden Robotern decken sie eine große Bandbreite ab.
 </p>
 <h2>Die Kriterien:</h2>
   <p>Gründung als GmbH, UG oder GbR mit Hauptsitz in Mainfranken. Fokus: Software, Hardware, BioTech, MedTech oder andere Tech-Geschäftsmodelle.</p>
 <h2>Vier von sechs Teams setzen auf KI</h2>
+<br/><br/>
+<div class="startup-box">
+    <h3>crowd coach UG | 97236 Randersacker</h3>
+    <p>KI-gestütztes Coaching für Menschen auf Jobsuche.</p>
+    <p>→ <a href="https://machdirdeinenjob.ai" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/in/dr-sascha-g%C3%B6ttling-a28a1346" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<div class="startup-box">
+    <h3>nara GmbH | 97074 Würzburg</h3>
+    <p>KI-Lösung für DSGVO-konformen Tech-Support. Für Unternehmen, die Kundenanfragen schneller und rechtskonform beantworten wollen.</p>
+    <p>→ <a href="https://nara.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/nara-gmbh" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<div class="startup-box">
+    <h3>Jarm.AI GmbH | 97532 Üchtelhausenn</h3>
+    <p>KI-Software-Plattform für humanoide Roboter – inklusive Hardwarebau.</p>
+    <p>→ <a href="https://jarm.ai" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/in/jacob-munke" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<div class="startup-box">
+    <h3>SOLISTIQ GmbH (i. Grd.) | 97072 Würzburg</h3>
+    <p>KI-gestützte Bestandsprognosen: Weniger Lagerkosten, weniger Verschwendung, mehr Effizienz.</p>
+    <p>→ <a href="https://solistiq.com" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/solistiq" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<h2>Jenseits der KI: <del>Gibt's nicht</del> Gibt's, und zwar ...</h2>
+<br/><br/>
+<div class="startup-box">
+    <h3>BetterMyco GbR | 97076 Würzburg</h3>
+    <p>Fleischersatz aus Pilzmyzel – nachhaltig, proteinreich und (angeblich) lecker.</p>
+    <p>→ <a href="https://www.bettermyco.de" target="_blank" rel="noopener">Webseite</a> | <a href=https://www.linkedin.com/company/bettermyco" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
 
-<hr>
+<div class="startup-box">
+    <h3>CAARD UG | 97421 Schweinfurt</h3>
+    <p>Digitale Visitenkarten mit QR-Code-Technologie. Das soll professionelles Networking vereinfachen.</p>
+    <p>→ <a href="https://www.caard.net" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/caard-net" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
 
-<h3>crowd coach UG | 97236 Randersacker</h3>
-<p>KI-gestütztes Coaching für Menschen auf Jobsuche.</p>
-<p>→ <a href="LINK" target="_blank" rel="noopener">Webseite</a> | <a href="LINK" target="_blank" rel="noopener">LinkedIn</a></p>
+<h2>Noch mehr Gründungen? Wir ergänzen die Liste</h2>
 
-<p>PS: Wer wissen will, was außerhalb der AI Week Spannendes in der Tech- und Digitalszene passiert, 
-                        sollte <a href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017" target="_blank">den Newsletter neunsieben.digital abonnieren</a>. 
+<p>Wir wünschen allen Teams viel Erfolg! Falls wir ein 2025 gegründetes Tech-Unternehmen übersehen haben, schreib uns an <a href="mailto:deine@email.de?subject=Tech-Gründung%202025%20ergänzen">hello@10-o-clock.de</a> – wir ergänzen die Liste gerne.</p>
+<p>PS: Wer wissen will, wann sonst noch in Mainfranken in Sachen Tech & Start-ups los ist, sollte <a href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017" target="_blank">den Newsletter neunsieben.digital abonnieren</a>. 
                         Für viele der einzige Newsletter, den sie regelmäßig lesen.</p> 
                         <br/><br/>
                         <a class="button" href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017">Jetzt Newsletter abonnieren</a>

@@ -1463,3 +1463,14 @@ tbody tr:nth-of-type(2n) {
 .spacer {
     height: 10rem;
 }
+/* Nachtrag von Ute */
+
+.startup-box {
+    margin-bottom: 2.5em;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid #ddd;
+}
+
+.startup-box:last-of-type {
+    border-bottom: none;
+}

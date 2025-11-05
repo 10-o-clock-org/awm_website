@@ -31,6 +31,43 @@
         </div>
         <!-- Start einer News-Section-->
 
+        <div class="section" id="startups 2025">
+            <div class="container">                 
+                <div class="grid">
+                    <div class="col span-8">
+                        <div class="spacer"></div>
+                        <h1>Tech-Gründungen 2025: Sechs Start-ups aus Mainfranken</h1>
+                        <br/>
+                        <figure>
+                            <img src="images/zahlen ai week mainfranken 2025.jpg" alt="Teaserbild mit Impressionen einigen Fotos von der AI Week 2025" />                           
+                        </figure><br/><br/>
+                        <p>In Deutschland wurden im ersten Halbjahr 2025 laut Startupverband <a href="https://startupverband.de/fileadmin/startupverband/mediaarchiv/research/Next_Generation_Report/Next_Generation_Startup-Neugruendungen_in_Deutschland_H1_2025.pdf"
+                        target="_blank"> 1.500 Start-ups gegründet</a> – neun Prozent mehr als im zweiten Halbjahr 2024. Die Gründungslust ist also ungebrochen.</p>
+                        <p>Wie sieht es in Mainfranken aus? Zusammen mit der Plattform "Gründen in Mainfranken" haben wir recherchiert und stellen hier sechs Neuggründungen vor. Von KI-Coaching über Pilz-Fleischersatz bis zu humanoiden Robotern decken sie eine große Bandbreite ab.
+</p>
+<h2>Die Kriterien:</h2>
+  <p>Gründung als GmbH, UG oder GbR mit Hauptsitz in Mainfranken. Fokus: Software, Hardware, BioTech, MedTech oder andere Tech-Geschäftsmodelle.</p>
+<h2>Vier von sechs Teams setzen auf KI</h2>
+
+<hr>
+
+<h3>crowd coach UG | 97236 Randersacker</h3>
+<p>KI-gestütztes Coaching für Menschen auf Jobsuche.</p>
+<p>→ <a href="LINK" target="_blank" rel="noopener">Webseite</a> | <a href="LINK" target="_blank" rel="noopener">LinkedIn</a></p>
+
+<p>PS: Wer wissen will, was außerhalb der AI Week Spannendes in der Tech- und Digitalszene passiert, 
+                        sollte <a href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017" target="_blank">den Newsletter neunsieben.digital abonnieren</a>. 
+                        Für viele der einzige Newsletter, den sie regelmäßig lesen.</p> 
+                        <br/><br/>
+                        <a class="button" href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017">Jetzt Newsletter abonnieren</a>
+                   
+                    </div>
+                </div>
+            </div>
+        </div> 
+
+
+
         <div class="section" id="zahlen2025">
             <div class="container">                 
                 <div class="grid">

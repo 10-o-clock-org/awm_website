@@ -91,7 +91,7 @@
 <h2>Noch mehr Gründungen? Wir ergänzen die Liste</h2>
 
 <p>Wir wünschen allen Teams viel Erfolg! Falls wir ein 2025 gegründetes Tech-Unternehmen übersehen haben, schreib uns an <a href="mailto:deine@email.de?subject=Tech-Gründung%202025%20ergänzen">hello@10-o-clock.de</a> – wir ergänzen die Liste gerne.</p>
-<p>PS: Wer wissen will, wann sonst noch in Mainfranken in Sachen Tech & Start-ups los ist, sollte <a href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017" target="_blank">den Newsletter neunsieben.digital abonnieren</a>. 
+<p>PS: Wer wissen will, was noch in Mainfranken in Sachen Tech & Start-ups los ist, sollte <a href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017" target="_blank">den Newsletter neunsieben.digital abonnieren</a>. 
                         Für viele der einzige Newsletter, den sie regelmäßig lesen.</p> 
                         <br/><br/>
                         <a class="button" href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017">Jetzt Newsletter abonnieren</a>

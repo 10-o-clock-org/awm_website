@@ -40,7 +40,7 @@
                         <h1>Tech-Gründungen 2025: Sechs Start-ups aus Mainfranken</h1>
                         <br/>
                         <figure>
-                            <img src="images/Tech-Gruendungen in Mainfranken 2025 Teaserbild.webp" alt="Teaserbild mit Impressionen einigen Fotos von der AI Week 2025" />                           
+                            <img src="images/Tech-Gruendungen in Mainfranken 2025 Teaserbild.webp" alt="Teaserbild Tech-Gründungen 2025 in Mainfranken" />                           
                         </figure><br/><br/>
                         <p>In Deutschland wurden im ersten Halbjahr 2025 laut Startupverband <a href="https://startupverband.de/fileadmin/startupverband/mediaarchiv/research/Next_Generation_Report/Next_Generation_Startup-Neugruendungen_in_Deutschland_H1_2025.pdf"
                         target="_blank"> 1.500 Start-ups gegründet</a> – neun Prozent mehr als im zweiten Halbjahr 2024. Die Gründungslust ist also ungebrochen.</p>

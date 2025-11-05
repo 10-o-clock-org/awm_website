@@ -55,21 +55,25 @@
     <p>KI-gestütztes Coaching für Menschen auf Jobsuche.</p>
     <p>→ <a href="https://machdirdeinenjob.ai" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/in/dr-sascha-g%C3%B6ttling-a28a1346" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
+<br/>
 <div class="startup-box">
     <h3>nara GmbH | 97074 Würzburg</h3>
     <p>KI-Lösung für DSGVO-konformen Tech-Support. Für Unternehmen, die Kundenanfragen schneller und rechtskonform beantworten wollen.</p>
     <p>→ <a href="https://nara.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/nara-gmbh" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
+<br/>
 <div class="startup-box">
     <h3>Jarm.AI GmbH | 97532 Üchtelhausenn</h3>
     <p>KI-Software-Plattform für humanoide Roboter – inklusive Hardwarebau.</p>
     <p>→ <a href="https://jarm.ai" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/in/jacob-munke" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
+<br/>
 <div class="startup-box">
     <h3>SOLISTIQ GmbH (i. Grd.) | 97072 Würzburg</h3>
     <p>KI-gestützte Bestandsprognosen: Weniger Lagerkosten, weniger Verschwendung, mehr Effizienz.</p>
     <p>→ <a href="https://solistiq.com" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/solistiq" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
+
 <h2>Jenseits der KI: <del>Gibt's nicht</del> Gibt's, und zwar ...</h2>
 <br/><br/>
 <div class="startup-box">
@@ -77,7 +81,7 @@
     <p>Fleischersatz aus Pilzmyzel – nachhaltig, proteinreich und (angeblich) lecker.</p>
     <p>→ <a href="https://www.bettermyco.de" target="_blank" rel="noopener">Webseite</a> | <a href=https://www.linkedin.com/company/bettermyco" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
-
+<br/>
 <div class="startup-box">
     <h3>CAARD UG | 97421 Schweinfurt</h3>
     <p>Digitale Visitenkarten mit QR-Code-Technologie. Das soll professionelles Networking vereinfachen.</p>

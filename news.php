@@ -52,7 +52,7 @@
 <br/><br/>
 <div class="startup-box">
     <h3>crowd coach UG | 97236 Randersacker</h3>
-    <p>KI-gestütztes Coaching für Menschen auf Jobsuche.</p>
+    <p>KI-gestütztes Coaching für Menschen auf Jobsuche. KI-Agenten helfen, Stärken und Chancen zu erkennen sowie Klarheit über die eigene berufliche Zukunft zu gewinnen.</p>
     <p>→ <a href="https://machdirdeinenjob.ai" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/in/dr-sascha-g%C3%B6ttling-a28a1346" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
 <br/>

@@ -70,7 +70,7 @@
 <br/>
 <div class="startup-box">
     <h3>SOLISTIQ GmbH (i. Grd.) | 97072 Würzburg</h3>
-    <p>KI-gestützte Bestandsprognosen: Weniger Lagerkosten, weniger Verschwendung, mehr Effizienz.</p>
+    <p>KI-gestützte Bestandsprognosen und präzise Bestellvorschläge. Das sorgt für weniger Lagerkosten, weniger Verschwendung und mehr Effizienz.</p>
     <p>→ <a href="https://solistiq.com" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/solistiq" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
 

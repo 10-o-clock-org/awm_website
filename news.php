@@ -40,7 +40,7 @@
                         <h1>Tech-Gründungen 2025: Neun Start-ups aus Mainfranken</h1>
                         <br/>
                         <figure>
-                            <img src="images/Tech-Gruendungen in Mainfranken 2025 Teaserbild.webp" alt="Teaserbild Tech-Gründungen 2025 in Mainfranken" />                           
+                            <img src="images/Tech-Gründungen 2025 – 9 Start-ups aus Mainfranken Teaserbild.webp" alt="Teaserbild Tech-Gründungen 2025 in Mainfranken" />                           
                         </figure><br/><br/>
                         <p>In Deutschland wurden im ersten Halbjahr 2025 laut Startupverband <a href="https://startupverband.de/fileadmin/startupverband/mediaarchiv/research/Next_Generation_Report/Next_Generation_Startup-Neugruendungen_in_Deutschland_H1_2025.pdf"
                         target="_blank"> 1.500 Start-ups gegründet</a> – neun Prozent mehr als im zweiten Halbjahr 2024. Die Gründungslust ist also ungebrochen.</p>
@@ -84,7 +84,7 @@
 <br/><br/>
 <div class="startup-box">
     <h3>avenia solutions (Timo Reusch & Erik Spall GbR) | 97074 Würzburg</h3>
-    <p>Prozessautomatisierung, Softwareentwicklung, undInfrastruktur. Für Q2/2026 ist der Launch von sonaris geplant, eine Social-Media-Marketinglösung.</p>
+    <p>Prozessautomatisierung, Softwareentwicklung, und Infrastruktur. Für Q2/2026 ist der Launch von sonaris geplant, eine Social-Media-Marketinglösung.</p>
     <p>→ <a href="https://avenia.cloud" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/avenia-solutions" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
 <div class="startup-box">

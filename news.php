@@ -19,7 +19,7 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p> <a href="#startups2025">2025-11-05 | Tech-Gründungen 2025: Sechs Start-ups aus Mainfranken</a><br/>
+                        <p> <a href="#startups2025">2025-11-05 | Tech-Gründungen 2025: Neun Start-ups aus Mainfranken</a><br/>
                             <a href="#zahlen2025">2025-07-16 | AI Week Mainfranken 2025 – Hotspot für KI</a><br/>
                             <a href="#eventtool">2025-05-18 | Bis 2. Juni 2025 Event(s) eintragen</a><br/>
                             <a href="#pitches">2025-05-18 | KI-Start-up-Lunch-Pitches: Bis 23.6. bewerben!</a><br/> 
@@ -37,7 +37,7 @@
                 <div class="grid">
                     <div class="col span-8">
                         <div class="spacer"></div>
-                        <h1>Tech-Gründungen 2025: Sechs Start-ups aus Mainfranken</h1>
+                        <h1>Tech-Gründungen 2025: Neun Start-ups aus Mainfranken</h1>
                         <br/>
                         <figure>
                             <img src="images/Tech-Gruendungen in Mainfranken 2025 Teaserbild.webp" alt="Teaserbild Tech-Gründungen 2025 in Mainfranken" />                           

@@ -48,8 +48,14 @@
 </p>
 <h2>Die Kriterien:</h2>
   <p>Gründung als GmbH, UG oder GbR mit Hauptsitz in Mainfranken. Fokus: Software, Hardware, BioTech, MedTech oder andere Tech-Geschäftsmodelle.</p>
-<h2>Vier von sechs Teams setzen auf KI</h2>
+<h2>Fünf von neun Teams setzen auf KI</h2>
 <br/><br/>
+<div class="startup-box">
+    <h3>BKG Integration UG | 97318 Kitzigen</h3>
+    <p>KI-gestützte Unternehmenssoftware, Legacy-Modernisierung und lokale KI-Lösungen.</p>
+    <p>→ <a href="https://bkg-integration.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/bkg-integration-ug" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<br/>
 <div class="startup-box">
     <h3>crowd coach UG | 97236 Randersacker</h3>
     <p>KI-gestütztes Coaching für Menschen auf Jobsuche. KI-Agenten helfen, Stärken und Chancen zu erkennen sowie Klarheit über die eigene berufliche Zukunft zu gewinnen.</p>
@@ -57,15 +63,15 @@
 </div>
 <br/>
 <div class="startup-box">
-    <h3>nara GmbH | 97074 Würzburg</h3>
-    <p>KI-Lösung für DSGVO-konformen Tech-Support. Für Unternehmen, die Kundenanfragen schneller und rechtskonform beantworten wollen.</p>
-    <p>→ <a href="https://nara.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/nara-gmbh" target="_blank" rel="noopener">LinkedIn</a></p>
-</div>
-<br/>
-<div class="startup-box">
     <h3>Jarm.AI GmbH | 97532 Üchtelhausenn</h3>
     <p>KI-Software-Plattform für humanoide Roboter – inklusive Hardwarebau.</p>
     <p>→ <a href="https://jarm.ai" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/in/jacob-munke" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3>nara GmbH | 97074 Würzburg</h3>
+    <p>KI-Lösung für DSGVO-konformen Tech-Support. Für Unternehmen, die Kundenanfragen schneller und rechtskonform beantworten wollen.</p>
+    <p>→ <a href="https://nara.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/nara-gmbh" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
 <br/>
 <div class="startup-box">
@@ -77,6 +83,11 @@
 <h2>Jenseits der KI: <del>Gibt's nicht</del> Gibt's, und zwar ...</h2>
 <br/><br/>
 <div class="startup-box">
+    <h3>avenia solutions (Timo Reusch & Erik Spall GbR) | 97074 Würzburg</h3>
+    <p>Prozessautomatisierung, Softwareentwicklung, undInfrastruktur. Für Q2/2026 ist der Launch von sonaris geplant, eine Social-Media-Marketinglösung.</p>
+    <p>→ <a href="https://avenia.cloud" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/avenia-solutions" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<div class="startup-box">
     <h3>BetterMyco GbR | 97076 Würzburg</h3>
     <p>Fleischersatz aus Pilzmyzel – nachhaltig, proteinreich und (angeblich) lecker.</p>
     <p>→ <a href="https://www.bettermyco.de" target="_blank" rel="noopener">Webseite</a> | <a href=https://www.linkedin.com/company/bettermyco" target="_blank" rel="noopener">LinkedIn</a></p>
@@ -86,6 +97,12 @@
     <h3>CAARD UG | 97421 Schweinfurt</h3>
     <p>Digitale Visitenkarten mit QR-Code-Technologie. Das soll professionelles Networking vereinfachen.</p>
     <p>→ <a href="https://www.caard.net" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/caard-net" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3>PYXIS SPACE GmbH | 97074 Würzburg</h3>
+    <p>Hochpräzise Sensoren für die Lageregelung von Satelliten.</p>
+    <p>→ <a href="https://pyxis-space.com" target="_blank" rel="noopener">Webseite</a></p>
 </div>
 
 <h2>Noch mehr Gründungen? Wir ergänzen die Liste</h2>

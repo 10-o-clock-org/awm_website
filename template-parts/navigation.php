@@ -4,7 +4,6 @@ $pages = array(
     'mitmachen.php' => 'Mitmachen',
     'programm.php' => 'Programm 2025',
     'sponsoren.php' => 'Sponsoren',
-    'aicamp.php' => 'AI Camp',
     'news.php' => 'News',
 ) ;
 

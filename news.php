@@ -19,7 +19,8 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p> <a href="#startups2025">2025-11-05 | Tech-Gründungen 2025: Neun Start-ups aus Mainfranken</a><br/>
+                        <p>  <a href="#startups2025">2026-03-24 | Tech-Gründungen 2026</a><br/>
+                            <a href="#startups2025">2025-11-05 | Tech-Gründungen 2025: Neun Start-ups aus Mainfranken</a><br/>
                             <a href="#pitches">2026-03-24 | KI-Start-up-Lunch-Pitches</a><br/>
                             <a href="#kategorien">2026-03-24 | AI Week Mainfranken: unsere fünf Themen-Kategorien</a><br/>                       
                             <a href="#zahlen2025">2025-07-16 | AI Week Mainfranken 2025 – Hotspot für KI</a><br/>
@@ -41,7 +42,7 @@
                         <figure>
                             <img src="images/Teaserbild Tech-Gründungen 2026 in Mainfranken.webp" alt="Teaserbild Tech-Gründungen 2026 in Mainfranken" />                           
                         </figure><br/><br/>
-                        <p>785 Neugründungen gab es 2025 laut dem <a href="https://www.ihk-muenchen.de/politik/studien-und-umfragen/startup-scaleup-monitor-bayern/" target="_blank" rel="noopener"> "Startup & Scaleup Monitor"</a> in Bayern, ein Plus von 46 Prozent. In Mainfranken haben wir <a href=" target="_blank"> neun Tech-Gründungen</a> gezählt. Setzt sich der Erfolg 2026 fort? </p>
+                        <p>785 Neugründungen gab es 2025 laut dem <a href="https://www.ihk-muenchen.de/politik/studien-und-umfragen/startup-scaleup-monitor-bayern/" target="_blank" rel="noopener"> "Startup & Scaleup Monitor"</a> in Bayern, ein Plus von 46 Prozent. In Mainfranken haben wir <a href="news.php#startups2025" target="_blank"> neun Tech-Gründungen</a> gezählt. Setzt sich der Erfolg 2026 fort? </p>
 
 <p>Nachfolgend eine Liste aller Neugründungen.</p>
                        

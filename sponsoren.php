@@ -18,7 +18,7 @@
                 <div class="grid">
                     <div class="col span-12">
                         <h1>hall of fAIme</h1>
-                        <p>Wir danken unseren Sponsoren</p>
+                        <p>Unsere Sponsoren 2025</p>
                         <br/>
                         
                         <h2 style="margin-top: 2rem">Goldsponsoren</h2>

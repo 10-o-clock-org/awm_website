@@ -20,10 +20,10 @@
                         <div class="col span-6">
                             <h2><strong>AI</strong> Week</h2>
                             <h1>Mainfranken</h1>
-                            <p><span>37</span> Events an <span>5</span> Tagen – von Tech bis Kultur</p>
+                            <p><span>42</span> Events an <span>5</span> Tagen – von Tech bis Kultur</p>
                             <br>
                             <p><img class="icon" src="images/icon-flag.png" alt="" />verschiedene Orte in Mainfranken und online</p>
-                            <p><img class="icon" src="images/icon-calendar.png" alt="" />30. Juni bis 4. Juli 2025</p>
+                            <p><img class="icon" src="images/icon-calendar.png" alt="" />22. bis 26. Juni</p>
                             <a class="button" href="about.php">Mehr erfahren</a>
                         </div>
                         <div class="col span-6">

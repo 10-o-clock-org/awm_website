@@ -1,5 +1,5 @@
 <?php 
-    $title = 'Programm'; 
+    $title = 'Programm 2025'; 
     include("inc/variables.php");
     include("template-parts/header.php");
 ?>

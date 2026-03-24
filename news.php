@@ -19,7 +19,7 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p>  <a href="#startups2025">2026-03-24 | Tech-Gründungen 2026</a><br/>
+                        <p>  <a href="#startups2026">2026-03-24 | Tech-Gründungen 2026</a><br/>
                             <a href="#startups2025">2025-11-05 | Tech-Gründungen 2025: Neun Start-ups aus Mainfranken</a><br/>
                             <a href="#pitches">2026-03-24 | KI-Start-up-Lunch-Pitches</a><br/>
                             <a href="#kategorien">2026-03-24 | AI Week Mainfranken: unsere fünf Themen-Kategorien</a><br/>                       

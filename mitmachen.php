@@ -18,10 +18,10 @@
                 <div class="grid">
                     <div class="col span-12">
                         <h1>Mach mit</h1>
-                        <h2>beim ersten dezentralen KI-Festival in Bayern</h2>
+                        <h2>beim ersten und einzigen dezentralen KI-Festival in Bayern</h2>
                         <br/>
-                        <p>Bei der ersten AI Week hatten wir <a href="https://www.linkedin.com/feed/update/urn:li:activity:7264913707372089345">mit über 1.000 Teilnehmenden</a> schon ein Ausrufezeichen gesetzt. Sogar ‼️ 😉
-                Höchste Zeit für die zweite AI Week vom 30. Juni bis 4. Juli 2025.</p>
+                        <p>Bei der zweiten AI Week hatten wir <a href="https://www.ai-week.de/news.php#zahlen2025">über 1.100 Teilnehmenden</a> – und das in der heißesten Woche des Jahres. 😅
+                        Jetzt freuen wir uns auf die dritte Ausgabev vom 22. bis 26. Juni 2026.</p>
                 <br/>
                 <h2>Als Veranstalterin und Veranstalter dabei sein</h2>
                 <p>Wer die Wuerzburg Web Week kennt, wird sich bei der AI Week gleich wie zu Hause fühlen. Wir
@@ -33,20 +33,17 @@
                                 Frühstück, Programmiersession, ein Promptathon oder was immer euch einfällt.</li>
                         <li>Gebt an, wann ihr die Veranstaltung anbieten wollt (Datum und Uhrzeit).</li>
                     </ul>
-                    <p>Die Einreichungsfrist ist leider abgelaufen.</p>
+                    <p>Die Einreichungsfrist für Veranstaltungen beginnt Mitte Mai, den genauen Termin geben wir noch bekannt. Bei Interesse melde dich gerne für unseren Veranstalter-Verteiler an, dann wirst du rechtzeitig über alle Termine informiert.</p>
                     
-                    
+                    <a class="button" <a href="https://t2f924de9.emailsys2a.net/198/8419/0dc52b6de6/subscribe/form.html?_g=1774352717"">Für den Veranstalter-Verteiler anmelden</a>
                     <br/><br/>
                     <h2>Unterstütze die Initiative als Sponsor</h2>
                 <p>Die AI Week ist auf die finanzielle Unterstützung von Sponsoren angewiesen. Damit können wir unter
                     anderem die Stellen von Ute und Franzi, verschiedene Werbemaßnahmen und einiges mehr finanzieren.
 
-                    Bei Interesse melde dich <a href="mailto:ute.muendlein@wueww.de">bei Ute</a>.</p>
+                    Bei Interesse melde dich <a href="mailto:ute.muendlein@10-o-clock.de">bei Ute</a>.</p>
                     <br/><br/>
-                <h2>Nimm an Veranstaltungen teil und gib anderen Bescheid:</h2>
-
-                <a class="button" href="programm.php">Hier geht's zum Programm</a>
-                
+     
                        
                 
                 </div>

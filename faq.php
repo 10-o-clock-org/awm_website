@@ -119,13 +119,13 @@
                                 <input type="checkbox" name="accordion-13" id="cb13" checked>
                                 <label for="cb13" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
                                 <div class="tab__content">
-                                    <p>Die Einreichungsfrist ist leider abgelaufen. Hier geht es <a href="programm.php" target="_blank">zum Programm</a>.</p>
+                                    <p>Die Einreichungsfrist für Veranstaltungen beginnt Mitte Mai, den genauen Termin geben wir noch bekannt. Bei Interesse melde dich gerne für unseren <a href="https://t2f924de9.emailsys2a.net/198/8419/0dc52b6de6/subscribe/form.html?_g=1774352717">Veranstalter-Verteiler</a> an, dann wirst du rechtzeitig über alle Termine informiert.</p>
                                 </div>
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-14" id="cb14">
                                 <label for="cb14" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
                                 <div class="tab__content">
-                                <p>Die Einreichungsfrist für Veranstaltungen ist leider abgelaufen. Hier geht es <a href="programm.php" target="_blank">zum Programm</a>.</p>
+                                <p>Die Einreichungsfrist für Veranstaltungen beginnt Mitte Mai, den genauen Termin geben wir noch bekannt. Bei Interesse melde dich gerne für unseren <a href="https://t2f924de9.emailsys2a.net/198/8419/0dc52b6de6/subscribe/form.html?_g=1774352717">Veranstalter-Verteiler</a> an, dann wirst du rechtzeitig über alle Termine informiert.</p>
                                 </div>
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-15" id="cb15">
@@ -137,7 +137,8 @@
                                 <input type="checkbox" name="accordion-16" id="cb16">
                                 <label for="cb16" class="tab__label">Gibt es eine Bewerbungsfrist für Veranstalter?</label>
                                 <div class="tab__content">
-                                    <p>Ja, sie lief bis zum 2. Juni. Hier geht es <a href="programm.php" target="_blank">zum Programm</a>.</p>
+                                <p>Die Einreichungsfrist für Veranstaltungen beginnt Mitte Mai, den genauen Termin geben wir noch bekannt. Bei Interesse melde dich gerne für unseren <a href="https://t2f924de9.emailsys2a.net/198/8419/0dc52b6de6/subscribe/form.html?_g=1774352717">Veranstalter-Verteiler</a> an, dann wirst du rechtzeitig über alle Termine informiert.</p>
+
                                 </div>
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-17" id="cb17">
@@ -146,7 +147,7 @@
                                     <p>Grundsätzlich benötigen wir unter anderem folgende Informationen:</p>
                             <ul>
                             <li>Angaben zum Veranstalter (u. a. Name, Beschreibung)</li>
-                            <li>Drei mögliche Termine im Zeitraum vom 30. Juni bis 4. Juli</li>
+                            <li>Drei mögliche Termine im Zeitraum vom 22. bis 26. Juni</li>
                             <li>Titel (max. 30 Zeichen)</li>
                             <li>Eine kurze und eine etwas ausführliche Beschreibung des Events</li>
                             <li><a href="news.php#kategorien" target="_blank">Thematische
@@ -172,7 +173,7 @@
             <input type="checkbox" name="accordion-19" id="cb19">
             <label for="cb19" class="tab__label">Warum nur maximal 42 Termine und eine so kurze Einreichungsfrist?</label>
             <div class="tab__content">
-                <p>Das ermöglicht es uns, ein hochaktuelles und <a href="programm.php" target="_blank">relevantes Programm</a> zusammenzustellen, 
+                <p>Das ermöglicht es uns, ein hochaktuelles und relevantes Programm <a href="programm.php" target="_blank">(Themen 2025)</a> zusammenzustellen, 
                 das die neuesten KI-Entwicklungen widerspiegelt und mit maximal 42 Terminen übersichtlich bleibt.</p>
             </div>
         </div>
@@ -180,12 +181,8 @@
             <input type="checkbox" name="accordion-20" id="cb20">
             <label for="cb20" class="tab__label">Wann bekomme ich Bescheid, ob die Veranstaltung ins Programm aufgenommen wurde?</label>
             <div class="tab__content">
-            Der zeitliche Ablauf sieht wie folgt aus:
-                            <ul>
-                                <br/>
-                                <li>Die Einreichungsfrist läuft bis Montag, den 2. Juni um 23:59 Uhr.</li>
-                                <li>Anfang Juni veröffentlichen wir dann <a href="programm.php" target="_blank">das Programm</a>.</li>
-                            </ul></div>
+            <p>Mehr zum zeitlichen Ablauf ab Mitte Mai.</p>
+                           
                         </div>
                                                     <div class="tab">
             <input type="checkbox" name="accordion-21" id="cb21">

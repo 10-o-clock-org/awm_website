@@ -28,8 +28,8 @@
                                 <div class="tab__content">
                                     <p>Die AI Week Mainfranken ist Bayerns erstes dezentrales Festival mit Schwerpunkt Künstliche Intelligenz. 
                                         Wir wollen KI greifbar und die Expertise unserer Region für alle sichtbar machen. 
-                                        Hier die <a href="https://www.ai-week.de/assets/images/Zahlen%20AI%20Week%20Mainfranken%202024%20klein.pdf" target="_blank">Zahlen der 1. AI Week</a>. 
-                                        Wir hatten über 1.000 Teilnehmende an fünf Veranstaltungstagen!</p>
+                                        Hier die <a href="news.php#zahlen2025" target="_blank">Zahlen der zweiten AI Week</a>. 
+                                        Wir hatten über 1.100 Teilnehmende an fünf Veranstaltungstagen!</p>
                                 </div>
                             </div>
 
@@ -37,7 +37,7 @@
                                 <input type="checkbox" name="accordion-2" id="cb2">
                                 <label for="cb2" class="tab__label">Wann und wo findet sie statt?</label>
                                 <div class="tab__content">
-                                    <p>Vom 30. Juni bis 4. Juli 2025 an verschiedenen Orten in Mainfranken sowie online.</p>
+                                    <p>Vom 22. bis 26. Juni 2026 an verschiedenen Orten in Mainfranken sowie online.</p>
                                 </div>
                             </div>
                             
@@ -46,15 +46,14 @@
                                 <label for="cb3" class="tab__label">Wer kann teilnehmen?</label>
                                 <div class="tab__content">
                                     <p>Alle, die die KI-Zukunft vorantreiben möchten: neugierige Einsteiger ebenso wie Tech-Enthusiasten und KI-Experten, Start-ups, Gründer, Unternehmer, Professoren und
-                        Studierende ... Welche Events angeboten werden findet du <a href="programm.php" target="_blank">im Programm</a>.</p>
+                        Studierende ... Mehr dazu auf unserer <a href="about.php" target="_blank">About-Seite</a>.</p>
                                 </div>
                             </div>
                             <div class="tab">
                                 <input type="checkbox" name="accordion-4" id="cb4">
                                 <label for="cb4" class="tab__label">Wie viel kostet die Teilnahme?</label>
                                 <div class="tab__content">
-                                    <p>Die meisten Veranstaltungen sind kostenfrei. Ausnahmen sind das <a href="aicamp.php" target="_blank">AI Camp</a> und das <a href="https://www.ai-barcamp.de/barcamp-wuerzburg" target="_blank">Barcamp Würzburg</a>, für die
-                                    ein Ticketpreis erhoben wird.</p>
+                                    <p>Die meisten Veranstaltungen sind kostenfrei. Mehr dazu ab Juni 2026 im Programm.</p>
                                 </div>
                             </div>
                             <div class="tab">
@@ -68,14 +67,9 @@
                                 <input type="checkbox" name="accordion-6" id="cb6">
                                 <label for="cb6" class="tab__label">Gibt es auch Veranstaltungen für KI-Einsteiger?</label>
                                 <div class="tab__content">
-                                    <p>Ja, wir werden Veranstaltungen für alle Wissensstände haben: für interessierte Einsteiger, ambitionierte Anwenderinnen und KI-Profis. Mehr dazu <a href="programm.php" target="_blank">im Programm</a>.</p>
+                                    <p>Ja, wir werden Veranstaltungen für alle Wissensstände haben: für interessierte Einsteiger, ambitionierte Anwenderinnen und KI-Profis. Mehr dazu ab Juni 2026 im Programm</a>.</p>
                                 </div>
-                                <div class="tab">
-                                <input type="checkbox" name="accordion-7" id="cb7">
-                                <label for="cb7" class="tab__label">Was ist das AI Camp Würzburg?</label>
-                                <div class="tab__content">
-                                    <p>Das AI Camp Würzburg am 4. Juli 2025 ist die Abschlussveranstaltung der zweiten AI Week Mainfranken. Weitere Informationen und Tickets gibt es <a href="https://www.ai-barcamp.de" target="_blank">auf der Webseite des AI Camp Würzburg.</a></p>
-                                </div>
+                                
                                 <div class="tab">
                                 <input type="checkbox" name="accordion-8" id="cb8">
                                 <label for="cb8" class="tab__label">Wie unterscheidet sich die AI Week Mainfranken von klassischen Konferenzen?</label>
@@ -86,13 +80,13 @@
                                 <input type="checkbox" name="accordion-9" id="cb9">
                                 <label for="cb9" class="tab__label">Wie melde ich mich für einzelne Veranstaltungen an?</label>
                                 <div class="tab__content">
-                                    <p>Du findest die Anmeldung für die jeweiligen Events <a href="programm.php" target="_blank">im Programm</a>.</p>
+                                    <p>Mehr dazu ab Juni 2026 im Programm.</a>.</p>
                                 </div>
                                 <div class="tab">
                                 <input type="checkbox" name="accordion-10" id="cb10">
                                 <label for="cb10" class="tab__label">Wer organisiert die AI Week Mainfranken?</label>
                                 <div class="tab__content">
-                                    <p>Ute Mündlein, die du vielleicht schon als Mitgründerin und Hauptorganisatorin der <a href="https://www.wueww.de" target="_blank">Wuerzburg Web Week kennst.</a></p>
+                                    <p>Ute Mündlein, die du vielleicht schon als Organisatorin <a href="https://www.ai-barcamp.de" target="_blank">des AI Camps</a> und der <a href="https://www.wueww.de" target="_blank">Wuerzburg Web Week</a> kennst.</p>
                                 </div>
                                 <div class="tab">
                                 <input type="checkbox" name="accordion-11" id="cb11">

@@ -31,6 +31,63 @@
         </div>
         <!-- Start einer News-Section-->
 
+        <div class="section" id="startups2026">
+            <div class="container">                 
+                <div class="grid">
+                    <div class="col span-8">
+                        <div class="spacer"></div>
+                        <h1>Tech-Gründungen 2026 in Mainfranken</h1>
+                        <br/>
+                        <figure>
+                            <img src="images/Teaserbild Tech-Gründungen 2026 in Mainfranken.webp" alt="Teaserbild Tech-Gründungen 2026 in Mainfranken" />                           
+                        </figure><br/><br/>
+                        <p>785 Neugründungen gab es 2025 laut dem <a href="https://www.ihk-muenchen.de/politik/studien-und-umfragen/startup-scaleup-monitor-bayern/" target="_blank" rel="noopener"> "Startup & Scaleup Monitor"</a> in Bayern, ein Plus von 46 Prozent. In Mainfranken haben wir <a href=" target="_blank"> neun Tech-Gründungen</a> gezählt. Setzt sich der Erfolg 2026 fort? </p>
+
+<p>Nachfolgend eine Liste aller Neugründungen.</p>
+                       
+<h2>Die Kriterien:</h2>
+  <p>Gründung als GmbH, UG oder GbR mit Hauptsitz in Mainfranken. Fokus: Software, Hardware, BioTech, MedTech oder andere Tech-Geschäftsmodelle.</p>
+<h2>Fokus auf KI</h2>
+<br/><br/>
+<div class="startup-box">
+    <h3>KLAO GmbH | 97072 Würzburg</h3>
+    <p>KI-gestützte Lösung, die Texte in zertifizierte, DIN-konforme Leichte Sprache übersetzt.</p>
+    <p>→ <a href="https://www.klao.eu/" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/klao-eu/" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3>mindocu GmbH | 97078 Würzburg</h3>
+    <p>KI-gestützte Software zur Erstellung psychischer und psychosozialer Gutachten.</p>
+    <p>→ <a href="https://mindocu.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/mindocu" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+
+<h2>Jenseits der KI</h2>
+<br/><br/>
+<div class="startup-box">
+    <h3>AssetPatrol GmbH – in Gründung (i.G.) | 97199 Ochsenfurt</h3>
+    <p>Lösung, die automatisch alle Systeme im eigenen Netzwerk scannt, Schwachstellen erkennt und Risiken priorisiert.</p>
+    <p>→ <a href="https://www.assetpatrol.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/assetpatrol" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<div class="startup-box">
+    <h3>LaMa Recycling | 97342 Marktbreit</h3>
+    <p>Kunststoffe-Recycling und vollständiges Rückgewinnung aller im Verbund enthaltenen Fraktionen, wie Naturfasern und Superabsorber.</p>
+    <p>→ <a href="https://www.lamarecycling.com" target="_blank" rel="noopener">Webseite</a> | <a href=https://www.linkedin.com/company/lama-consulting/" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+
+<h2>Noch mehr Gründungen? Wir ergänzen die Liste</h2>
+
+<p>Wir wünschen allen Teams viel Erfolg! Selbst gegründet oder du kennst ein Team, <a href="mailto:deine@email.de?subject=Tech-Gründung%202025%20ergänzen">hallo@10-o-clock.de</a> – wir ergänzen die Liste fortlaufend.</p>
+
+<p>PS: Wer wissen will, was noch in Mainfranken in Sachen Tech & Start-ups los ist, sollte <a href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017" target="_blank">den Newsletter neunsieben.digital abonnieren</a>.</p> 
+                        <br/><br/>
+                        <a class="button" href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017">Jetzt Newsletter abonnieren</a>
+                   
+                    </div>
+                </div>
+            </div>
+        </div> 
+
+
         <div class="section" id="startups2025">
             <div class="container">                 
                 <div class="grid">

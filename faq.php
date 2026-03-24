@@ -211,17 +211,16 @@
                 <p>Bei den KI-Start-up-Lunch-Pitches können alle mitmachen, die</p>
                                <ul>
                                <li>einen KI-Fokus haben.</li> 
-                               <li>2022 oder später gegründet wurden, gerne auch noch in der Vorgründungsphase.</li>
+                               <li>2023 oder später gegründet wurden, gerne auch noch in der Vorgründungsphase.</li>
                                     </ul> 
-                                <p>Die Einreichungsfrist ist am 23.06. abgelaufen.</p>
+                                <p>Mehr dazu ab Mitte Mai.</p>
             </div>
         </div>
         <div class="tab">
             <input type="checkbox" name="accordion-24" id="cb24">
             <label for="cb24" class="tab__label">Bis wann kann ich mich für die KI-Start-up-Pitches bewerben?</label>
             <div class="tab__content">
-                <p>Die Einreichungsfrist ist am 23.06. abgelaufen. <a href="news.php#pitches"
-                                   target="_blank">Weitere Informationen.</a></p>
+                <p>Aktuell am besten per E-Mail an  hallo @ 10 - o - clock punkt de.</p>
             </div>
         </div>
         </section>

@@ -22,27 +22,21 @@
                         <h2>Bayerns erstes und einziges dezentrales KI-Festival</h2>
                        <br/>
                         <p>Die AI Week Mainfranken ist Bayerns erstes dezentrales Festival mit Schwerpunkt KI.</p> 
-                        <p>Vom 22. bis 26. Juni 42 Events an verschiedenen Orten in der Region sowie online.
-                An der zweiten AI Week Mainfranken 2025 nahmen <a href="https://www.ai-week.de/ne">über 1.100 Menschen teil</a>.</p>
+                        <p>Vom 22. bis 26. Juni 2026 erwarten dich bis zu 42 Events an verschiedenen Orten in der Region sowie online.</p>
+                        <p>An der zweiten AI Week Mainfranken 2025 nahmen <a href="news.php#zahlen2025">über 1.100 Menschen teil </a> – und das in der heißesten Woche des Jahres. Und dieses Mal?</p>
                <br/>
                 <h2>KI – für alle</h2>
                 <p>Die AI Week Mainfranken bringt Innovatoren, Experten und Neugierige zusammen, um die Zukunft der KI aktiv mitzugestalten.
                 </p>
                 <h3>Das Besondere:</h3>
                 <ul>
-                            <li>Bei uns kann jeder mitmachen und das Programm aktiv mitgestalten. KI von und für alle!</li>
-                            <li>Dezentral: Events an verschiedenen Orten in Mainfranken sowie online mit deutschlandweiter Reichweite</li>
-                            <li>Breites Themenspektrum: Von Tech & Science bis Gesellschaft und Kultur</li>
+                            <li>KI von und für alle: Bei uns kann jeder mitmachen und das Programm aktiv mitgestalten.</li>
+                            <li>Dezentral: Events an verschiedenen Orten in Mainfranken sowie online mit deutschlandweiter Reichweite.</li>
+                            <li>Breites Themenspektrum: Von Tech & Science bis Gesellschaft und Kultur.</li>
                             <li>Maximale Aktualität durch kurzfristige Programmgestaltung, statt Themen Monate vorher einzureichen.</li>
                             <li>Vielfältige Formate: Vorträge, Workshops, Hackathons, Networking, Open Labs.</li>        
                 </ul>
-                       <br/>
-                         <h2>Ablauf der AI Week Mainfranken:</h2>
-                         <ul>
-                        <li>Fünf thematische Schwerpunkte zum Thema KI</li>                  
-                        <li>42 Events über 5 Veranstaltungstage verteilt</li>
-                        <li>Veranstaltungen für Einsteiger bis Profis</li>
-                                                                   </ul>
+                      
                     <br/>
                         <h2>Für wen ist die AI Week Mainfranken?</h2>
                 <p>Die AI Week Mainfranken richtet sich an alle (m/w/d), die die Zukunft der KI mitgestalten oder

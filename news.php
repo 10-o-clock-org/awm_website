@@ -20,6 +20,7 @@
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
                         <p>  <a href="#startups2026">2026-03-24 | Tech-Gründungen 2026</a><br/>
+                            <a href="#interview-rockenstein">2026-03-20 | 1.000 Jobs für die AI Gigafactory Schweinfurt – realistisch?</a><br/>
                             <a href="#startups2025">2025-11-05 | Tech-Gründungen 2025: Neun Start-ups aus Mainfranken</a><br/>
                             <a href="#pitches">2026-03-24 | KI-Start-up-Lunch-Pitches</a><br/>
                             <a href="#kategorien">2026-03-24 | AI Week Mainfranken: unsere fünf Themen-Kategorien</a><br/>                       
@@ -32,7 +33,8 @@
         </div>
         <!-- Start einer News-Section-->
 
-        <div class="section" id="startups2026">
+
+                <div class="section" id="startups2026">
             <div class="container">                 
                 <div class="grid">
                     <div class="col span-8">
@@ -88,6 +90,51 @@
             </div>
         </div> 
 
+
+<div class="section" id="interview-rockenstein">
+    <div class="container">
+        <div class="grid">
+            <div class="col span-8">
+                <div class="spacer"></div>
+                <h1>1.000 Jobs für die AI Gigafactory Schweinfurt – "Das ist deutlich zu hoch gegriffen"</h1>
+                <br/>
+                <p>Seit unserer <a href="https://www.linkedin.com/posts/ute-muendlein_97tech-ki-gigafactory-activity-7424391570122104832-Il09">Berichterstattung zur geplanten AI Gigafactory in Schweinfurt</a> bekommen wir regelmäßig zwei Fragen gestellt: Sind die angekündigten 500 bis 1.000 neuen Stellen im Endausbau realistisch, wie sie auf einer Info-Veranstaltung in Geldersheim im Januar 2026 genannt wurden <a href="https://www.mainpost.de/schweinfurt/landkreisschweinfurt/schweinfurt-blue-swan-giga-factory-geldersheim-will-an-europas-datenspitze-aufsteigen-113286461">(Quelle: Main-Post (€)</a>? Und welche Jobs entstehen dort eigentlich?</p>
+                <p>Wir haben einen Experten gefragt: <strong>Christoph Rockenstein</strong>. Er ist Gründer der <a href="https://www.rockenstein.de">rockenstein AG</a>, betreibt seit über 30 Jahren Rechenzentren in Würzburg und ordnet die Größenordnungen aus der Praxis ein. Zum Vergleich: Bei der geplanten Gigafactory in Schweinfurt sollen es im Endausbau (bis 2036) 100.000 Chips und 220 Megawatt Leistung sein.</p>
+
+                <br/>
+
+                <h2>Christoph, die Telekom hat Anfang Februar 2026 in München eine KI-Fabrik mit 10.000 Chips eröffnet. Dort planen sie laut Pressestelle mit einer "mittleren zweistelligen" Mitarbeiterzahl. Die Gigafactory in Schweinfurt soll im Endausbau zwischen 500 und 1.000 neue Jobs schaffen. Skaliert das linear?</h2>
+                <p>Nein, definitiv nicht. Bei 10.000 Chips braucht man eine gewisse Grundbesetzung für den 24/7-Betrieb. Das erklärt die Telekom-Zahl.</p>
+                <p>Bei 100.000 Chips schätze ich je nach Automatisierungsgrad zwischen 80 und 250 Mitarbeitende für den reinen Betrieb. Im realistischen Mittelszenario sind es etwa 140.</p>
+
+                <h2>Was ist bei einer AI Gigafactory anders als bei herkömmlichen Rechenzentren?</h2>
+                <p>KI-Infrastruktur lässt sich viel stärker standardisieren und automatisieren, alles ist hier gleich aufgebaut. Ein klassisches Rechenzentrum hat dagegen viele unterschiedliche Anwendungen pro Rack. Es wird hier auch von kollokativen Rechenzentren gesprochen. Kunden mieten sich einen "physischen Platz", einen Server. Das braucht deutlich mehr Personal, da es jeweils individuell von uns bzw. dem jeweiligen Rechenzentrumsbetreiber konfiguriert werden muss.</p>
+
+                <h2>Du kennst auch deutlich größere Rechenzentrumsplanungen. Welche Größenordnungen werden dort angesetzt?</h2>
+                <p>Wenn man als Beispiel eine AI-Gigafactory-Planung mit einem Gigawatt Leistung nimmt: Bei so einem Projekt plant man fünf Gebäude auf 250.000 Quadratmetern, jedes mit etwa je 200 Megawatt Leistung. <em>(Anm. der Redaktion: 200 Megawatt entsprechen dem, was für die Gigafactory Schweinfurt bis 2036 geplant ist.)</em></p>
+                <p>Für die erste Ausbaustufe mit 100.000 Chips (ein Gebäude) landen wir dort je nach Szenario bei 80 bis 250 Mitarbeitenden. Im Endausbau mit 500.000 Chips werden es dann rund 300 sein. Keinesfalls 500 bis 1.000.</p>
+
+                <h2>Wer arbeitet eigentlich in einem Rechenzentrum? Systemadministratoren, Netzwerktechniker – wer noch?</h2>
+                <p>Es gibt drei Bereiche:</p>
+                <ul>
+                    <li><strong>IT-Betrieb:</strong> Hier geht es um den Betrieb der digitalen Infrastruktur: Administratoren, Netzwerk-Spezialisten, Security-Experten, Plattform- und Systemingenieure.</li>
+                    <li><strong>IT-Hardware:</strong> Das sind die Menschen, die physisch an der IT-Infrastruktur arbeiten: Hardware-Techniker, Server- und Rack-Monteure, LWL-Spezialisten, Verkabelungstechniker, Einbauer und Inbetriebnehmer von Hardware.</li>
+                    <li><strong>Technischer Betrieb:</strong> Dieser Bereich wird oft unterschätzt. Dazu gehören Elektriker, Kälte- und Klimatechniker, Fachkräfte für Netzersatzanlagen, Trafotechnik, USV, Zutrittskontrolle, Brandmelde- und Alarmtechnik.</li>
+                </ul>
+                <p>Bei 140 Mitarbeitenden – dem realistischen Mittelszenario – teilt sich das in etwa so auf: 55 im IT-Betrieb, 60 in der IT-Hardware und 25 im Technischen Betrieb.</p>
+
+                <h2>Bekommt man die Stellen denn besetzt oder herrscht auch hier Fachkräftemangel?</h2>
+                <p>Ja, leider. Die Frage ist also nicht nur, wie viele Jobs entstehen, sondern auch, ob man die Fachkräfte dafür findet. Das ist übrigens einer der Gründe, warum wir selbst aktiv ausbilden, etwa im Bereich Fachinformatik und Betriebstechnik. Und es sei mir hoffentlich gestattet: Wir haben aktuell zahlreiche Stellen zu besetzen, etwa im Bereich IT-Systemadministration oder Technischen Betrieb.</p>
+                <p>Gerne – wir wollen nicht, dass Rechenzentren an uns scheitern. 😉 Vielen Dank für die Einblicke.</p>
+
+                <br/>
+                <p><em>Welche Stellen die rockenstein AG zu besetzen hat, erfährst du auf ihrer <a href="https://www.rockenstein.de/karriere.html" target="_blank">Karriere-Seite</a>.</em></p>
+                <br/><br/>
+
+            </div>
+        </div>
+    </div>
+</div>
 
         <div class="section" id="startups2025">
             <div class="container">                 

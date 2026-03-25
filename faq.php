@@ -116,12 +116,6 @@
                         <br/>
                         <section class="accordion">
                                 <div class="tab">                                
-                                <input type="checkbox" name="accordion-13" id="cb13" checked>
-                                <label for="cb13" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
-                                <div class="tab__content">
-                                    <p>Die Einreichungsfrist für Veranstaltungen beginnt Mitte Mai, den genauen Termin geben wir noch bekannt. Bei Interesse melde dich gerne für unseren <a href="https://t2f924de9.emailsys2a.net/198/8419/0dc52b6de6/subscribe/form.html?_g=1774352717">Veranstalter-Verteiler</a> an, dann wirst du rechtzeitig über alle Termine informiert.</p>
-                                </div>
-                                <div class="tab">                                
                                 <input type="checkbox" name="accordion-14" id="cb14">
                                 <label for="cb14" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
                                 <div class="tab__content">

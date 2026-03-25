@@ -21,7 +21,7 @@
                         <h2>beim ersten und einzigen dezentralen KI-Festival in Bayern</h2>
                         <br/>
                         <p>Bei der zweiten AI Week hatten wir <a href="https://www.ai-week.de/news.php#zahlen2025">über 1.100 Teilnehmenden</a> – und das in der heißesten Woche des Jahres. 😅
-                        Jetzt freuen wir uns auf die dritte Ausgabev vom 22. bis 26. Juni 2026.</p>
+                        Jetzt freuen wir uns auf die dritte Ausgabe vom 22. bis 26. Juni 2026.</p>
                 <br/>
                 <h2>Als Veranstalterin und Veranstalter dabei sein</h2>
                 <p>Wer die Wuerzburg Web Week kennt, wird sich bei der AI Week gleich wie zu Hause fühlen. Wir

@@ -23,7 +23,7 @@
                             <p><span>42</span> Events an <span>5</span> Tagen – von Tech bis Kultur</p>
                             <br>
                             <p><img class="icon" src="images/icon-flag.png" alt="" />verschiedene Orte in Mainfranken und online</p>
-                            <p><img class="icon" src="images/icon-calendar.png" alt="" />22. bis 26. Juni</p>
+                            <p><img class="icon" src="images/icon-calendar.png" alt="" />22. bis 26. Juni 2026</p>
                             <a class="button" href="about.php">Mehr erfahren</a>
                         </div>
                         <div class="col span-6">

@@ -98,7 +98,10 @@
                 <div class="spacer"></div>
                 <h1>1.000 Jobs für die AI Gigafactory Schweinfurt – "Das ist deutlich zu hoch gegriffen"</h1>
                 <br/>
-                <p>Seit unserer <a href="https://www.linkedin.com/posts/ute-muendlein_97tech-ki-gigafactory-activity-7424391570122104832-Il09">Berichterstattung zur geplanten AI Gigafactory in Schweinfurt</a> bekommen wir regelmäßig zwei Fragen gestellt: Sind die angekündigten 500 bis 1.000 neuen Stellen im Endausbau realistisch, wie sie auf einer Info-Veranstaltung in Geldersheim im Januar 2026 genannt wurden <a href="https://www.mainpost.de/schweinfurt/landkreisschweinfurt/schweinfurt-blue-swan-giga-factory-geldersheim-will-an-europas-datenspitze-aufsteigen-113286461">(Quelle: Main-Post (€)</a>? Und welche Jobs entstehen dort eigentlich?</p>
+                <figure>
+                            <img src="images/Interview Christoph Rockenstein zu 1000 Stellen für AI Gigafactory in Schweinfurt.webp" alt="Teaserbild für Interview mit Christoph Rockenstein zu 1000 neue Stellen für AI Gigafactory in Schweinfurt" />                           
+                        </figure><br/><br/>
+                <p>Seit unserer <a href="https://www.linkedin.com/posts/ute-muendlein_97tech-ki-gigafactory-activity-7424391570122104832-Il09">Berichterstattung zur geplanten AI Gigafactory in Schweinfurt</a> bekommen wir regelmäßig zwei Fragen gestellt: Sind die angekündigten 500 bis 1.000 neuen Stellen im Endausbau realistisch, wie sie auf einer Info-Veranstaltung in Geldersheim im Januar 2026 genannt wurden? <a href="https://www.mainpost.de/schweinfurt/landkreisschweinfurt/schweinfurt-blue-swan-giga-factory-geldersheim-will-an-europas-datenspitze-aufsteigen-113286461">(Quelle: Main-Post (€)</a> Und welche Jobs entstehen dort eigentlich?</p>
                 <p>Wir haben einen Experten gefragt: <strong>Christoph Rockenstein</strong>. Er ist Gründer der <a href="https://www.rockenstein.de">rockenstein AG</a>, betreibt seit über 30 Jahren Rechenzentren in Würzburg und ordnet die Größenordnungen aus der Praxis ein. Zum Vergleich: Bei der geplanten Gigafactory in Schweinfurt sollen es im Endausbau (bis 2036) 100.000 Chips und 220 Megawatt Leistung sein.</p>
 
                 <br/>

@@ -72,7 +72,7 @@
     <p>→ <a href="https://www.assetpatrol.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/assetpatrol" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
 <div class="startup-box">
-    <h3>LaMa Recycling | 97342 Marktbreit</h3>
+    <h3>LaMa Recycling GmbH | 97342 Marktbreit</h3>
     <p>Kunststoffe-Recycling und vollständiges Rückgewinnung aller im Verbund enthaltenen Fraktionen, wie Naturfasern und Superabsorber.</p>
     <p>→ <a href="https://www.lamarecycling.com" target="_blank" rel="noopener">Webseite</a> | <a href=https://www.linkedin.com/company/lama-consulting/" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>

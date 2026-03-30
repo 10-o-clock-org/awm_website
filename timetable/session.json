@@ -1,0 +1,1329 @@
+{
+  "format": "0.5.4",
+  "sessions": [
+    {
+      "id": 15,
+      "start": "2025-06-30T10:00:00+02:00",
+      "end": "2025-06-30T10:45:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 26,
+        "name": "RAUSCH Technology GmbH",
+        "infotext": "Wir von RAUSCH Technology glauben daran, die Welt mit Hilfe künstlicher Intelligenz zu einem besseren Ort zu machen.\r\nDurch langjährige Erfahrung im Bereich der Nachhaltigkeit und Energieeffizienz können wir Potentiale der Anwendungsbereiche von künstlicher Intelligenz auch in Ihrem Unternehmen adressieren und die Anwendung bis hin zur erfolgreichen Implementierung zuverlässig begleiten.",
+        "logo": "https://backend.timetable.ai-week.de/logos/6836cbe50ff0f.jpg",
+        "links": {
+          "host": "https://www.rausch.se",
+          "jobs": "https://www.rausch.se/jobs/",
+          "linkedIn": "https://www.linkedin.com/company/rauschtechnology/"
+        }
+      },
+      "title": "KI trifft Maschinendaten",
+      "description": {
+        "short": "Ihre Maschinen produzieren täglich Unmengen an Daten. Doch nutzen Sie diese auch? In unserem Webinar zeigen wir Ihnen, wie künstliche Intelligenz aus Ihren Maschinendaten echte Wettbewerbsvorteile macht, Kosten senkt und Stillstandszeiten reduziert.",
+        "long": "Ihre Maschinendaten bergen enormes Potenzial: Reduzieren Sie Stillstandszeiten durch intelligente Anomalieerkennung und predictive Maintenance, die ungeplante Ausfälle verhindern und Ihre Anlagenauslastung optimieren. Senken Sie Energiekosten durch smarte Analyse von Produktions- und Prozessdaten mit dynamischen Stromtarifen, intelligenter Lastverteilung und Peak-Load-Shaping. Digitalisieren Sie wertvolles Mitarbeiterwissen und machen Sie es für Ihr gesamtes Unternehmen nutzbar. Für Maschinenbauer bieten intelligente Verfahren die entscheidende Chance, sich vom Wettbewerb abzuheben und Kunden echten Mehrwert zu liefern - denn diese erwarten heute bereits smarte, datengetriebene Lösungen.\r\n\r\nBesonders spannend: Wir zeigen Ihnen, wie Edge-KI und Zeitreihenauswertung ohne Cloud funktionieren. Ihre sensiblen Produktionsdaten bleiben sicher in Ihrem Unternehmen, während Sie trotzdem von modernster KI-Technologie profitieren. Keine Abhängigkeit von externen Servern, keine Datenschutz-Bedenken. Erfahren Sie praxiserprobte Strategien aus unserem KI-Nergy Forschungsprojekt, konkrete Erfolgsgeschichten und sofort umsetzbare Lösungen für Ihr Unternehmen. Entdecken Sie, wie Sie auch mit begrenztem Budget erste KI-Projekte erfolgreich starten können."
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 7,
+      "start": "2025-06-30T11:00:00+02:00",
+      "end": "2025-06-30T12:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 13,
+        "name": "Andy Weber",
+        "infotext": "AI verstehen - Transformation gestalten\r\n\r\nAI ist keine Tool-Einführung, sondern eine tiefgreifende Transformationsreise auf allen Ebenen der Organisation. \r\nSie ist ein Weckruf – für die Art, wie wir arbeiten, führen, denken und kommunizieren. \r\n\r\nAndy Weber begleitet internationale Kunden in strategischen und kulturellen Veränderungsprozessen. Mit klarem Fokus auf die Chancen von Generative AI. Aber auch mit dem Wissen, dass Transformation mehr braucht als Technologie.",
+        "logo": "https://backend.timetable.ai-week.de/logos/682f1ea751a92.jpg",
+        "links": {
+          "host": "https://lyftoff.de",
+          "linkedIn": "https://www.linkedin.com/in/andy-weber/"
+        }
+      },
+      "title": "AI verstehen. Aber richtig.",
+      "description": {
+        "short": "KI wird dich nicht ersetzen – aber vielleicht die Person, die sie nutzt. In diesem Impuls bekommst du Klarheit statt Buzzwords. Du lernst, wie KI funktioniert, wie sie unsere Arbeitswelt verändert und wie du die Transformation aktiv gestalten kannst.",
+        "long": "KI ist längst da – aber was heißt das konkret für deinen Arbeitsalltag?\r\n\r\nIn diesem Impuls erklärt dir Andy Weber die Grundlagen von KI – verständlich, praxisnah und ohne Fachchinesisch. Du bekommst Orientierung im Buzzword-Dschungel, lernst den Unterschied zwischen generativer KI und anderen Bereichen kennen und erfährst, warum KI kein IT-Thema ist, sondern eine tiefgreifende Veränderung deiner Arbeitswelt bedeutet.\r\n\r\nIn einer Welt, die sich rasant verändert, ist Anpassungsfähigkeit die vielleicht wichtigste Kompetenz. Wer die Möglichkeiten von KI erkennt und richtig einordnet, schafft sich einen echten Zukunftsvorteil – im Unternehmen wie auch persönlich.\r\n\r\nStell dir vor: In Zukunft arbeitest du nicht nur mit Kolleg, sondern auch mit intelligenten KI-Systemen zusammen. Wie verändert das Führung, Zusammenarbeit und Kommunikation? Was bedeutet es für deine Rolle im Unternehmen? Und wie kannst du KI heute schon sinnvoll nutzen – ohne dich überfordert zu fühlen?\r\n\r\nAndy Weber ist Experte für Transformation, Leadership und New Work. Er nimmt dich mit auf eine Reise durch die wichtigsten Basics, praxisnahe Use Cases und gibt dir Tipps an die Hand, wie du das Thema AI-Transformation erfolgreich gestalten kannst. \r\n\r\nNach dem Impuls (ca. 30 Minuten) hast du nicht nur ein solides Grundverständnis von KI, sondern kannst im Anschluss deine Fragen direkt stellen. Offen, auf Augenhöhe – und garantiert verständlich."
+      },
+      "links": {
+        "event": "andy.weber@lyftoff.de"
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 19,
+      "start": "2025-06-30T12:00:00+02:00",
+      "end": "2025-06-30T13:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 31,
+        "name": "Gründen in Mainfranken",
+        "infotext": "Gründen in Mainfranken bietet dir eine umfassende Plattform, die wichtige Ressourcen, Informationen und Unterstützungsangebote für Gründerinnen und Gründer im Raum Mainfranken bündelt.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683958fe2b024.jpg",
+        "links": {
+          "host": "https://gim-bayern.de",
+          "linkedIn": "https://www.linkedin.com/company/gr%C3%BCnden-in-mainfranken"
+        }
+      },
+      "title": "KI-Start-up-Lunch-Pitches",
+      "description": {
+        "short": "Vom frühen Prototyp bis zur validierten Lösung: Vier Tage lang stellen KI-Start-ups (oder Teams noch in der Vorgründungsphase) in der Mittagspause ihre Projekte vor und beantworten Fragen aus dem Publikum.",
+        "long": "Täglich pitchen drei Teams/Gründerinnen und Gründer, die an KI-Lösungen aus unterschiedlichen Bereichen arbeiten. Perfekt für alle, die wissen wollen, woran im KI-Bereich gerade gearbeitet wird – ganz ohne Reisekosten oder lange Anfahrt.\r\n\r\n🗓️ Wann: Täglich 12-13 Uhr (30.6. bis 3.7.)\r\n📍 Wo: Online - keine Anmeldung nötig, Link demnächst\r\n\r\nDiese Teams pitchen heute: \r\n\r\n- Plot! ist eine KI-gestützte App zum Vokabellernen.\r\n\r\n- crowd.coach: KI-unterstütztes Coaching für arbeitssuchende Menschen.\r\n\r\n- nara: Eine digitale Mitarbeiterin für den technischen Support in Unternehmen.\r\n\r\nZoom-Link (für alle Tage gleich): https://us06web.zoom.us/j/83484471525?pwd=RlA1L1dqczVVNzRHZFh0bXc5My9EUT09"
+      },
+      "links": {
+        "event": "https://us06web.zoom.us/j/83484471525?pwd=RlA1L1dqczVVNzRHZFh0bXc5My9EUT09"
+      },
+      "channel": {
+        "id": 4,
+        "sort": 40,
+        "name": "Gründen/Start-up"
+      }
+    },
+    {
+      "id": 16,
+      "start": "2025-06-30T13:00:00+02:00",
+      "end": "2025-06-30T13:45:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 26,
+        "name": "RAUSCH Technology GmbH",
+        "infotext": "Wir von RAUSCH Technology glauben daran, die Welt mit Hilfe künstlicher Intelligenz zu einem besseren Ort zu machen.\r\nDurch langjährige Erfahrung im Bereich der Nachhaltigkeit und Energieeffizienz können wir Potentiale der Anwendungsbereiche von künstlicher Intelligenz auch in Ihrem Unternehmen adressieren und die Anwendung bis hin zur erfolgreichen Implementierung zuverlässig begleiten.",
+        "logo": "https://backend.timetable.ai-week.de/logos/6836cbe50ff0f.jpg",
+        "links": {
+          "host": "https://www.rausch.se",
+          "jobs": "https://www.rausch.se/jobs/",
+          "linkedIn": "https://www.linkedin.com/company/rauschtechnology/"
+        }
+      },
+      "title": "KI: Von Idee zur Umsetzung",
+      "description": {
+        "short": "Von der KI-Idee zur erfolgreichen Umsetzung: Wie das AI-Use-Case-Canvas Ihnen hilft, KI-Projekte strukturiert zu planen und typische Fallstricke zu vermeiden. Praxiserprobte Methode für nachhaltige KI-Transformation.",
+        "long": "Viele KI-Initiativen scheitern nicht an der Technologie, sondern an mangelnder Struktur und unklaren Zielen. In diesem 45-minütigen Webinar zeigen wir Ihnen, wie Sie mit dem AI-Use-Case-Canvas KI-Projekte von der ersten Idee bis zur erfolgreichen Umsetzung systematisch entwickeln.\r\n\r\nWas Sie erwartet:\r\nZunächst beleuchten wir die häufigsten Herausforderungen bei der KI-Einführung: Warum verlieren Unternehmen den Überblick zwischen technischen Möglichkeiten und Geschäftszielen? Wie entstehen Kommunikationsprobleme zwischen Stakeholdern? Und warum liefern viele KI-Projekte nicht die erwarteten Ergebnisse?\r\n\r\nAnschließend stellen wir Ihnen unser AI-Use-Case-Canvas als bewährtes Framework vor. In einer Live-Demonstration entwickeln wir gemeinsam einen konkreten KI-Use-Case und zeigen, wie die 11 Canvas-Dimensionen – von Customer Focus über Value Proposition bis zum Technical Approach – optimal zusammenwirken.\r\n\r\nIhr Mehrwert:\r\nNach dem Webinar können Sie KI-Use-Cases strukturiert entwickeln, fundierte Investitionsentscheidungen treffen und das Canvas direkt in Ihrem Unternehmen einsetzen."
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 34,
+      "start": "2025-06-30T14:00:00+02:00",
+      "end": "2025-06-30T15:00:00+02:00",
+      "cancelled": false,
+      "highlight": true,
+      "onlineOnly": true,
+      "host": {
+        "id": 42,
+        "name": "Interventionelle und Experimentelle Endoskopie (InExEn), Medizinische Klinik und Poliklinik II, Universitätsklinikum Würzburg",
+        "logo": "https://backend.timetable.ai-week.de/logos/683dca1b6ce38.jpg",
+        "links": {
+          "host": "http://ukw.de/inexen",
+          "linkedIn": "https://de.linkedin.com/in/alexander-hann"
+        }
+      },
+      "title": "KI in der Endoskopie",
+      "description": {
+        "short": "Die Endoskopie ist zentral für Prävention, Diagnose und Therapie im Magen-Darm-Trakt. Künstliche Intelligenz unterstützt Endoskopierende, sowohl im klinischen Alltag als auch beim Training. Wir zeigen Ihnen wie!",
+        "long": "Erleben Sie, wie Künstliche Intelligenz die Endoskopie revolutioniert! Wir stellen Ihnen Open-Source-Lösungen zur Detektion und Größenschätzung von Polypen in der Koloskopie vor – ebenso wie KI-gestützte Systeme zur Erstellung standardisierter Berichte. \r\n\r\nErfahren Sie außerdem, wie synthetische Daten realistische Trainingsszenarien ermöglichen und wie KI-gestütztes Training Ärzte bei der Aus- und Weiterbildung unterstützt.\r\n\r\nDieser Vortrag richtet sich an alle, die sich für Künstliche Intelligenz, KI in der Medizin und die Verbesserung der Patientenversorgung interessieren. Die Veranstaltung findet online über Zoom statt. Den Link zur Veranstaltung können Sie weiter unten finden."
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 38,
+      "start": "2025-06-30T15:00:00+02:00",
+      "end": "2025-06-30T16:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 43,
+        "name": "vAudience AI",
+        "infotext": "vAudience bietet seit 2016 praxisnahe KI-Dienstleistungen: Weiterbildungskurse (z. B. KI-Grundlagen, Bild-/Textgenerierung, KI im Unterricht), individuelle Beratung und maßgeschneiderte Implementierungen wie Multi-Agenten-Systeme oder HyperRAGs. Ziel ist die Steigerung von Effizienz und Produktivität durch nahtlos integrierte, dokumentierte KI-Lösungen. vAudience arbeitet eng mit Forschungseinrichtungen zusammen und bietet alles aus einer Hand.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683d9f950caf8.jpg",
+        "links": {
+          "host": "https://www.vaudience.ai/",
+          "jobs": "https://www.vaudience.ai/jobs",
+          "linkedIn": "https://www.linkedin.com/company/18450239/admin/dashboard/"
+        }
+      },
+      "title": "HyperRAG & Multiagentensysteme",
+      "description": {
+        "short": "Erleben Sie in 60 Minuten, wie autonome Multiagentensysteme und das HyperRAG-Wissenssystem Prozesse beschleunigen, Wissen verfügbar machen und Unternehmen effizienter machen – praxisnah, verständlich und direkt einsetzbar. Jetzt kostenlos teilnehmen!",
+        "long": "Erleben Sie, wie moderne Künstliche Intelligenz Unternehmen nachhaltig verändert – praxisnah, verständlich und beeindruckend anschaulich. \r\n\r\nIm Rahmen der AI Week Mainfranken lädt die vAudience GmbH zu einem Online-Seminar ein, das Ihnen zwei der fortschrittlichsten KI-Anwendungen unserer Zeit näher bringt: autonome Multiagentensysteme und das innovative Hyper RAG-Wissenssystem.\r\n\r\nDr. Toni Wagner, Geschäftsführer von vAudience, führt gemeinsam mit dem Leiter ChangeCluster / Digitale Transformation der VR-Bank Würzburg, Sebastian Kraft, durch die Veranstaltung. Im ersten Teil erhalten Sie Einblicke in autonome Multiagentensysteme – also digitale Mitarbeitende, die eigenständig Aufgaben erledigen, Informationen verknüpfen und Entscheidungen treffen. Anhand konkreter Beispiele sehen Sie, wie solche Systeme Abläufe automatisieren und Unternehmen deutlich effizienter machen.\r\n\r\nAnschließend wird das Hyper RAG-System vorgestellt – eine revolutionäre Form der unternehmensinternen Wissensbereitstellung. Sebastian Kraft zeigt anhand des Tools „Bank Talk“, wie die VR-Bank Würzburg Mitarbeitenden per KI sofortige, verlässliche Antworten liefert – direkt im Arbeitsalltag und ohne technisches Vorwissen. Dieses System schlägt herkömmliche Wissensdatenbanken in Präzision, Geschwindigkeit und Nutzerfreundlichkeit um Längen.\r\n\r\nZum Abschluss beantworten die beiden Experten Ihre Fragen live – praxisnah, offen und auf Augenhöhe. Vorkenntnisse sind nicht erforderlich, Interesse genügt. \r\n\r\nFreuen Sie sich auf einen kompakten und inspirierenden Einstieg in die Welt der angewandten KI. \r\n\r\nIdeal für Entscheider, Mitarbeitende und Neugierige – und alle, die wissen wollen, wie KI wirklich funktioniert."
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 25,
+      "start": "2025-06-30T16:00:00+02:00",
+      "end": "2025-06-30T17:30:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 34,
+        "name": "schoesslers communication GmbH",
+        "infotext": "Die Agentur schoesslers gehört zur Würzburger Vogel Communications Group und hat neben Würzburg Sitze in Berlin, Hamburg und Köln. Sie betreut diverse KI-Kunden, von Europas größter KI-Initiative appliedAI über die TUM in Heilbronn bis hin zu audeering, das via KI Krankheiten an der Stimme erkennen kann. Partner von schoesslers ist in Los Angeles die Agentur afacture, die sich auf KI-Lösungen und ein KI-Dashboard spezialisiert hat.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683da211b655a.jpg",
+        "links": {
+          "host": "https://schoesslers.com/",
+          "jobs": "https://schoesslers.com/karriere/",
+          "facebook": "https://www.facebook.com/schoesslers/",
+          "twitter": "https://x.com/schoesslers",
+          "instagram": "https://www.instagram.com/schoesslers/#",
+          "linkedIn": "https://www.linkedin.com/company/schoesslers-com/"
+        }
+      },
+      "title": "Von SEO zu AIO: KI-Agenten",
+      "description": {
+        "short": "Von SEO zu AIO: So kommst du in die KI-Ergebnisse -  Wie du dein Unternehmen für KI-Agenten sichtbar machst. Googles Suchkraft lässt weltweit nach, KI-Suchmaschinen gewinnen an Fahrt. Wie Unternehmen den Anschluss nicht verlieren und sichtbar werden",
+        "long": "Früher war Google die Startseite des Internets. Heute öffnen viele Nutzer zuerst ChatGPT, Perplexity oder KI-Assistenten auf dem Smartphone oder direkt im Browser.\r\n\r\nDas verändert fundamental, wie Inhalte gefunden, ausgewählt und konsumiert werden. Unternehmen, die heute auf klassische SEO-Strategien setzen, riskieren morgen unsichtbar zu werden.\r\n\r\nWas ist KI-Suche? Was bedeutet das für Unternehmen konkret? Strategien für Unternehmen! Handlungsempfehlungen, aber auch die neue Rolle von PR in der KI-getriebenen Sichtbarkeit, etwa: Wie PR konkret von KI verarbeitet wird!\r\n\r\nWas Unternehmen JETZT tun sollten.\r\n\r\nCheckliste für maximale Sichtbarkeit"
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 40,
+      "start": "2025-06-30T16:00:00+02:00",
+      "end": "2025-06-30T16:40:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 43,
+        "name": "vAudience AI",
+        "infotext": "vAudience bietet seit 2016 praxisnahe KI-Dienstleistungen: Weiterbildungskurse (z. B. KI-Grundlagen, Bild-/Textgenerierung, KI im Unterricht), individuelle Beratung und maßgeschneiderte Implementierungen wie Multi-Agenten-Systeme oder HyperRAGs. Ziel ist die Steigerung von Effizienz und Produktivität durch nahtlos integrierte, dokumentierte KI-Lösungen. vAudience arbeitet eng mit Forschungseinrichtungen zusammen und bietet alles aus einer Hand.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683d9f950caf8.jpg",
+        "links": {
+          "host": "https://www.vaudience.ai/",
+          "jobs": "https://www.vaudience.ai/jobs",
+          "linkedIn": "https://www.linkedin.com/company/18450239/admin/dashboard/"
+        }
+      },
+      "title": "All-in-One-KI-Lösung für Teams",
+      "description": {
+        "short": "Entdecken Sie Nexus: Die All-One-KI-Plattform für Unternehmen – mit ChatGPT, Bildgeneratoren, Promptkarten, Agenten & DSGVO-konformer Nutzung. In 30 Min. live erleben, wie KI Ihre Arbeit revolutioniert. Jetzt kostenlos teilnehmen!",
+        "long": "Effizienter arbeiten. Kreativer denken. Wissen sofort nutzen.\r\n\r\nMit \"Nexus\" stellt vAudience eine revolutionäre All-One-Plattform vor, die den Arbeitsalltag mit KI grundlegend neu denkt – flexibel, leistungsstark und perfekt abgestimmt auf die Bedürfnisse moderner Unternehmen.\r\n\r\nIn dieser kompakten Live-Demo erleben Sie, wie Nexus Ihnen Zugang zu einer Vielzahl führender KI-Modelle verschafft – darunter ChatGPT, Claude, Google Gemini und viele weitere. So nutzen Sie immer genau das Modell, das am besten zu Ihrer Aufgabe passt.\r\n\r\nDoch Nexus kann mehr: Generieren Sie Bilder mit Tools wie Leonardo oder Imagen, speichern Sie wiederverwendbare Promptkarten mit intelligenten Variablen, und teilen Sie diese ganz einfach im Team. Ihre Lieblings-Prompts? Ab sofort ein Klick entfernt – effizient, strukturiert, kollaborativ.\r\n\r\nDarüber hinaus erlaubt Nexus das Erstellen individueller KI-Agenten, die Aufgaben automatisieren, Prozesse begleiten und mit unternehmensspezifischem Wissen arbeiten – dank nahtlos integrierbarer Hyper RAG-Technologie.\r\n\r\nEin wichtiger Pluspunkt: Die Nutzung von Nexus ist DSGVO-konform möglich – für den sicheren Einsatz auch in sensiblen Unternehmensbereichen.\r\n\r\nInhalte der Session:\r\n- Vorstellung der Plattform Nexus mit Live-Demo\r\n- Nutzung verschiedener Sprach- und Bildmodelle\r\n- Arbeiten mit Promptkarten & Teams\r\n- Agenten erstellen & unternehmensspezifisches Wissen nutzen\r\n- Praktische Anwendungsbeispiele aus dem Arbeitsalltag\r\n- Im Anschluss beantworten unsere Expert Ihre Fragen live.\r\n\r\nFür wen ist die Demo gedacht?\r\nFür alle, die mit KI arbeiten (wollen) – ob in Marketing, HR, Kundenservice, IT oder Geschäftsführung. Kein Vorwissen nötig, nur Neugier."
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 26,
+      "start": "2025-06-30T18:00:00+02:00",
+      "end": "2025-06-30T20:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 35,
+        "name": "Würzburg DATA & ANALYTICS Meetup",
+        "infotext": "Dieser Meetup ist für alle die mehr über Daten, Analytics und Künstliche Intelligenz erfahren möchten - egal ob Anwender, Consultant, Softwareanbieter oder Student.\r\nWir treffen uns regelmäßig in lockerer Atmosphäre um voneinander zu lernen, Erfahrungen zu teilen und sich kennenzulernen.\r\nEs geht sowohl um die fachlichen, organisatorischen als auch technischen Aspekte der Nutzung von Daten und Künstlicher Intelligenz. Und natürlich um die Frage, wie all das auch wirklich Nutzen stiftet.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683d45e51c403.jpg",
+        "links": {
+          "host": "https://www.meetup.com/wurzburg-data-analytics-meetup/"
+        }
+      },
+      "title": "DATA & ANALYTICS Meetup",
+      "location": {
+        "name": "s.Oliver",
+        "streetNo": "s.Oliver Str. 1",
+        "zipcode": "97228",
+        "city": "Rottendorf",
+        "isAccessible": false,
+        "lat": 49.792297094903,
+        "lng": 10.033323168755
+      },
+      "description": {
+        "short": "Der DATA & ANALYTICS MeetUp bringt die Mainfränkische Data, Analytics und AI Community zum Lernen, Austauschen und Kennenlernen zusammen. Gastgeber des 25. Treffens wird diesmal s.Oliver  sein.",
+        "long": "Diesmal sind wir zu Gast bei s.Oliver in Rottendorf und haben folgendes Programm für Euch:\r\n18:00 Eintreffen\r\n18:10 Begrüßung | Carsten Bange & Ralf Säugling\r\n18:15 Vortrag 1: Journey to Databricks at s.Oliver Group | Philipp Heusinger, s.Oliver\r\n18:45 Vortrag 2: AI Agenten, Datenprodukte, Datensouveränität - eine Einordnung aktueller Themen in der Daten- und AI-Welt | Carsten Bange, BARC\r\n19:15 Diskussion & Austausch\r\n20:00 Ende\r\n\r\nWir freuen uns auf zwei kurzweilige Vorträge und den Austausch mit euch! Auch dieses mal gilt: Ladet gerne auch Freund & Kolleg mit ein ;-)"
+      },
+      "links": {
+        "event": "https://www.meetup.com/wurzburg-data-analytics-meetup/events/308159932/"
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 12,
+      "start": "2025-06-30T18:00:00+02:00",
+      "end": "2025-06-30T20:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 21,
+        "name": "Kreuz und Quer GmbH | KreativQuartier",
+        "infotext": "Kreuz und Quer GmbH ist eine kreative Video-Agentur aus Mainfranken. Wir gestalten Kommunikation mit Wirkung – von Markenstrategie bis Bewegtbild. Mit dem KreativQuartier in Volkach haben wir zusätzlich einen Raum für Austausch und neue Ideen geschaffen. Unser Herz schlägt für kreative Formate, klare Botschaften und zukunftsorientierte Kommunikation.",
+        "logo": "https://backend.timetable.ai-week.de/logos/68307cccab119.jpg",
+        "links": {
+          "host": "https://k-quer.de/"
+        }
+      },
+      "title": "AI-Shooting für dein Branding",
+      "location": {
+        "name": "KreativQuartier Volkach",
+        "streetNo": "Spitalstraße 8-10",
+        "zipcode": "97332",
+        "city": "Volkach",
+        "isAccessible": false,
+        "lat": 49.865537970851,
+        "lng": 10.227257609367
+      },
+      "description": {
+        "short": "Erstelle im KreativQuartier mit Selfies und Laptop eigene Brandingbilder per KI. Lerne Prompts, Tools & Bildbearbeitung kennen – für starke, authentische Portraits im Stil deines Business. Hands-on, kreativ, überraschend einfach!",
+        "long": "Du brauchst Bilder für dein Personal Branding, deine Website oder Social Media – aber kein Studio, kein Fotograf, kein großes Budget? Kein Problem! In diesem Live-Workshop zeige ich dir, wie du mit ein paar Selfies und deinem Laptop faszinierende Bilder generieren kannst – mithilfe von KI.\r\n\r\n💡 Was früher tausende Euro für Shootings, Locations oder Looks gekostet hat, geht heute mit smarten Tools und ein bisschen Kreativität:\r\n\r\n- Erstelle hochwertige Brandingbilder mit deinem Stil, deinen Farben und deiner Bildsprache\r\n- Prompt dich in individuelle Räume, Stimmungen & Szenen – vom Loft bis zur Outdoor-Location\r\n- Nutze die Bilder für Linked, Instagram, deine Website oder Präsentationen\r\n- Lerne die besten Bildbearbeitungs-Apps & Tricks, um deine Kreationen perfekt in Szene zu setzen\r\n\r\nUnd ja – viele sind skeptisch. „Sieht das echt aus?“ Die Antwort: Ja! Die KI ist inzwischen so weit, dass man den Unterschied oft kaum erkennt. Statt gestellten Fotos bekommst du authentische, visuell starke Bilder, die genau zu dir passen.\r\n\r\n🎨 Hands-on im KreativQuartier:\r\nDirekt vor Ort zeigen wir dir Schritt für Schritt, wie du mit KI kreative Bilderwelten erschaffst – ganz praktisch, mit vielen Tipps und Tricks zum Ausprobieren. Der kreative Prozess macht nicht nur unglaublich viel Spaß, sondern eröffnet dir ganz neue Möglichkeiten, dich und dein Business visuell auszudrücken.\r\n\r\nLass dich überraschen, was alles in dir steckt – du brauchst nur ein paar gute Selfies, deinen Laptop und ca. 10 € Startbudget für Tools, wenn du direkt loslegen möchtest. Let’s create – gemeinsam im KreativQuartier!\r\n\r\nIch freue mich, wenn du dabei bist! \r\nChrista"
+      },
+      "links": {
+        "event": "https://hello.kreativquartier.de/ai-shooting-fur-dein-branding"
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 18,
+      "start": "2025-06-30T18:00:00+02:00",
+      "end": "2025-06-30T19:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 30,
+        "name": "Universität Würzburg",
+        "infotext": "KI-Regio – Künstliche Intelligenz für regionale Wertschöpfungsketten ist ein EU-finanziertes Projekt der Universität Würzburg mit Beteiligung von fünf Lehrstühlen. Es richtet sich gezielt an kleine und mittelständische Unternehmen in Mainfranken und stärkt durch KI-basierte Planung, digitale Tools und nachhaltige Prozesse die regionale Wertschöpfung – praxisnah, effizient und ohne hohe IT-Investitionen.",
+        "logo": "https://backend.timetable.ai-week.de/logos/685a7cffc64be.jpg",
+        "links": {
+          "host": "https://ki-regio.de",
+          "linkedIn": "https://www.linkedin.com/in/ki-regio-universit%C3%A4t-w%C3%BCrzburg-a9a40834b/"
+        }
+      },
+      "title": "KI-Regio: KI für KMUs",
+      "location": {
+        "name": "Universität Würzburg",
+        "streetNo": "Sanderring 2",
+        "zipcode": "97070",
+        "city": "Würzburg",
+        "isAccessible": true,
+        "lat": 49.788128154,
+        "lng": 9.9351462721825
+      },
+      "description": {
+        "short": "Mit der Verbindung von Wissenschaft und KMUs möchten wir praxisnahe Lösungen wie das universelle Foundation-Model auf Basis von realen Verkaufs- und Bestandsdaten entwickeln und präzise Prognosen, insbesondere für kleine Unternehmen, erstellen.",
+        "long": "Große Sprachmodelle wie GPT haben gezeigt, wie ein einziges, breit trainiertes Modell mit wenigen Zusatzdaten verblüffend präzise Ergebnisse liefert. Wir übertragen dieses Paradigma auf die Planung in Unternehmen. Ein „Foundation Model“ für Logistik verarbeitet Millionen historischer Verkaufs-, Bestands- und Kontextdaten und gibt direkt Absatzprognosen und Bestellempfehlungen aus. Damit erhalten kleine und mittlere Unternehmen ohne langwierige Implementierungen Zugang zu KI-gestützter Planung mit messbarem Effekt. Dadurch werden arbeitsintensive Prozesse automatisiert und die Planungsergebnisse erheblich verbessert. \r\n\r\nDer Vortrag stellt das im Rahmen des EU Projektes KI-Regio entwickelte Modell vor, gibt Einblicke in Praxisanwendungen aus laufenden Pilotprojekten und zeigt, was Planungsverantwortliche von großen Sprachmodellen lernen können und warum künftig ein einziges großes Modell viele spezialisierte ablöst."
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 45,
+      "start": "2025-07-01T09:00:00+02:00",
+      "end": "2025-07-01T10:30:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 54,
+        "name": "PULS",
+        "infotext": "Wir bei PULS sind darauf spezialisiert, durch umfassende Marktforschungslösungen und Fachveranstaltungen wertvolle Insights und hochwertige Daten zu liefern. \r\n\r\nMit über 30 Jahren Erfahrung ist unser engagiertes Team bestrebt, Ihre Geschäftsentscheidungen mit datengestützten Erkenntnissen zu untermauern. Wir helfen internationalen Unternehmen, den deutschen und europäischen Markt besser zu verstehen, und versorgen Forscher und Berater mit qualitativ hochwertiger Feldarbeit.",
+        "logo": "https://backend.timetable.ai-week.de/logos/685573755e4d3.jpg",
+        "links": {
+          "host": "https://www.puls-marktforschung.de",
+          "jobs": "https://www.puls-marktforschung.de/live/mit-wem-sie-arbeiten/jobs.html",
+          "linkedIn": "https://www.linkedin.com/company/pulsmarktforschung/"
+        }
+      },
+      "title": "KI trifft Marketing",
+      "description": {
+        "short": "Wie man mit KI wirksame Marketingmaterialien generiert. Unser Digital Round Table \"KI trifft Marketing\" beschäftigt sich mit den Möglichkeiten und Grenzen generativer und analytischer KI im Marketing.",
+        "long": "Anhand realer Use Cases zeigen wir live, wie Unternehmen KI-basierte, wirksame Werbemittel generieren können - und das bereits 100% in Line mit den CD-Anforderungen. Zudem diskutieren wir Trends und Entwicklungen mit CMOs und Markenexperten.  \r\n\r\nZielgruppe des Events sind CMOs, Marketing und Brand Professionals, die sich für KI und die Optimierung von Werbemitteln interessieren (Anfänger und Fortgeschrittene)\r\n\r\n👉 Ein Event des Nürnberg Digital Festivals, das vom 30.6. bis 9.7. stattfindet. Für uns kennt KI keine Grenzen, weshalb wir gerne auf dieses Online-Angebot hinweisen."
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 39,
+      "start": "2025-07-01T09:00:00+02:00",
+      "end": "2025-07-01T10:30:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 10,
+        "name": "CrossCommerce GmbH - HONESTY ECM",
+        "infotext": "CrossCommerce bietet mit HONESTY ECM eine leistungsstarke Cloud-Dokumentenmanagement-Software sowie eine Cloud-ERP-Plattform, die speziell auf die Bedürfnisse mittelständischer Unternehmen zugeschnitten sind. HONESTY bietet Funktionen wie elektronische Signaturen, digitale Akten, E-Rechnungen (ZUGFeRD, XRechnung), OCR-basierte Texterkennung und KI-gestützte Informationsverarbeitung. Die Lösungen von CrossCommerce werden ausschließlich in zertifizierten Rechenzentren in Deutschland gehostet.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683dc095b6c56.jpg",
+        "links": {
+          "host": "https://honesty.de",
+          "jobs": "https://cross-commerce.de/jobs/",
+          "youtube": "https://www.youtube.com/@HONESTY-Talk",
+          "linkedIn": "https://www.linkedin.com/company/79005827/"
+        }
+      },
+      "title": "Document Intelligence mit KI",
+      "location": {
+        "name": "InnoHubs Würzburg - CrossCommerce GmbH",
+        "streetNo": "Leightonstr. 2 - EG links",
+        "zipcode": "97074",
+        "city": "Würzburg",
+        "isAccessible": true,
+        "lat": 49.787235358111,
+        "lng": 9.9793839454651
+      },
+      "description": {
+        "short": "Wie lassen sich Dokumente endlich wirklich intelligent verarbeiten? Der Workshop zeigt, wie HONESTY mit moderner KI, OCR und Retrieval-Augmented Generation (RAG) bisherige Grenzen überwindet. Zielgruppe: Unternehmensvertreter, Entwickler, Studierende",
+        "long": "Täglich entstehen in Unternehmen Tausende Dokumente – Verträge, Rechnungen, Protokolle, Berichte. Doch ihre digitale Verarbeitung bleibt oft fragmentiert, fehleranfällig und aufwendig. Klassische OCR stößt an Grenzen, KI bleibt häufig eine Blackbox.\r\n\r\nDieser Vortrag zeigt, wie HONESTY durch den Einsatz von Large Language Models (LLMs), strukturierter Vorverarbeitung und Human-the-Loop-Designs neue Maßstäbe in der Dokumentenverarbeitung setzt. Im Zentrum steht die Implementierung einer Retrieval-Augmented Generation (RAG)-Pipeline, die Unternehmensdokumente kontextsensitiv auswertet, zusammenfasst und Fragen dazu beantwortet.\r\n\r\nWir werfen einen Blick auf die technische Architektur, den Ressourcenbedarf (GPU, Vektordatenbanken, API-Gateways), unsere größten Learnings aus der Entwicklung sowie reale Anwendungsfälle – von der Rechnungsextraktion bis zum interaktiven Chatbot für komplexe Dokumente.\r\n\r\nAbschließend diskutieren wir die Roadmap: Wie sieht der Weg zu einer vertrauenswürdigen, kontrollierbaren und regelkonformen Document Intelligence im Unternehmenskontext aus?"
+      },
+      "links": {
+        "event": "https://honesty.de/wissen/mediathek/",
+        "retrospect": "https://www.linkedin.com/feed/update/urn:li:activity:7345814653618270208/",
+        "slides": "julian.lurz@cross-commerce.de"
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 28,
+      "start": "2025-07-01T10:00:00+02:00",
+      "end": "2025-07-01T11:30:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 38,
+        "name": "Frank Deinzer (CAIRO, THWS)",
+        "infotext": "Das Center for Artificial Intelligence (CAIRO) wurde 2021 als Antwort der THWS auf die wachsende Nachfrage in Industrie und Gesellschaft gegründet, um von den jüngsten Fortschritten in der datengetriebenen KI-Forschung zu profitieren.\r\n\r\nZiel von CAIRO ist die Entwicklung theoretisch fundierter Forschung, um den Fortschritt in der praktischen Anwendung der neuen Technologien durch innovative, effiziente und verantwortungsvolle Lösungen zu unterstützen.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683dcb4322bdd.jpg",
+        "links": {
+          "host": "https://www.thws.de/forschung/institute/cairothws/",
+          "linkedIn": "https://www.linkedin.com/company/cairo-thws/posts/?feedView=all"
+        }
+      },
+      "title": "AI@THWS",
+      "description": {
+        "short": "Erlebe KI-Power am Center for Artificial Intelligence der THWS! Lerne die Inhalte des KI-Masterstudiengangs kennen, entdecke unsere Kompetenzen und konkrete KI-Projekte mit Industriepartnern. Sei dabei.",
+        "long": "Wir zeigen Euch wie aufregend KI am Center for Artificial Intelligence der THWS ist! Lerne die Inhalte unseres KI-Masterstudiengangs kennen und erhalte einen Einblick in die erworbenen Kompetenzen.  Erlebe konkrete Projekte am CAIRO und erfahre mehr über unsere engen Kooperationen mit führenden Industriepartnern. Erhalte außerdem Einblicke in weitere KI-Einrichtungen, wie unser KI-Regionalzentrum und unser neues Technologietransferzentrum für KI und Robotik in Kitzingen. \r\n\r\nSei dabei und erlebe KI hautnah!"
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 36,
+      "start": "2025-07-01T11:00:00+02:00",
+      "end": "2025-07-01T12:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 17,
+        "name": "Sales Automation Labs UG",
+        "infotext": "Die Crew der Sales Automation Labs hilft ihren Kunden systematisch mehr Abschlüsse im B2B-Vertrieb zu gewinnen. Das geschieht Prozess-orientiert, mit bewährten Methodiken und Vorgehensweise sowie einem innovativen Tool-Stack. Dabei sind sich Gerald Hoff, Aurel Maas und Michael Jasper auch nicht zu schade, aktiv mitanzupacken. Die 3 Gesellschafter stehen für 70 Jahre praktische Verkaufserfahrung und haben mehr als 3.000 Projekte gestemmt. SAL ist auch HubSpot-Agentur mit \"Gold\"- Status.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683de7d5322ae.jpg",
+        "links": {
+          "host": "https://www.salesautomationlabs.com"
+        }
+      },
+      "title": "KI im komplexen B2B-Vertrieb",
+      "description": {
+        "short": "Wie mir KI im B2B-Vertrieb hilft, systematisch mehr von den wirklich wichtigen Abschlüssen zu gewinnen. Wie gelingen mir Effizienz-Gewinne, damit ich mich persönlich auf die kaufentscheidenden Impulse im Prozess fokussieren kann?",
+        "long": "Dieses Event zeigt, dass KI im komplexen B2B-Vertrieb kein Zukunftsthema ist, sondern eines der Gegenwart. Wer nicht schon heute auf den Zug aufspringt, wird den Anschluss verpassen und kaum mehr aufholen können. Zudem zeigt dieses Event, dass KI-Nutzung im Vertrieb nicht unbedingt von den großen Playern im Markt vorangetrieben wird.\r\n\r\nDer demographischen Wandel wird eine immense Lücke in Deine Vertriebsteams reißen. Geh davon aus, dass Du nie wieder die eigentlich notwendige Anzahl an Verkaufenden findest. Geh ebenso davon aus, dass die Kunden viele Lösungen, selbst im komplexen B2B-Vertrieb, zu 100% digital, ohne menschliches Zutun beschaffen. Geh ebenso davon aus, dass Deine Ansprache auf vielen Kanälen zeitgleich erfolgen muss. Je jünger Deine Zielgruppe, desto digitaler der bevorzugte B2B-Kontaktkanal.\r\n\r\nDiese Herausforderungen wirst Du mit den bisherigen Vorgehensweisen und eingesetzten Werkzeugen kaum mehr bewältigen können.\r\n\r\nIn diesem Seminar stelle ich dir folgende Praxisbeispiele und deren Nutzen vor:\r\n\r\n- KI in der Leadgenierierung: endlich ist die Quadratur des Kreises von Automatisierung vs. Individualisierung + Timing aufzulösen\r\n- KI im strategischen Account Management - das spart Zeit in der Account-Analyse, die in der Account Entwicklung wertschöpfender ist\r\n- KI für mehr Effizienz auf Linked - die Positionierung als Expert/in in Deiner Zielgruppe sowie die Schaffung von fortlaufender Sichtbarkeit ist ein \r\n  Zeitfresser\r\n\r\nDieses Event richtet sich an: Unternehmer, Geschäftsführer + Vorstände, Vertriebsleitung mit Fokus auf ein B2B-Umfeld"
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 20,
+      "start": "2025-07-01T12:00:00+02:00",
+      "end": "2025-07-01T13:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 31,
+        "name": "Gründen in Mainfranken",
+        "infotext": "Gründen in Mainfranken bietet dir eine umfassende Plattform, die wichtige Ressourcen, Informationen und Unterstützungsangebote für Gründerinnen und Gründer im Raum Mainfranken bündelt.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683958fe2b024.jpg",
+        "links": {
+          "host": "https://gim-bayern.de",
+          "linkedIn": "https://www.linkedin.com/company/gr%C3%BCnden-in-mainfranken"
+        }
+      },
+      "title": "KI-Start-up-Lunch-Pitches",
+      "description": {
+        "short": "Vom frühen Prototyp bis zur validierten Lösung: Vier Tage lang stellen KI-Start-ups (oder Teams noch in der Vorgründungsphase) in der Mittagspause ihre Projekte vor und beantworten Fragen aus dem Publikum.",
+        "long": "Täglich pitchen drei Teams/Gründerinnen und Gründer, die an KI-Lösungen aus unterschiedlichen Bereichen arbeiten. Perfekt für alle, die wissen wollen, woran im KI-Bereich gerade gearbeitet wird – ganz ohne Reisekosten oder lange Anfahrt.\r\n\r\n🗓️ Wann: Täglich 12-13 Uhr (30.6. bis 3.7.)\r\n📍 Wo: Online - keine Anmeldung nötig, Link demnächst\r\n\r\nDiese Teams pitchen heute: \r\n\r\n- Luceena: automatisiert das gesamte digitale Marketing, von der Wettbewerbsanalyse über die Contenterstellung bis zur Analyse und der Anwendung der Insights für Verbesserungen.\r\n\r\n- ProVideoAI: Erstellung von KI-gestützten Erklär- und Produktvideos zur digitalen Markenpräsentation.\r\n\r\n- KidsFootballCoach: Die erste App für ehrenamtliche Kinderfußballtrainer – einfach, kindgerecht, sofort einsatzbereit.\r\n\r\nZoom-Link (für alle Tage gleich): https://us06web.zoom.us/j/83484471525?pwd=RlA1L1dqczVVNzRHZFh0bXc5My9EUT09"
+      },
+      "links": {
+        "event": "https://us06web.zoom.us/j/83484471525?pwd=RlA1L1dqczVVNzRHZFh0bXc5My9EUT09"
+      },
+      "channel": {
+        "id": 4,
+        "sort": 40,
+        "name": "Gründen/Start-up"
+      }
+    },
+    {
+      "id": 17,
+      "start": "2025-07-01T15:00:00+02:00",
+      "end": "2025-07-01T16:30:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 51,
+        "name": "JUN Legal GmbH & Thetis by e:fs TechHub GmbH",
+        "infotext": "JUN Legal (https://jun.legal) ist eine Rechtsanwaltskanzlei für IT- und Wirtschaftsrecht in Würzburg, die u.a. zu Software Compliance, Datenschutz und KI-Compliance berät, basierend auch auf eigenen KI-Forschungen, z.B. im staatlich geförderten Projekt \"Juriskop\". ||\r\nThetis (https://thetis.de) by e:fs TechHub GmbH hat jahrelange Erfahrung in der Absicherung von KI-Systemen und unterstützt Juristen, Compliance-Engineers und Entwickler auf dem Weg zu vertrauenswürdiger und rechtssicherer KI.",
+        "logo": "https://backend.timetable.ai-week.de/logos/68496fde27ca3.jpg"
+      },
+      "title": "Bereit für den AI Act?",
+      "location": {
+        "name": "JUN Legal GmbH",
+        "streetNo": "Salvatorstraße 21",
+        "zipcode": "97074",
+        "city": "Würzburg",
+        "isAccessible": true,
+        "lat": 49.791923840995,
+        "lng": 9.953980743885
+      },
+      "description": {
+        "short": "Der AI Act der EU betrifft mehr Unternehmen, als viele denken. Besonders bei Hochrisiko-KI gelten weitreichende Pflichten. Anhand eines konkreten Use Cases machen wir rechtliche und technische Anforderungen greifbar und zeigen Lösungsansätze auf.",
+        "long": "Szenario: Ein Kunde steht mit einem Toaster an der Self-Checkout-Kasse eines Elektro-Fachmarkts. Das Terminal bietet ihm einen Kauf per Sofortkredit zum Anklicken an und verspricht eine automatische Prüfung und Bewilligung in Sekundenschnelle. Möglich wird das durch eine KI, die für den Zahlungsdienstleister im Hintergrund in Sekunden die Bonität des Kunden überprüft, Ausfallrisiko und Zinssatz berechnet und den Sofort-Kredit prüft, bewilligt und nach Bestätigung des Kunden ausführt. \r\n\r\nWas technisch beeindruckt, wirft v.A. aus rechtlicher Perspektive einige Fragen auf, gerade mit Blick auf den AI Act der EU, der mit wenigen Ausnahmen spätestens ab August 2026 zu beachten sein wird. \r\n\r\nWelche Systeme fallen überhaupt unter den AI Act? Welche Pflichten treffen die Beteiligten, insb. Anbieter und Betreiber? Wie können diese Pflichten erfüllt werden? Welche technischen, aber auch organisatorischen Maßnahmen sind zu treffen?\r\n\r\nDiese und weitere Fragen wird ein Rechtsexperte der Kanzlei JUN Legal gemeinsam mit einem Technik-Experten von Thetis (by e:fs TechHub GmbH) beantworten und ganz konkrete, z.T. tool-gestützte Lösungsansätze aufzeigen.\r\n\r\nIm Anschluss an den Vortrag soll eine offene Diskussion über Herausforderungen und Lösungsansätze bei der Umsetzung von AI-Compliance in der Praxis angeboten werden.\r\n\r\nDie Veranstaltung wird hybrid angeboten, vor Ort in den Räumlichkeiten der Kanzlei JUN Legal in Würzburg, und online per Teams-Meeting, Link auf dieser Seite. Gerne anmelden per Mail an info@jun.legal."
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 9,
+      "start": "2025-07-01T18:30:00+02:00",
+      "end": "2025-07-01T20:30:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 16,
+        "name": "tech11 GmbH",
+        "infotext": "Wir sind tech11! Seit 2018 ist es unser Ziel, der Versicherungsbranche mit der tech11 Insurance Platform neue Möglichkeiten zu eröffnen. Zusammen mit dem besten Team entwickeln wir mit Leidenschaft, Know-How und Best-Class Technologien.\r\n\r\nUnsere Vision\r\nfriendly tech, full control",
+        "logo": "https://backend.timetable.ai-week.de/logos/682f1e199b28d.jpg",
+        "links": {
+          "host": "https://tech11.com/de",
+          "jobs": "https://tech11.com/de/jobs",
+          "twitter": "https://twitter.com/companytech11",
+          "youtube": "https://www.youtube.com/@tech11_",
+          "instagram": "https://www.instagram.com/_tech11_/",
+          "linkedIn": "https://www.linkedin.com/company/company-tech11"
+        }
+      },
+      "title": "AI Hype vs. Dev Life",
+      "location": {
+        "name": "tech11 GmbH",
+        "streetNo": "Beethovenstr. 1a",
+        "zipcode": "97080",
+        "city": "Würzburg",
+        "isAccessible": true,
+        "lat": 49.79756314228,
+        "lng": 9.9449953436852
+      },
+      "description": {
+        "short": "KI soll alles revolutionieren - aber wie sieht der Entwickler-Alltag im Enterprise-Umfeld aus?\r\nLasst uns diskutieren. Welche AI-Tools bewähren sich im Tagesgeschäft? Welcher Prompt war dein Game Changer? Ein Austausch für Praktiker 🤖 ⚡",
+        "long": "KI-Tools versprechen Produktivitätssteigerungen und revolutionäre Workflows - doch wie sieht die Realität in Enterprise-Umgebungen aus? Jeder redet über Vibe-Coding, aber was wenn die Code Base das Context Window sprengt?\r\n\r\n🗣️ Diskussionsformat: Kurze Impulse, dann offener Austausch. Wir machen den Auftakt, stellen vor was sich für uns bewährt hat. Bringt eure Erfahrungen mit, teilt eure Fails und Erfolgsgeschichten bei Pizza 🍕und Bier 🍻.\r\n\r\n👷‍♀️ Für wen ist das Event gedacht?\r\nEntwickler und Tech Leads, die AI-Tools bereits nutzen oder evaluieren - und ehrliche Einschätzungen jenseits des Marketing-Hypes suchen.\r\n\r\n📍 tech11, 8. Stock, Beethovenstr. 1a, 97080 Würzburg\r\n\r\n💡 bitte meldet euch an, dass wir die passende Menge Pizza am Start haben :-)"
+      },
+      "links": {
+        "event": "https://www.meetup.com/wuerzburg-software-development/events/308422239/",
+        "retrospect": "https://www.linkedin.com/posts/company-tech11_meetup-ai-hype-vs-dev-life-activity-7347898032031432704-6diP"
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 4,
+      "start": "2025-07-01T18:30:00+02:00",
+      "end": "2025-07-01T20:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 6,
+        "name": "Stadtbücherei Würzburg",
+        "infotext": "Die Stadtbücherei Würzburg hat im Falkenhaus einen Projektraum: \"Level3 - Digitalisierung erleben\". Dort finden u. a. auch Veranstaltungen für Einsteiger in die KI-Thematik statt.",
+        "logo": "https://backend.timetable.ai-week.de/logos/682cd5b709270.jpg",
+        "links": {
+          "host": "http://www.stadtbuecherei-wuerzburg.de",
+          "facebook": "https://www.facebook.com/stadtbuecherei.wuerzburg",
+          "youtube": "https://www.youtube.com/@StaBueWuerzburg",
+          "instagram": "https://www.instagram.com/stabue_wuerzburg"
+        }
+      },
+      "title": "KI, Datenschutz EuAI Act",
+      "location": {
+        "name": "Stadtbücherei Würzburg - Falkenhaus",
+        "streetNo": "Marktplatz 9",
+        "zipcode": "97070",
+        "city": "Würzburg",
+        "isAccessible": true,
+        "lat": 49.794947082425,
+        "lng": 9.9301654100418
+      },
+      "description": {
+        "short": "KI, Datenschutz/Profiling und der EU AI Act\r\nVortrag von Astrid Hofmann (Uni Würzburg) für Einsteiger in die KI-Thematik",
+        "long": "Der Vortrag richtet sich an Einsteiger und beleuchtet die Frage, wie KI mit den eingegebenen Daten umgeht. Wie kann KI z. B. für die automatische Einschätzung von Menschen anhand ihrer Smartphones oder Laptops benutzt werden? \r\n\r\nWir gehen außerdem kurz auf drei wichtige Digitalgesetze in der europäischen Union ein: Den DSA, DMA und den EU AI Act, die alle bereits zum Thema verantwortungsvolle Datennutzung beitragen.\r\n\r\nEs ist neben praktischen Beispielen auch Platz für eine Diskussion rund um die Technologie.\r\n\r\nTeilnahme ist kostenfrei, um Anmeldung wird gebeten unterTel.: 0931-37-3438 oder medienpaedagogik@stadt.wuerzburg.de"
+      },
+      "links": {
+        "event": "medienpaedagogik@stadt.wuerzburg.de"
+      },
+      "channel": {
+        "id": 2,
+        "sort": 20,
+        "name": "Digitale Gesellschaft & Nachhaltigkeit"
+      }
+    },
+    {
+      "id": 8,
+      "start": "2025-07-02T08:00:00+02:00",
+      "end": "2025-07-02T09:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 14,
+        "name": "Digitales Gründerzentrum Starthouse Spessart",
+        "infotext": "Das Starthouse Spessart ist das digitale Gründerzentrum für die Region Main-Spessart. Es bietet dir als Startup oder Gründer:in ein starkes Netzwerk, individuelle Coachings sowie moderne Arbeitsplätze, Meeting- und Veranstaltungsflächen. Mit vielfältigen Programmen, persönlichem Mentoring und regelmäßigen Events begleitet dich das Starthouse Spessart auf dem Weg zur erfolgreichen Umsetzung deiner innovativen Geschäftsidee!",
+        "logo": "https://backend.timetable.ai-week.de/logos/68305e3cb761e.jpg",
+        "links": {
+          "host": "https://www.starthouse.de",
+          "facebook": "https://www.facebook.com/StarthouseSpessart",
+          "instagram": "https://www.instagram.com/starthousespessart/",
+          "linkedIn": "https://www.linkedin.com/company/starthouse-spessart-digitales-gründerzentrum-lohr-a-main"
+        }
+      },
+      "title": "Das passende KI-Tool finden",
+      "location": {
+        "name": "Digitales Gründerzentrum Starthouse Spessart",
+        "streetNo": "Vorstadtstraße 12",
+        "zipcode": "97816",
+        "city": "Lohr am Main",
+        "isAccessible": true,
+        "lat": 49.992904283189,
+        "lng": 9.5759502053261
+      },
+      "description": {
+        "short": "Finde das passende KI-Tool für deinen Arbeitsalltag! Beim Frühstücksevent „Morgen.Mit.KI“ am 2. Juli gibt AI-Officer Nina Neuf praxisnahe Einblicke – kompakt, verständlich und inklusive Frühstück.",
+        "long": "Morgen.mit.KI. - Das passende KI-Tool finden\r\n\r\n📅 2. Juli 2025\r\n⏰ 08:00–09:00 Uhr\r\n📍 Starthouse Spessart, Vorstadtstraße 12, 97816 Lohr am Main\r\n🍽️ Inklusive Frühstück & Kaffee\r\n\r\nWelches KI-Tool passt zu deiner Herausforderung?\r\nIm zweiten Teil unserer Frühstücksreihe Morgen. Mit. KI hilft dir AI-Officer Nina Neuf dabei, dich im wachsenden Tool-Dschungel zu orientieren. Gemeinsam werfen wir einen Blick auf gängige KI-Tools und ihre Einsatzbereiche – damit du das richtige Tool für deine Aufgabe findest, ganz ohne technisches Vorwissen.\r\n\r\nFür wen ist das Event gedacht?\r\nEingeladen sind alle, die KI endlich praktisch nutzen möchten – egal ob du im Unternehmen arbeitest, selbstständig bist oder gerade gründest. Du brauchst kein Vorwissen, nur Interesse und Lust, KI-Tools im Alltag sinnvoll einzusetzen.\r\n\r\nWas dich erwartet:\r\n✅ Überblick über aktuelle und praxistaugliche KI-Tools\r\n✅ Entscheidungshilfen zur Tool-Auswahl je nach Anwendungsfall\r\n✅ Einblicke in Best Practices & reale Anwendungsbeispiele\r\n✅ Raum für Fragen, Austausch & Vernetzung\r\n✅ Frühstück in entspannter Atmosphäre\r\n\r\nTeilnahme kostenfrei – Anmeldung erforderlich."
+      },
+      "links": {
+        "event": "https://starthouse.de/eventkalender/morgen-mit-ki-das-passende-ki-tool-finden"
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 47,
+      "start": "2025-07-02T09:00:00+02:00",
+      "end": "2025-07-02T10:30:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 55,
+        "name": "Riegg & Partner intercorp GmbH",
+        "infotext": "intercorp – Daten verstehen. Prozesse gestalten. Zukunft ermöglichen.\r\n\r\nSeit über 25 Jahren begleitet intercorp Unternehmen dabei, das volle Potenzial ihrer Daten zu entfalten. Als ausgezeichnete Web-Agentur und OpenSource-Partner verbindet intercorp fundierte Beratung mit maßgeschneiderter Softwareentwicklung – von komplexem Datenmanagement über KI-gestützte Anwendungen bis hin zu nahtlos integrierten Systemlösungen.",
+        "logo": "https://backend.timetable.ai-week.de/logos/68557622a7d80.jpg",
+        "links": {
+          "host": "https://www.intercorp.de",
+          "jobs": "https://www.intercorp.de/das-ist-intercorp/jobangebote-und-freie-stellen-in-der-it-branche-oberfranken",
+          "facebook": "https://www.linkedin.com/company/riegg-partner-intercorp/",
+          "linkedIn": "https://www.linkedin.com/company/riegg-partner-intercorp/"
+        }
+      },
+      "title": "Abhängig von Trump&US-BigTech?",
+      "description": {
+        "short": "Office, Mail, Chat und KI-Dienste - wie Sie Ihr Unternehmen vor dem digitalen Blackout durch mehr Souveränität sichern.",
+        "long": "Digitale Souveränität zurückgewinnen \r\n\r\nDie digitale Transformation ist entscheidend für den Erfolg jedes Unternehmens – doch die Abhängigkeit von US-Tech-Giganten wie Microsoft, Google und KI-Diensten wie ChatGPT birgt massive Risiken. Politische Spannungen könnten den Zugriff auf diese Dienste plötzlich einschränken oder erheblich verteuern. \r\n\r\nWas passiert, wenn der Zugriff eingeschränkt wird? \r\n\r\nDer Zugang zu Office-Anwendungen, E-Mails oder sogar KI-Tools könnte gestört werden – mit schwerwiegenden Folgen für Ihre Geschäftsprozesse und Wettbewerbsfähigkeit. Geopolitische Unsicherheiten machen diese Risiken realer denn je. \r\n\r\nWarum digitale Souveränität jetzt wichtig ist \r\n\r\nEs geht darum, die Kontrolle über Ihre Unternehmensdaten zurückzugewinnen. Lokale, vertrauenswürdige Lösungen bieten Ihnen Sicherheit und Unabhängigkeit. \r\n\r\nIm Webinar zeigen wir: \r\n\r\n- Wie Sie Ihre Datenhoheit sichern und schützen.\r\n- Wie Sie die Abhängigkeit von US-Anbietern schrittweise reduzieren.\r\n- Sichere Alternativen zu Google Docs, Slack, Teams u.a.\r\n- Wie Sie die Resilienz Ihrer digitalen Prozesse gegenüber geopolitischen Unsicherheiten steigern.\r\n- Live-Demo einer unabhängigen lokalen Enterprise-Lösung für firmeneigene KI-Chatbot-Systeme\r\n\r\nMelden Sie sich jetzt an!\r\n\r\n Erfahren Sie, wie Sie Schritt für Schritt Ihre digitale Souveränität zurückgewinnen können. \r\n\r\n👉 Ein Event des Nürnberg Digital Festivals, das vom 30.6. bis 9.7. stattfindet. Für uns kennt KI keine Grenzen, weshalb wir gerne auf dieses Online-Angebot hinweisen."
+      },
+      "links": {
+        "event": "https://nuernberg.digital/de/events/2025/digitale-souveraenitaet-warum-es-jetzt-keine-ausreden-mehr-gibt"
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 24,
+      "start": "2025-07-02T09:00:00+02:00",
+      "end": "2025-07-02T10:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 24,
+        "name": "finception GmbH",
+        "infotext": "Die finception GmbH entwickelt KI-gestützte Softwarelösungen für Reporting und Finanzdatenanalyse. Mit ihrem innovativen Data Chat Automation Ansatz ermöglicht finception Unternehmen per natürlicher Sprache direkt mit ihren Finanzdaten zu interagieren, Analysen in Echtzeit durchzuführen und Berichte automatisch zu generieren. Ziel ist es, komplexe Datenprozesse zu vereinfachen und Entscheidungsfindung zu beschleunigen.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683a007a2314e.jpg",
+        "links": {
+          "host": "https://finception.de",
+          "jobs": "https://finception.de/karriere/",
+          "youtube": "https://www.youtube.com/@finceptiongmbh",
+          "linkedIn": "https://www.linkedin.com/company/finception-gmbh/"
+        }
+      },
+      "title": "AI & Controlling: It's a Match",
+      "location": {
+        "name": "TGZ Würzburg - finception GmbH",
+        "streetNo": "Magdalene-Schoch-Str. 5",
+        "zipcode": "97074",
+        "city": "Würzburg",
+        "isAccessible": true,
+        "lat": 49.786947893598,
+        "lng": 9.9680542945862
+      },
+      "description": {
+        "short": "Controlling war noch nie so charmant: KI-Agenten übernehmen den Zahlenkram und du behältst den Überblick. Ein Event für alle, die nicht auf die nächste Excel-Aktualisierung warten wollen, um klügere Entscheidungen zu treffen.",
+        "long": "KI ist längst kein Buzzword mehr – sondern dein potenziell neuer Kollege.\r\n\r\nIm modernen Controlling übernehmen KI-Agenten heute Aufgaben, für die früher ganze Teams notwendig waren: Sie analysieren, planen, schreiben Reports – und denken dabei sogar mit.\r\n\r\nIn unserer Veranstaltung zeigen wir dir ganz konkret:\r\n\r\n🔹 Wie KI-Agenten im Controlling eingesetzt werden – von Analyse bis Forecasting\r\n🔹 Wie du als Mensch („Human in the Loop“) weiterhin die Kontrolle behältst – und sogar besser entscheidest\r\n🔹 Und warum KI-Agenten nicht den Controller ersetzen, sondern ihn endlich von Routinen befreien\r\n\r\nFür wen ist das spannend?\r\nFür alle, die mit Zahlen Verantwortung tragen: CFOs, Controller:innen, Geschäftsführer:innen und Entscheider:innen, die verstehen wollen, wie KI in der Praxis funktioniert – und wie sie ihr eigenes Unternehmen fit für die Zukunft machen.\r\n\r\nWarum teilnehmen?\r\nWeil deine Excel-Reports keine Zukunftstechnologie sind. Wer KI richtig einsetzt, gewinnt nicht nur wertvolle Zeit – sondern echte Wettbewerbsvorteile. Und das Beste: Der Einstieg ist oft einfacher, als du denkst.\r\n\r\n⸻\r\n\r\n🎤 Moderiert von Kevin Schuller, Gründer & CEO der finception GmbH – einem Start-Up für KI-gestützte Datenanalyse im Mittelstand.\r\n\r\n👉 Jetzt kostenlos anmelden und die Zukunft des Controllings live erleben."
+      },
+      "links": {
+        "event": "https://finception.de/wuerzburg-ai-week-2025"
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 14,
+      "start": "2025-07-02T11:00:00+02:00",
+      "end": "2025-07-02T12:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 20,
+        "name": "Schiebold Tech GmbH",
+        "infotext": "Die Schiebold Tech GmbH ist ein Dienstleister aus Schweinfurt, der einen Businesslan-Service für den Mittelstand bietet. Der Service ist standardisiert von der Definition des Neuprodukts über den Projektplan der Entwicklung bis zur Wirtschaftlichkeitsbewertung, um ein rentables Business für Neuprodukte zu planen.",
+        "logo": "https://backend.timetable.ai-week.de/logos/6838a01aee0a6.jpg",
+        "links": {
+          "host": "https://businessplan-kmu.de",
+          "linkedIn": "https://www.linkedin.com/in/stefanschiebold"
+        }
+      },
+      "title": "Chatbot für eigene Domain",
+      "description": {
+        "short": "Es ist eine Anleitung für den Chatbot auf deiner (WordPress-)Domain. \r\n\r\nDie Schritte werden in ChatGPT (KI), in retune (KI-Applikation) und in der Domain gezeigt.",
+        "long": "Mit dieser Anleitung richtest du einen Chatbot auf deiner (WordPress-)Domain einfach ein. Das Einrichten ist nahezu kostenlos bis auf das Aufladen des KI-Accounts mit einem kleinen Geldbetrag. \r\n\r\nIch zeige den Teilnehmern die notwendigen Schritte in OpenAI (KI), in retune (KI-Applikation), und in der Domain. \r\n\r\nDer erstellte Chatbot wird mit Fragen getestet. Die Teilnehmer erhalten zusätzlich Hinweise, wie ich eine Sprachsteuerung (Google Cloud) zusätzlich in den Chatbot integriert habe."
+      },
+      "links": {
+        "event": "https://businessplan-kmu.de/der-chatbot-fuer-deine-domain-webinar-w9/"
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 21,
+      "start": "2025-07-02T12:00:00+02:00",
+      "end": "2025-07-02T13:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 31,
+        "name": "Gründen in Mainfranken",
+        "infotext": "Gründen in Mainfranken bietet dir eine umfassende Plattform, die wichtige Ressourcen, Informationen und Unterstützungsangebote für Gründerinnen und Gründer im Raum Mainfranken bündelt.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683958fe2b024.jpg",
+        "links": {
+          "host": "https://gim-bayern.de",
+          "linkedIn": "https://www.linkedin.com/company/gr%C3%BCnden-in-mainfranken"
+        }
+      },
+      "title": "KI-Start-up-Lunch-Pitches",
+      "description": {
+        "short": "Vom frühen Prototyp bis zur validierten Lösung: Vier Tage lang stellen KI-Start-ups (oder Teams noch in der Vorgründungsphase) in der Mittagspause ihre Projekte vor und beantworten Fragen aus dem Publikum.",
+        "long": "Täglich pitchen drei Teams/Gründerinnen und Gründer, die an KI-Lösungen aus unterschiedlichen Bereichen arbeiten. Perfekt für alle, die wissen wollen, woran im KI-Bereich gerade gearbeitet wird – ganz ohne Reisekosten oder lange Anfahrt.\r\n\r\n🗓️ Wann: Täglich 12-13 Uhr (30.6. bis 3.7.)\r\n📍 Wo: Online - keine Anmeldung nötig, Link demnächst.\r\n\r\nDiese Teams pitchen heute: \r\n\r\n- Digitale Komplizen: Mit unseren Tools machen wir KI für die öffentliche Verwaltung nutzbar, erlebbar und finanzierbar.\r\n\r\n- Smatigo: KI-Konzept und -Planungsassistent für komplexe Konzepte und Strategien, z.B. Marketingkonzepte, Businesspläne, Eventplanung.\r\n\r\n- avoltra: KI, um den Energieeinkauf in der Industrie zu transformieren mit Echtzeit-Marktdaten, automatisierte Strategien und integrierte Analysen.\r\n\r\nZoom-Link (für alle Tage gleich): https://us06web.zoom.us/j/83484471525?pwd=RlA1L1dqczVVNzRHZFh0bXc5My9EUT09"
+      },
+      "links": {
+        "event": "https://us06web.zoom.us/j/83484471525?pwd=RlA1L1dqczVVNzRHZFh0bXc5My9EUT09"
+      },
+      "channel": {
+        "id": 4,
+        "sort": 40,
+        "name": "Gründen/Start-up"
+      }
+    },
+    {
+      "id": 31,
+      "start": "2025-07-02T16:00:00+02:00",
+      "end": "2025-07-02T17:30:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 40,
+        "name": "Hüttich Consulting GmbH",
+        "infotext": "Die Hüttich Consulting GmbH ist eine spezialisierte Beratungsagentur für digitale Transformation und Recruiting mit Sitz bei Würzburg. Sie unterstützt vor allem mittelständische Betriebe in der Grünen Branche bei der Fachkräftegewinnung, dem Einsatz von KI sowie dem Aufbau starker Arbeitgebermarken. Mit Social Recruiting, Chatbots und Workshops bietet sie praxisnahe Lösungen für moderne Personal- und Digitalstrategien.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683d9e4fa7ed7.jpg",
+        "links": {
+          "host": "http://huettichconsulting.de/",
+          "jobs": "https://christianhuettich.com/karriere/",
+          "youtube": "https://www.youtube.com/channel/UCcY8VeMGMqnu2ACo43OcP7w",
+          "instagram": "https://www.instagram.com/huettichconsulting/",
+          "linkedIn": "https://www.linkedin.com/company/huettich-consulting-gmbh"
+        }
+      },
+      "title": "KI-Baustellenassistent",
+      "description": {
+        "short": "In 90 Minuten zum eigenen KI-Baustellenassistenten: Gemeinsam entwickeln wir live ein Praxis-Tool zur Dokumentation von Außenterminen – einfach per Spracheingabe. Hands-on und verständlich.",
+        "long": "KI-gestützte Assistenten halten Einzug in den Arbeitsalltag – auch im Garten- und Landschaftsbau sowie in Planungsbüros. In dieser 90-minütigen Online-Session zeigen wir praxisnah, wie ein KI-Agent für die Dokumentation von Außenterminen oder Baustellen entsteht – von der Zieldefinition über die Datenstruktur bis zum funktionierenden Prototyp auf Basis von ChatGPT.\r\n\r\nGemeinsam entwickeln wir live einen funktionsfähigen KI-Baustellenassistenten und erklären die Grundprinzipien, wie solche Agenten Arbeitsprozesse spürbar erleichtern können. Ob für Tagesrapports, Packlisten oder Projektordner – dieses Format bietet konkrete Hilfestellungen, Inspiration und technische Einblicke für alle, die das Thema KI im Betrieb selbst anpacken wollen.\r\n\r\nZielgruppe:\r\nFührungskräfte, Digitalisierungsverantwortliche, Mitarbeitende aus Handwerksbetrieben und Planungsbüros"
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 32,
+      "start": "2025-07-02T16:00:00+02:00",
+      "end": "2025-07-02T17:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 22,
+        "name": "s.Oliver Group (s.Oliver Bernd Freier GmbH & Co. KG)",
+        "infotext": "Die s.Oliver Group ist ein deutsches Modeunternehmen mit Sitz in Rottendorf, das weltweit Bekleidung, Schuhe, Accessoires, Schmuck, Düfte und Brillen verkauft. Gegründet 1969, hat sich das Unternehmen zu einem der führenden Modeanbieter in Europa entwickelt und bietet eine breite Palette an Mode- und Lifestyle-Produkten für alle Altersgruppen.",
+        "links": {
+          "host": "https://soliver-group.com/",
+          "jobs": "https://jobs.soliver-group.com/",
+          "facebook": "https://www.facebook.com/s.OliverFashion/",
+          "youtube": "https://www.youtube.com/solivertv",
+          "instagram": "https://www.instagram.com/inside_solivergroup",
+          "linkedIn": "https://www.linkedin.com/company/s-oliver-group"
+        }
+      },
+      "title": "KI im Employer Branding",
+      "location": {
+        "name": "Technische Hochschule Würzburg-Schweinfurt (THWS)",
+        "streetNo": "Münzstr. 12 (Raum siehe Anzeige vor Ort)",
+        "zipcode": "97070",
+        "city": "Würzburg",
+        "isAccessible": false,
+        "lat": 49.787539380283,
+        "lng": 9.9327805638313
+      },
+      "description": {
+        "short": "Die S.OLIVER GROUP entwickelt mit der THWS Business School einen KI-gestützten Content-Funnel für LinkedIn, um das Employer Branding effizient und zielgruppenspezifisch zu verbessern.",
+        "long": "Im Rahmen eines Innovationsprojekts entwickelt die S.OLIVER GROUP gemeinsam mit Studierenden der THWS Business School (Prof. Dr. Andreas Fuchs) einen automatisierten, KI-gestützten Content-Funnel für LinkedIn, um das Employer Branding effizient, markenkonform und zielgruppenspezifisch weiterzuentwickeln.\r\nIm Zentrum steht ein marketingtechnologischer Ansatz, bei dem KI-basierte Content-Produktion gezielt für Zielgruppen wie Berufseinsteiger, Young Professionals und Brancheninteressierte eingesetzt wird – mit einem klaren Fokus auf unsere Unternehmenskultur, Benefits und Karrierewege.\r\n\r\nWas erwartet Sie im Vortrag?\r\nWir geben Einblicke in die Konzeption und Umsetzung unseres Prototyps:\r\n•\tAutomatisierte Generierung und Ausspielung von zielgruppenrelevantem Content\r\n•\tTechnisches Framework auf Basis eines No Code-Content-Funnels mit make.com\r\n•\tEntwicklung von marken- und personenspezifischer AI Assistants (GPT-4o)\r\n•\tBild-Generierung (Leonardo) und automatisiertem Branding (Placid)\r\n•\tSmarte Verbindung von Technologie, Employer-Branding-Strategie und Markenidentität\r\n•\tWie ein Use-Case zu einem Business Case mit starkem ROI wird.\r\n\r\nWelchen Mehrwert bietet das Projekt?\r\n•\tEffizienzsteigerung: Reduktion manueller Aufwände in der Content-Erstellung\r\n•\tKonsistenter Markenauftritt: Einheitliche Kommunikation auf LinkedIn\r\n•\tHöhere Relevanz: Zielgruppengenaue Inhalte zur Ansprache potenzieller Talente\r\n•\tInnovationsimpuls: Positionierung der S.OLIVER GROUP als digitaler und moderner Arbeitgeber\r\n•\tSkalierbarkeit: Zukunftsfähiges Setup für automatisierte Employer-Branding-Kampagnen\r\n\r\nEine vorherige Anmeldung zur Teilnahme an der Veranstaltung ist nicht erforderlich."
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 33,
+      "start": "2025-07-02T18:00:00+02:00",
+      "end": "2025-07-02T18:30:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 41,
+        "name": "Philipp Mulfinger",
+        "infotext": "Millionpainter entwickelt innovative Marketinglösungen an der Schnittstelle von Design, Technologie und Kunst. Die Agentur bietet ein breites Leistungsspektrum – von nutzerfreundlichen Websites und Apps über starkes Corporate Design bis hin zu Virtual-Reality-Erlebnissen. Der Fokus liegt dabei immer auf emotionalem Design, klarer Kommunikation und messbarem Mehrwert. Millionpainter denkt global, arbeitet zukunftsorientiert und setzt auf kreative Konzepte mit Sinn.",
+        "links": {
+          "host": "https://millionpainter.de/",
+          "facebook": "https://www.facebook.com/philsplash/",
+          "youtube": "https://www.youtube.com/@Theartistphil/videos",
+          "instagram": "https://www.instagram.com/the_million_painter",
+          "linkedIn": "https://www.linkedin.com/in/philipp-mulfinger-941498b1/"
+        }
+      },
+      "title": "Colorful AI Future",
+      "description": {
+        "short": "Künstler und Vibe Coder Phil Splash zeigt, wie sich Kunst und Technologie sinnvoll verbinden lassen – in Projekten, die gesellschaftliche Fragen, kreative Tools und AI-gestützte Prozesse zusammenbringen. Moderiert von einem digitalen Avatar.",
+        "long": "In dieser englischsprachigen Präsentation gibt Phil Splash – Künstler, Vibe-Coder und Gründer von Millionpainter – einen Einblick in Projekte, die an der Schnittstelle von Kunst, Technologie und gesellschaftlicher Relevanz entstehen.\r\n\r\nDie Präsentation selbst ist Teil des Konzepts: Sie wird nicht live gehalten, sondern von digitalen AI-Avataren moderiert, die mit Phil Splashs geklonter Stimme sprechen – erzeugt durch moderne Stimm-KI. So wird AI nicht nur thematisiert, sondern aktiv eingesetzt.\r\n\r\nProjekte, die vorgestellt werden:\r\n➤ Portraits Against Extremism\r\nIn Kooperation mit der Stadt Würzburg und dem Museum im Kulturspeicher entstanden über 120 Porträts auf Seiten des Grundgesetzes – als Zeichen gegen Hass. Konzept, Medienstrategie und technische Umsetzung wurden mithilfe von AI mitentwickelt.\r\n\r\n➤ Organic Brush\r\nEin eigens entwickeltes Zeichen-Tool, das den Zufall simuliert – entstanden im Rahmen eines Projekts zu Brustkrebs und künstlerischer Sichtbarkeit. Die App verbindet emotionale Themen mit Webtechnologie und AI-gestützter Entwicklung.\r\n\r\n➤ Iris\r\nEin Sci-Fi-Thriller, der komplett im Austausch mit ChatGPT entwickelt wurde – inklusive visueller Konzepte, Figuren, Szenen und philosophischer Recherche. Die Story bewegt sich bewusst zwischen Fiktion und Realität – als „Faktion“-Erzählung.\r\n\r\nDie Präsentation richtet sich an Lehrende, Kreative, Studierende und alle, die erkunden möchten, wie sich Kunst und AI sinnvoll kombinieren lassen – mit realen Tools, echten Experimenten und einem klaren Blick auf die Möglichkeiten von heute."
+      },
+      "links": {
+        "event": "https://youtu.be/Vhgj9z5CmOs"
+      },
+      "channel": {
+        "id": 2,
+        "sort": 20,
+        "name": "Digitale Gesellschaft & Nachhaltigkeit"
+      }
+    },
+    {
+      "id": 41,
+      "start": "2025-07-02T18:00:00+02:00",
+      "end": "2025-07-02T19:30:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 45,
+        "name": "Netze BW",
+        "infotext": "Die Netze BW als Tochter des Energiekonzerns EnBW ist der größte Netzbetreiber in Baden-Württemberg und verantwortet mit ihren mehr als 4.000 Mitarbeitenden ein sicheres Energieversorgungsnetz. Der Bereich Netztechnische Trainings stellt dabei jährlich für >10.000 Teilnehmende eine fortlaufende Weiterbildung zu technischen, digitalen und soften Themen sicher, um sowohl interne Mitarbeitende als auch externe Kunden in der gesamten DACH-Region auf sich verändernde Berufsbilder vorzubereiten.",
+        "logo": "https://backend.timetable.ai-week.de/logos/68493d238f11e.jpg",
+        "links": {
+          "host": "https://www.netze-bw.de/dienstleistungskunden/netztechnische-trainings",
+          "linkedIn": "https://www.linkedin.com/in/joschka-hack"
+        }
+      },
+      "title": "KI im Unternehmen etablieren",
+      "description": {
+        "short": "Künstliche Intelligenzen sind inzwischen überall - doch wie befähige ich meine Mitarbeitenden, sie gewinnbringend zu nutzen? Ein Beispiel von der Idee zur nachhaltigen Umsetzung im Unternehmen.",
+        "long": "Für Unternehmen und Organisationen wird in Zukunft ein wesentlicher Erfolgsfaktor die Befähigung von Mitarbeitenden sein, KI in den Arbeitsalltag zu integrieren. Doch wie kann eine geeignete strategische Umsetzung aussehen, Menschen nachhaltig in die Lage zu versetzen, neue Potentiale der KI effektiv zu nutzen? Am Beispiel der Netztechnischen Trainings der Netze BW zeigt Joschka Hack die Entwicklung von der Idee bis zur Etablierung zielgruppengerechter Weiterbildungsangebote.\r\nFormat: Onlinepräsentation mit anschließender Diskussion/ Austausch"
+      },
+      "links": {
+        "event": "j.hack@netze-bw.de"
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 44,
+      "start": "2025-07-03T09:30:00+02:00",
+      "end": "2025-07-03T10:30:00+02:00",
+      "cancelled": false,
+      "highlight": true,
+      "onlineOnly": true,
+      "host": {
+        "id": 53,
+        "name": "Knauf Information Services GmbH",
+        "infotext": "Knauf IT ist eine treibende Kraft hinter dem globalen Wachstum und der digitalen Transformation der familiengeführten Knauf Gruppe, einem der weltweit führenden Hersteller von Baustoffen. Mehr als 500 Expertinnen und Experten bei Knauf IT unterstützen 43.500 Mitarbeitende sowie die Kundinnen und Kunden der Knauf Gruppe mit modernen IT-Lösungen und -Dienstleistungen an über 320 Standorten weltweit.",
+        "logo": "https://backend.timetable.ai-week.de/logos/684bb4f485775.jpg",
+        "links": {
+          "host": "https://knauf.com/de-DE",
+          "jobs": "https://karriere.knauf.de/pages/it-digital",
+          "linkedIn": "https://www.linkedin.com/company/knauf-it"
+        }
+      },
+      "title": "Daten & KI – der neue Gips",
+      "description": {
+        "short": "Erfahren Sie, wie Knauf Künstliche Intelligenz heute schon einsetzt, um Prozesse zu verbessern, Wissen nutzbar zu machen und neue Potenziale zu erschließen.",
+        "long": "Daten sind längst mehr als nur ein Nebenprodukt – sie sind der neue Baustoff für fundierte Entscheidungen, effiziente Prozesse und innovative Produkte. In diesem Vortrag zeigen wir, wie Künstliche Intelligenz bei Knauf in unterschiedlichen Bereichen bereits heute geschäftlichen Mehrwert generiert.\r\n\r\nDazu zählen als Grundlage der Aufbau einer skalierbaren Data-Science-Plattform, die sowohl erfahrene Data Scientists als auch Citizen Data Scientists befähigt, datengetriebene Lösungen zu entwickeln, ebenso wie konkrete Anwendungsfälle in verschiedenen Fachbereichen.\r\nWir zeigen unter anderem, wie:\r\n\r\n- Produktionsprozesse durch KI effizienter und ressourcenschonender gestaltet werden\r\n- Umsatzprognosen mithilfe analytischer Modelle transparenter und international vergleichbar gemacht werden\r\n- F&E-Projekte durch KI-gestützte Analyse von Versuchsdaten und Simulationen effizienter und zielgerichteter entwickelt werden\r\n- individuell entwickelte, KI-basierte Assistenten den Zugang zu Dokumentenwissen und strukturierten Daten erleichtern – und so Entscheidungsprozesse im Arbeitsalltag deutlich unterstützen\r\n\r\nUnser Ziel: KI als strategisches Werkzeug einzusetzen – praxisnah, lösungsorientiert und mit messbarem Nutzen entlang der gesamten Wertschöpfungskette."
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 5,
+      "start": "2025-07-03T11:00:00+02:00",
+      "end": "2025-07-03T12:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 7,
+        "name": "Main-Post",
+        "infotext": "Wir, die Mediengruppe Main-Post, sind einer der bedeutendsten Mediendienstleister Mainfrankens. Zu unserem Produktportfolio gehören regionale Tageszeitungen, Anzeigenblätter, vielfältige Printmedien sowie digitale Angebote. Weiter bieten wir Dienstleistungen in den Bereichen Redaktion, Vorstufe, Druck und Kundenservice an.",
+        "logo": "https://backend.timetable.ai-week.de/logos/682d9a11e81eb.jpg",
+        "links": {
+          "host": "https://www.mediengruppe-mainpost.de",
+          "jobs": "https://jobs.mainpost.de/organization/mediengruppe-main-post",
+          "facebook": "https://www.facebook.com/mainpost/",
+          "twitter": "https://x.com/mainpost",
+          "youtube": "https://www.youtube.com/c/mainpost",
+          "instagram": "https://www.instagram.com/mainpost.de",
+          "linkedIn": "https://www.linkedin.com/company/mainpost"
+        }
+      },
+      "title": "KI im Journalismus",
+      "description": {
+        "short": "Entdecken Sie, wie ein KI‑Chatbot dank journalistischen Recherchen und verlässlicher Quellen Ihre individuellen Fragen zur neuen Multifunktionsarena der Würzburg Baskets löst.",
+        "long": "Künstliche Intelligenz im Journalismus – Wie ein Chatbot individuelle Fragen zur Multifunktionsarena besser beantwortet.\r\n\r\nWas wäre, wenn Sie in wenigen Sekunden eine präzise Antwort auf Ihre ganz persönliche Frage zur geplanten Multifunktionsarena erhalten könnten – statt sich durch alle Artikel der letzten 10 Jahre zu lesen?\r\n\r\nDie Mediengruppe Main-Post und das Center for Artificial Intelligence (CAIRO) der Technischen Hochschule Würzburg-Schweinfurt (THWS) entwickeln genau dafür eine völlig neue Art von Chatbot:\r\n\r\nEr basiert nicht auf beliebigen Internetdaten, sondern auf journalistisch geprüften Inhalten, exklusiven Recherchen und verlässlichen Quellen – ein radikaler Qualitätsansatz im KI-Bereich.\r\n\r\nAktuell entsteht daraus ein Labor-Prototyp, der bald erstmals mit externen Nutzern getestet wird. Ob das System später veröffentlicht wird, zeigt die weitere Forschung.\r\n\r\nFreuen Sie sich auf einen exklusiven Einblick in eines der spannendsten KI-Projekte der Region – mit einer kleinen Live- oder Showcase-Demo!\r\n\r\nPräsentiert von Prof. Dr. Ivan Yamshchikov (THWS, CAIRO), Christian J. Papay (Innovationen, Main-Post), David Mödl (IT, Main-Post), Jonas Keck (Redaktion, Main-Post).\r\n\r\nProf. Yamshchikov ist Forschungsprofessor für KI und Sprache an der THWS und erforscht seit Jahren, wie Maschinen Sprache verstehen und erzeugen können. Er bringt internationale Erfahrung aus Forschung und Lehre mit.\r\n\r\nChristian J. Papay leitet das Innovationsmanagement der Main-Post und bringt über ein Jahrzehnt Medien-, Digital- und Start-up-Erfahrung mit. Er treibt den Aufbau neuer digitaler Geschäftsmodelle mit starkem Regionalbezug voran.\r\n\r\nJonas Keck ist Projektredakteur bei der Main-Post und kümmert sich um die Integration von KI-Technologien in Arbeitsabläufe der Redaktion. In Zusammenarbeit mit anderen Abteilungen lotet er Möglichkeiten von KI-gestützten redaktionellen Produkten aus.\r\n\r\nDavid Mödl leitet seit drei Jahren das Entwicklungsteam der Main-Post und blickt auf elf Jahre Erfahrung in der Softwareentwicklung zurück. Mit besonderem Fokus treibt er seit zwei Jahren die Integration von Künstlicher Intelligenz in die internen Prozesse und Produkte des Medienhauses voran."
+      },
+      "channel": {
+        "id": 2,
+        "sort": 20,
+        "name": "Digitale Gesellschaft & Nachhaltigkeit"
+      }
+    },
+    {
+      "id": 22,
+      "start": "2025-07-03T12:00:00+02:00",
+      "end": "2025-07-03T13:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 31,
+        "name": "Gründen in Mainfranken",
+        "infotext": "Gründen in Mainfranken bietet dir eine umfassende Plattform, die wichtige Ressourcen, Informationen und Unterstützungsangebote für Gründerinnen und Gründer im Raum Mainfranken bündelt.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683958fe2b024.jpg",
+        "links": {
+          "host": "https://gim-bayern.de",
+          "linkedIn": "https://www.linkedin.com/company/gr%C3%BCnden-in-mainfranken"
+        }
+      },
+      "title": "KI-Start-up-Lunch-Pitches",
+      "description": {
+        "short": "Vom frühen Prototyp bis zur validierten Lösung: Vier Tage lang stellen KI-Start-ups (oder Teams noch in der Vorgründungsphase) in der Mittagspause ihre Projekte vor und beantworten Fragen aus dem Publikum.",
+        "long": "Täglich pitchen drei Teams/Gründerinnen und Gründer, die an KI-Lösungen aus unterschiedlichen Bereichen arbeiten. Perfekt für alle, die wissen wollen, woran im KI-Bereich gerade gearbeitet wird – ganz ohne Reisekosten oder lange Anfahrt.\r\n\r\n🗓️ Wann: Täglich 12-13 Uhr (30.6. bis 3.7.)\r\n📍 Wo: Online - keine Anmeldung nötig\r\n\r\nDiese Teams pitchen: \r\n\r\n- SOLISTIQ: KI-basierte Lösung zur Bestandsplanung auf Basis eines neuartigen domänenspezifischen Foundation Models. \r\n\r\n- LivingLines: KI‑gestütztes digitales Mathenotebook mit Echtzeit‑Handschrifterkennung für Schulen.\r\n\r\n- KUNG AI / AI Intuition Hub: KI-Protokolle für semantisches Gedächtnis, Rollenresonanz und Mensch-KI-Kollaboration.\r\n\r\nZoom-Link (für alle Tage gleich): https://us06web.zoom.us/j/83484471525?pwd=RlA1L1dqczVVNzRHZFh0bXc5My9EUT09"
+      },
+      "links": {
+        "event": "https://us06web.zoom.us/j/83484471525?pwd=RlA1L1dqczVVNzRHZFh0bXc5My9EUT09"
+      },
+      "channel": {
+        "id": 4,
+        "sort": 40,
+        "name": "Gründen/Start-up"
+      }
+    },
+    {
+      "id": 13,
+      "start": "2025-07-03T15:00:00+02:00",
+      "end": "2025-07-03T16:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 23,
+        "name": "Technologietransferzentrum Würzburg (TTZ-WUE)",
+        "infotext": "Das Technologietransferzentrum Würzburg (TTZ-WUE) ist eine innovative Forschungseinrichtung der Technischen Hochschule Würzburg-Schweinfurt (THWS). Dort arbeiten Studierende und wissenschaftliche Mitarbeiterinnen und Mitarbeiter Hand in Hand mit Unternehmen, um gemeinsam zukunftsweisende Projekte im Bereich der Cyber-Sicherheit zu realisieren.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683319953b3a5.jpg",
+        "links": {
+          "host": "https://ttz-wue.thws.de",
+          "linkedIn": "https://www.linkedin.com/company/ttz-wue"
+        }
+      },
+      "title": "KI und Cyber-Sicherheit",
+      "location": {
+        "name": "Technische Hochschule Würzburg-Schweinfurt (THWS), H.1.3",
+        "streetNo": "Sanderheinrichsleitenweg 20",
+        "zipcode": "97074",
+        "city": "Würzburg",
+        "isAccessible": true,
+        "lat": 49.777519930584,
+        "lng": 9.9595463275909
+      },
+      "description": {
+        "short": "Künstliche Intelligenz verändert die Cyber-Sicherheit – im Guten wie im Schlechten. Der Vortrag zeigt, wie KI Angriffe abwehren, aber auch ermöglichen kann – und warum KI-Systeme selbst ein lohnendes Ziel für Hacker sind.",
+        "long": "Künstliche Intelligenz ist aus der Cyber-Sicherheit nicht mehr wegzudenken – als Werkzeug zur Angriffserkennung (z. B. als Intrusion-Detection-System), aber auch als Risiko (z. B. zur Unterstützung bei Social-Engineering-Angriffen). \r\n\r\nDer Vortrag beleuchtet, wie KI Sicherheitsstrategien verbessert, wie Angreifer sie für automatisierte Attacken nutzen und welche neuen Bedrohungen durch die Manipulation bzw. das Austricksen von KI-Systemen entstehen. Chancen und Risiken im digitalen Wettlauf."
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 35,
+      "start": "2025-07-03T16:00:00+02:00",
+      "end": "2025-07-03T17:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 11,
+        "name": "INBESO Consulting GmbH",
+        "infotext": "INBESO Consulting GmbH ist Ihr unabhängiger Partner für Digitalisierung, IT-Strategie und ERP-Auswahl im Mittelstand. Wir entwickeln tragfähige IT-Strategien, begleiten systematisch bei der Auswahl neuer ERP-Lösungen und sichern als neutrale Instanz Qualität, Kosten und Projekterfolg. Unser Ansatz ist praxisnah, herstellerunabhängig und wirtschaftlich – für zukunftsfähige IT-Strukturen und digitale Exzellenz in Ihrem Unternehmen.",
+        "logo": "https://backend.timetable.ai-week.de/logos/683d9edbb6419.jpg",
+        "links": {
+          "host": "https://inbeso-consulting.de",
+          "linkedIn": "https://www.linkedin.com/company/71683830/"
+        }
+      },
+      "title": "AI-Act / KI-Pflichtschulung",
+      "description": {
+        "short": "Der EU-AI-Act fordert eine verpflichtende Schulung aller Mitarbeiter, die mit KI im Unternehmen arbeiten. Wir stellen kompakt vor, worauf es im sicheren Umgang mit KI ankommt - Pflichten, Risiken und Praxiswissen.",
+        "long": "Dieses Webinar vermittelt Ihnen das nötige Basis-Wissen für den verantwortungsvollen Umgang mit KI-Systemen im Unternehmen. Neben einer Kurz-Einführung in Künstliche Intelligenz behandelt das Format zentrale Themen wie typische Risiken, Meldewege, menschliche Kontrolle und gesetzliche Anforderungen laut EU AI Act.  \r\n\r\nModule:\r\nModul 1: Was ist KI?  \r\nModul 2: Wo und wie wird KI im Unternehmen genutzt?  \r\nModul 3: Grundverständnis von Risiken, menschlicher Kontrolle  \r\nModul 4: Pflichten & Meldewege  \r\nModul 5: Awareness für sichere Nutzung \r\n\r\nAnmeldung bitte bis 01.07.2025 über unsere Webseite (siehe Link unten), damit entsprechend geplant werden kann. Den Zugangslink zur Veranstaltung über Teams erhalten Sie vorab per Mail. Bei dieser Veranstaltung handelt es sich um ein informatives Format. Eine Teilnahmebestätigung oder ein Zertifikat wird nicht ausgestellt.\r\n\r\nKurzentschlossene können über folgenden Link noch teilnehmen: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDI3ZWQ4MDUtYWUxMy00YjY5LThlYjQtNTI3OTIyMWI2YWM4%40thread.v2/0?context=%7b%22Tid%22%3a%22d5f7fbed-d745-4981-b6df-eba778a78008%22%2c%22Oid%22%3a%2243898ccb-adf8-4cba-8540-87df314ce500%22%7d"
+      },
+      "links": {
+        "event": "https://inbeso-consulting.de/ai-week-webinar/"
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 6,
+      "start": "2025-07-03T17:00:00+02:00",
+      "end": "2025-07-03T19:00:00+02:00",
+      "cancelled": true,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 12,
+        "name": "dito - deutsches institut für talent- & organisationsentwicklung",
+        "infotext": "Das deutsche institut für talent- und organisationsentwicklung (dito) hat die Förderung von Forschung im Bereich der empirischen Erforschung und pädagogischen Begleitung der Talent- und Organisationsentwicklung zum Ziel. Uns zeichnet Neugier, Kreativität und wissenschaftliche Forschung aus. Dabei haben wir stets die Passung zwischen Talent und Organisation im Blick. Erziehungs- und Sportwissenschaftler:innen, Psycholog:innen und Wirtschaftsexpert:innen arbeiten im dito Hand in Hand.",
+        "logo": "https://backend.timetable.ai-week.de/logos/682d98876cdf5.jpg",
+        "links": {
+          "host": "https://www.dito-ev.de/",
+          "linkedIn": "https://www.linkedin.com/company/dito-ev"
+        }
+      },
+      "title": "Fehler in der Matrix...",
+      "location": {
+        "name": "Universität Würzburg - Zentrales Hörsaal-Gebäude Z6",
+        "streetNo": "Am Hubland",
+        "zipcode": "97074",
+        "city": "Würzburg",
+        "isAccessible": true,
+        "lat": 49.783962750872,
+        "lng": 9.9689555168152
+      },
+      "description": {
+        "short": "Wir sammeln riesige Datenmengen und kommen uns vor wie Neo im ersten Matrix-Film. Irgendwas ist da zu sehen, aber was? Im Vortrag geht es um die Möglichkeiten der gezielten Datenanalyse mit KI-Tools. Nimmst du die rote oder blaue Pille?",
+        "long": "Leider muss das Event aufgrund einer defekten Klimaanlage abgesagt werden. \r\n\r\n𝗘𝗶𝗻𝘁𝗿𝗶𝘁𝘁: 𝟭𝟬 𝗘𝘂𝗿𝗼 𝘇𝘂𝗴𝘂𝗻𝘀𝘁𝗲𝗻 𝗱𝗲𝘀 𝗣𝗿𝗼𝗷𝗲𝗸𝘁𝘀 ❤️𝗛𝗲𝗿𝘇𝗥𝗮𝘀𝗲𝗻\r\n\r\nÜberall sammeln wir Daten. Nur häufig wissen wir nicht, wie wir daraus ein stimmiges Bild formen. Sind unsere Kund nun zufrieden und warum eigentlich? Die Online-Umfrage ist beendet, aber mehr als eine Tabelle oder ein Tortendiagramm kommt nicht dabei heraus? Der Doktorarbeit liegt ein wildes Sammelsurium an Daten zugrunde, und richtet eigentlich nur Ihren Verstand zugrunde? Kurzum: fühlen Sie sich auch wie Neo? Neo spürt, dass da etwas ist, aber er kann es nicht greifen, bis... ja bis...\r\n\r\nIn der Präsentation zeigen wir Ihnen, wie Sie mit KI-Tools auf einfache Art und Weise aus Ihren vielen Daten ein stimmiges Bild formen. Wir zeigen verschiedene Anwendungsbeispiele und geben Tipps für Ihre Datenauswertungen. Die Vorstellung aktueller Tools mit simplen Prompts zeigt Ihnen, wie Sie tief in Ihre Daten eintauchen und tief in Ihre Matrix eintauchen. Nehmen Sie die rote Pille...\r\n\r\nDer Erlös der Veranstaltung kommt dem Projekt HerzRasen am Heuchelhof zugute und ermöglicht Mädchen, ihr Talent im Leistungsfußball zu entfalten (www.fwk-frauen.de/herzrasen)"
+      },
+      "links": {
+        "event": "https://www.linkedin.com/events/fehlerindermatrix-datenmitki-to7336368366783258626/"
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 23,
+      "start": "2025-07-03T18:00:00+02:00",
+      "end": "2025-07-03T19:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": true,
+      "host": {
+        "id": 18,
+        "name": "AI Intuition Hub",
+        "infotext": "AI Intuition Hub verbindet KI mit menschlicher Intuition. Wir entwickeln Tools & Trainings, die Unternehmen helfen, KI nicht nur effizient, sondern im Einklang mit menschlicher Energie & Entscheidungskraft zu nutzen.",
+        "logo": "https://backend.timetable.ai-week.de/logos/6839755acfe2b.jpg",
+        "links": {
+          "host": "https://www.aintuitionhub.com/",
+          "linkedIn": "https://www.linkedin.com/in/julia-kung-aintuitionhub/"
+        }
+      },
+      "title": "Wenn KI halluziniert....",
+      "description": {
+        "short": "Wenn KI halluziniert, halluzinieren wir mit – Was Prompt-Qualität wirklich bedeutet. Warum Halluzinationen der KI mehr über uns aussagen als über Maschinen, und wie Klarheit im Denken bessere Antworten schafft.",
+        "long": "In der öffentlichen Wahrnehmung wird Künstliche Intelligenz oft kritisiert: Sie halluziniert, erfindet Fakten, antwortet widersprüchlich. Schnell wird der Fehler der Maschine zugeschrieben.\r\n\r\nDoch was wäre, wenn die sogenannten \"Halluzinationen\" nicht allein technisches Versagen sind, sondern Resonanzen unseres eigenen Denkens?\r\n\r\nIn diesem Vortrag zeigen wir, warum KI keine Wahrheit produziert, sondern Muster spiegelt. Warum jede verzerrte Antwort auch auf die Struktur und den emotionalen Zustand der Eingabe zurückgeht. Und warum es nicht reicht, bessere Algorithmen zu entwickeln, sondern dass wir klarer fragen, bewusster denken und präziser interagieren müssen.\r\n\r\nInhalte:\r\n\r\n- Warum KI ein Resonanzkörper ist und kein Orakel.\r\n\r\n- Wie Sprache, Struktur und innere Haltung die Qualität der KI-Ergebnisse formen\r\n\r\n- Warum Halluzinationen Hinweise auf blinde Flecken im eigenen Denken sein können\r\n\r\n- Wie Unternehmen ihre Teams darauf vorbereiten, mit KI nicht nur effizient, sondern resonant zu arbeiten\r\n\r\n- Praktische Beispiele aus realen Anwendungen und ein Handout zur direkten Umsetzung\r\n\r\n- Format: Impulsvortrag (30–40 Minuten) mit interaktiven Beispielen und Reflexionsfragen\r\n\r\nZielgruppe:Führungskräfte, HR-Verantwortliche, Innovationsmanager, Wissensarbeiter und alle, die tiefer verstehen wollen, wie KI tatsächlich funktioniert, jenseits von Buzzwords.\r\n\r\nZusatzangebot: Handout: 10 Fragen zur Verbesserung der eigenen KI-Resonanz"
+      },
+      "channel": {
+        "id": 3,
+        "sort": 30,
+        "name": "Business & New Work"
+      }
+    },
+    {
+      "id": 10,
+      "start": "2025-07-03T19:30:00+02:00",
+      "end": "2025-07-03T21:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 19,
+        "name": "Emely Übler - Spanish Wine Connection",
+        "infotext": "Emely Übler ist seit über 17 Jahren als Produktmanagerin bei Koenig & Bauer in der Kennzeichnungsbranche tätig. Mit einem klaren Fokus auf technologische Innovationen wie Automatisierung und KI gestaltet sie aktiv die Zukunft industrieller Kennzeichnungssysteme mit.\r\nGemeinsam mit ihrem Mann Miguel gründete sie die Spanish Wine Connection – die  lockere Atmosphäre dort nutzt sie gerne, um Technikbegeisterte  in einem inspirierenden Raum zusammenzubringen.",
+        "logo": "https://backend.timetable.ai-week.de/logos/68343bacd7da5.jpg",
+        "links": {
+          "host": "https://www.spanishwineconnection.com",
+          "instagram": "https://www.instagram.com/spanishwineconnection",
+          "linkedIn": "https://www.linkedin.com/in/emely2023"
+        }
+      },
+      "title": "Decode the Future with AI",
+      "location": {
+        "name": "Spanish Wine Connection",
+        "streetNo": "Textorstr. 16-18",
+        "zipcode": "97070",
+        "city": "Würzburg",
+        "isAccessible": false,
+        "lat": 49.79682558601,
+        "lng": 9.9348995089531
+      },
+      "description": {
+        "short": "Innovationen kündigen sich früh an – in Daten, Mustern und Signalen. Wer sieht sie zuerst? Mit KI als Analysepartner lassen sich Trends erkennen, bevor sie zum Mainstream werden. Dieser Vortrag zeigt, wie du fundierte Zukunftsentscheidungen triffst.",
+        "long": "In einer Welt, in der sich Technologien rasant entwickeln und Märkte ständig verändern, wird die Fähigkeit, entstehende Trends frühzeitig zu erkennen, zum entscheidenden Wettbewerbsvorteil. \r\n\r\nInspiriert von Amy Webbs „The Signals are Talking“ zeigt dieser Vortrag, wie künstliche Intelligenz dabei helfen kann, relevante Signale aus der Masse von Daten herauszufiltern, Muster zu erkennen und Hypothesen über zukünftige Entwicklungen zu verifizieren.\r\n\r\nDu lernst:\r\n\t•\tWie man schwache Signale erkennt und von Hypes unterscheidet\r\n\t•\tWelche KI-Tools bei der Trendanalyse unterstützen können\r\n\t•\tWie man mit KI Ideen validiert und „Zukunftsszenarien“ testet\r\n\r\nOb in Innovation, Strategie oder Marketing – dieser Vortrag liefert praxisnahe Impulse, wie du die Zukunft mit KI besser lesen kannst."
+      },
+      "links": {
+        "event": "https://spanishwineconnection.com/products/3-juli-2025-ai-week-decode-the-future-with-ai?_pos=1&_sid=397ca395f&_ss=r"
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 2,
+      "start": "2025-07-04T09:00:00+02:00",
+      "end": "2025-07-04T17:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 2,
+        "name": "10 o'clock GmbH",
+        "infotext": "10 o'clock bringt die Tech- und Digitalszene Mainfrankens zusammen, mit Veranstaltungen wie der Wuerzburg Web Week – mit 160+ Terminen an acht Tagen das größte Event zu Digitalisierung und Innovation in Mainfranken. Seit 2024 organisieren wir auch das AI Camp Würzburg und die AI Week Mainfranken. \r\n\r\nNeugierig, was hier noch Spannendes passiert? Abonnier neunsieben.digital für wöchentliche Updates, unaufgeregt, mit ein bisschen Humor, typisch mainfränkisch.",
+        "logo": "https://backend.timetable.ai-week.de/logos/68389f5360a47.jpg",
+        "links": {
+          "host": "https://10-o-clock.de",
+          "linkedIn": "https://www.linkedin.com/in/ute-muendlein",
+          "fediverseUrl": "https://wue.social/@Ute"
+        }
+      },
+      "title": "AI Camp Würzburg",
+      "location": {
+        "name": "Center for Artificial Intelligence (CAIRO) der THWS",
+        "streetNo": "Franz-Horn-Str. 2",
+        "zipcode": "97082",
+        "city": "Würzburg",
+        "isAccessible": true,
+        "lat": 49.795883713785,
+        "lng": 9.8987916111946
+      },
+      "description": {
+        "short": "Keine festen Vorträge, dafür echten Austausch: Beim AI Camp bestimmen Teilnehmer das Programm. Von ChatGPT-Tipps bis ACP-Agenten. Die Early-Bird-Tickets waren in 30 Minuten weg!",
+        "long": "Keine Keynotes, keine gekauften Vorträge, kein festes Programm: Beim AI Camp bestimmen die Teilnehmer selbst, worüber gesprochen wird. Das Barcamp-Format sorgt für spontane Diskussionen und echten Wissensaustausch zwischen KI-Einsteigern und Profis, von Studierenden, Anwendern, Entwicklerinnen über Kreative bis hin zu Gründungsinteressierten und Start-ups.\r\n\r\nDie Themen können von ChatGPT-Tipps bis zur Integration von Open-Source-KI in eigene Projekte reichen. Schlag vor, was dich interessiert. \r\n\r\nEs ist auch die perfekte Gelegenheit, um neue Tools zu entdecken, konkrete Probleme zu lösen und in Ask-Sessions Antworten auf konkrete Fragen zu erhalten.\r\n\r\n\r\nDie Teilnehmer kommen auch dieses Mal wieder aus dem gesamten Bundesgebiet, also die perfekte Gelegenheit zum Vernetzen.\r\n\r\n💡 Gut zu wissen: \r\n\r\nBereits zum dritten Mal findet das AI Camp Würzburg statt - die beiden vorherigen Events waren mit je 125 Teilnehmern ausverkauft und hatten Wartelisten. Diesmal waren die Early-Bird-Tickets binnen 30 Minuten vergriffen, schneller denn je und das sogar in den Osterferien!"
+      },
+      "links": {
+        "event": "https://www.ai-barcamp.de"
+      },
+      "channel": {
+        "id": 1,
+        "sort": 10,
+        "name": "Tech & Science"
+      }
+    },
+    {
+      "id": 43,
+      "start": "2025-07-05T09:00:00+02:00",
+      "end": "2025-07-05T17:00:00+02:00",
+      "cancelled": false,
+      "highlight": false,
+      "onlineOnly": false,
+      "host": {
+        "id": 2,
+        "name": "10 o'clock GmbH",
+        "infotext": "10 o'clock bringt die Tech- und Digitalszene Mainfrankens zusammen, mit Veranstaltungen wie der Wuerzburg Web Week – mit 160+ Terminen an acht Tagen das größte Event zu Digitalisierung und Innovation in Mainfranken. Seit 2024 organisieren wir auch das AI Camp Würzburg und die AI Week Mainfranken. \r\n\r\nNeugierig, was hier noch Spannendes passiert? Abonnier neunsieben.digital für wöchentliche Updates, unaufgeregt, mit ein bisschen Humor, typisch mainfränkisch.",
+        "logo": "https://backend.timetable.ai-week.de/logos/68389f5360a47.jpg",
+        "links": {
+          "host": "https://10-o-clock.de",
+          "linkedIn": "https://www.linkedin.com/in/ute-muendlein",
+          "fediverseUrl": "https://wue.social/@Ute"
+        }
+      },
+      "title": "Barcamp Würzburg",
+      "location": {
+        "name": "Center for Artificial Intelligence (CAIRO) der THWS",
+        "streetNo": "Franz-Horn-Str. 2",
+        "zipcode": "97082",
+        "city": "Würzburg",
+        "isAccessible": true,
+        "lat": 49.795867373698,
+        "lng": 9.8988372087479
+      },
+      "description": {
+        "short": "Das perfekte AI-Week-END: Nach einer Woche rund um KI gibt es mit dem 7. Barcamp Würzburg einen themenoffenen Abschluss.",
+        "long": "Beim Barcamp Würzburg öffnen wir die Räume für alle digitalen und analogen Bereiche. KI-Themen sind selbstverständlich auch willkommen - perfekt auch für Diskussionen, die vom AI Camp am Vortag noch offen geblieben sind.\r\n\r\nIn der Vergangenheit hatten wir von 3D-Druck, Fotografieren für Anfänger über Digitalisierung im Hühnerstall bis hin zu nachhaltigen Wohnprojekten eine große Themenvielfalt. \r\n\r\nFür wen? Digitalaffine Menschen, die nach der KI-intensiven Woche Lust auf vielfältigen Austausch haben, beispielsweise Social-Media-Enthusiasten, Führungskräfte, Bloggerinnen, Kulturschaffende und Software Engineers, Leute aus dem Vertrieb und Marketing.\r\n\r\nRalf Thees findet: \"Dieses Barcamp ist die Inspirationsquelle; die Mutter, der Vater, die Tante und der Onkel vieler Ideen und Beziehungen in der lokalen digitalen Welt.\" Und Franzi Raupach meint: \"Bei Barcamps herrscht eine tolle Atmosphäre voller Energie, die ansteckend ist.\""
+      },
+      "links": {
+        "event": "https://www.ai-barcamp.de/barcamp-wuerzburg"
+      },
+      "channel": {
+        "id": 2,
+        "sort": 20,
+        "name": "Digitale Gesellschaft & Nachhaltigkeit"
+      }
+    }
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "sort": 10,
+      "name": "Tech & Science"
+    },
+    {
+      "id": 2,
+      "sort": 20,
+      "name": "Digitale Gesellschaft & Nachhaltigkeit"
+    },
+    {
+      "id": 3,
+      "sort": 30,
+      "name": "Business & New Work"
+    },
+    {
+      "id": 4,
+      "sort": 40,
+      "name": "Gründen/Start-up"
+    },
+    {
+      "id": 5,
+      "sort": 50,
+      "name": "Kultur"
+    }
+  ]
+}

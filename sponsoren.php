@@ -24,8 +24,7 @@
                         <h2 style="margin-top: 2rem">Goldsponsoren</h2>
                         <br/><br/>
                         <div class="goldsponsoren">
-                            <div class="white-bg"><a href="https://karriere.knauf.de" target="_blank"><img src="images/logo-knauf.png" alt="Logo Knauf" /></a></div>
-                            <div class="white-bg"><a href="https://www.ukw.de/startseite" target="_blank"><img src="images/logo-uniklinikum-wuerzburg.png" alt="Logo Uniklinikum Würzburg" /></a></div>
+                             <div class="white-bg"><a href="" target="_blank"><img src="images/logo-ai-week-sponsor-werden.png" alt="" /></a></div>
                             
                         </div>
                         <h2 style="margin-top: 5rem">Supporter</h2>

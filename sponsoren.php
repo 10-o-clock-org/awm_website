@@ -31,9 +31,9 @@
                         <br/><br/>
                         <div class="supporter">
                         <div class="white-bg"><a href="https://www.computy.de/" target="_blank"><img src="images/Computy_Logo.png" alt="Logo computy." /></a></div>
-                            <div class="white-bg"><a href="https://www.wuerzburg.de/unternehmen" target="_blank"><img src="images/logo-stadt-wuerzburg.png" alt="Logo Stadt Würzburg" /></a></div>
-                            <div class="white-bg"><a href="https://intense.de" target="_blank"><img src="images/logo-intense-ag.png" alt="Logo INTENSE AG" /></a></div> 
-                            <div class="white-bg"><a href="https://baiosphere.org" target="_blank"><img src="images/logo-baiosphere.png" alt="Logo BAIOSPHERE – The Bavarian AI Network" /></a></div> 
+                            <div class="white-bg"><a href="https://www.salesautomationlabs.com" target="_blank"><img src="images/SAL sales automation labs logo.png" alt="Logo sales automation labs UG München" /></a></div>
+                            <div class="white-bg"><a href="" target="_blank"><img src="images/logo-ai-week-sponsor-werden.png" alt="" /></a></div> 
+                        
                             
                             
                         </div>

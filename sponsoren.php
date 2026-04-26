@@ -35,7 +35,8 @@
                             <div class="white-bg"><a href="https://sva.de/de" target="_blank"><img src="images/Logo_SVA System Vertrieb Alexander GmbH.png" alt="Logo SVA System Vertrieb Alexander GmbH" /></a></div>
                             <div class="white-bg"><a href="https://www.wuerzburg.de/unternehmen/wirtschaftsfoerderung" target="_blank"><img src="images/logo-stadt-wuerzburg.png" alt="Logo Stadt Würzburg" /></a></div>
                             <div class="white-bg"><a href="https://baiosphere.org" target="_blank"><img src="images/logo-baiosphere.png" alt="Logo BAIOSPHERE The Bavarian AI Network" /></a></div>
-                            <div class="white-bg"><a href="" target="_blank"><img src="images/logo-ai-week-sponsor-werden.png" alt="" /></a></div> 
+                             <div class="white-bg"><a href="https://www.mainfranken.org" target="_blank"><img src="images/Logo_Region Mainfranken.png" alt="Logo Region Mainfranken GmbH" /></a></div>
+                          
                         
                             
                             /Users/utemundlein/Documents/GitHub/awm_website/images/logo-stadt-wuerzburg.png

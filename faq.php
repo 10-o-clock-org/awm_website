@@ -205,7 +205,7 @@
                 <p>Bei den KI-Start-up-Lunch-Pitches können alle mitmachen, die</p>
                                <ul>
                                <li>einen KI-Fokus haben.</li> 
-                               <li>2023 oder später gegründet wurden, gerne auch noch in der Vorgründungsphase.</li>
+                               <li>2024 oder später gegründet wurden, gerne auch noch in der Vorgründungsphase.</li>
                                     </ul> 
                                 <p>Mehr dazu ab Mitte Mai.</p>
             </div>

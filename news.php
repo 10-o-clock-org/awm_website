@@ -247,7 +247,7 @@
                         <br/> 
                     <h2>Wer kann mitmachen?</h2>
                     <ul>
-                            <li>Start-ups 2023 oder später gegründet; gerne noch in der Vorgründungsphase</li>
+                            <li>Start-ups 2024 oder später gegründet; gerne noch in der Vorgründungsphase</li>
                             <li>KI-Fokus ist ein Muss</li>
                             <li>Vorzug für mainfränkische Gründungen, Bewerbungen aus dem gesamten deutschsprachigen Raum willkommen</li>
                     </ul>

@@ -80,7 +80,7 @@
                                 <input type="checkbox" name="accordion-9" id="cb9">
                                 <label for="cb9" class="tab__label">Wie melde ich mich für einzelne Veranstaltungen an?</label>
                                 <div class="tab__content">
-                                    <p>Mehr dazu ab Juni 2026 im Programm.</a>.</p>
+                                    <p>Mehr dazu ab Juni 2026 im Programm</a>.</p>
                                 </div>
                                 <div class="tab">
                                 <input type="checkbox" name="accordion-10" id="cb10">
@@ -96,7 +96,7 @@
                            aria-label="Anmeldeformular für den Newsletter neunsieben.digital"
                            href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1747632365"
                            target="_blank">Newsletter neunsieben.digital</a> an und folge uns auf <a
-                           aria-label="LinkedIn-Seite der Wuerzburg Web Week"
+                           aria-label="LinkedIn-Seite der der AI Week Mainfranken"
                            href="https://www.linkedin.com/company/wuerzburg-web-week" target="_blank">LinkedIn</a> und
                         <a aria-label="Instagram-Seite der Wuerzburg Web Week" href="https://www.instagram.com/wueww"
                            target="_blank">Instagram</a>, um nichts zu verpassen.</p>
@@ -119,7 +119,7 @@
                                 <input type="checkbox" name="accordion-14" id="cb14">
                                 <label for="cb14" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
                                 <div class="tab__content">
-                                <p>Die Einreichungsfrist für Veranstaltungen beginnt Mitte Mai, den genauen Termin geben wir noch bekannt. Bei Interesse melde dich gerne für unseren <a href="https://t2f924de9.emailsys2a.net/198/8419/0dc52b6de6/subscribe/form.html?_g=1774352717">Veranstalter-Verteiler</a> an, dann wirst du rechtzeitig über alle Termine informiert.</p>
+                                <p>Eine Veranstaltung kannst du in unser <a href="https://backend.timetable.ai-week.de/">Event-Tool eintragen</a>. Die Einreichungsfrist für Veranstaltungen läuft bis zum 31. Mai (23:59 Uhr).</p>
                                 </div>
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-15" id="cb15">
@@ -131,7 +131,7 @@
                                 <input type="checkbox" name="accordion-16" id="cb16">
                                 <label for="cb16" class="tab__label">Gibt es eine Bewerbungsfrist für Veranstalter?</label>
                                 <div class="tab__content">
-                                <p>Die Einreichungsfrist für Veranstaltungen beginnt Mitte Mai, den genauen Termin geben wir noch bekannt. Bei Interesse melde dich gerne für unseren <a href="https://t2f924de9.emailsys2a.net/198/8419/0dc52b6de6/subscribe/form.html?_g=1774352717">Veranstalter-Verteiler</a> an, dann wirst du rechtzeitig über alle Termine informiert.</p>
+                                <p>Die Einreichungsfrist für Veranstaltungen endet am 31. Mai um 23:59 Uhr. Hier geht es zu unserem <a href="https://backend.timetable.ai-week.de/">Event-Tool.</a></p>
 
                                 </div>
                                 <div class="tab">                                
@@ -150,8 +150,7 @@
                             <li>Ansprechpartner für uns (E-Mail-Adresse & Namen; Daten werden nicht veröffentlicht)
                             </li><br/>
                                     </ul>
-                          <p>Weitere Informationen zum Thema "Events einreichen" haben wir <a href="news.php#eventtool" target="_blank">in diesem Beitrag</a> zusammengestellt.</p>
-                          <p>Falls du weitere Fragen hast, schreib uns eine E-Mail an kontakt@wueww.de.</p>
+                            <p>Falls du weitere Fragen hast, schreib uns eine E-Mail an hallo@10-o-clock.de.</p>
                                 </div>
                             </div>
                             <div class="tab">
@@ -175,15 +174,14 @@
             <input type="checkbox" name="accordion-20" id="cb20">
             <label for="cb20" class="tab__label">Wann bekomme ich Bescheid, ob die Veranstaltung ins Programm aufgenommen wurde?</label>
             <div class="tab__content">
-            <p>Mehr zum zeitlichen Ablauf ab Mitte Mai.</p>
+            <p>Ab Anfang Juni 2026.</p>
                            
                         </div>
                                                     <div class="tab">
             <input type="checkbox" name="accordion-21" id="cb21">
             <label for="cb21" class="tab__label">Ich möchte als Sprecher einen Vortrag anbieten ...</label>
             <div class="tab__content">
-                <p>Die AI Week Mainfranken ist keine klassische Konferenz. Du bietest
-                eine eigenständige Veranstaltung an, nicht nur einen Vortrag.</p>
+                <p>Die AI Week Mainfranken ist keine klassische Konferenz. Du bietest eine eigenständige Veranstaltung an, nicht nur einen Vortrag.</p>
             </div>
         </div>
         <input type="checkbox" name="accordion-22" id="cb22">
@@ -207,14 +205,15 @@
                                <li>einen KI-Fokus haben.</li> 
                                <li>2024 oder später gegründet wurden, gerne auch noch in der Vorgründungsphase.</li>
                                     </ul> 
-                                <p>Mehr dazu ab Mitte Mai.</p>
+                                <p>Wenn die oben genannten Punkte auf dich/euch zutreffen, trag euer Idee/Start-up in <a href="https://forms.gle/Mw9edYL72tEYSy6y7"
+                                target="_blank">unser Bewerbungsformular</a> ein.</p>
             </div>
         </div>
         <div class="tab">
             <input type="checkbox" name="accordion-24" id="cb24">
             <label for="cb24" class="tab__label">Bis wann kann ich mich für die KI-Start-up-Pitches bewerben?</label>
             <div class="tab__content">
-                <p>Aktuell am besten per E-Mail an  hallo @ 10 - o - clock punkt de.</p>
+                <p>Bis zum 8. Juni 2026 läuft die Bewerbungsfrist.</p>
             </div>
         </div>
         </section>

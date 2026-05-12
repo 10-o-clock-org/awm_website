@@ -19,11 +19,11 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p>  <a href="#startups2026">2026-03-24 | Tech-Gründungen 2026</a><br/>
+                        <p> <a href="#pitches">2026-05-12 | KI-Start-up-Lunch-Pitches</a><br/>
+                            <a href="#kategorien">2026-05-12 | AI Week Mainfranken: unsere fünf Themen-Kategorien</a><br/>     
+                            <a href="#startups2026">2026-03-24 | Tech-Gründungen 2026</a><br/>
                             <a href="#interview-rockenstein">2026-03-20 | 1.000 Jobs für die AI Gigafactory Schweinfurt – realistisch?</a><br/>
-                            <a href="#startups2025">2025-11-05 | Tech-Gründungen 2025: Neun Start-ups aus Mainfranken</a><br/>
-                            <a href="#pitches">2026-03-24 | KI-Start-up-Lunch-Pitches</a><br/>
-                            <a href="#kategorien">2026-03-24 | AI Week Mainfranken: unsere fünf Themen-Kategorien</a><br/>                       
+                            <a href="#startups2025">2025-11-05 | Tech-Gründungen 2025: Neun Start-ups aus Mainfranken</a><br/>                                            
                             <a href="#zahlen2025">2025-07-16 | AI Week Mainfranken 2025 – Hotspot für KI</a><br/>
                             <a href="#kifestival">2024-09-09 |  AI Week Mainfranken – Das KI-Festival für alle</a><br/>
                             <a href="#wueww">2024-09-09 | AI Week Mainfranken vs. Wuerzburg Web Week</a><br/></p>
@@ -33,6 +33,120 @@
         </div>
         <!-- Start einer News-Section-->
 
+
+        <div class="section" id="pitches">
+            <div class="container">                 
+                <div class="grid">
+                    <div class="col span-8">
+                        <div class="spacer"></div>
+                        <h1>KI-Start-up-Lunch-Pitches</h1>
+                        <br/>
+                        <p>KI-Start-ups aufgepasst:
+                        Wir bieten euch eine tolle Gelegenheit, euer Unternehmen bei der AI Week Mainfranken 2026 im Rahmen unserer 
+                        "KI-Start-up-Lunch-Pitches" zu präsentieren. Ab Mitte Mai 2026 gibt es dazu weitere Infos.</p>
+                        <h2>Ablauf:</h2>
+                    <p>Von Montag bis Freitag (22. bis 26. Juni) gibt es zur Mittagspause (12 bis 13 Uhr) drei bis vier Online-Pitches à
+                        5 Minuten. Moderiert werden die Start-up-Lunch-Pitches von Partnern des Netzwerkes <a href="https://gim-bayern.de"
+                        target="_blank">Gründen in Mainfranken</a>.</p>
+                        <br/> 
+                    <h2>Wer kann mitmachen?</h2>
+                    <ul>
+                            <li>Start-ups 2024 oder später gegründet; gerne noch in der Vorgründungsphase</li>
+                            <li>KI-Fokus ist ein Muss</li>
+                            <li>Vorzug für mainfränkische Gründungen, Bewerbungen aus dem gesamten deutschsprachigen Raum willkommen</li>
+                    </ul>
+                   <p>Die Teilnahme ist kostenfrei. Ab Mitte Mai 2026 beginnt die Bewerbungsfrist.</p>                              
+                    
+
+                   
+                       
+                       <br/><br/> 
+                        
+<br/><br/>                       
+                    </div>
+                </div>
+            </div>
+        </div> 
+
+
+        <div class="section" id="kategorien">
+            <div class="container">                 
+                <div class="grid">
+                    <div class="col span-8">
+                        <div class="spacer"></div>
+                        <h1>AI Week Mainfranken: unsere fünf Themen-Kategorien</h1>
+                        <br/>
+                        <p>5 Tage, 42 Events, 1 Thema: Vom 22. bis 26. Juni 2026 dreht sich in Mainfranken wieder alles um KI. Es gibt
+                        folgende thematische Kategorien bei der AI Week Mainfranken:
+                        <ul>
+                            <li>Tech & Science</li>
+                            <li>Digitale Gesellschaft & Nachhaltigkeit</li>
+                            <li>Business & New Work</li>
+                            <li>Gründen/Start-up</li>
+                            <li>Kultur</li>
+                        </ul>
+                    
+                   <p>Mögliche Themen aus den verschiedenen Kategorien:</p>
+                    <h2>1. Tech & Science</h2>                 
+                        <ul>
+                            <li>Software, z. B. KI-gestützte Softwareentwicklung</li>
+                            <li>Hardware</li>
+                            <li> KI-Modelle, u. a. Best Practices oder Training eigener Modelle<li>
+                            <li>aus Wissenschaft und Forschung, etwa KI im Medizinalltag oder bei der Materialforschung</li>
+                            <li>Robotik</li>
+                            <li>KI und Cyber Security</li>
+                        </ul>
+                        <br/>
+                    <h2>2. Digitale Gesellschaft</h2>
+
+                        <ul>
+                            <li>Smart City: KI für lebenswertere und nachhaltigere Städte</li>
+                            <li>KI in der Landwirtschaft</li>
+                            <li>Deepfakes und Desinformation: Wie KI unsere Wahrnehmung der Realität verändert </li>
+                        </ul>
+                        <br/>
+                    <h2>3. Business & New Work</h2>
+
+                        <ul>
+                            <li>KI-gestütztes Recruiting</li>
+                            <li>Predictive Maintenance: Wie KI Ausfallzeiten minimiert</li>
+                            <li>KI-gestützte Prozessoptimierung: Effizienzsteigerung in Unternehmen</li>
+                        </ul>
+                        <br/>
+                    <h2>4. Digitale Gesellschaft</h2>
+
+                        <ul>
+                            <li>KI-Startups: von der Idee zur erfolgreichen Gründung</li>
+                            <li>Kooperationen zwischen Start-ups und etablierten Unternehmen im KI-Bereich</li>
+                        </ul>
+                        <br/>
+                    <h2>5. Kultur</h2>
+
+                        <ul>
+                            <li>KI: Ist das Kunst oder kann das weg?</li>
+                            <li>KI-Tools für Musik, Filme oder Schreiben</li>
+                            <li>KI als Muse</li>
+                    </ul>
+                   
+                    <p>Wir freuen uns auf viele innovative Veranstaltungsideen und Eventformate. Ob Workshop, Vortrag,
+                        Podiumsdiskussion, Hack- oder Promptathon – der Kreativität sind keine Grenzen gesetzt! Sei
+                        dabei und lass uns gemeinsam Mainfranken auch als KI-Standort etablieren!</p>
+                    <p>Die Einreichungsfrist für Veranstaltungen beginnt am 13. Mai und endet am Sonntag, dem 31. Mai.</p>
+                    
+                    <a class="button" <a href="https://backend.timetable.ai-week.de/">Gleich Veranstaltung eintragen</a>
+                    <br/><br/>
+
+                    <h2>Unterstütze die Initiative als Sponsor</h2>
+                <p>Die AI Week ist auf die finanzielle Unterstützung von Sponsoren angewiesen. Damit können wir unter
+                    anderem die Stellen von Ute und Franzi, verschiedene Werbemaßnahmen und einiges mehr finanzieren.
+
+                    Bei Interesse melde dich <a href="mailto:ute.muendlein@10-o-clock.de">bei Ute</a>.</p>
+                    
+                        <br/><br/><br/>         
+                    </div>
+                </div>
+            </div>
+        </div> 
 
                 <div class="section" id="startups2026">
             <div class="container">                 
@@ -230,119 +344,7 @@
             </div>
         </div> 
 
-        <div class="section" id="pitches">
-            <div class="container">                 
-                <div class="grid">
-                    <div class="col span-8">
-                        <div class="spacer"></div>
-                        <h1>KI-Start-up-Lunch-Pitches</h1>
-                        <br/>
-                        <p>KI-Start-ups aufgepasst:
-                        Wir bieten euch eine tolle Gelegenheit, euer Unternehmen bei der AI Week Mainfranken 2026 im Rahmen unserer 
-                        "KI-Start-up-Lunch-Pitches" zu präsentieren. Ab Mitte Mai 2026 gibt es dazu weitere Infos.</p>
-                        <h2>Ablauf:</h2>
-                    <p>Von Montag bis Freitag (22. bis 26. Juni) gibt es zur Mittagspause (12 bis 13 Uhr) drei bis vier Online-Pitches à
-                        5 Minuten. Moderiert werden die Start-up-Lunch-Pitches von Partnern des Netzwerkes <a href="https://gim-bayern.de"
-                        target="_blank">Gründen in Mainfranken</a>.</p>
-                        <br/> 
-                    <h2>Wer kann mitmachen?</h2>
-                    <ul>
-                            <li>Start-ups 2024 oder später gegründet; gerne noch in der Vorgründungsphase</li>
-                            <li>KI-Fokus ist ein Muss</li>
-                            <li>Vorzug für mainfränkische Gründungen, Bewerbungen aus dem gesamten deutschsprachigen Raum willkommen</li>
-                    </ul>
-                   <p>Die Teilnahme ist kostenfrei. Ab Mitte Mai 2026 beginnt die Bewerbungsfrist.</p>                              
-                    
-
-                   
-                       
-                       <br/><br/> 
-                        
-<br/><br/>                       
-                    </div>
-                </div>
-            </div>
-        </div> 
-
-
-        <div class="section" id="kategorien">
-            <div class="container">                 
-                <div class="grid">
-                    <div class="col span-8">
-                        <div class="spacer"></div>
-                        <h1>AI Week Mainfranken: unsere fünf Themen-Kategorien</h1>
-                        <br/>
-                        <p>5 Tage, 42 Events, 1 Thema: Vom 22. bis 26. Juni 2026 dreht sich in Mainfranken wieder alles um KI. Es gibt
-                        folgende thematische Kategorien bei der AI Week Mainfranken:
-                        <ul>
-                            <li>Tech & Science</li>
-                            <li>Digitale Gesellschaft & Nachhaltigkeit</li>
-                            <li>Business & New Work</li>
-                            <li>Gründen/Start-up</li>
-                            <li>Kultur</li>
-                        </ul>
-                    
-                   <p>Mögliche Themen aus den verschiedenen Kategorien:</p>
-                    <h2>1. Tech & Science</h2>                 
-                        <ul>
-                            <li>Software, z. B. KI-gestützte Softwareentwicklung</li>
-                            <li>Hardware</li>
-                            <li> KI-Modelle, u. a. Best Practices oder Training eigener Modelle<li>
-                            <li>aus Wissenschaft und Forschung, etwa KI im Medizinalltag oder bei der Materialforschung</li>
-                            <li>Robotik</li>
-                            <li>KI und Cyber Security</li>
-                        </ul>
-                        <br/>
-                    <h2>2. Digitale Gesellschaft</h2>
-
-                        <ul>
-                            <li>Smart City: KI für lebenswertere und nachhaltigere Städte</li>
-                            <li>KI in der Landwirtschaft</li>
-                            <li>Deepfakes und Desinformation: Wie KI unsere Wahrnehmung der Realität verändert </li>
-                        </ul>
-                        <br/>
-                    <h2>3. Business & New Work</h2>
-
-                        <ul>
-                            <li>KI-gestütztes Recruiting</li>
-                            <li>Predictive Maintenance: Wie KI Ausfallzeiten minimiert</li>
-                            <li>KI-gestützte Prozessoptimierung: Effizienzsteigerung in Unternehmen</li>
-                        </ul>
-                        <br/>
-                    <h2>4. Digitale Gesellschaft</h2>
-
-                        <ul>
-                            <li>KI-Startups: von der Idee zur erfolgreichen Gründung</li>
-                            <li>Kooperationen zwischen Start-ups und etablierten Unternehmen im KI-Bereich</li>
-                        </ul>
-                        <br/>
-                    <h2>5. Kultur</h2>
-
-                        <ul>
-                            <li>KI: Ist das Kunst oder kann das weg?</li>
-                            <li>KI-Tools für Musik, Filme oder Schreiben</li>
-                            <li>KI als Muse</li>
-                    </ul>
-                   
-                    <p>Wir freuen uns auf viele innovative Veranstaltungsideen und Eventformate. Ob Workshop, Vortrag,
-                        Podiumsdiskussion, Hack- oder Promptathon – der Kreativität sind keine Grenzen gesetzt! Sei
-                        dabei und lass uns gemeinsam Mainfranken auch als KI-Standort etablieren!</p>
-                    <p>Die Einreichungsfrist für Veranstaltungen beginnt Mitte Mai, den genauen Termin geben wir noch bekannt. Bei Interesse melde dich gerne für unseren Veranstalter-Verteiler an, dann wirst du rechtzeitig über alle Termine informiert.</p>
-                    
-                    <a class="button" <a href="https://t2f924de9.emailsys2a.net/198/8419/0dc52b6de6/subscribe/form.html?_g=1774352717"">Für den Veranstalter-Verteiler anmelden</a>
-                    <br/><br/>
-
-                    <h2>Unterstütze die Initiative als Sponsor</h2>
-                <p>Die AI Week ist auf die finanzielle Unterstützung von Sponsoren angewiesen. Damit können wir unter
-                    anderem die Stellen von Ute und Franzi, verschiedene Werbemaßnahmen und einiges mehr finanzieren.
-
-                    Bei Interesse melde dich <a href="mailto:ute.muendlein@10-o-clock.de">bei Ute</a>.</p>
-                    
-                        <br/><br/><br/>         
-                    </div>
-                </div>
-            </div>
-        </div> 
+       
         <div class="section" id="zahlen2025">
             <div class="container">                 
                 <div class="grid">

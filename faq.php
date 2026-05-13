@@ -166,7 +166,7 @@
             <input type="checkbox" name="accordion-19" id="cb19">
             <label for="cb19" class="tab__label">Warum nur maximal 42 Termine und eine so kurze Einreichungsfrist?</label>
             <div class="tab__content">
-                <p>Das ermöglicht es uns, ein hochaktuelles und relevantes Programm <a href="programm.php" target="_blank">(Themen 2025)</a> zusammenzustellen, 
+                <p>Das ermöglicht es uns, ein hochaktuelles und relevantes Programm zusammenzustellen, 
                 das die neuesten KI-Entwicklungen widerspiegelt und mit maximal 42 Terminen übersichtlich bleibt.</p>
             </div>
         </div>

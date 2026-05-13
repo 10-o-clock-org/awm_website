@@ -43,7 +43,7 @@
                         <br/>
                         <p>KI-Start-ups aufgepasst:
                         Wir bieten euch eine tolle Gelegenheit, euer Unternehmen bei der AI Week Mainfranken 2026 im Rahmen unserer 
-                        "KI-Start-up-Lunch-Pitches" zu präsentieren. Ab Mitte Mai 2026 gibt es dazu weitere Infos.</p>
+                        "KI-Start-up-Lunch-Pitches" zu präsentieren.</p>
                         <h2>Ablauf:</h2>
                     <p>Von Montag bis Freitag (22. bis 26. Juni) gibt es zur Mittagspause (12 bis 13 Uhr) drei bis vier Online-Pitches à
                         5 Minuten. Moderiert werden die Start-up-Lunch-Pitches von Partnern des Netzwerkes <a href="https://gim-bayern.de"

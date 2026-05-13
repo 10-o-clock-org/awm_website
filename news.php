@@ -114,7 +114,7 @@
                             <li>KI-gestützte Prozessoptimierung: Effizienzsteigerung in Unternehmen</li>
                         </ul>
                         <br/>
-                    <h2>4. Digitale Gesellschaft</h2>
+                    <h2>4. Gründen/Start-up</h2>
 
                         <ul>
                             <li>KI-Startups: von der Idee zur erfolgreichen Gründung</li>

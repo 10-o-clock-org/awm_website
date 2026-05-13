@@ -98,7 +98,7 @@
                            target="_blank">Newsletter neunsieben.digital</a> an und folge uns auf <a
                            aria-label="LinkedIn-Seite der der AI Week Mainfranken"
                            href="https://www.linkedin.com/company/wuerzburg-web-week" target="_blank">LinkedIn</a> und
-                        <a aria-label="Instagram-Seite der Wuerzburg Web Week" href="https://www.instagram.com/wueww"
+                        <a aria-label="Instagram-Seite der Wuerzburg Web Week" href="https://www.instagram.com/neunsieben_digital"
                            target="_blank">Instagram</a>, um nichts zu verpassen.</p>
                                 </div>
                                 <div class="tab">

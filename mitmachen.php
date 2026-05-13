@@ -33,7 +33,7 @@
                                 Frühstück, Programmiersession, ein Promptathon oder was immer euch einfällt.</li>
                         <li>Gebt an, wann ihr die Veranstaltung anbieten wollt (Datum und Uhrzeit).</li>
                     </ul>
-                    <p>Die Einreichungsfrist für Veranstaltungen läuft bis zum 31. Mai um 23:59 Uhr. ben wir noch bekannt. </p>
+                    <p>Die Einreichungsfrist für Veranstaltungen läuft bis zum 31. Mai um 23:59 Uhr.</p>
                     
                     <a class="button" <a href="https://backend.timetable.ai-week.de/">Gleich Veranstaltung eintragen</a>
                     <br/><br/>

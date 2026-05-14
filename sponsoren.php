@@ -24,6 +24,7 @@
                         <h2 style="margin-top: 2rem">Goldsponsoren</h2>
                         <br/><br/>
                         <div class="goldsponsoren">
+                            <div class="white-bg"><a href="https://www.intense.de" target="_blank"><img src="images/logo-intense-ag.png" alt="Logo Intense AG" /></a></div> 
                              <div class="white-bg"><a href="" target="_blank"><img src="images/logo-ai-week-sponsor-werden.png" alt="" /></a></div>
                         
                         </div>

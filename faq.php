@@ -205,7 +205,7 @@
                                <li>einen KI-Fokus haben.</li> 
                                <li>2024 oder später gegründet wurden, gerne auch noch in der Vorgründungsphase.</li>
                                     </ul> 
-                                <p>Wenn die oben genannten Punkte auf dich/euch zutreffen, trag euer Idee/Start-up in <a href="https://forms.gle/Mw9edYL72tEYSy6y7"
+                                <p>Wenn die oben genannten Punkte auf dich/euch zutreffen, trag euer Idee/Start-up in <a href="https://forms.gle/rhnEfp5EP5MdRuvj9"
                                 target="_blank">unser Bewerbungsformular</a> ein.</p>
             </div>
         </div>

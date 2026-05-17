@@ -55,10 +55,10 @@
                             <li>KI-Fokus ist ein Muss</li>
                             <li>Vorzug für mainfränkische Gründungen, Bewerbungen aus dem gesamten deutschsprachigen Raum willkommen</li>
                     </ul>
-                   <p>Die Teilnahme ist kostenfrei. Bis Montag, dem 8. Juni kannst du dich/ihr euch bewerben. Bitte nutze dafür <a href="https://forms.gle/Mw9edYL72tEYSy6y7"
+                   <p>Die Teilnahme ist kostenfrei. Bis Montag, dem 8. Juni kannst du dich/ihr euch bewerben. Bitte nutze dafür <a href="https://forms.gle/rhnEfp5EP5MdRuvj9"
                    target="_blank">unser Bewerbungsformular</a>. Weitere Informationen zu den KI-Start-up-Lunch-Pitches findest du auch <a href="faq.php">in unseren FAQ.</a></p>                              
                     
-                   <a class="button" href="https://forms.gle/Mw9edYL72tEYSy6y7">Für die KI-Start-up-Pitches bewerben</a>
+                   <a class="button" href="https://forms.gle/rhnEfp5EP5MdRuvj9">Für die KI-Start-up-Pitches bewerben</a>
                    
                        
                        <br/><br/> 

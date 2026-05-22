@@ -25,7 +25,8 @@
                         <br/><br/>
                         <div class="goldsponsoren">
                             <div class="white-bg"><a href="https://www.intense.de" target="_blank"><img src="images/logo-intense-ag.png" alt="Logo Intense AG" /></a></div> 
-                            <div class="white-bg"><a href="https://14leafs.de" target="_blank"><img src="images/Logo 14leafs Venture Capital Fonds aus Unterfranken.png" alt="Logo 14leafs Venture Capital Fonds aus Unterfranken" /></a></div> 
+                            <div class="white-bg"><a href="https://14leafs.de" target="_blank"><img src="images/Logo 14leafs Venture Capital Fonds aus Unterfranken.png" alt="Logo 14leafs Venture Capital Fonds aus Unterfranken" /></a></div>
+                            <div class="white-bg"><a href="https://www.garmin.com/de-DE/careers/benefits/wurzburg/" target="_blank"><img src="images/logo-garmin.png" alt="Logo Garmin" /></a></div>  
                              <div class="white-bg"><a href="" target="_blank"><img src="images/logo-ai-week-sponsor-werden.png" alt="" /></a></div>
                         
                         </div>

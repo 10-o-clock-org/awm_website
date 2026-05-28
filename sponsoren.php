@@ -46,7 +46,7 @@
                            
                         
                             
-                            /Users/utemundlein/Documents/GitHub/awm_website/images/logo-stadt-wuerzburg.png
+                           
                         </div>
                     </div>
 

@@ -35,11 +35,15 @@
                         <div class="goldsponsoren">
                         <div class="white-bg"><a href="https://www.mainfranken.org" target="_blank"><img src="images/Logo_Region Mainfranken.png" alt="Logo Region Mainfranken GmbH" /></a></div>     
                         </div>
+                        <h2 style="margin-top: 5rem">Automation Partner</h2>
+                        <br/><br/>
+                        <div class="supporter">
+                        <div class="white-bg"><a href="https://www.salesautomationlabs.com" target="_blank"><img src="images/SAL sales automation labs logo.png" alt="Logo sales automation labs UG München" /></a></div>
+                        </div>
                         <h2 style="margin-top: 5rem">Supporter</h2>
                         <br/><br/>
                         <div class="supporter">
                         <div class="white-bg"><a href="https://www.computy.de/" target="_blank"><img src="images/Computy_Logo.png" alt="Logo computy." /></a></div>
-                            <div class="white-bg"><a href="https://www.salesautomationlabs.com" target="_blank"><img src="images/SAL sales automation labs logo.png" alt="Logo sales automation labs UG München" /></a></div>
                             <div class="white-bg"><a href="https://sva.de/de" target="_blank"><img src="images/Logo_SVA System Vertrieb Alexander GmbH.png" alt="Logo SVA System Vertrieb Alexander GmbH" /></a></div>
                             <div class="white-bg"><a href="https://www.wuerzburg.de/unternehmen/wirtschaftsfoerderung" target="_blank"><img src="images/logo-stadt-wuerzburg.png" alt="Logo Stadt Würzburg" /></a></div>
                             <div class="white-bg"><a href="https://baiosphere.org" target="_blank"><img src="images/logo-baiosphere.png" alt="Logo BAIOSPHERE The Bavarian AI Network" /></a></div>

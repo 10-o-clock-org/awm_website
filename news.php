@@ -132,9 +132,8 @@
                     <p>Wir freuen uns auf viele innovative Veranstaltungsideen und Eventformate. Ob Workshop, Vortrag,
                         Podiumsdiskussion, Hack- oder Promptathon – der Kreativität sind keine Grenzen gesetzt! Sei
                         dabei und lass uns gemeinsam Mainfranken auch als KI-Standort etablieren!</p>
-                    <p>Die Einreichungsfrist für Veranstaltungen beginnt am 13. Mai und endet am Sonntag, dem 31. Mai.</p>
-                    
-                    <a class="button" <a href="https://backend.timetable.ai-week.de/">Gleich Veranstaltung eintragen</a>
+                    <p>Die Einreichungsfrist ist inzwischen beendet. Demnächst veröffentlichen wir das aktuelle Programm. Stay tuned.</p>                   
+                 
                     <br/><br/>
 
                     <h2>Unterstütze die Initiative als Sponsor</h2>

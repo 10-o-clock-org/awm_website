@@ -119,7 +119,7 @@
                                 <input type="checkbox" name="accordion-14" id="cb14">
                                 <label for="cb14" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
                                 <div class="tab__content">
-                                <p>Eine Veranstaltung kannst du in unser <a href="https://backend.timetable.ai-week.de/">Event-Tool eintragen</a>. Die Einreichungsfrist für Veranstaltungen läuft bis zum 31. Mai (23:59 Uhr).</p>
+                                <p>Die Einreichungsfrist für Veranstaltungen ist inzwischen beendet. Ab Anfang Juni veröffentlichen wir das Programm 2026.</p>
                                 </div>
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-15" id="cb15">
@@ -131,7 +131,7 @@
                                 <input type="checkbox" name="accordion-16" id="cb16">
                                 <label for="cb16" class="tab__label">Gibt es eine Bewerbungsfrist für Veranstalter?</label>
                                 <div class="tab__content">
-                                <p>Die Einreichungsfrist für Veranstaltungen endet am 31. Mai um 23:59 Uhr. Hier geht es zu unserem <a href="https://backend.timetable.ai-week.de/">Event-Tool.</a></p>
+                                <p>Die Einreichungsfrist für Veranstaltungen ist inzwischen beendet. Ab Anfang Juni veröffentlichen wir das Programm 2026.</a></p>
 
                                 </div>
                                 <div class="tab">                                

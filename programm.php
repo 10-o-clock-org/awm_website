@@ -1,5 +1,5 @@
 <?php 
-    $title = 'Programm 2025'; 
+    $title = 'Programm 2026'; 
     include("inc/variables.php");
     include("template-parts/header.php");
 ?>
@@ -30,6 +30,6 @@
 </div>
 <script src="js/jquery-3.3.1.min.js"></script>
 <script src="js/theme.js" type="text/javascript"></script>
-<script src="timetable/main.78226aa2.js"></script>
+<script src="timetable/main.5466c032.js"></script>
 </body>
 </html>

@@ -23,6 +23,8 @@
                         <p>Bei der zweiten AI Week hatten wir <a href="https://www.ai-week.de/news.php#zahlen2025">über 1.100 Teilnehmenden</a> – und das in der heißesten Woche des Jahres. 😅
                         Jetzt freuen wir uns auf die dritte Ausgabe vom 22. bis 26. Juni 2026.</p>
                 <br/>
+               
+                
                 <h2>Als Veranstalterin und Veranstalter dabei sein</h2>
                 <p>Wer die Wuerzburg Web Week kennt, wird sich bei der AI Week gleich wie zu Hause fühlen. Wir
                     übernehmen das erfolgreiche dezentrale Konzept. Das heißt: </p>                      
@@ -35,6 +37,7 @@
                     </ul>
                     <p>Die Einreichungsfrist für Veranstaltungen ist inzwischen beendet.</p>
                     
+                    <a class="button" href="https://www.ai-week.de/programm.php">Zum Programm 2026</a>
                    
                     <br/><br/>
                     <h2>Unterstütze die Initiative als Sponsor</h2>

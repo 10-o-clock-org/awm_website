@@ -132,10 +132,14 @@
                     <p>Wir freuen uns auf viele innovative Veranstaltungsideen und Eventformate. Ob Workshop, Vortrag,
                         Podiumsdiskussion, Hack- oder Promptathon – der Kreativität sind keine Grenzen gesetzt! Sei
                         dabei und lass uns gemeinsam Mainfranken auch als KI-Standort etablieren!</p>
-                    <p>Die Einreichungsfrist ist inzwischen beendet. Demnächst veröffentlichen wir das aktuelle Programm. Stay tuned.</p>                   
+                                  
                  
-                    <br/><br/>
+                    <br/>
+                   
 
+                    <a class="button" href="https://www.ai-week.de/programm.php">Zum Programm 2026</a>
+                    <br/> <br/>
+                                       
                     <h2>Unterstütze die Initiative als Sponsor</h2>
                 <p>Die AI Week ist auf die finanzielle Unterstützung von Sponsoren angewiesen. Damit können wir unter
                     anderem die Stellen von Ute und Franzi, verschiedene Werbemaßnahmen und einiges mehr finanzieren.

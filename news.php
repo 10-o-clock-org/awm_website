@@ -137,8 +137,9 @@
                     <br/>
                    
 
+                    <div style="margin-bottom: 4rem;">
                     <a class="button" href="https://www.ai-week.de/programm.php">Zum Programm 2026</a>
-                    <br/> <br/>
+                    </div>
                                        
                     <h2>Unterstütze die Initiative als Sponsor</h2>
                 <p>Die AI Week ist auf die finanzielle Unterstützung von Sponsoren angewiesen. Damit können wir unter

@@ -37,7 +37,9 @@
                                 <input type="checkbox" name="accordion-2" id="cb2">
                                 <label for="cb2" class="tab__label">Wann und wo findet sie statt?</label>
                                 <div class="tab__content">
-                                    <p>Vom 22. bis 26. Juni 2026 an verschiedenen Orten in Mainfranken sowie online.</p>
+                                    <p>Vom 22. bis 26. Juni 2026 an verschiedenen Orten in Mainfranken sowie online.
+                                    Alle Veranstaltungen findest du im <a href="https://www.ai-week.de/programm.php">Programm 2026</a>.    
+                                    </p>
                                 </div>
                             </div>
                             
@@ -53,7 +55,7 @@
                                 <input type="checkbox" name="accordion-4" id="cb4">
                                 <label for="cb4" class="tab__label">Wie viel kostet die Teilnahme?</label>
                                 <div class="tab__content">
-                                    <p>Die meisten Veranstaltungen sind kostenfrei. Mehr dazu ab Juni 2026 im Programm.</p>
+                                    <p>Die meisten Veranstaltungen sind kostenfrei. <a href="https://www.ai-week.de/programm.php">Zum Programm 2026</a>.</p>
                                 </div>
                             </div>
                             <div class="tab">
@@ -67,20 +69,20 @@
                                 <input type="checkbox" name="accordion-6" id="cb6">
                                 <label for="cb6" class="tab__label">Gibt es auch Veranstaltungen für KI-Einsteiger?</label>
                                 <div class="tab__content">
-                                    <p>Ja, wir werden Veranstaltungen für alle Wissensstände haben: für interessierte Einsteiger, ambitionierte Anwenderinnen und KI-Profis. Mehr dazu ab Juni 2026 im Programm</a>.</p>
+                                    <p>Ja, wir werden Veranstaltungen für alle Wissensstände haben: für interessierte Einsteiger, ambitionierte Anwenderinnen und KI-Profis. <a href="https://www.ai-week.de/programm.php">Zum Programm 2026</a>.</p>
                                 </div>
                                 
                                 <div class="tab">
                                 <input type="checkbox" name="accordion-8" id="cb8">
                                 <label for="cb8" class="tab__label">Wie unterscheidet sich die AI Week Mainfranken von klassischen Konferenzen?</label>
                                 <div class="tab__content">
-                                    <p>Du erlebst ein dezentrales Konzept, verschiedene Veranstaltungsformate und -orte und hast die Möglichkeit, selbst ein Event anzubieten.</p>
+                                    <p>Du erlebst ein dezentrales Konzept, verschiedene Veranstaltungsformate und -orte und hast die Möglichkeit, selbst ein Event anzubieten.<a href="https://www.ai-week.de/programm.php">Zum Programm 2026</a>.</p>
                                 </div>
                                 <div class="tab">
                                 <input type="checkbox" name="accordion-9" id="cb9">
                                 <label for="cb9" class="tab__label">Wie melde ich mich für einzelne Veranstaltungen an?</label>
                                 <div class="tab__content">
-                                    <p>Mehr dazu ab Juni 2026 im Programm</a>.</p>
+                                    <p>Mehr Infos dazu bei der jeweiligen Veranstaltung. <a href="https://www.ai-week.de/programm.php">Zum Programm 2026</a></p>
                                 </div>
                                 <div class="tab">
                                 <input type="checkbox" name="accordion-10" id="cb10">
@@ -119,7 +121,7 @@
                                 <input type="checkbox" name="accordion-14" id="cb14">
                                 <label for="cb14" class="tab__label">Wie kann ich eine Veranstaltung anbieten?</label>
                                 <div class="tab__content">
-                                <p>Die Einreichungsfrist für Veranstaltungen ist inzwischen beendet. Ab Anfang Juni veröffentlichen wir das Programm 2026.</p>
+                                <p>Die Einreichungsfrist für Veranstaltungen ist inzwischen beendet. <a href="https://www.ai-week.de/programm.php">Zum Programm 2026</a>.</p>
                                 </div>
                                 <div class="tab">                                
                                 <input type="checkbox" name="accordion-15" id="cb15">
@@ -131,7 +133,7 @@
                                 <input type="checkbox" name="accordion-16" id="cb16">
                                 <label for="cb16" class="tab__label">Gibt es eine Bewerbungsfrist für Veranstalter?</label>
                                 <div class="tab__content">
-                                <p>Die Einreichungsfrist für Veranstaltungen ist inzwischen beendet. Ab Anfang Juni veröffentlichen wir das Programm 2026.</a></p>
+                                <p>Die Einreichungsfrist für Veranstaltungen ist inzwischen beendet. <a href="https://www.ai-week.de/programm.php">Zum Programm 2026</a>.</p>
 
                                 </div>
                                 <div class="tab">                                
@@ -167,14 +169,14 @@
             <label for="cb19" class="tab__label">Warum nur maximal 42 Termine und eine so kurze Einreichungsfrist?</label>
             <div class="tab__content">
                 <p>Das ermöglicht es uns, ein hochaktuelles und relevantes Programm zusammenzustellen, 
-                das die neuesten KI-Entwicklungen widerspiegelt und mit maximal 42 Terminen übersichtlich bleibt.</p>
+                das die neuesten KI-Entwicklungen widerspiegelt und mit maximal 42 Terminen übersichtlich bleibt. <a href="https://www.ai-week.de/programm.php">Zum Programm 2026</a>.</p>
             </div>
         </div>
         <div class="tab">
             <input type="checkbox" name="accordion-20" id="cb20">
             <label for="cb20" class="tab__label">Wann bekomme ich Bescheid, ob die Veranstaltung ins Programm aufgenommen wurde?</label>
             <div class="tab__content">
-            <p>Ab Anfang Juni 2026.</p>
+            <p>Ab Anfang Juni 2026. <a href="https://www.ai-week.de/programm.php">Zum Programm 2026</a>.</p>
                            
                         </div>
                                                     <div class="tab">

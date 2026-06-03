@@ -2,7 +2,7 @@
 $pages = array(
     'about.php' => 'About',
     'mitmachen.php' => 'Mitmachen',
-    'programm.php' => 'Programm 2025',
+    'programm.php' => 'Programm 2026',
     'sponsoren.php' => 'Sponsoren',
     'news.php' => 'News',
 ) ;

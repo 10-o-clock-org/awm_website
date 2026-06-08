@@ -48,6 +48,7 @@
                             <div class="white-bg"><a href="https://www.wuerzburg.de/unternehmen/wirtschaftsfoerderung" target="_blank"><img src="images/logo-stadt-wuerzburg.png" alt="Logo Stadt Würzburg" /></a></div>
                             <div class="white-bg"><a href="https://baiosphere.org" target="_blank"><img src="images/logo-baiosphere.png" alt="Logo BAIOSPHERE The Bavarian AI Network" /></a></div>
                             <div class="white-bg"><a href="https://jobs.wvv.de" target="_blank"><img src="images/logo-Würzburger Versorgungs- und Verkehrs-GmbH WVV.png" alt="Logo Würzburger Versorgungs- und Verkehrs-GmbH" /></a></div>
+                            haha
                            
                         
                             

@@ -19,7 +19,8 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p> <a href="#pitches">2026-05-12 | KI-Start-up-Lunch-Pitches</a><br/>
+                        <p> <a href="#startuppitches2026">2026-06-20 | AI Week: 13 Start-ups pitchen ihre Lösung</a><br/>
+                            <a href="#pitches">2026-05-12 | KI-Start-up-Lunch-Pitches</a><br/>
                             <a href="#kategorien">2026-05-12 | AI Week Mainfranken: unsere fünf Themen-Kategorien</a><br/>     
                             <a href="#startups2026">2026-03-24 | Tech-Gründungen 2026</a><br/>
                             <a href="#interview-rockenstein">2026-03-20 | 1.000 Jobs für die AI Gigafactory Schweinfurt – realistisch?</a><br/>
@@ -33,15 +34,18 @@
         </div>
         <!-- Start einer News-Section-->
 
-        <div class="section" id="blog-pitches">
+        <div class="section" id="startuppitches2026">
     <div class="container">
         <div class="grid">
             <div class="col span-8">
                 <div class="spacer"></div>
                 <h1>So geht KI: 13 Start-ups pitchen ihre Lösung</h1>
                 <br/>
-                <p>Bei der AI Week Mainfranken 2026 zeigen 13 Teams, wofür KI eingesetzt werden kann: von Verletzungsprävention im Jugendfußball über Entgelttransparenz bis zu Sichtbarkeit in ChatGPT. Von Montag bis Donnerstag 
-                    während der Mittagspause (12 bis 13 Uhr), online. Moderiert werden die KI-Pitches von Partnern des Netzwerkes <a href="https://gim-bayern.de/" target="_blank">Gründen in Mainfranken</a>.</p>
+                <figure>
+                            <img src="images/KI-Start-up-Pitches 2026_Teaserbild.webp" alt="Teaserbild KI-Start-up-Pitches bei der AI Week 2026" />                           
+                        </figure><br/><br/>
+                <p>Bei der AI Week Mainfranken 2026 zeigen 13 Teams, wofür KI eingesetzt werden kann: von Verletzungsprävention im Jugendfußball über Entgelttransparenz bis zu Sichtbarkeit in ChatGPT. Von Montag bis Donnerstag online
+                    während der Mittagspause (12 bis 13 Uhr). Moderiert werden die KI-Pitches von Partnern des Netzwerkes <a href="https://gim-bayern.de/" target="_blank">Gründen in Mainfranken</a>.</p>
                     
                     <p>Das erwartet dich:</p>
 
@@ -70,7 +74,7 @@
                 <br/>
                 <h2>Donnerstag, 25. Juni</h2>
                 <ul>
-                    <li><a href="https://clarity-sync.ai" target="_blank">Clarity Sync</a> entwickelt die AI-native Unternehmensplattform für den Mittelstand: Unternehmen beschreiben ihr Ziel &ndash; das System setzt die Prozesse automatisch um.</li>
+                    <li><a href="https://clarity-sync.ai" target="_blank">Clarity Sync</a> entwickelt die AI-native Unternehmensplattform für den Mittelstand: Unternehmen beschreiben ihr Ziel, das System setzt die Prozesse dann automatisch um.</li>
                     <li><a href="https://jarm.ai" target="_blank">jarm.ai</a> entwickelt humanoide Roboter für verschiedene Einsatzzwecke, mit Fokus auf Entwickler-Usability.</li>
                     <li><a href="https://fairbinden.de" target="_blank">fairbinden.de</a> bringt Bildungsprojekte, Talente und Förderer per KI-Matching zusammen.</li>
                 </ul>
@@ -83,7 +87,7 @@
 
                 <br/><br/><br/><br/>
 
-                <p>Schau auch mal in unser Programm, welche spannenden Themen noch bei der AI Week angeboten werden. <a href="https://www.ai-week.de/programm.php" target="_blank">Zum Programm</a>
+                <p>Schau auch mal in unser Programm, welche spannenden Themen noch bei der AI Week angeboten werden. <a href="https://www.ai-week.de/programm.php" target="_blank">Zum Programm</a>.</p>
 
                 <br/><br/>
             </div>

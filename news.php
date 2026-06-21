@@ -33,6 +33,63 @@
         </div>
         <!-- Start einer News-Section-->
 
+        <div class="section" id="blog-pitches">
+    <div class="container">
+        <div class="grid">
+            <div class="col span-8">
+                <div class="spacer"></div>
+                <h1>So geht KI: 13 Start-ups pitchen ihre Lösung</h1>
+                <br/>
+                <p>Bei der AI Week Mainfranken 2026 zeigen 13 Teams, wofür KI eingesetzt werden kann: von Verletzungsprävention im Jugendfußball über Entgelttransparenz bis zu Sichtbarkeit in ChatGPT. Von Montag bis Donnerstag 
+                    während der Mittagspause (12 bis 13 Uhr), online. Moderiert werden die KI-Pitches von Partnern des Netzwerkes <a href="https://gim-bayern.de/" target="_blank">Gründen in Mainfranken</a>.</p>
+                    
+                    <p>Das erwartet dich:</p>
+
+                <br/>
+                <h2>Montag, 22. Juni</h2>
+                <ul>
+                    <li><a href="http://numerra.ai" target="_blank">numerra</a> analysiert Finanzdaten im Unternehmenskontext und liefert KI-gestützte Handlungsempfehlungen, wie ein Controller oder Berater.</li>
+                    <li><a href="http://www.axisprevention.de" target="_blank">AXIS Prevention Systems</a> entwickelt KI-gestützte Analysen zur strukturierten Verletzungsprävention im Jugendfußball mit konkreten Trainingsempfehlungen.</li>
+                    <li><a href="https://lumaid.de" target="_blank">Lumaid</a> macht sichtbar, welche KI-Tools deine Mitarbeitenden wirklich nutzen &ndash; DSGVO-konform und Made in Germany.</li>
+                </ul>
+                <br/>
+                <h2>Dienstag, 23. Juni</h2>
+                <ul>
+                    <li><strong>Bildung-Buddy</strong> hält das Werkstatt-Wissen erfahrener Meister fest, bevor es in Rente geht, und macht es für Azubis, Berichtsheft und Lernfelder direkt nutzbar.</li>
+                    <li><a href="https://www.assetpatrol.de" target="_blank">AssetPatrol</a> erkennt agentenlos alle Geräte im Firmennetz und findet deren Schwachstellen &ndash; für den NIS2-pflichtigen Mittelstand ohne Security-Team.</li>
+                    <li><a href="https://talentzentrum-mainfranken.site" target="_blank">Talentzentrum Mainfranken</a> macht sportliches Talent bei Kindern datenbasiert sichtbar &ndash; durch Tests, Vergleichswerte und KI-gestützte Auswertung.</li>
+                </ul>
+                <br/>
+                <h2>Mittwoch, 24. Juni</h2>
+                <ul>
+                    <li><a href="http://www.claritava.com" target="_blank">Claritava</a> ist die KI-gestützte SaaS-Lösung für Entgelttransparenz. Sie hilft HR-Teams, faire Vergütungsstrukturen effizient umzusetzen, EU-konform zu dokumentieren und Prozesse digital zu steuern.</li>
+                    <li><a href="https://autopix.online" target="_blank">AutoPix</a> erstellt KI-generierte Fahrzeugfotos in echten Alltagssituationen &ndash; inspirierender als jedes Autohaus-Foto.</li>
+                    <li><a href="https://www.vecdoor.com" target="_blank">VecDoor</a> misst, wie sichtbar Unternehmen in den Antworten von ChatGPT, Perplexity und Gemini sind, und zeigt konkrete Maßnahmen für bessere Darstellung in LLMs.</li>
+                    <li><strong>Limestack</strong> ist eine kuratierte Bibliothek fertiger KI-Agenten für die Energiebranche &ndash; integrierbar in Microsoft Copilot, Langdock oder Claude, ohne komplexes IT-Projekt.</li>
+                </ul>
+                <br/>
+                <h2>Donnerstag, 25. Juni</h2>
+                <ul>
+                    <li><a href="https://clarity-sync.ai" target="_blank">Clarity Sync</a> entwickelt die AI-native Unternehmensplattform für den Mittelstand: Unternehmen beschreiben ihr Ziel &ndash; das System setzt die Prozesse automatisch um.</li>
+                    <li><a href="https://jarm.ai" target="_blank">jarm.ai</a> entwickelt humanoide Roboter für verschiedene Einsatzzwecke, mit Fokus auf Entwickler-Usability.</li>
+                    <li><a href="https://fairbinden.de" target="_blank">fairbinden.de</a> bringt Bildungsprojekte, Talente und Förderer per KI-Matching zusammen.</li>
+                </ul>
+
+                <br/>
+                <p>📅 22. bis 25. Juni, täglich von 12 bis 13 Uhr<br/>
+                🌐 Online, keine Anmeldung erforderlich</p>
+            
+                <a class="button" href="https://us06web.zoom.us/j/83118342682?pwd=yHnnrnbyBQOtTbgaSq5QWPibSSmK6W.1" target="_blank">An den Start-up-Pitches teilnehmen</a>
+
+                <br/><br/><br/><br/>
+
+                <p>Schau auch mal in unser Programm, welche spannenden Themen noch bei der AI Week angeboten werden. <a href="https://www.ai-week.de/programm.php" target="_blank">Zum Programm</a>
+
+                <br/><br/>
+            </div>
+        </div>
+    </div>
+</div>
 
         <div class="section" id="pitches">
             <div class="container">                 

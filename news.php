@@ -231,7 +231,7 @@
 <br/><br/>
 <div class="startup-box">
     <h3>Clarity Sync GmbH i. G. | 97295 Waldbrunn</h3>
-    <p>Entwickelt die nächste Generation von Unternehmenssoftware: AI-native, ein Satz und der Rest entsteht von selbst.</p>
+    <p>AI-native Unternehmensplattform. Von der Idee zur Lösung. In nur einem Satz.</p>
     <p>→ <a href="https://clarity-sync.ai" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/claritysync" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
 <br/>

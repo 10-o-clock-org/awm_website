@@ -230,6 +230,12 @@
 <h2>Fokus auf KI</h2>
 <br/><br/>
 <div class="startup-box">
+    <h3>Clarity Sync GmbH i. G. | 97295 Waldbrunn</h3>
+    <p>Entwickelt die nächste Generation von Unternehmenssoftware: AI-native, ein Satz und der Rest entsteht von selbst.</p>
+    <p>→ <a href="https://clarity-sync.ai" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/claritysync" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<br/>
+<div class="startup-box">
     <h3>KLAO GmbH | 97072 Würzburg</h3>
     <p>KI-gestützte Lösung, die Texte in zertifizierte, DIN-konforme Leichte Sprache übersetzt.</p>
     <p>→ <a href="https://www.klao.eu/" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/klao-eu/" target="_blank" rel="noopener">LinkedIn</a></p>

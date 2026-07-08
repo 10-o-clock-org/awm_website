@@ -53,7 +53,7 @@
                 <h2>„Rekord" für die AI Week</h2>
                 <p>Insgesamt zählten wir 1.067 Teilnehmende (Vorjahr: 1.168). Es waren etwas weniger als 2025, aber da hatten wir drei Online-Events mit über 100 Teilnehmenden.</p>
                 <p>Gleichwohl können wir auch Rekorde vermelden: Die Präsenz-Events haben sich gegenüber dem Vorjahr auf 22 verdoppelt. Mit insgesamt 493 Teilnehmenden vor Ort waren es zudem so viele wie noch nie, ein Plus von 62 Prozent gegenüber 2025. Dazu passt ein Satz aus der anonymen Teilnehmer-Umfrage:</p>
-                <p>"Je kleiner der Raum, desto mehr nimmst du an Wissen mit. Danke für die tolle AI Week."</p>
+                <p><em>"Je kleiner der Raum, desto mehr nimmst du an Wissen mit. Danke für die tolle AI Week."</em></p>
                 <p>Und die Zahl der Einreichungen überstieg mit 53 erstmals die der verfügbaren Programmslots.</p>
                 <br/><br/>
  

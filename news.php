@@ -256,13 +256,18 @@
 </div>
 <div class="startup-box">
     <h3>LaMa Recycling GmbH | 97076 Würzburg</h3>
-    <p>Kunststoffe-Recycling und vollständiges Rückgewinnung aller im Verbund enthaltenen Fraktionen, wie Naturfasern und Superabsorber.</p>
+    <p>Kunststoffe-Recycling und vollständige Rückgewinnung aller im Verbund enthaltenen Fraktionen, wie Naturfasern und Superabsorber.</p>
     <p>→ <a href="https://www.lamarecycling.com" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/lama-consulting/" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
 <div class="startup-box">
     <h3>peeps GmbH | 97070 Würzburg</h3>
     <p>Online sich mit Menschen für analoge Aktivitäten zu verabreden, Kaffee trinken, Joggen etc.</p>
     <p>→ <a href="https://www.peeps-official.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/peeps-the-social-club" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<div class="startup-box">
+    <h3>TigerShark Science GmbH | 97070 Würzburg</h3>
+    <p>Sie züchten menschliche Haut im Labor, um Tierversuche zu reduzieren.</p>
+    <p>→ <a href="https://tsscience.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/tigershark-science" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
 
 <h2>Noch mehr Gründungen? Wir ergänzen die Liste</h2>

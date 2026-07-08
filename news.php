@@ -34,6 +34,66 @@
         </div>
         <!-- Start einer News-Section-->
 
+        <div class="section" id="zahlen2026">
+    <div class="container">
+        <div class="grid">
+            <div class="col span-8">
+                <div class="spacer"></div>
+                <h1>AI Week 2026: 1.067 Teilnehmende und ein Einkaufswagen</h1>
+                <br/>
+                <figure>
+                    <img src="images/zahlen-ai-week-mainfranken-2026.jpg" alt="Teaserbild mit Impressionen und Fotos von der AI Week 2026" />
+                </figure><br/><br/>
+ 
+                <p>Es war die heißeste Woche des Jahres. Dennoch haben Hunderte Menschen kühle Räume verlassen oder sich von dort zugeschaltet, um sich bei der dritten AI Week Mainfranken über KI zu informieren, die wichtigste Technologie unserer Zeit.</p>
+ 
+                <p>Wenn man so will: mAInfranken statt Silicon Valley. Die Wichtigkeit von „lokaler KI" wurde in dieser Woche umso dringlicher, nachdem Anthropic am 12. Juni, rund zehn Tage vor dem Start der AI Week, auf Anordnung der US-Regierung den Zugang zu seinen neuesten Modellen Fable&nbsp;5 und Mythos&nbsp;5 für alle Nicht-US-Bürger gesperrt hatte (inzwischen wieder aufgehoben). Passenderweise hatten wir während der AI Week mit <em>„Lokale KI – einfach probieren"</em> auch eine Veranstaltung dazu.</p>
+                <br/><br/>
+ 
+                <h2>„Rekord" für die AI Week</h2>
+                <p>Insgesamt zählten wir 1.067 Teilnehmende (Vorjahr: 1.168). Es waren etwas weniger als 2025, aber da hatten wir drei Online-Events mit über 100 Teilnehmenden.</p>
+                <p>Gleichwohl können wir auch Rekorde vermelden: Die Präsenz-Events haben sich gegenüber dem Vorjahr auf 22 verdoppelt. Mit insgesamt 493 Teilnehmenden vor Ort waren es zudem so viele wie noch nie, ein Plus von 62 Prozent gegenüber 2025. Dazu passt ein Satz aus der anonymen Teilnehmer-Umfrage:</p>
+                <p>"Je kleiner der Raum, desto mehr nimmst du an Wissen mit. Danke für die tolle AI Week."</p>
+                <p>Und die Zahl der Einreichungen überstieg mit 53 erstmals die der verfügbaren Programmslots.</p>
+                <br/><br/>
+ 
+                <h2>Wo am meisten los war</h2>
+                <p>Die „Publikumsmagnete" waren:</p>
+                <ul>
+                    <li>Vor Ort: der Live-Podcast „Recruiting Tech" (25.6.) mit 57 Gästen</li>
+                    <li>Online: „Skills für Agenten (und dich)" (23.6.) mit 93 Teilnehmenden</li>
+                </ul>
+                <p>Besonders beliebt bei Teilnehmern und Veranstaltern war der Donnerstag mit 327 Teilnehmenden und 12 Events.</p>
+                <br/><br/>
+ 
+                <h2>Und dann war da noch der Einkaufswagen</h2>
+                <p>Erstmals hatten wir bei einem Event auch einen Einkaufswagen gezählt. So viel Statistik muss sein. Weitere Zahlen und Stimmen zur AI Week findest du in unserem PDF: <a href="[PDF-LINK EINFÜGEN]" target="_blank" style="background:#ffe08a;padding:0 4px;">[PDF-LINK EINFÜGEN]</a>.</p>
+                <br/><br/>
+ 
+                <h2>Danke – bis zum nächsten Mal?</h2>
+                <p>Die AI Week Mainfranken ist das bislang einzige dezentrale KI-Festival in Bayern. Wann und ob es ein nächstes Mal geben wird, wissen wir nicht. Es hängt an der Finanzierung, nicht am Interesse. Denn das war, wie du oben liest, groß, auch überregional, darunter Menschen aus München, dem Harz und Berlin, die sich zugeschaltet haben.</p>
+                <p>Danke an alle Veranstalter, Teilnehmenden und Multiplikatoren, die diese Woche getragen haben – und an unsere Sponsoren, die sie finanziell möglich gemacht haben.</p>
+                <p>Ein besonderer Dank geht an unsere Sponsoren 2026:
+                    <a href="https://www.intense.de/?utm_source=aiweek-webseite&amp;utm_medium=referral&amp;utm_campaign=AIweek2025sponsoring" target="_blank">Intense AG</a>,
+                    <a href="https://14leafs.de" target="_blank">14leafs Venture Capital Fonds</a>,
+                    <a href="https://www.garmin.com/de-DE/careers/benefits/wurzburg/" target="_blank">Garmin Würzburg</a>,
+                    <a href="https://www.mainfranken.org" target="_blank">Region Mainfranken</a>,
+                    <a href="https://www.salesautomationlabs.com" target="_blank">SAL sales automation labs</a>,
+                    <a href="https://www.computy.de/" target="_blank">Computy</a>,
+                    <a href="https://sva.de/de" target="_blank">SVA System Vertrieb Alexander</a>,
+                    <a href="https://www.wuerzburg.de/unternehmen/wirtschaftsfoerderung" target="_blank">Stadt Würzburg</a>,
+                    <a href="https://baiosphere.org" target="_blank">BAIOSPHERE – The Bavarian AI Network</a> und
+                    <a href="https://jobs.wvv.de" target="_blank">Würzburger Versorgungs- und Verkehrs-GmbH</a>.</p>
+                <br/><br/>
+ 
+                <p>PS: Wer wissen will, wie es bei der AI Week weitergeht und was sonst in der Tech-Szene passiert, sollte unseren Newsletter <a href="t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1774463320" target="_blank">neunsieben.digital</a> abonnieren. Für viele übrigens der einzige, den sie regelmäßig lesen.</p>
+                <br/><br/>
+                <a class="button" href="t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1774463320">Jetzt Newsletter abonnieren</a>
+            </div>
+        </div>
+    </div>
+</div>
+
         <div class="section" id="startuppitches2026">
     <div class="container">
         <div class="grid">

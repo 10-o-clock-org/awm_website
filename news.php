@@ -19,7 +19,7 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p> <a href="#zahlen202">2026-06-20 | AI Week 2026: 1.067 Teilnehmende und ein Einkaufswagen</a><br/>
+                        <p> <a href="#zahlen2026">2026-07-08 | AI Week 2026: 1.067 Teilnehmende und ein Einkaufswagen</a><br/>
                             <a href="#startuppitches2026">2026-06-20 | AI Week: 13 Start-ups pitchen ihre Lösung</a><br/>
                             <a href="#pitches">2026-05-12 | KI-Start-up-Lunch-Pitches</a><br/>
                             <a href="#kategorien">2026-05-12 | AI Week Mainfranken: unsere fünf Themen-Kategorien</a><br/>     

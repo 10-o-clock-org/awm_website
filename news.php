@@ -42,7 +42,7 @@
                 <h1>AI Week 2026: 1.067 Teilnehmende und ein Einkaufswagen</h1>
                 <br/>
                 <figure>
-                    <img src="images/zahlen-ai-week-mainfranken-2026.jpg" alt="Teaserbild mit Impressionen und Fotos von der AI Week 2026" />
+                    <img src="images/Zahlen AI Week Mainfranken 2026.png" alt="Teaserbild mit Impressionen und Fotos von der AI Week 2026" />
                 </figure><br/><br/>
  
                 <p>Es war die heißeste Woche des Jahres. Dennoch haben Hunderte Menschen kühle Räume verlassen oder sich von dort zugeschaltet, um sich bei der dritten AI Week Mainfranken über KI zu informieren, die wichtigste Technologie unserer Zeit.</p>
@@ -67,7 +67,7 @@
                 <br/><br/>
  
                 <h2>Und dann war da noch der Einkaufswagen</h2>
-                <p>Erstmals hatten wir bei einem Event auch einen Einkaufswagen gezählt. So viel Statistik muss sein. Weitere Zahlen und Stimmen zur AI Week findest du in unserem PDF: <a href="[PDF-LINK EINFÜGEN]" target="_blank" style="background:#ffe08a;padding:0 4px;">[PDF-LINK EINFÜGEN]</a>.</p>
+                <p>Erstmals hatten wir bei einem Event auch einen Einkaufswagen gezählt. So viel Statistik muss sein. Weitere Zahlen und Stimmen zur AI Week findest du <a href="images/Rückblick AI Week Mainfranken 2026 Zahlen und Impressionen.pdf" target="_blank">in unserem PDF</a>.</p>
                 <br/><br/>
  
                 <h2>Danke – bis zum nächsten Mal?</h2>

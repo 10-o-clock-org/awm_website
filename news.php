@@ -19,7 +19,8 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p> <a href="#zahlen2026">2026-07-08 | AI Week 2026: 1.067 Teilnehmende und ein Einkaufswagen</a><br/>
+                        <p> <a href="#jubilaeum250">2026-07-29 | 250 Ausgaben und eine Idee, die von Anfang an dabei war</a><br/>
+                            <a href="#zahlen2026">2026-07-08 | AI Week 2026: 1.067 Teilnehmende und ein Einkaufswagen</a><br/>
                             <a href="#startuppitches2026">2026-06-20 | AI Week: 13 Start-ups pitchen ihre Lösung</a><br/>
                             <a href="#pitches">2026-05-12 | KI-Start-up-Lunch-Pitches</a><br/>
                             <a href="#kategorien">2026-05-12 | AI Week Mainfranken: unsere fünf Themen-Kategorien</a><br/>     
@@ -34,6 +35,49 @@
             </div>
         </div>
         <!-- Start einer News-Section-->
+
+        <div class="section" id="jubilaeum250">
+    <div class="container">
+        <div class="grid">
+            <div class="col span-8">
+                <div class="spacer"></div>
+                <h1>250 Ausgaben und eine Idee, die von Anfang an dabei war</h1>
+                <br/>
+
+                <!-- Optionales Teaserbild: Pfad und Alt-Text anpassen oder Block entfernen
+                <figure>
+                    <img src="images/DATEINAME.png" alt="BESCHREIBUNG DES BILDES" />
+                </figure><br/><br/>
+                -->
+
+                <p>Manchmal steht die Zukunft nicht in den Sternen, sondern als Ank&uuml;ndigung in einem Newsletter. Und erst Jahre sp&auml;ter f&auml;llt einem das auf.</p>
+
+                <p>Am 30. Juli 2026 verschicken wir die 250. Ausgabe unseres Newsletters neunsieben.digital. Ein guter Anlass, zu den Anf&auml;ngen zur&uuml;ckzugehen, zur ersten Ausgabe, die wir im September 2019 verschickt haben.</p>
+
+                <p>Ganz unten bei &bdquo;Termine&ldquo; findet sich der Hinweis: <em>&bdquo;In eigener Sache: Wir planen f&uuml;r Herbst ein Barcamp mit dem Schwerpunkt K&uuml;nstliche Intelligenz. Termin steht noch nicht fest.&ldquo;</em></p>
+
+                <p>Erst rund f&uuml;nf Jahre sp&auml;ter wurde aus der Idee Wirklichkeit: Am 12. Juni 2024 fand das erste AI Camp W&uuml;rzburg statt. Daf&uuml;r reisten Menschen aus ganz Deutschland an. Lessons learned: Manche Pl&auml;ne brauchen eben etwas l&auml;nger, daf&uuml;r bleiben sie, denn am 24. und 25. September 2026 organisieren wir bereits die f&uuml;nfte Auflage. 250 und 5, auch sch&ouml;n, oder?</p>
+                <br/><br/>
+
+                <h2>Ein Blick ins Jahr 2019</h2>
+                <p>Wer in der ersten Ausgabe st&ouml;bert, findet aber noch mehr als nur eine vergessene Barcamp-Notiz. Berichtet hatten wir damals unter anderem auch, dass Prof. Dr. Fritz Strack von der Universit&auml;t W&uuml;rzburg den Anti-Nobelpreis erhalten hatte. Das ist eine von der Harvard University vergebene Auszeichnung f&uuml;r Forschung, die &bdquo;erst zum Lachen und dann zum Denken anregt&ldquo;. Auch Themen wie die &bdquo;Ghost Worker&ldquo; hinter der K&uuml;nstlichen Intelligenz finden sich.</p>
+
+                <p>Die komplette erste Ausgabe gibt es hier als PDF zum Nachlesen. Es handelt sich um die unbearbeitete Text-E-Mail, das hei&szlig;t, viele Links f&uuml;hren ins Nichts.</p>
+
+                <p>&#128073; <a href="LINK-ZUM-PDF-EINFÜGEN" target="_blank">Ausgabe 1.0 der WueWW-News als PDF</a></p>
+                <br/>
+
+                <p>Wer ab September 2026 die 251. Ausgabe im Postfach haben m&ouml;chte, kann sich <a href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1774463320" target="_blank">hier f&uuml;r unseren Newsletter anmelden</a>.</p>
+                <p>Bleibt f&uuml;r uns zum Jubil&auml;um die Frage: Sehen wir uns beim <a href="https://www.ai-barcamp.de/" target="_blank">f&uuml;nften AI Camp W&uuml;rzburg</a>?</p>
+
+                <a class="button" href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1774463320">Jetzt Newsletter abonnieren</a>
+                <br/><br/>
+             
+            </div>
+        </div>
+    </div>
+</div>
+
 
         <div class="section" id="zahlen2026">
     <div class="container">

@@ -44,11 +44,11 @@
                 <h1>250 Ausgaben und eine Idee, die von Anfang an dabei war</h1>
                 <br/>
 
-                <!-- Optionales Teaserbild: Pfad und Alt-Text anpassen oder Block entfernen
+                
                 <figure>
-                    <img src="images/DATEINAME.png" alt="BESCHREIBUNG DES BILDES" />
+                    <img src="images/Teaserbild neunsieben digital Ausgabe 250 to be continued.webp" alt="Teaserbild mit Text to be continued als Anspielung auf die 250. Ausgabe des Newsletters neunsieben.digital" />
                 </figure><br/><br/>
-                -->
+              
 
                 <p>Manchmal steht die Zukunft nicht in den Sternen, sondern als Ank&uuml;ndigung in einem Newsletter. Und erst Jahre sp&auml;ter f&auml;llt einem das auf.</p>
 
@@ -64,7 +64,7 @@
 
                 <p>Die komplette erste Ausgabe gibt es hier als PDF zum Nachlesen. Es handelt sich um die unbearbeitete Text-E-Mail, das hei&szlig;t, viele Links f&uuml;hren ins Nichts.</p>
 
-                <p>&#128073; <a href="LINK-ZUM-PDF-EINFÜGEN" target="_blank">Ausgabe 1.0 der WueWW-News als PDF</a></p>
+                <p>&#128073; <a href="images/WueWW-News_Ausgabe_1.pdf" target="_blank">Ausgabe 1 der WueWW-News als PDF</a></p>
                 <br/>
 
                 <p>Wer ab September 2026 die 251. Ausgabe im Postfach haben m&ouml;chte, kann sich <a href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1774463320" target="_blank">hier f&uuml;r unseren Newsletter anmelden</a>.</p>

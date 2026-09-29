@@ -374,7 +374,16 @@
     <p>→ <a href="https://www.assetpatrol.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/assetpatrol" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
 <div class="startup-box">
-    <h3>LaMa Recycling GmbH | 97076 Würzburg</h3>
+    <h3>cerebaro GmbH | 97076 Würzburg</h3>
+    <p>Das MedTech-Start-up will die Messung des Hirndrucks, eines der kritischsten Werte in der Intensivmedizin, mit moderner Sensortechnologie für Patienten einfacher und schonender machen. Cerebaro ist aus einem Projekt der <a href="https://www.indtact.de" target="_blank" rel="noopener">iNDTact GmbH</a> hervorgegangen und treibt die Entwicklung nun als eigenständiges Unternehmen voran.</p>
+    </div>
+<div class="startup-box">
+    <h3>erable.systems UG  | 97072 Würzburg</h3>
+    <p>Bringt Sensoren präzise dorthin, wo Daten gebraucht werden. Ihr Fokus liegt auf Luft- und Raumfahrt sowie Verteidigung.</p>
+    <p>→ <a href="https://erable.eu" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/erable-systems-ug-haftungsbeschr%C3%A4nkt" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<div class="startup-box">
+    <h3>LaMa Recycling GmbH | 97074 Würzburg</h3>
     <p>Kunststoffe-Recycling und vollständige Rückgewinnung aller im Verbund enthaltenen Fraktionen, wie Naturfasern und Superabsorber.</p>
     <p>→ <a href="https://www.lamarecycling.com" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/lama-consulting/" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>

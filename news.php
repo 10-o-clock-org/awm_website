@@ -344,6 +344,12 @@
 </div>
 <br/>
 <div class="startup-box">
+    <h3>KELARIA GmbH | 97074 Würzburg</h3>
+    <p>KI-gestütztes Experten-Wissenssystem für den Maschinen- und Anlagenbau. Das Motto: Hardware ist kopierbar. Wissen nicht.</p>
+    <p>→ <a href="https://www.kelaria.com" target="_blank" rel="noopener">Webseite</a></p>
+</div>
+<br/>
+<div class="startup-box">
     <h3>KLAO GmbH | 97072 Würzburg</h3>
     <p>KI-gestützte Lösung, die Texte in zertifizierte, DIN-konforme Leichte Sprache übersetzt.</p>
     <p>→ <a href="https://www.klao.eu/" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/klao-eu/" target="_blank" rel="noopener">LinkedIn</a></p>
@@ -354,7 +360,12 @@
     <p>KI-gestützte Software zur Erstellung psychischer und psychosozialer Gutachten.</p>
     <p>→ <a href="https://mindocu.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/mindocu" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
-
+<br/>
+<div class="startup-box">
+    <h3>LeadFlow FP UG | 97209 Veitshöchheim</h3>
+    <p>KI-gestütztes Lead-Management für Immobilienmakler: bewertet Kaufanfragen nach Dringlichkeit und Relevanz und bereitet Antworten im Stil des Maklers vor.</p>
+    <p>→ <a href="https://leadflow-immobilien.de/" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/leadflow-immobilien" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
 <h2>Jenseits der KI</h2>
 <br/><br/>
 <div class="startup-box">

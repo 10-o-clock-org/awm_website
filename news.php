@@ -171,7 +171,7 @@
 <h2>Noch mehr Podcasts? Wir ergänzen die Liste</h2>
  
 <p>Wir wünschen allen Macherinnen und Machern viele treue Hörer! Du hast selbst einen Podcast aus Mainfranken oder kennst einen, der hier fehlt? Schreib uns an <a href="mailto:hallo@10-o-clock.de?subject=Podcast%20aus%20Mainfranken%20erg%C3%A4nzen">hallo@10-o-clock.de</a> – wir ergänzen die Liste fortlaufend.</p>
- 
+<br/><br/>
 <p>PS: Wer wissen will, was noch in Mainfranken in Sachen Tech &amp; Start-ups los ist, sollte <a href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017" target="_blank">den Newsletter neunsieben.digital abonnieren</a>.</p>
                         <br/><br/>
                         <a class="button" href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017">Jetzt Newsletter abonnieren</a>

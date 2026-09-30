@@ -19,7 +19,8 @@
                     <div class="col span-12">
                         <h1>News</h1>
                         <p>Einfach auf den jeweilgen Aufzählungspunkt klicken, um direkt zur News zu gelangen.</p>
-                        <p> <a href="#jubilaeum250">2026-07-29 | 250 Ausgaben und eine Idee, die von Anfang an dabei war</a><br/>
+                        <p> <a href="#podcasts2026">2026-09-30 | Welttag des Podcasts: 18 Podcasts aus Mainfranken</a><br/>
+                            <a href="#jubilaeum250">2026-07-29 | 250 Ausgaben und eine Idee, die von Anfang an dabei war</a><br/>
                             <a href="#zahlen2026">2026-07-08 | AI Week 2026: 1.067 Teilnehmende und ein Einkaufswagen</a><br/>
                             <a href="#startuppitches2026">2026-06-20 | AI Week: 13 Start-ups pitchen ihre Lösung</a><br/>
                             <a href="#pitches">2026-05-12 | KI-Start-up-Lunch-Pitches</a><br/>
@@ -36,6 +37,152 @@
         </div>
         <!-- Start einer News-Section-->
 
+       
+<div class="section" id="podcasts2026">
+            <div class="container">
+                <div class="grid">
+                    <div class="col span-8">
+                        <div class="spacer"></div>
+                        <h1>Welttag des Podcasts: 18 Podcasts aus Mainfranken</h1>
+                        <br/>
+                        <figure>
+                            <img src="images/Teaserbild Podcasts aus Mainfranken 2026.webp" alt="Teaserbild Podcasts aus Mainfranken zum Welttag des Podcasts 2026" />
+                        </figure><br/><br/>
+                        <p>Heute, am 30. September, ist Welttag des Podcasts. Ein guter Anlass, um einmal nicht Berlin, Hamburg oder VCs aus dem Silicon Valley zu lauschen. 
+                            Nein, auch vor der eigenen Haustür gibt es tolle Podcasts über Gründung, Energie, Forschung, Campusleben, Kriminalfälle und Glauben.</p> 
+                            
+                            <p>Nachfolgend eine Liste mit 18 Formaten aus der Region. Unsere Kriterien: Macher oder Herausgeber aus Mainfranken, regelmäßig neue Folgen als Audio- oder Videoformat, frei zugänglich.</p>
+
+
+                            <h2 style="color: #ee1f5b;">Wirtschaft, Gründen &amp; Arbeit</h2>
+<br/><br/>
+<div class="startup-box">
+    <h3><strong>Startbahn27 Podcast – Innovation aus Mainfranken</strong> <span style="font-weight: normal;">| Startbahn27</span></h3>
+    <p>Nico Hildmann spricht mit Gründern, Unternehmern und Visionären aus Schweinfurt und Mainfranken über Erfolge, Rückschläge und neue Chancen. Seit 2023 sind weit über 100 Folgen erschienen.</p>
+    <p>→ <a href="https://podcast.startbahn27.de/" target="_blank" rel="noopener">Webseite</a> | <a href="https://podcasts.apple.com/de/podcast/startbahn27-podcast-innovation-aus-mainfranken/id1664295757" target="_blank" rel="noopener">Apple</a> | <a href="https://open.spotify.com/show/6zbkFhgWRnsZ4wpMNxSx2K" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>Mission: Family Business</strong> <span style="font-weight: normal;">| Dr. Hepper GmbH</span></h3>
+    <p>Vater und Tochter, Dr. Ronald und Sophie Hepper, sprechen über alles, was Familienunternehmen bewegt: Nachfolge, Führung und Unternehmensentwicklung. Zweimal pro Woche.</p>
+    <p>→ <a href="https://drhepper.de/podcast" target="_blank" rel="noopener">Webseite</a> | <a href="https://podcasts.apple.com/de/podcast/mission-family-business/id1851428483" target="_blank" rel="noopener">Apple</a> | <a href="https://open.spotify.com/show/75U4eZiEl5m0AFzyRuBRBE" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>360 Sekunden 360°</strong> <span style="font-weight: normal;">| 360° BASE / Sparkasse Mainfranken Würzburg</span></h3>
+    <p>Kurzes Videoformat: Unternehmer und Persönlichkeiten aus Mainfranken erzählen von ihrem Weg und ihren Erfahrungen.</p>
+    <p>→ <a href="https://360gradbase.de/" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.youtube.com/@SparkasseMainfrankenWuerzburg/videos" target="_blank" rel="noopener">YouTube</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>Arbeit. Bildung. Zukunft.</strong> <span style="font-weight: normal;">| Dr. Lukas Kagerbauer</span></h3>
+    <p>Wissenstransfer von der Wissenschaft in die Wirtschaft: Es geht um die Zukunft von Arbeit und Bildung, Digitalisierung, Fachkräftesicherung und nachhaltige Transformation.</p>
+    <p>→ <a href="https://www.kagerbauer.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://podcasts.apple.com/de/podcast/arbeit-bildung-zukunft/id1529407665" target="_blank" rel="noopener">Apple</a> | <a href="https://open.spotify.com/show/4tDosbbsfux6LjpUTNQeKe" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>Organisation neu gedacht</strong> <span style="font-weight: normal;">| SOLID Impact GmbH</span></h3>
+    <p>Nicole Förster und Jens Wiesner sprechen über Organisationsentwicklung, Zusammenarbeit und darüber, wie Veränderung tatsächlich umgesetzt wird. Alle zwei Wochen eine neue Folge.</p>
+    <p>→ <a href="https://podcasts.apple.com/de/podcast/organisation-neu-gedacht-zeit-f%C3%BCr-umsetzung-und-echte/id6785651548" target="_blank" rel="noopener">Apple</a> | <a href="https://open.spotify.com/show/033Hii8ZUvNAxT5VYH9lyP" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>KomoCast – Sichtbar im Mittelstand</strong> <span style="font-weight: normal;">| KOMO</span></h3>
+    <p>Marc und Nick von der Würzburger Agentur KOMO sprechen mit Unternehmern aus der Region über Personal Branding, Sichtbarkeit und den Mittelstand von morgen.</p>
+    <p>→ <a href="https://komoagency.de/komocast" target="_blank" rel="noopener">Webseite</a> | <a href="https://open.spotify.com/show/6rI77yzfkDOX9W6SwW04uP" target="_blank" rel="noopener">Spotify</a> | <a href="https://www.youtube.com/@komo.wuerzburg/videos" target="_blank" rel="noopener">YouTube</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>Watt Jetzt?</strong> <span style="font-weight: normal;">| Betterspace</span></h3>
+    <p>Marie und Katrin zeigen, wie Pflegeheime, Hotels, Schulen und Büros Energie sparen: von Smart Metering über Förderungen bis zum Gebäudeenergiegesetz. Alle zwei Wochen dienstags.</p>
+    <p>→ <a href="https://betterspace360.com/wissen/podcasts/" target="_blank" rel="noopener">Webseite</a> | <a href="https://open.spotify.com/show/6kWnKE81Smnchvci2riREY" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>Sven sagt</strong> <span style="font-weight: normal;">| Sven Becker</span></h3>
+    <p>Sven Becker und Steve Schutzbier sprechen humorvoll und manchmal bissig über Arbeit, Familie, Freizeit und die großen Fragen des Lebens. Über 350 Ausgaben, darunter Sonderfolgen zur AI Week Mainfranken.</p>
+    <p>→ <a href="https://podcasts.apple.com/de/podcast/sven-sagt-der-podcast/id1272074087" target="_blank" rel="noopener">Apple</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>Pitch and Brand</strong> <span style="font-weight: normal;">| Sophia Lick</span></h3>
+    <p>Neues Podcastformat, das in Kürze startet. Wir sind gespannt!</p>
+    <p>→ <a href="https://www.linkedin.com/in/sophia-lick" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<h2 style="color: #ee1f5b;">Aus Hochschule &amp; Wissenschaft</h2>
+<br/><br/>
+<div class="startup-box">
+    <h3><strong>#THWSPodcast</strong> <span style="font-weight: normal;">| Technische Hochschule Würzburg-Schweinfurt</span></h3>
+    <p>Studierende der THWS interviewen Menschen rund um die Hochschule: über Forschung zu Robotik, KI und Nachhaltigkeit, über Studium und Campusleben.</p>
+    <p>→ <a href="https://fokusorange.thws.de/thwspodcast/" target="_blank" rel="noopener">Webseite</a> | <a href="https://open.spotify.com/show/5iPy91p14EHtQZhoCwbbjN" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>MAINBEAT</strong> <span style="font-weight: normal;">| Studierende der THWS</span></h3>
+    <p>Das studentische Hochschulradio sendet seit 2012. Im Archiv finden sich Sendungen und Podcast-Reihen rund um Campus, Musik und Würzburg.</p>
+    <p>→ <a href="https://mainbeat.thws.de/" target="_blank" rel="noopener">Webseite</a> | <a href="https://mainbeat.thws.de/zum-nachhoeren/" target="_blank" rel="noopener">Zum Nachhören</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>neunsiebennull.wav</strong> <span style="font-weight: normal;">| Studierendenvertretung der Universität Würzburg</span></h3>
+    <p>Der Studipodcast „von Studis für Studis“: Hochschulpolitik, Kultur und Studentenleben, dazu Kolumnen über Bücher, Musik und Serien.</p>
+    <p>→ <a href="https://www.uni-wuerzburg.de/stuv/referat-ak/referat-studipodcast/" target="_blank" rel="noopener">Webseite</a> | <a href="https://open.spotify.com/show/1I5ik6mK5F7ePm7m2UJ4la" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>JMU Podcast</strong> <span style="font-weight: normal;">| Julius-Maximilians-Universität Würzburg</span></h3>
+    <p>Wissenschaft, Forschung und Menschen der Uni Würzburg in mehreren Reihen, von Interviews mit Forschenden bis zu Vorlesungsaufzeichnungen.</p>
+    <p>→ <a href="https://www.uni-wuerzburg.de/aktuelles/podcast/" target="_blank" rel="noopener">Webseite</a> | <a href="https://open.spotify.com/show/5GdzU7xXkytcbx0Br8XGJa" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<h2 style="color: #ee1f5b;">Menschen & Geschichten aus der Region</h2>
+<br/><br/>
+<div class="startup-box">
+    <h3><strong>Mordsgespräche</strong> <span style="font-weight: normal;">| Main-Post</span></h3>
+    <p>True Crime aus Unterfranken: Reporter der Main-Post rekonstruieren regionale Kriminalfälle und geben Einblicke in Recherche und Gerichtsprozesse.</p>
+    <p>→ <a href="https://www.mainpost.de/produkte/mp-mordsgespraeche" target="_blank" rel="noopener">Webseite</a> | <a href="https://podcasts.apple.com/de/podcast/mordsgespr%C3%A4che/id1572610984" target="_blank" rel="noopener">Apple</a> | <a href="https://open.spotify.com/show/7w7oNnoPfvABRAPReitQ8J" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>Main-Echo Podcast</strong> <span style="font-weight: normal;">| Main-Echo</span></h3>
+    <p>Interviews und Hintergrundgeschichten über Menschen und Themen vom bayerischen Untermain.</p>
+    <p>→ <a href="https://podcasts.apple.com/de/podcast/main-echo-podcast/id1571923903" target="_blank" rel="noopener">Apple</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>Was GIEBts…</strong> <span style="font-weight: normal;">| Engagierte Bürger aus Giebelstadt</span></h3>
+    <p>Menschen, Vereine, Projekte und Geschichten aus Giebelstadt und seinen Ortsteilen, gemacht von Bürgern für Bürger.</p>
+    <p>→ <a href="https://open.spotify.com/show/4sHxE1gUgMKV05mbu4Ln47" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<br/>
+<h2 style="color: #ee1f5b;">Glaube & Spiritualität</h2>
+<br/><br/>
+<div class="startup-box">
+    <h3><strong>Mensch, erzähl mal, was glaubst du?</strong> <span style="font-weight: normal;">| Pastoraler Raum Sankt Benedikt</span></h3>
+    <p>Diakon Stephan Kleinhenz fragt seine Gäste, woran sie glauben und was ihnen Kraft gibt.</p>
+    <p>→ <a href="https://www.sankt-benedikt.org/aktuelles/podcast/" target="_blank" rel="noopener">Webseite</a> | <a href="https://open.spotify.com/show/2qsb6qJuxUUwAERUzFl2hi" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>Abendgebet mit Bruder Lukas</strong> <span style="font-weight: normal;">| Gebetsraum / Abtei Münsterschwarzach</span></h3>
+    <p>Spirituelle Impulse zum Tagesabschluss mit Bruder Lukas aus der Abtei Münsterschwarzach, als Teil der Reihe „Gebetsraum“.</p>
+    <p>→ <a href="https://www.youtube.com/playlist?list=PLRQiyxsN1dgs" target="_blank" rel="noopener">YouTube</a> | <a href="https://katholisch.de/video/yt-Ivax88CTEHA" target="_blank" rel="noopener">katholisch.de</a></p>
+</div>
+ 
+<h2>Noch mehr Podcasts? Wir ergänzen die Liste</h2>
+ 
+<p>Wir wünschen allen Macherinnen und Machern viele treue Hörer! Du hast selbst einen Podcast aus Mainfranken oder kennst einen, der hier fehlt? Schreib uns an <a href="mailto:hallo@10-o-clock.de?subject=Podcast%20aus%20Mainfranken%20erg%C3%A4nzen">hallo@10-o-clock.de</a> – wir ergänzen die Liste fortlaufend.</p>
+ 
+<p>PS: Wer wissen will, was noch in Mainfranken in Sachen Tech &amp; Start-ups los ist, sollte <a href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017" target="_blank">den Newsletter neunsieben.digital abonnieren</a>.</p>
+                        <br/><br/>
+                        <a class="button" href="https://t2f924de9.emailsys2a.net/198/5891/8328aded0c/subscribe/form.html?_g=1752650017">Jetzt Newsletter abonnieren</a>
+ 
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        
         <div class="section" id="jubilaeum250">
     <div class="container">
         <div class="grid">

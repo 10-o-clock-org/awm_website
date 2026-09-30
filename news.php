@@ -46,7 +46,7 @@
                         <h1>Welttag des Podcasts: 18 Podcasts aus Mainfranken</h1>
                         <br/>
                         <figure>
-                            <img src="images/Teaserbild Podcasts aus Mainfranken 2026.webp" alt="Teaserbild Podcasts aus Mainfranken zum Welttag des Podcasts 2026" />
+                            <img src="images/Podcasts aus Mainfranken zum World Podcast Day am 30 September 2026.webp" alt="Teaserbild Podcasts aus Mainfranken zum Welttag des Podcasts 2026" />
                         </figure><br/><br/>
                         <p>Heute, am 30. September, ist Welttag des Podcasts. Ein guter Anlass, um einmal nicht Berlin, Hamburg oder VCs aus dem Silicon Valley zu lauschen. 
                             Nein, auch vor der eigenen Haustür gibt es tolle Podcasts über Gründung, Energie, Forschung, Campusleben, Kriminalfälle und Glauben.</p> 

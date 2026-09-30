@@ -51,7 +51,7 @@
                         <p>Heute, am 30. September, ist Welttag des Podcasts. Ein guter Anlass, um einmal nicht Berlin, Hamburg oder VCs aus dem Silicon Valley zu lauschen. 
                             Nein, auch vor der eigenen Haustür gibt es tolle Podcasts über Gründung, Energie, Forschung, Campusleben, Kriminalfälle und Glauben.</p> 
                             
-                            <p>Nachfolgend eine Liste mit 18 Formaten aus der Region. Unsere Kriterien: Macher oder Herausgeber aus Mainfranken, regelmäßig neue Folgen als Audio- oder Videoformat, frei zugänglich.</p>
+                            <p>Nachfolgend eine Liste mit 17 Formaten aus der Region. Unsere Kriterien: Macher oder Herausgeber aus Mainfranken, regelmäßig neue Folgen als Audio- oder Videoformat, frei zugänglich.</p>
 
 
                             <h2 style="color: #ee1f5b;">Wirtschaft, Gründen &amp; Arbeit</h2>
@@ -93,12 +93,6 @@
 </div>
 <br/>
 <div class="startup-box">
-    <h3><strong>Watt Jetzt?</strong> <span style="font-weight: normal;">| Betterspace</span></h3>
-    <p>Marie und Katrin zeigen, wie Pflegeheime, Hotels, Schulen und Büros Energie sparen: von Smart Metering über Förderungen bis zum Gebäudeenergiegesetz. Alle zwei Wochen dienstags.</p>
-    <p>→ <a href="https://betterspace360.com/wissen/podcasts/" target="_blank" rel="noopener">Webseite</a> | <a href="https://open.spotify.com/show/6kWnKE81Smnchvci2riREY" target="_blank" rel="noopener">Spotify</a></p>
-</div>
-<br/>
-<div class="startup-box">
     <h3><strong>Sven sagt</strong> <span style="font-weight: normal;">| Sven Becker</span></h3>
     <p>Sven Becker und Steve Schutzbier sprechen humorvoll und manchmal bissig über Arbeit, Familie, Freizeit und die großen Fragen des Lebens. Über 350 Ausgaben, darunter Sonderfolgen zur AI Week Mainfranken.</p>
     <p>→ <a href="https://podcasts.apple.com/de/podcast/sven-sagt-der-podcast/id1272074087" target="_blank" rel="noopener">Apple</a></p>
@@ -133,6 +127,12 @@
     <h3><strong>JMU Podcast</strong> <span style="font-weight: normal;">| Julius-Maximilians-Universität Würzburg</span></h3>
     <p>Wissenschaft, Forschung und Menschen der Uni Würzburg in mehreren Reihen, von Interviews mit Forschenden bis zu Vorlesungsaufzeichnungen.</p>
     <p>→ <a href="https://www.uni-wuerzburg.de/aktuelles/podcast/" target="_blank" rel="noopener">Webseite</a> | <a href="https://open.spotify.com/show/5GdzU7xXkytcbx0Br8XGJa" target="_blank" rel="noopener">Spotify</a></p>
+</div>
+<br/>
+<div class="startup-box">
+    <h3><strong>WiWi Talk</strong> <span style="font-weight: normal;">| Julius-Maximilians-Universität Würzburg</span></h3>
+    <p>Wir sprechen über alles, was das Studium der Wirtschaftswissenschaften (und das Leben drumherum) bewegt: Semesterstart, Stundenpläne, Veranstaltungen, Auslandssemester, spannende Uni-Angebote – und natürlich auch Persönliches.</p>
+    <p>→ <a href="https://campus.wiwi.uni-wuerzburg.de/2025/07/01/wiwitalk-neuer-studi-podcast-an-der-fakultaet/" target="_blank" rel="noopener">Webseite</a> | <a href="https://open.spotify.com/show/3ZcJunLHH7Fz0oGw8RG2eJ" target="_blank" rel="noopener">Spotify</a></p>
 </div>
 <h2 style="color: #ee1f5b;">Menschen & Geschichten aus der Region</h2>
 <br/><br/>

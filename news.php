@@ -51,7 +51,7 @@
                         <p>Heute, am 30. September, ist Welttag des Podcasts. Ein guter Anlass, um einmal nicht Berlin, Hamburg oder VCs aus dem Silicon Valley zu lauschen. 
                             Nein, auch vor der eigenen Haustür gibt es tolle Podcasts über Gründung, Energie, Forschung, Campusleben, Kriminalfälle und Glauben.</p> 
                             
-                            <p>Nachfolgend eine Liste mit 17 Formaten aus der Region. Unsere Kriterien: Macher oder Herausgeber aus Mainfranken, regelmäßig neue Folgen als Audio- oder Videoformat, frei zugänglich.</p>
+                            <p>Nachfolgend eine Liste mit 18 Formaten aus der Region. Unsere Kriterien: Macher oder Herausgeber aus Mainfranken, regelmäßig neue Folgen als Audio- oder Videoformat, frei zugänglich.</p>
 
 
                             <h2 style="color: #ee1f5b;">Wirtschaft, Gründen &amp; Arbeit</h2>

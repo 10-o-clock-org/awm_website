@@ -513,6 +513,12 @@
     <p>KI-gestütztes Lead-Management für Immobilienmakler: bewertet Kaufanfragen nach Dringlichkeit und Relevanz und bereitet Antworten im Stil des Maklers vor.</p>
     <p>→ <a href="https://leadflow-immobilien.de/" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/leadflow-immobilien" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
+<br/>
+<div class="startup-box">
+    <h3>Lenz Ventures GmbH | 97234 Reichenberg</h3>
+    <p>Sie entwickeln innovative Ideen bis zu digitalen Geschäftsmodellen weiter, u. a. die Digitalisierung energetischer Sanierung..</p>
+    <p>→ <a href="https://lenz-ventures.com/" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/lenz-ventures-gmbh" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
 <h2>Jenseits der KI</h2>
 <br/><br/>
 <div class="startup-box">

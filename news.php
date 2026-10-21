@@ -503,6 +503,12 @@
 </div>
 <br/>
 <div class="startup-box">
+    <h3>Manibase UG | 97246 Eibelstadt</h3>
+    <p>Digitale Helfer für inhabergeführte Bau- und Handwerksbetriebe.</p>
+    <p>→ <a href="https://manibase.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/manibase" target="_blank" rel="noopener">LinkedIn</a></p>
+</div>
+<br/>
+<div class="startup-box">
     <h3>mindocu GmbH | 97078 Würzburg</h3>
     <p>KI-gestützte Software zur Erstellung psychischer und psychosozialer Gutachten.</p>
     <p>→ <a href="https://mindocu.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/mindocu" target="_blank" rel="noopener">LinkedIn</a></p>

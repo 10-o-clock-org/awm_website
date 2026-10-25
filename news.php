@@ -512,7 +512,7 @@
 <div class="startup-box">
     <h3>MeFi Solutions UG | 97295 Waldbrunn</h3>
     <p>BWA-Lotse macht die monatliche BWA für Unternehmer verständlich: BWA hochladen, in unter einer Minute sehen, wo man steht, mit Ampel, Kennzahlen und einer Checkliste für das Gespräch mit dem Steuerberater.</p>
-    <p>→ <a href="hhttps://bwa-lotse.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/bwa-lotse" target="_blank" rel="noopener">LinkedIn</a></p>
+    <p>→ <a href="https://bwa-lotse.de" target="_blank" rel="noopener">Webseite</a> | <a href="https://www.linkedin.com/company/bwa-lotse" target="_blank" rel="noopener">LinkedIn</a></p>
 </div>
 <br/>
 <div class="startup-box">
